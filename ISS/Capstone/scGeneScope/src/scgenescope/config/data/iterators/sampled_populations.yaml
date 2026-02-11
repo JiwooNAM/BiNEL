@@ -1,0 +1,18 @@
+defaults:
+  - _self_
+  - .@samples_factory: samples
+
+_target_: scgenescope.data.datasets.SampledPopulation.from_factory
+_partial_: true
+
+condition_on: Treatment
+indexing: condition
+include_condition: true
+
+# use a constant number to fix the number of samples
+# use a list to indicate a range to sample from
+num_samples: ???
+
+samples_factory:
+  include_observations: false
+  file_path: ???

@@ -1,0 +1,11 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+
+encoder:
+  _target_: torch.nn.Sequential
+  _args_:
+    - _target_: scgenescope.models.nn.dropout.DropoutModule
+      dropout_rate: ${DROPOUT_RATE}
+    - _target_: scgenescope.models.nn.aggregators.MeanPoolingAggregator
+    

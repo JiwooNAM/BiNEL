@@ -1,0 +1,23 @@
+defaults:
+  - _self_
+
+_target_: scgenescope.data.datasets.MakeIterable.from_factory
+_partial_: true
+
+# determines the number of populations to iterate over which is
+# analogous to the examples in a given epoch
+# a value of null uses all populations in the map-style dataset
+# use a constant number to resample (expand) the populations
+num_populations: ???  # example values: 1280000 or null
+
+# use a constant number to indicate number of times it goes
+# through the populations
+resample_factor: ???  # example values: 1 or 2
+
+# if seed is set, then the data is the same for each epoch (typical for validation)
+# otherwise, the data is different for each epoch (typical for training)
+seed: ???  # example values: null or 42
+
+batch_size: ???
+
+factory: ???

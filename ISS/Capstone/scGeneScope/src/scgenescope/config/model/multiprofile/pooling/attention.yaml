@@ -1,0 +1,7 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+
+encoder:
+  _target_: scgenescope.models.nn.aggregators.NonLinearAttentionAggregator
+  input_dim: ???

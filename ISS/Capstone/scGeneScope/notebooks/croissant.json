@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "includes": "http://mlcommons.org/schema/includes"
+  },
+  "@type": "Dataset",
+  "name": "scGeneScope",
+  "description": "A dataset comprising of Cell Painting microscopy images and single-cell RNA-seq data from U2OS cells subjected to 28 chemical perturbations.",
+  "url": "https://huggingface.co/datasets/altoslabs/scGeneScope",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.en",
+  "citation": "Anonymous Author(s) - Submitted to 39th Conference on Neural Information Processing Systems (NeurIPS 2025). Do not distribute.",
+  "datePublished": "2025-05-15",
+  "version": "1.0",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "distribution": [
+    {
+      "@type": "https://schema.org/FileSet",
+      "@id": "CellPainting_microscopy_images",
+      "name": "CellPainting",
+      "description": "Cell Painting microscopy images. There are two h5 dataframes at the contentUrl, round_1.h5 and round_2.h5 which contain the scGeneScope image manifests for each data generation round. Each row contains the path to all stains for that particular single cell image. The images are stored in the measured/imaging subdirectories, and mirror experimental design.",
+      "encodingFormat": "image/tiff",
+      "contentUrl": "https://huggingface.co/datasets/altoslabs/scGeneScope/tree/main/measured/imaging",
+      "includes": [
+        ".h5",
+        "*.tiff"
+      ]
+    },
+    {
+      "@type": "https://schema.org/FileSet",
+      "@id": "scRNAseq_data",
+      "name": "scRNAseq",
+      "description": "Processed single-cell RNA-seq data in h5ad format. There are two h5 dataframes, round_1.h5ad and round_2.h5ad which contain the scGeneScope rnaseq for each data generation round. The obs table of the .h5ad contains the cell_id, replicate, and treatment information.",
+      "encodingFormat": "application/x-hdf5",
+      "contentUrl": "https://huggingface.co/datasets/altoslabs/scGeneScope/tree/main/measured/rnaseq",
+      "includes": [
+        "*.h5ad"
+      ]
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "name": "treatment_classification",
+      "description": "Records for the treatment classification task across scRNA-seq and Cell Painting modalities. Records are sourced from four manifest files found in the distribution list, measured/imaging/round_1.h5 and measured/imaging/round_2.h5 for imaging, and measured/rnaseq/round_1.h5 and measured/rnaseq/round_2.h5 for scRNA-seq. The classification target is the 'Treatment' column. Splits are defined by the 'Replicate' column, and controlled dynamically by the scGeneScope library. The 'Group' column identifies whether a sample is a treatment or DMSO control; however, only the 'Treatment' column is used for prediction.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "name": "cell_id",
+          "description": "Unique identifier for each sample.",
+          "dataType": "string"
+        },
+        {
+          "@type": "cr:Field",
+          "name": "Treatment",
+          "description": "Chemical perturbation applied to cells. This is the target label for the treatment classification task.",
+          "dataType": "string"
+        },
+        {
+          "@type": "cr:Field",
+          "name": "Replicate",
+          "description": "Replicate number (1-5), used for train/val/test splits. Split assignments are: 3 = train, 5 = validation, 4 = test, and 1+2 = alternate test set.",
+          "dataType": "string"
+        },
+        {
+          "@type": "cr:Field",
+          "name": "batch",
+          "description": "Batch identifier for the sample. Currently unused, but could be used for batch effects correction.",
+          "dataType": "string"
+        },
+        {
+          "@type": "cr:Field",
+          "name": "Group",
+          "description": "Indicates whether the sample is a treatment or DMSO control. Not used for classification.",
+          "dataType": "string"
+        }
+      ]
+    }
+  ]
+}

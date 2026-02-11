@@ -1,0 +1,9 @@
+_target_: scgenescope.transforms.Compose.from_items
+encode:
+  _target_: scgenescope.transforms.LabelEncode
+  path_to_categories: 
+    _target_: scgenescope.resources.request_resource
+    resource: all_treatments_no_DMSO
+
+squeeze:
+  _target_: scgenescope.transforms.Squeeze

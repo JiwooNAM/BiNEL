@@ -1,0 +1,52 @@
+_target_: scgenescope.data.datasets.ConditionAlignedPopulations.join_on_condition
+_partial_: true
+
+# The condition to align on.
+condition: ???
+
+# Whether to use multiprocessing to load the datasets.
+use_multiprocess_loading: ??? # false # true
+
+# rnaseq:
+#   _target_: scgenescope.data.datasets.SampledPopulation.from_factory
+#   _partial_: true
+#   # use a constant number to fix the number of samples
+#   # use a list to indicate a range to sample from
+#   num_samples: 15
+#   samples_factory:
+#     _target_: scgenescope.data.datasets.Samples.auto_factory
+#     _partial_: true
+#     obs_keys: [Treatment]
+#     file_path: 
+#       _target_: scgenescope.data.utils.get_datapath
+#       name: rnaseq
+#       omics_embedding: reference_scGPT
+#       omics_revision: last_ckpt
+#       imaging_embedding: null
+#       imaging_revision: null
+#       include_seen: true
+#       include_unseen: false
+#       batch_select: null 
+#       replicate_select: null 
+
+# imaging:
+#   _target_: scgenescope.data.datasets.SampledPopulation.from_factory
+#   _partial_: true
+#   # use a constant number to fix the number of samples
+#   # use a list to indicate a range to sample from
+#   num_samples: 10
+#   samples_factory:
+#     _target_: scgenescope.data.datasets.Samples.auto_factory
+#     _partial_: true
+#     obs_keys: [Treatment]
+#     file_path: 
+#       _target_: scgenescope.data.utils.get_datapath
+#       name: imaging
+#       omics_embedding: null
+#       omics_revision: null
+#       imaging_embedding: mae-jump_cls-token/project_a_production
+#       imaging_revision: run2_vit-h_jump100/epoch=0-step=31300
+#       include_seen: true
+#       include_unseen: false
+#       batch_select: null 
+#       replicate_select: null 

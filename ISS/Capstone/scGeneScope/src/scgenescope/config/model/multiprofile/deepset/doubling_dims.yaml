@@ -1,0 +1,4 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+  - neural_net@encoder: deepset_doubling_dims

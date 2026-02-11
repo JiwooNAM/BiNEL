@@ -1,0 +1,72 @@
+defaults:
+  - _self_
+
+  - iterators@data_iter_factory.train: iterable_populations
+  - iterators@data_iter_factory.val: iterable_populations
+  - iterators@data_iter_factory.test: iterable_populations
+
+
+  - pipeline/transform/treatment@transform.condition: ???
+
+_target_: scgenescope.data.modules.LitGenericDataModule
+
+data_iter_factory: 
+
+  train:
+    # (see iterators/iterable_populations.yaml for more details about these parameters)
+    num_populations: 1_280_000
+    resample_factor: 1
+    seed: null 
+    batch_size: ???
+
+    factory:
+      num_samples: ???
+      samples_factory:
+        file_path: ???
+
+  val:
+    # (see iterators/iterable_populations.yaml for more details about these parameters)
+    num_populations: 128_000
+    resample_factor: 1
+    seed: 2024
+    batch_size: ???
+
+    factory:
+      num_samples: ???
+      samples_factory:
+        file_path: ???
+  
+  test:
+    # (see iterators/iterable_populations.yaml for more details about these parameters)
+    num_populations: 128_000
+    resample_factor: 1
+    seed: 2024
+    batch_size: null
+
+    factory:
+      num_samples: null
+      samples_factory:
+        file_path: null
+
+transform:
+  _target_: scgenescope.transforms.Distribute.from_items
+
+  embeddings:
+    _target_: scgenescope.transforms.Compose.from_items
+    tensorize:
+      _target_: scgenescope.transforms.ToTensor
+      squeeze: false #true
+      dtype: float32
+    convert_to_set:
+      _target_: scgenescope.transforms.ToSet
+      set_type: batched_equal
+
+  condition: ???
+
+loader_factory:
+  _target_: scgenescope.data.loaders.NoCollateDataLoader
+  _partial_: true
+  batch_size: null
+  batch_sampler: null
+  shuffle: false  # needs to be false for iterable datasets
+  num_workers: ???

@@ -1,0 +1,33 @@
+_target_: scgenescope.models.classification.hybrid_fusion.HybridFusionMultipleInputClassifier
+
+# 반드시 experiment에서 classifier, rnaseq, imaging, fused를 채워줘야 함
+classifier: ???
+
+optimizer_factory:
+  _target_: torch.optim.Adam
+  _partial_: true
+  lr: 0.001
+  weight_decay: 0.0
+
+scheduler_factory:
+  _target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+  _partial_: true
+  mode: min
+  factor: 0.1
+  patience: 10
+
+compile: false
+add_normalization: false
+strict_inputs: true
+
+input_dropout:
+  rnaseq: 0.0
+  imaging: 0.0
+  fused: 0.0
+
+hidden_dropout: 0.0
+
+# encoders (experiment에서 override)
+rnaseq: ???
+imaging: ???
+fused: ???

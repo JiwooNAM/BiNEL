@@ -1,0 +1,288 @@
+# @package _global_
+
+
+defaults:
+  # Select rnaseq data sources
+  - /data/source/embeddings@data.data_iter_factory.train.factory.rnaseq.samples_factory.file_path: >- 
+      rnaseq/scgpt/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.factory.rnaseq.samples_factory.file_path: >-
+      rnaseq/scgpt/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.factory.rnaseq.samples_factory.file_path: >-
+      rnaseq/scgpt/HE_test.yaml
+  # Select imaging data sources
+  - /data/source/embeddings@data.data_iter_factory.train.factory.imaging.samples_factory.file_path: >-
+      imaging/imagenet/vit-h/concat/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.factory.imaging.samples_factory.file_path: >-
+      imaging/imagenet/vit-h/concat/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.factory.imaging.samples_factory.file_path: >-
+      imaging/imagenet/vit-h/concat/WE_test.yaml
+  
+  # Select data pipeline
+  - override /data: pipeline/multimodal/rna_imaging_multiprofile
+  - override /data/pipeline/transform/treatment@data.transform.example_transform.condition: label_encode_all
+  # Select model
+  - override /model: multimodal/multiple_input
+  # Set up infrastructure parameters
+
+# all parameters below will be merged with parameters from default configurations set above
+# this allows you to overwrite only specified parameters
+
+cmd_tag: ""
+tags: ["multimodal", "multiprofile", "classification", "avgpool", "public_scGPT", "concat", "vit-h", "final_test"]
+
+seed: 12345
+
+# Configurable experiment parameters
+NUM_RNASEQ_SAMPLES: 32 # number of samples to use for training and validation
+NUM_IMAGING_SAMPLES: 32
+BATCH_SIZE: 4096
+NUM_WORKERS: 2
+RNASEQ_INPUT_DIM: 512
+IMAGING_INPUT_DIM: 6400
+NUM_CLASSES: 28
+
+# some of the hyperparams
+OUTPUT_DIM_PER_MODALITY: 913
+RNASEQ_HIDDEN_DIM: 2748
+IMAGING_HIDDEN_DIM: 266
+RNASEQ_DEPTH: 3
+IMAGING_DEPTH: 3
+
+
+# Set up data pipeline
+data:
+  data_iter_factory:
+    train:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        rnaseq:
+          num_samples: ${NUM_RNASEQ_SAMPLES}
+        imaging:
+          num_samples: ${NUM_IMAGING_SAMPLES}
+    val:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        rnaseq:
+          num_samples: ${NUM_RNASEQ_SAMPLES}
+          samples_factory:
+            file_path: 
+              treatment_select:
+                - Phenacetin
+                - PQ401
+                - Splitomicin
+                - (R)-MG132
+                - (R)-Roscovitine
+                - Wy 14643 / Pirinixic Acid
+                - Fluocinonide
+                - Caffeine
+                - LY303511 (hydrochloride)
+                - Simvastatin
+                - Colchicine
+                - Pantoprazole
+                - Cycloheximide
+                - Benzbromarone
+                - Thapsigargin
+                - CGK-733
+                - PD-98059
+                - GW-843682X
+                - 12-O-tetradecanoylphorbol-13-acetate
+                - SKII
+                - AMG-900
+                - DBeQ
+                - Daporinad / FK-866
+                - Vorinostat / SAHA
+                - Quinidine
+                - Aloxistatin / E-64d
+                - HARMAN
+        
+        imaging:
+          num_samples: ${NUM_IMAGING_SAMPLES}
+          samples_factory:
+            file_path: 
+              treatment_select:
+                - Phenacetin
+                - PQ401
+                - Splitomicin
+                - (R)-MG132
+                - (R)-Roscovitine
+                - Wy 14643 / Pirinixic Acid
+                - Fluocinonide
+                - Caffeine
+                - LY303511 (hydrochloride)
+                - Simvastatin
+                - Colchicine
+                - Pantoprazole
+                - Cycloheximide
+                - Benzbromarone
+                - Thapsigargin
+                - CGK-733
+                - PD-98059
+                - GW-843682X
+                - 12-O-tetradecanoylphorbol-13-acetate
+                - SKII
+                - AMG-900
+                - DBeQ
+                - Daporinad / FK-866
+                - Vorinostat / SAHA
+                - Quinidine
+                - Aloxistatin / E-64d
+                - HARMAN
+        
+    test:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        rnaseq:
+          num_samples: ${NUM_RNASEQ_SAMPLES}
+          samples_factory:
+            file_path: 
+              treatment_select:
+                - Phenacetin
+                - PQ401
+                - Splitomicin
+                - (R)-MG132
+                - (R)-Roscovitine
+                - Wy 14643 / Pirinixic Acid
+                - Fluocinonide
+                - Caffeine
+                - LY303511 (hydrochloride)
+                - Simvastatin
+                - Colchicine
+                - Pantoprazole
+                - Cycloheximide
+                - Benzbromarone
+                - Thapsigargin
+                - CGK-733
+                - PD-98059
+                - GW-843682X
+                - 12-O-tetradecanoylphorbol-13-acetate
+                - SKII
+                - AMG-900
+                - DBeQ
+                - Daporinad / FK-866
+                - Vorinostat / SAHA
+                - Quinidine
+                - Aloxistatin / E-64d
+                - HARMAN
+        
+        imaging:
+          num_samples: ${NUM_IMAGING_SAMPLES}
+          samples_factory:
+            file_path: 
+              treatment_select:
+                - Phenacetin
+                - PQ401
+                - Splitomicin
+                - (R)-MG132
+                - (R)-Roscovitine
+                - Wy 14643 / Pirinixic Acid
+                - Fluocinonide
+                - Caffeine
+                - LY303511 (hydrochloride)
+                - Simvastatin
+                - Colchicine
+                - Pantoprazole
+                - Cycloheximide
+                - Benzbromarone
+                - Thapsigargin
+                - CGK-733
+                - PD-98059
+                - GW-843682X
+                - 12-O-tetradecanoylphorbol-13-acetate
+                - SKII
+                - AMG-900
+                - DBeQ
+                - Daporinad / FK-866
+                - Vorinostat / SAHA
+                - Quinidine
+                - Aloxistatin / E-64d
+                - HARMAN
+  
+
+  # Configure loader
+  loader_factory:
+    num_workers: ${NUM_WORKERS}
+
+
+model:
+  classifier:
+    input_dim: ${multiply:2,${OUTPUT_DIM_PER_MODALITY}} # 2 modalities * 128
+    output_dim: ${NUM_CLASSES}  # number of perturbation classes
+    hidden_dim: 434
+    depth: 3
+    normalization: layer
+    activation_factory:
+      _target_: torch.nn.ReLU
+      _partial_: true
+
+  input_dropout: 
+    rnaseq: 0
+    imaging: 0.5
+  hidden_dropout: 0
+
+  rnaseq:
+    _target_: torch.nn.Sequential
+    _args_:
+      - _target_: scgenescope.models.nn.aggregators.MeanPoolingAggregator
+      - _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+        input_dim: ${RNASEQ_INPUT_DIM}
+        output_dim: ${OUTPUT_DIM_PER_MODALITY}
+        hidden_dim: ${RNASEQ_HIDDEN_DIM}
+        activation_factory:
+          _target_: torch.nn.ReLU
+          _partial_: true
+        normalization: layer
+        depth: ${RNASEQ_DEPTH}
+    
+  imaging:
+    _target_: torch.nn.Sequential
+    _args_:
+      - _target_: scgenescope.models.nn.aggregators.MeanPoolingAggregator
+      - _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+        input_dim: ${IMAGING_INPUT_DIM}
+        output_dim: ${OUTPUT_DIM_PER_MODALITY}
+        hidden_dim: ${IMAGING_HIDDEN_DIM}
+        activation_factory:
+          _target_: torch.nn.ReLU
+          _partial_: true
+        normalization: layer
+        depth: ${IMAGING_DEPTH}
+
+  optimizer_factory:
+    lr: 1.3683806254032432e-05
+    weight_decay: 4.515551417203508e-05  
+  
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+  
+  add_normalization: true
+  ignore_names: false
+  compile: false
+
+
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true
+
+
