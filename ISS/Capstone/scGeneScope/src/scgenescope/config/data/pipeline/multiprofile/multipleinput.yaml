@@ -1,0 +1,114 @@
+defaults:
+  - _self_
+
+  # See iterators/aligned_iterables.yaml for more details about these parameters
+  - /data/iterators@data_iter_factory.train: aligned_iterables
+  - /data/iterators@data_iter_factory.val: aligned_iterables
+  - /data/iterators@data_iter_factory.test: aligned_iterables
+
+  # Adapt this section to the named datasets you want to add
+  # - iterators@data_iter_factory.train.factory.named_dataset_1: sampled_populations
+  # - iterators@data_iter_factory.val.factory.named_dataset_1: sampled_populations
+  # - iterators@data_iter_factory.train.factory.named_dataset_2: sampled_populations
+  # - iterators@data_iter_factory.val.factory.named_dataset_2: sampled_populations
+
+  # - source/aplusplus@data_iter_factory.train.factory.samples_factory.file_path: ???
+  # - source/aplusplus@data_iter_factory.val.factory.samples_factory.file_path: ???
+
+  # - pipeline/transform/treatment@transform.condition: label_encode_seen
+
+_target_: scgenescope.data.modules.LitGenericDataModule
+
+data_iter_factory: 
+
+  train:
+    # See iterators/make_iterable.yaml for more details about these parameters
+    num_populations: 1_280_000
+    resample_factor: 1
+    seed: null 
+    batch_size: ???
+
+    factory:
+      condition: ???
+      use_multiprocess_loading: ???
+
+      # Add named aligned datasets here 
+
+      # named_dataset_1:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+
+      # named_dataset_2:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+
+  val:
+    # See iterators/make_iterable.yaml for more details about these parameters
+    num_populations: 128_000
+    resample_factor: 1
+    seed: 2024
+    batch_size: ???
+
+    factory:
+      condition: ???
+      use_multiprocess_loading: ???
+
+      # Add named aligned datasets here 
+
+      # named_dataset_1:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+
+      # named_dataset_2:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+  
+  test:
+    # See iterators/make_iterable.yaml for more details about these parameters
+    num_populations: 128_000
+    resample_factor: 1
+    seed: 2024
+    batch_size: null
+
+    factory:
+      condition: null
+      use_multiprocess_loading: null
+
+      # Add named aligned datasets here 
+
+      # named_dataset_1:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+
+      # named_dataset_2:
+      #   _target_: ...
+      #   _partial_: true
+      #   ...
+
+transform: ???
+  # _target_: scgenescope.transforms.Distribute.from_items
+
+  # embeddings:
+  #   _target_: scgenescope.transforms.Compose.from_items
+  #   tensorize:
+  #     _target_: scgenescope.transforms.ToTensor
+  #     squeeze: false #true
+  #     dtype: float32
+  #   convert_to_set:
+  #     _target_: scgenescope.transforms.ToSet
+  #     set_type: batched_equal
+
+  # condition: ???
+
+loader_factory:
+  _target_: scgenescope.data.loaders.NoCollateDataLoader
+  _partial_: true
+  batch_size: null
+  batch_sampler: null
+  shuffle: false  # needs to be false for iterable datasets
+  num_workers: ???

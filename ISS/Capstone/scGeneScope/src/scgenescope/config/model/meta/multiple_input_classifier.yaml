@@ -1,0 +1,57 @@
+_target_: scgenescope.models.classification.multimodal.MultiModalMultipleInputClassifier
+
+classifier: ???
+
+optimizer_factory:
+  _target_: torch.optim.Adam
+  _partial_: true
+  lr: 0.001
+  weight_decay: 0.0
+
+scheduler_factory:
+  _target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+  _partial_: true
+  mode: min
+  factor: 0.1
+  patience: 10
+
+# compile model for faster training with pytorch 2.0
+compile: false
+
+# normalization for multimodal input: `add_normalization` adds normalization 
+# for non-null encoders; `normalizer_factories` allows more generic 
+# normalization completely independent of encoders
+add_normalization: ??? # true
+# custom_normalizers:
+#   # normalization for rna-seq modality 
+#   - _target_: torch.nn.LayerNorm
+#     normalized_shape: 200
+#     elementwise_affine: true
+#   # normalization for imaging modality 
+#   - _target_: torch.nn.LayerNorm
+#     normalized_shape: 1024
+#     elementwise_affine: true
+
+ignore_names: ??? # true
+
+# set encoders to null to use input embeddings without further encoding
+# RNA:  
+#   _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+#   input_dim: 1024
+#   output_dim: ???
+#   hidden_dim: ???
+#   activation_factory:
+#     _target_: torch.nn.ReLU
+#     _partial_: true
+#   normalization: layer
+#   depth: ???
+# Mito:
+#   _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+#   input_dim: 1024
+#   output_dim: ???
+#   hidden_dim: ???
+#   activation_factory:
+#     _target_: torch.nn.ReLU
+#     _partial_: true
+#   normalization: layer
+#   depth: ???

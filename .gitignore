@@ -1,0 +1,14 @@
+**/logs/
+**/checkpoints/
+**/wandb/
+**/lightning_logs/
+**/*.ckpt
+**/*.pt
+**/*.pth
+**/*.h5ad
+**/*.npz
+**/*.npy
+**/*.pkl
+**/*.csv.gz
+**/*.tsv.gz
+.DS_Store

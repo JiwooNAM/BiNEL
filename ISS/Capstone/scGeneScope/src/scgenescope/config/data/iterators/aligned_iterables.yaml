@@ -1,0 +1,27 @@
+defaults:
+  # See iterators/make_iterable.yaml for more details on iteration parameters
+  - make_iterable@_here_
+
+  # See iterators/conditional_alignment.yaml for more details on alignment parameters
+  - .@factory: conditional_alignment
+
+factory:
+  # See iterators/conditional_alignment.yaml for more details on alignment parameters
+  
+  # The condition to align on.
+  condition: ???
+
+  # Whether to use multiprocessing to load the datasets.
+  use_multiprocess_loading: ???
+
+  # Add named aligned datasets here 
+
+  # named_dataset_1:
+  #   _target_: ...
+  #   _partial_: true
+  #   ...
+
+  # named_dataset_2:
+  #   _target_: ...
+  #   _partial_: true
+  #   ...

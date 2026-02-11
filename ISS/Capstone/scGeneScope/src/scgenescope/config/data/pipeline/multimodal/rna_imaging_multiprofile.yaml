@@ -1,0 +1,104 @@
+defaults:
+  # See multiprofile/multipleinput.yaml for more details about the data pipeline
+  - pipeline/multiprofile/multipleinput@_here_
+
+  - iterators@data_iter_factory.train.factory.rnaseq: sampled_populations
+  - iterators@data_iter_factory.val.factory.rnaseq: sampled_populations
+  - iterators@data_iter_factory.test.factory.rnaseq: sampled_populations
+
+  - iterators@data_iter_factory.train.factory.imaging: sampled_populations
+  - iterators@data_iter_factory.val.factory.imaging: sampled_populations
+  - iterators@data_iter_factory.test.factory.imaging: sampled_populations
+
+  - pipeline/transform/treatment@transform.example_transform.condition: ???
+
+
+data_iter_factory:
+
+  train:
+    factory:
+      condition: Treatment
+      use_multiprocess_loading: false
+
+      rnaseq:
+        include_condition: false
+        num_samples: ???
+        samples_factory:
+          file_path: ???
+
+      imaging:
+        include_condition: false
+        num_samples: ???
+        samples_factory:
+          file_path: ???
+
+  val:
+    factory:
+      condition: Treatment
+      use_multiprocess_loading: false
+
+      rnaseq:
+        include_condition: false
+        num_samples: ???
+        samples_factory:
+          file_path: ???
+
+      imaging:
+        include_condition: false
+        num_samples: ???
+        samples_factory:
+          file_path: ???
+
+  test:
+    factory:
+      condition: Treatment
+      use_multiprocess_loading: false
+
+      rnaseq:
+        include_condition: false
+        num_samples: null
+        samples_factory:
+          file_path: null
+
+      imaging:
+        include_condition: false
+        num_samples: hull
+        samples_factory:
+          file_path: null
+
+
+transform:
+  _target_: scgenescope.transforms.Batchify
+  collate_fn:
+    _target_: torch.utils.data.default_collate
+    _partial_: true
+
+  example_transform:
+    _target_: scgenescope.transforms.Dispatch
+
+    rnaseq:
+      _target_: scgenescope.transforms.Compose.from_items
+
+      tensorize:
+        _target_: scgenescope.transforms.ToTensor
+        squeeze: true
+        dtype: float32
+
+    imaging:
+      _target_: scgenescope.transforms.Compose.from_items
+
+      tensorize:
+        _target_: scgenescope.transforms.ToTensor
+        squeeze: true
+        dtype: float32
+        
+    condition: ???
+
+
+loader_factory:
+  _target_: scgenescope.data.loaders.NoCollateDataLoader
+  _partial_: true
+  batch_size: null
+  batch_sampler: null
+  shuffle: false  # needs to be false for iterable datasets
+  num_workers: ???

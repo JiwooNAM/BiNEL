@@ -1,0 +1,80 @@
+# @package _global_
+
+# to execute this experiment run:
+# python train.py experiment=train_on_imaging_samples
+
+defaults:
+  # Set imaging data source for training and validation
+  - /data/source/embeddings@data.data_iter_factory.train.file_path: >-
+      imaging/imagenet/openphenom/concat/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.file_path: >-
+      imaging/imagenet/openphenom/concat/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.file_path: >-
+      imaging/imagenet/openphenom/concat/HE_test.yaml
+  # Select data pipeline
+  - override /data: pipeline/singleprofile/singleinput
+  - override /data/pipeline/transform/treatment@data.transform.condition: label_encode_all
+  # Select model
+  - override /model: singleprofile/single_input
+  # Set up infrastructure parameters
+
+# all parameters below will be merged with parameters from default configurations set above
+# this allows you to overwrite only specified parameters
+
+tags: ["imaging", "single_sample", "classification", "concat", "openphenom", "final_run"]
+
+seed: 12345
+
+# Imaging channels encoder parameters
+INPUT_DIM: 1920
+NUM_CLASSES: 28
+
+model:
+  encoder:
+    _target_: scgenescope.models.nn.dropout.DropoutModule
+    dropout_rate: 0
+  classifier:
+    input_dim: ${INPUT_DIM}
+    output_dim: ${NUM_CLASSES}
+    hidden_dim: 1419
+    depth: 2
+    normalization: layer
+
+  optimizer_factory:
+    lr: 0.00094768559461523
+    weight_decay: 0.00828279522871633
+
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+  compile: false
+
+data:
+  loader_factory:
+    batch_size: 4096
+    num_workers: 0
+
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true

@@ -1,0 +1,270 @@
+task_name: train
+tags:
+- imaging
+- single_sample
+- classification
+- concat
+- imagenet_vit_l
+- final_run
+train: true
+test: true
+ckpt_path: null
+seed: 12345
+float32_matmul_precision: highest
+data:
+  _target_: scgenescope.data.modules.LitGenericDataModule
+  data_iter_factory:
+    train:
+      include_observations: true
+      file_path:
+        _target_: scgenescope.data.utils.get_datapath
+        path: ${paths.data_dir}
+        split: train
+        embedding_file_name: round_1.h5ad
+        embedding_key: null
+        omics_embedding: null
+        omics_revision: null
+        imaging_embedding: imagenet
+        imaging_revision: vit-l
+        include_seen: true
+        include_unseen: true
+        batch_select: null
+        replicate_select:
+        - '3'
+        treatment_select:
+        - Phenacetin
+        - PQ401
+        - Splitomicin
+        - (R)-MG132
+        - (R)-Roscovitine
+        - Wy 14643 / Pirinixic Acid
+        - Fluocinonide
+        - Caffeine
+        - LY303511 (hydrochloride)
+        - Simvastatin
+        - Colchicine
+        - Pantoprazole
+        - Cycloheximide
+        - Benzbromarone
+        - Thapsigargin
+        - BAY 11-7082
+        - CGK-733
+        - PD-98059
+        - GW-843682X
+        - 12-O-tetradecanoylphorbol-13-acetate
+        - SKII
+        - AMG-900
+        - DBeQ
+        - Daporinad / FK-866
+        - Vorinostat / SAHA
+        - Quinidine
+        - Aloxistatin / E-64d
+        - HARMAN
+      _target_: scgenescope.data.datasets.Samples.auto_factory
+      _partial_: true
+      obs_keys:
+      - Treatment
+    val:
+      include_observations: true
+      file_path:
+        _target_: scgenescope.data.utils.get_datapath
+        path: ${paths.data_dir}
+        split: val
+        embedding_file_name: round_1.h5ad
+        embedding_key: null
+        omics_embedding: null
+        omics_revision: null
+        imaging_embedding: imagenet
+        imaging_revision: vit-l
+        include_seen: true
+        include_unseen: true
+        batch_select: null
+        replicate_select:
+        - '5'
+        treatment_select:
+        - Phenacetin
+        - PQ401
+        - Splitomicin
+        - (R)-MG132
+        - (R)-Roscovitine
+        - Wy 14643 / Pirinixic Acid
+        - Fluocinonide
+        - Caffeine
+        - LY303511 (hydrochloride)
+        - Simvastatin
+        - Colchicine
+        - Pantoprazole
+        - Cycloheximide
+        - Benzbromarone
+        - Thapsigargin
+        - BAY 11-7082
+        - CGK-733
+        - PD-98059
+        - GW-843682X
+        - 12-O-tetradecanoylphorbol-13-acetate
+        - SKII
+        - AMG-900
+        - DBeQ
+        - Daporinad / FK-866
+        - Vorinostat / SAHA
+        - Quinidine
+        - Aloxistatin / E-64d
+        - HARMAN
+      _target_: scgenescope.data.datasets.Samples.auto_factory
+      _partial_: true
+      obs_keys:
+      - Treatment
+    test:
+      include_observations: true
+      file_path:
+        _target_: scgenescope.data.utils.get_datapath
+        path: ${paths.data_dir}
+        split: HE_test
+        embedding_file_name: round_2.h5ad
+        embedding_key: null
+        omics_embedding: null
+        omics_revision: null
+        imaging_embedding: imagenet
+        imaging_revision: vit-l
+        include_seen: true
+        include_unseen: true
+        batch_select: null
+        replicate_select:
+        - '1'
+        - '2'
+        treatment_select:
+        - Phenacetin
+        - PQ401
+        - Splitomicin
+        - (R)-MG132
+        - (R)-Roscovitine
+        - Wy 14643 / Pirinixic Acid
+        - Fluocinonide
+        - Caffeine
+        - LY303511 (hydrochloride)
+        - Simvastatin
+        - Colchicine
+        - Pantoprazole
+        - Cycloheximide
+        - Benzbromarone
+        - Thapsigargin
+        - BAY 11-7082
+        - CGK-733
+        - PD-98059
+        - GW-843682X
+        - 12-O-tetradecanoylphorbol-13-acetate
+        - SKII
+        - AMG-900
+        - DBeQ
+        - Daporinad / FK-866
+        - Vorinostat / SAHA
+        - Quinidine
+        - Aloxistatin / E-64d
+        - HARMAN
+      _target_: scgenescope.data.datasets.Samples.auto_factory
+      _partial_: true
+      obs_keys:
+      - Treatment
+  transform:
+    _target_: scgenescope.data.transforms.Distribute.from_items
+    embeddings:
+      _target_: scgenescope.data.transforms.ops.ToTensor
+    condition:
+      _target_: scgenescope.transforms.Compose.from_items
+      encode:
+        _target_: scgenescope.transforms.LabelEncode
+        path_to_categories:
+          _target_: scgenescope.resources.request_resource
+          resource: all_treatments_no_DMSO
+      squeeze:
+        _target_: scgenescope.transforms.Squeeze
+  loader_factory:
+    _target_: scgenescope.data.loaders.NoCollateDataLoader
+    _partial_: true
+    batch_size: 4096
+    num_workers: 0
+model:
+  _target_: scgenescope.models.classification.unimodal.UnimodalSampleClassifier
+  encoder:
+    _target_: scgenescope.models.nn.dropout.DropoutModule
+    dropout_rate: 0
+  classifier:
+    _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+    activation_factory:
+      _target_: torch.nn.ReLU
+      _partial_: true
+    normalization: layer
+    input_dim: ${INPUT_DIM}
+    output_dim: ${NUM_CLASSES}
+    hidden_dim: 512
+    depth: 5
+  optimizer_factory:
+    _target_: torch.optim.Adam
+    _partial_: true
+    lr: 0.001
+    weight_decay: 0.0001
+  scheduler_factory:
+    _target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+    _partial_: true
+    mode: min
+    factor: 0.1
+    patience: 5
+  compile: false
+callbacks:
+  model_summary:
+    _target_: lightning.pytorch.callbacks.RichModelSummary
+    max_depth: -1
+  rich_progress_bar:
+    _target_: lightning.pytorch.callbacks.RichProgressBar
+  early_stopping:
+    _target_: lightning.pytorch.callbacks.EarlyStopping
+    monitor: val/acc
+    patience: 12
+    mode: max
+  model_checkpoint:
+    _target_: lightning.pytorch.callbacks.ModelCheckpoint
+    monitor: val/acc
+    dirpath: ${paths.ckpt_dir}
+    filename: '{epoch}-{step}'
+    every_n_epochs: 1
+    mode: max
+    save_top_k: 1
+  lr_monitor:
+    _target_: lightning.pytorch.callbacks.LearningRateMonitor
+    log_momentum: true
+    logging_interval: epoch
+logger:
+  tensorboard:
+    _target_: lightning.pytorch.loggers.TensorBoardLogger
+    save_dir: ${paths.output_dir}
+    name: ${concat:${tags}}
+    prefix: ''
+  csv:
+    _target_: lightning.pytorch.loggers.csv_logs.CSVLogger
+    save_dir: ${paths.output_dir}
+    name: ${concat:${tags}}
+    prefix: ''
+trainer:
+  _target_: lightning.pytorch.trainer.Trainer
+  default_root_dir: ${paths.output_dir}
+  min_epochs: 2
+  max_epochs: 100
+  accelerator: gpu
+  devices: 1
+  check_val_every_n_epoch: 1
+  deterministic: false
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+paths:
+  root_dir: ${oc.env:PROJECT_ROOT,${hydra:runtime.cwd}}
+  data_dir: ${paths.root_dir}/data/
+  log_dir: ${paths.root_dir}/logs/
+  output_dir: ${hydra:runtime.output_dir}
+  work_dir: ${hydra:runtime.cwd}
+  ckpt_dir: ${hydra:runtime.output_dir}/checkpoints
+extras:
+  ignore_warnings: false
+  enforce_tags: true
+  print_config: true
+INPUT_DIM: 5120
+NUM_CLASSES: 28

@@ -1,0 +1,50 @@
+defaults:
+  - _self_
+  - treatment@encode_labels: label_encode_seen
+
+# Input Example: 
+# --------------
+# <channel0_embeddings,channel1_embeddings, channel2_embeddings, channel3_embeddings, channel4_embeddings, perturbation> 
+# = tuple[Array[dim,], Array[dim,], Array[dim,], Array[dim,], Array[dim,], str]
+
+# apply the following transformations in sequence
+# each transformation can specified as either 
+# 1. _args_ followed by a list of key-value pairs
+# 2. transforms key followed by a list of key-value pairs
+# 3. a key-value pair, where the key is the name of the transformation and the value is a dictionary of arguments
+# the transforms need to be specified (and mixed) in the order given above
+# _target_: scgenescope.transforms.Compose.from_items
+
+# using key-value specification
+# the name will be ignored but is useful for providing a description
+# of what its transformation does
+
+# split_into_data_and_condition:
+#   # splits the input array into two parts based on sizes
+#   _target_: scgenescope.transforms.Chunk
+#   _args_: [[5, 1]]
+
+# process the resulting length-2 list from the previous transformation 
+# process:
+  #  applies collected transforms in a map-like fashion: distribute the input to each transform
+_target_: scgenescope.transforms.Distribute.from_items
+
+# converts the embeddings to tensors (applied to the first portion of the input)
+tensorize_embeddings:
+  _target_: scgenescope.transforms.Compose.from_items
+  tensorize:  
+    # repeats the transform 5 times
+    _target_: scgenescope.transforms.Distribute.repeat
+    times: 5  # ${split_into_data_and_condition._args_[0]}
+    transform:
+      _target_: scgenescope.transforms.ToTensor
+      squeeze: true
+      dtype: float32
+
+# encodes the labels (applied to the second portion of the input)
+encode_labels: ???
+
+# Output Example: 
+# ---------------
+# <[channel0_embeddings,channel1_embeddings, channel2_embeddings, channel3_embeddings, channel4_embeddings], perturbation> 
+# = list[list[Tensor[dim,], Tensor[dim,], Tensor[dim,], Tensor[dim,], Tensor[dim,]], str]

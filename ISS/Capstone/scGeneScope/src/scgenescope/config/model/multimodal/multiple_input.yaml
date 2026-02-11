@@ -1,0 +1,7 @@
+defaults:
+  - meta/multiple_input_classifier@_here_
+  - neural_net@classifier: mlp
+
+add_normalization: ???
+
+ignore_names: ???

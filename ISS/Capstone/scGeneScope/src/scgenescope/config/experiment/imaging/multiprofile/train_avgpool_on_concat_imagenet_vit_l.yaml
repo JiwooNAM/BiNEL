@@ -1,0 +1,102 @@
+# @package _global_
+
+# to execute this experiment run:
+# python train.py experiment=train_on_multimodal_samples
+
+defaults:
+  # Set imaging data source for training and validation
+  - /data/source/embeddings@data.data_iter_factory.train.factory.samples_factory.file_path: >-
+      imaging/imagenet/vit-l/concat/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.factory.samples_factory.file_path: >-
+      imaging/imagenet/vit-l/concat/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.factory.samples_factory.file_path: >-
+      imaging/imagenet/vit-l/concat/HE_test.yaml
+  # Select data pipeline
+  - override /data: pipeline/multiprofile/singleinput
+  - override /data/pipeline/transform/treatment@data.transform.condition: label_encode_all
+  # Select model
+  - override /model: multiprofile/pooling/average
+  # Set up infrastructure parameters
+
+# all parameters below will be merged with parameters from default configurations set above
+# this allows you to overwrite only specified parameters
+
+cmd_tag: ""
+tags: ["multiprofile", "imaging", "classification", "avgpool", "vit-l", "concat", "final_test"]
+
+seed: 12345
+# Parameters
+INPUT_DIM: 5120
+NUM_CLASSES: 28
+
+NUM_SAMPLES: 32 # number of samples to use for training and validation
+BATCH_SIZE: 4096
+NUM_WORKERS: 2
+DROPOUT_RATE: 0 # applied with aggregator
+
+
+model:
+  classifier:
+    normalization: layer
+    input_dim: ${INPUT_DIM}
+    hidden_dim: 279
+    output_dim: ${NUM_CLASSES}
+    depth: 2
+
+  optimizer_factory:
+    lr: 5.201445583545185e-05
+    weight_decay: 0.005790470865685942
+
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+
+  compile: false
+
+data:
+  # Set number of samples, batch size, and embeddings
+  data_iter_factory:
+    train:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+    val:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+    test:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+  # Configure loader
+  loader_factory:
+    num_workers: ${NUM_WORKERS}
+
+# Trainer
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+# Infrastructure
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true
+

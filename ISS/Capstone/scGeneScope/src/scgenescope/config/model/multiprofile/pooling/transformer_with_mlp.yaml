@@ -1,0 +1,23 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+
+encoder:
+  _target_: torch.nn.Sequential
+  _args_:
+    - _target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+      input_dim: ${PRE_AGGREGATOR_INPUT_DIM}
+      output_dim: ${PRE_AGGREGATOR_OUTPUT_DIM}
+      hidden_dim: ${PRE_AGGREGATOR_HIDDEN_DIM}
+      depth: ${PRE_AGGREGATOR_DEPTH}
+      activation_factory:
+        _target_: torch.nn.ReLU
+        _partial_: true
+      normalization: layer
+    - _target_: scgenescope.models.nn.aggregators.TransformerAggregator
+      input_dim: ${TRANSFORMER_INPUT_DIM}
+      n_heads: ${TRANSFORMER_N_HEADS}
+      dim_feedforward: ${TRANSFORMER_DIM_FEEDFORWARD}
+      dropout: ${TRANSFORMER_DROPOUT}
+      num_layers: ${TRANSFORMER_NUM_LAYERS}
+  

@@ -1,0 +1,17 @@
+defaults:
+  - make_iterable@_here_
+  - .@factory: sampled_populations
+
+# See iterators/make_iterable.yaml for more details on iteration parameters
+
+factory:
+  # use a constant number to fix the number of samples
+  # use a list to indicate a range to sample from
+  num_samples: ???
+
+  samples_factory:
+    include_observations: false
+    
+    # samples data specification
+    # determines which single-cell data is used
+    file_path: ???

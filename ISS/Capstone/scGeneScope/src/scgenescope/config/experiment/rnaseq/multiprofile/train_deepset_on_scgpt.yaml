@@ -1,0 +1,117 @@
+# @package _global_
+
+# to execute this experiment run:
+# python train.py experiment=rnaseq/multiprofile/train_deepset_on_scgpt
+
+defaults:
+ # Set data source for training and validation
+  - /data/source/embeddings@data.data_iter_factory.train.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/HE_test.yaml
+  # Select data pipeline
+  - override /data: pipeline/multiprofile/singleinput
+  - override /data/pipeline/transform/treatment@data.transform.condition: label_encode_all
+  # Select model
+  - override /model: multiprofile/deepset/doubling_dims
+  # Set up infrastructure parameters
+
+# all parameters below will be merged with parameters from default configurations set above
+# this allows you to overwrite only specified parameters
+
+cmd_tag: ""
+tags: ["multiprofile", "rnaseq", "classification", "deepset-doubling-dims", "public_scgpt", "final_test"]
+
+seed: 12345
+# params to set
+NUM_CLASSES: 28
+INPUT_DIM: 512
+LATENT_DIM: 575
+
+# Data parameters
+NUM_SAMPLES: 32 # number of samples to use for training and validation
+BATCH_SIZE: 3072
+NUM_WORKERS: 6
+
+
+
+model:
+  encoder:
+    input_dim: ${INPUT_DIM}  # Match RNAseq embedding dimension 
+    hidden_dim: ${LATENT_DIM}
+    output_dim: ${LATENT_DIM}
+    elementwise_depth: 2
+    num_layers: 2
+    aggregation: "mean"
+    conditioning: "concatenated"
+    readout: "mean"
+    residual: false
+
+  classifier:
+    normalization: layer
+    input_dim: ${LATENT_DIM} 
+    hidden_dim: ${LATENT_DIM}
+    output_dim: ${NUM_CLASSES}  # number of perturbation classes
+    depth: 2
+
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+
+  optimizer_factory:
+    lr: 5.678161275776755e-05
+    weight_decay: 0.0002753024215293893
+
+  compile: false
+
+data:
+  # Set number of samples, and batch size
+  data_iter_factory:
+    train:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+  
+    val:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+    test:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+  # Configure loader
+  loader_factory:
+    num_workers: ${NUM_WORKERS}
+
+# Trainer
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+# Infrastructure
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true
+

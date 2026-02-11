@@ -1,0 +1,7 @@
+_target_: scgenescope.data.datasets.Samples.auto_factory
+_partial_: true
+
+obs_keys: [Treatment]
+
+include_observations: ???
+file_path: ???

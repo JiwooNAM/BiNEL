@@ -1,0 +1,5 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+
+encoder: null

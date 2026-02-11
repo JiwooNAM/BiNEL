@@ -1,0 +1,12 @@
+defaults:
+  - meta/classifier@_here_
+  - neural_net@classifier: mlp
+
+encoder:
+  _target_: scgenescope.models.nn.aggregators.TransformerAggregator
+  input_dim: ???
+  n_heads: ???
+  dim_feedforward: ???
+  dropout: ???
+  num_layers: ???
+  

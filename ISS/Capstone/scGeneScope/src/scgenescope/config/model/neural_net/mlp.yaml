@@ -1,0 +1,9 @@
+_target_: scgenescope.models.nn.mlp.MLP.from_fixed_hidden_dim
+activation_factory:
+  _target_: torch.nn.ReLU
+  _partial_: true
+normalization: ???
+input_dim: ???
+output_dim: ???  # number of classes
+hidden_dim: ???
+depth: ???

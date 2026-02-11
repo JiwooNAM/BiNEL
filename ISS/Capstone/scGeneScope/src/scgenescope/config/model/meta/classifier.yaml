@@ -1,0 +1,22 @@
+_target_: scgenescope.models.classification.unimodal.UnimodalSampleClassifier
+
+# set to null to use input embeddings as is without further encoding
+encoder: ???
+
+classifier: ???
+
+optimizer_factory:
+  _target_: torch.optim.Adam
+  _partial_: true
+  lr: ??? # 0.001
+  weight_decay: ??? # 0.0
+
+scheduler_factory:
+  _target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+  _partial_: true
+  mode: min
+  factor: ??? # 0.1
+  patience: ??? # 10
+
+# compile model for faster training with pytorch 2.0
+compile: ???

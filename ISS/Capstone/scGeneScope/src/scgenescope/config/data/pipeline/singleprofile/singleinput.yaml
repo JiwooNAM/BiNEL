@@ -1,0 +1,39 @@
+defaults:
+  - _self_
+
+  - iterators@data_iter_factory.train: samples
+  - iterators@data_iter_factory.val: samples
+  - iterators@data_iter_factory.test: samples
+
+
+  # choose from label_encode_seen, label_encode_all, label_encode_unseen
+  - pipeline/transform/treatment@transform.condition: ??? 
+
+
+_target_: scgenescope.data.modules.LitGenericDataModule
+
+data_iter_factory: 
+  train:
+    include_observations: true
+    file_path: ???
+  val:
+    include_observations: true
+    file_path: ???
+  test:
+    include_observations: true
+    file_path: null
+
+transform:
+  _target_: scgenescope.data.transforms.Distribute.from_items
+
+  embeddings:
+    _target_: scgenescope.data.transforms.ops.ToTensor
+
+  condition: ???
+
+# Batch Schema: <embeddings, perturbation> = list(Tensor[batch_size, dim], Tensor[batch_size])
+loader_factory:
+  _target_: scgenescope.data.loaders.NoCollateDataLoader
+  _partial_: true
+  batch_size: ???
+  num_workers: ???

@@ -1,0 +1,5 @@
+defaults:
+  - meta/gated_fusion_classifier@_here_
+  - neural_net@classifier: mlp
+
+add_normalization: true

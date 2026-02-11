@@ -1,0 +1,109 @@
+# @package _global_
+
+# to execute this experiment run:
+# python train.py experiment=rnaseq/multiprofile/train_avgpool_on_scgpt
+
+defaults:
+  # Set data source for training and validation
+  - /data/source/embeddings@data.data_iter_factory.train.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.factory.samples_factory.file_path: >-
+      rnaseq/scgpt/HE_test.yaml
+  # Select data pipeline
+  - override /data: pipeline/multiprofile/singleinput
+  - override /data/pipeline/transform/treatment@data.transform.condition: label_encode_all
+  # Select model
+  - override /model: multiprofile/pooling/transformer
+  # Set up infrastructure parameters
+
+# all parameters below will be merged with parameters from default configurations set above
+# this allows you to overwrite only specified parameters
+
+cmd_tag: ""
+tags: ["multiprofile", "rnaseq", "classification", "transformerpool", "public_scgpt", "final_test"]
+
+seed: 12345
+# params to set
+NUM_CLASSES: 28
+INPUT_DIM: 512
+
+NUM_SAMPLES: 32 # number of samples to use for training and validation
+BATCH_SIZE: 4096
+NUM_WORKERS: 4
+
+model:
+  encoder:
+    input_dim: ${INPUT_DIM}
+    n_heads: 8
+    dim_feedforward: 271
+    dropout: 0
+    num_layers: 1
+
+  classifier:
+    normalization: layer
+    input_dim: ${INPUT_DIM}
+    hidden_dim: 3934
+    output_dim: ${NUM_CLASSES}
+    depth: 3
+
+  optimizer_factory:
+    lr: 9.674119871610172e-05
+    weight_decay: 1.0178093437270248e-06
+
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+
+  compile: false
+
+data:
+  # Set number of samples, and batch size 
+  data_iter_factory:
+    train:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+    val:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+    test:
+      batch_size: ${BATCH_SIZE}
+      factory:
+        num_samples: ${NUM_SAMPLES}
+
+  # Configure loader
+  loader_factory:
+    num_workers: ${NUM_WORKERS}
+
+# Trainer
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+# Infrastructure
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true
+

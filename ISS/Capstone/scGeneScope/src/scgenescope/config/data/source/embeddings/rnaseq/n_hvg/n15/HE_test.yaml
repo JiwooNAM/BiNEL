@@ -1,0 +1,47 @@
+_target_: scgenescope.data.utils.get_datapath
+
+path: ${paths.data_dir}
+split: HE_test
+embedding_file_name: round_2.h5ad
+embedding_key: hvg_n15
+
+# dataset configurations
+omics_embedding: n_hvg
+omics_revision: n15
+imaging_embedding: null
+imaging_revision: null
+
+# filters
+include_seen: true
+include_unseen: true
+batch_select: null 
+replicate_select: ['1', '2']
+treatment_select:
+  - Phenacetin
+  - PQ401
+  - Splitomicin
+  - (R)-MG132
+  - (R)-Roscovitine
+  - Wy 14643 / Pirinixic Acid
+  - Fluocinonide
+  - Caffeine
+  - LY303511 (hydrochloride)
+  - Simvastatin
+  - Colchicine
+  - Pantoprazole
+  - Cycloheximide
+  - Benzbromarone
+  - Thapsigargin
+  - BAY 11-7082
+  - CGK-733
+  - PD-98059
+  - GW-843682X
+  - 12-O-tetradecanoylphorbol-13-acetate
+  - SKII
+  - AMG-900
+  - DBeQ
+  - Daporinad / FK-866
+  - Vorinostat / SAHA
+  - Quinidine
+  - Aloxistatin / E-64d
+  - HARMAN

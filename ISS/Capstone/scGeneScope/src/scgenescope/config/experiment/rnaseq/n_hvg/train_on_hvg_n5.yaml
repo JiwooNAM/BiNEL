@@ -1,0 +1,80 @@
+# @package _global_
+
+# to execute this experiment run:
+# python train.py experiment=rnaseq/singleprofile/train_on_scgpt <OPTIONS>
+
+defaults:
+  # Set data source for training and validation
+  - /data/source/embeddings@data.data_iter_factory.train.file_path: >-
+      rnaseq/n_hvg/n5/train.yaml
+  - /data/source/embeddings@data.data_iter_factory.val.file_path: >-
+      rnaseq/n_hvg/n5/val.yaml
+  - /data/source/embeddings@data.data_iter_factory.test.file_path: >-
+      rnaseq/n_hvg/n5/HE_test.yaml
+  # Select data pipeline
+  - override /data: pipeline/singleprofile/singleinput
+  - override /data/pipeline/transform/treatment@data.transform.condition: label_encode_all
+  # Select model
+  - override /model: singleprofile/single_input
+  # Set up infrastructure parameters
+
+tags: ["rnaseq", "single-sample", "classification", "n_HVG", "final_test"]
+
+
+# params to set
+NUM_CLASSES: 28
+INPUT_DIM: 5
+
+
+seed: 12345
+
+model:
+  encoder:
+    _target_: scgenescope.models.nn.dropout.DropoutModule
+    dropout_rate: 0.1
+  classifier:
+    input_dim: ${INPUT_DIM}
+    output_dim: ${NUM_CLASSES}
+    hidden_dim: 256
+    depth: 6
+    normalization: layer # "batch" "instance"
+
+  optimizer_factory:
+    lr: 1e-05
+    weight_decay: 3e-05
+
+  scheduler_factory:
+    mode: min
+    factor: 0.1
+    patience: 5
+  compile: false
+
+data:
+  loader_factory:
+    batch_size: 4096
+    num_workers: 6
+  
+trainer:
+  min_epochs: 2
+  max_epochs: 100
+  gradient_clip_val: 0.5
+  log_every_n_steps: 5
+
+callbacks:
+  model_checkpoint:
+    monitor: val/acc
+    mode: max
+    save_top_k: 1
+  early_stopping:
+    monitor: val/acc
+    mode: max
+    patience: 12
+
+logger:
+  tensorboard:
+    name: ${concat:${tags}}
+  csv:
+    name: ${concat:${tags}}
+
+test: true
+
