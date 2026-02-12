@@ -11,9 +11,9 @@ from sklearn.metrics import confusion_matrix
 # USER SETTINGS
 # =========================
 date="2026-02-11"
-time = "03-18-33"
-epochs = 10
-steps = 3432
+time = "16-16-03"
+epochs = 25
+steps = 8112
 RUN_DIR = Path(f"logs/train/runs/{date}_{time}").resolve()
 CFG_DIR = (RUN_DIR / ".hydra").resolve()
 CKPT    = (RUN_DIR / "checkpoints" / f"epoch={epochs}-step={steps}.ckpt").resolve()

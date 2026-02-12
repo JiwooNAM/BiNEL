@@ -41,15 +41,15 @@ IMAGING_INPUT_DIM: 5120
 
 
 # some of the hyperparams
-OUTPUT_DIM_PER_MODALITY: 864
+OUTPUT_DIM_PER_MODALITY: 2048
 
 
 model:
   classifier:
     input_dim: ${multiply:2,${OUTPUT_DIM_PER_MODALITY}} # 2 modalities * 128
     output_dim: ${NUM_CLASSES}  # number of perturbation classes
-    hidden_dim: 4034
-    depth: 1
+    hidden_dim: 512
+    depth: 5
     normalization: layer
     activation_factory:
       _target_: torch.nn.ReLU
