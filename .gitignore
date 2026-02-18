@@ -25,3 +25,8 @@ ISS/Capstone/L1000/results/
 *.pt
 *.pth
 *.xlsx
+
+# secrets
+.keys/
+*.pem
+*.key
