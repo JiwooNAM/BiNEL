@@ -1,0 +1,1841 @@
+best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5184
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=25] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.3589 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5342
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=25] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.3721 | EF
+best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5334
+[TUNE fold=8 top_n=25] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.5196 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.1} valF1=0.3967 | EF
+best={'hidden': (200,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.4997
+[TUNE fold=9 top_n=25] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.4679 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5293
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=25] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5216 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} valF1=0.4188 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5518
+[DONE] TOP_N=25 (genes used=25)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.4193 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5811
+[TUNE fold=2 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} val
+F1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.3915 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.4894
+[TUNE fold=3 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} val
+F1=0.4674 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4728 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5410
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=4 top_n=30] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} va
+lF1=0.5152 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4421 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5797
+[TUNE fold=5 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1
+=0.4776 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4689 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5733
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.3584 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5701
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4916 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} valF1=0.3701 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5272
+[TUNE fold=8 top_n=30] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.4040 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.1} valF1=0.5435
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=30] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4694 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.4223 | E
+F best={'hidden': (100,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5200
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=30] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5216 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.1} valF1=0.4715 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5989
+[DONE] TOP_N=30 (genes used=30)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.1} valF1=0.4992 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.6205
+[TUNE fold=2 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} val
+F1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4704 | E
+F best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.0} valF1=0.5113
+[TUNE fold=3 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} val
+F1=0.4674 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5611 |
+ EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5600
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=4 top_n=50] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} va
+lF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4411 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5589
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=5 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1
+=0.4776 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.4595 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.0} valF1=0.5368
+[TUNE fold=6 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.4216 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5473
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5520 | EF
+best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5376
+[TUNE fold=8 top_n=50] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4197 | EF
+best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.0} valF1=0.4914
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=50] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.4941 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6068
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=50] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5216 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.4588 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5804
+[DONE] TOP_N=50 (genes used=50)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5204 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5859
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=2 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} val
+F1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5150 | E
+F best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5564
+[TUNE fold=3 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} val
+F1=0.4674 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5819 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5840
+[TUNE fold=4 top_n=75] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} va
+lF1=0.5152 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.1} valF1=0.5008
+| EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5927
+[TUNE fold=5 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1
+=0.4776 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.6045 | E
+F best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5935
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.4715 | EF
+best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6295
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5826 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5790
+[TUNE fold=8 top_n=75] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.4692 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5726
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=75] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1
+=0.4694 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.1} valF1=0.5711 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.6243
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=75] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5216 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} valF1=0.4872 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5492
+[DONE] TOP_N=75 (genes used=75)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5600 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6759
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=2 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5877 |
+EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5980
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=3 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.1} valF1=0.5927 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.6182
+[TUNE fold=4 top_n=100] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5579 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6187
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=5 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5919 | EF
+ best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.5785
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5206 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6330
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6312 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6246
+[TUNE fold=8 top_n=100] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.1} valF1=0.5087 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.0} valF1=0.6150
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=100] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.0} valF1=0.6033 |
+EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6064
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=100] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5440 |
+ EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.0} valF1=0.5916
+[DONE] TOP_N=100 (genes used=100)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5732 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6982
+[TUNE fold=2 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5367 |
+EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5896
+[TUNE fold=3 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6144 |
+EF best={'hidden': (100,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6160
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=4 top_n=150] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5374 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6670
+[TUNE fold=5 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.1} valF1=0.5714 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6719
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.0} valF1=0.5523 |
+ EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6423
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6683 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6091
+[TUNE fold=8 top_n=150] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5835 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.6338
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=150] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.6356 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.6516
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=150] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.5589 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6705
+[DONE] TOP_N=150 (genes used=150)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.5649 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6678
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=2 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5722 |
+EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.0} valF1=0.6387
+[TUNE fold=3 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7096 |
+EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.1} valF1=0.6762
+[TUNE fold=4 top_n=200] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5632 |
+ EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.1} valF1=0.6485
+[TUNE fold=5 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6468 | EF
+ best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} valF1=0.6762
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5510 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6502
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6465 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6512
+[TUNE fold=8 top_n=200] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5603 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6966
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=200] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6125 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6936
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=200] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6025 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.0} valF1=0.6401
+[DONE] TOP_N=200 (genes used=200)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.001, 'dropout': 0.1} valF1=0.6200 |
+EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6949
+[TUNE fold=2 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5835 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7287
+[TUNE fold=3 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.6616 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7114
+[TUNE fold=4 top_n=300] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.5831 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6832
+[TUNE fold=5 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6647 | EF
+ best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.7093
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6422 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7365
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6990 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6841
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=8 top_n=300] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5468 | EF
+ best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.6718
+[TUNE fold=9 top_n=300] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6821 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7475
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=300] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6128 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.7352
+[DONE] TOP_N=300 (genes used=300)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6107 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} valF1=0.7318
+[TUNE fold=2 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.5980 |
+EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6989
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=3 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6826 |
+EF best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7110
+[TUNE fold=4 top_n=400] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6144 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6956
+[TUNE fold=5 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6514 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6695
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6572 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7362
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7324 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7091
+[TUNE fold=8 top_n=400] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6571 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.6936
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=400] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.1} valF1=0.6808 |
+ EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7468
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=400] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7093 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7929
+[DONE] TOP_N=400 (genes used=400)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/model_selection/_
+split.py:1035: UserWarning: The least populated class in y has only 5 members, which is less than
+ n_splits=10.
+  warnings.warn(
+[TUNE fold=1 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4892 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7778 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.8029
+[TUNE fold=2 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} va
+lF1=0.4967 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.1} valF1=0.6823
+ | EF best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0001, 'dropout': 0.0} valF1=0.7678
+[TUNE fold=3 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.0} va
+lF1=0.4674 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7631 |
+EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.0} valF1=0.7794
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=4 top_n=978] CP best={'hidden': (400,), 'act': 'relu', 'wd': 0.0001, 'dropout': 0.0} v
+alF1=0.5152 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7022 |
+ EF best={'hidden': (400,), 'act': 'relu', 'wd': 0.0, 'dropout': 0.1} valF1=0.7168
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=5 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF
+1=0.4776 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7463 | EF
+ best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7689
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=6 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.6267 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.6924 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7714
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=7 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4916 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.8069 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7926
+[TUNE fold=8 top_n=978] CP best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.5196 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7542 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.001, 'dropout': 0.1} valF1=0.7339
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=9 top_n=978] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF
+1=0.4694 | GE best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7762 | EF
+ best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.7970
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/metrics/_classifi
+cation.py:99: UserWarning: The number of unique classes is greater than 50% of the number of samp
+les. `y` could represent a regression problem, not a classification problem.
+  type_pred = type_of_target(y_pred, input_name="y_pred")
+/home/intern/jiwoo/miniconda3/envs/rosetta/lib/python3.10/site-packages/sklearn/utils/multiclass.
+py:79: UserWarning: The number of unique classes is greater than 50% of the number of samples. `y
+` could represent a regression problem, not a classification problem.
+  ys_types = set(type_of_target(x) for x in ys)
+[TUNE fold=10 top_n=978] CP best={'hidden': (200,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} val
+F1=0.5216 | GE best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.1} valF1=0.7873 | E
+F best={'hidden': (400,), 'act': 'tanh', 'wd': 0.0, 'dropout': 0.0} valF1=0.8122
+[DONE] TOP_N=978 (genes used=977)
+[SAVED] results/Jiwoo/Genepanel_Torch/summary_CDRP-bio_torch_mlp_topn.csv
+[SAVED] results/Jiwoo/Genepanel_Torch/pred_CDRP-bio_torch_mlp_topn.xlsx
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ^Cthon run_moa_hvg_gpu.py  --datase
+t="CDRP-bio"
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ clear^C
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ tmux capture-pane -pS -100000 > run
+_output.txt
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ clear^C
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ^C
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ python run_moa_hvg_gpu.py   --datas
+et CDRP-bio   --nSamplesMOA 4   --epochs 30   --batch_size 1024:^C
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ^C
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ls -lh | egrep -i "log|out|err|slur
+m|nohup|stdout|stderr"
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ls -lh | egrep -i "log|out|err|slur
+m|nohup|stdout|stderr"
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ ls -lh | egrep -i "log|out|err|slur
+m|nohup|stdout|stderr"
+(rosetta) intern@ajhml71531:~/jiwoo/BiNEL/ISS/Capstone/L1000$ tmux capture-pane -pS -999999 > run
+_output.txt
+

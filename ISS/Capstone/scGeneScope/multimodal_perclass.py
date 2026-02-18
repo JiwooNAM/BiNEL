@@ -11,7 +11,7 @@ from sklearn.metrics import confusion_matrix
 # USER SETTINGS
 # =========================
 date="2026-02-11"
-time = "16-16-03"
+time = "16-38-22"
 epochs = 25
 steps = 8112
 RUN_DIR = Path(f"logs/train/runs/{date}_{time}").resolve()

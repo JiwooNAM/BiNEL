@@ -1,0 +1,3361 @@
+dataset,top_n,gene_mode,gene_id,fold,modality,f1
+CDRP-bio,5,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,5,ranked,r0,1,GE,0.21794871794871792
+CDRP-bio,5,ranked,r0,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,ranked,r0,1,Late Fusion,0.10256410256410256
+CDRP-bio,5,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,5,random,rand1,1,GE,0.059027777777777776
+CDRP-bio,5,random,rand1,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,random,rand1,1,Late Fusion,0.06666666666666667
+CDRP-bio,5,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,5,random,rand2,1,GE,0.020833333333333332
+CDRP-bio,5,random,rand2,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,random,rand2,1,Late Fusion,0.1130952380952381
+CDRP-bio,5,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,5,random,rand3,1,GE,0.06944444444444443
+CDRP-bio,5,random,rand3,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,random,rand3,1,Late Fusion,0.11224489795918366
+CDRP-bio,5,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,5,random,rand4,1,GE,0.13605442176870747
+CDRP-bio,5,random,rand4,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,random,rand4,1,Late Fusion,0.13797313797313798
+CDRP-bio,5,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,5,random,rand5,1,GE,0.1
+CDRP-bio,5,random,rand5,1,Early Fusion,0.09523809523809523
+CDRP-bio,5,random,rand5,1,Late Fusion,0.09333333333333332
+CDRP-bio,5,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,5,ranked,r0,2,GE,0.0
+CDRP-bio,5,ranked,r0,2,Early Fusion,0.09355742296918766
+CDRP-bio,5,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,5,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,5,random,rand1,2,GE,0.0
+CDRP-bio,5,random,rand1,2,Early Fusion,0.08888888888888888
+CDRP-bio,5,random,rand1,2,Late Fusion,0.13333333333333333
+CDRP-bio,5,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,5,random,rand2,2,GE,0.0
+CDRP-bio,5,random,rand2,2,Early Fusion,0.0625
+CDRP-bio,5,random,rand2,2,Late Fusion,0.0763888888888889
+CDRP-bio,5,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,5,random,rand3,2,GE,0.0
+CDRP-bio,5,random,rand3,2,Early Fusion,0.06985294117647059
+CDRP-bio,5,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,5,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,5,random,rand4,2,GE,0.02222222222222222
+CDRP-bio,5,random,rand4,2,Early Fusion,0.0625
+CDRP-bio,5,random,rand4,2,Late Fusion,0.16666666666666666
+CDRP-bio,5,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,5,random,rand5,2,GE,0.0
+CDRP-bio,5,random,rand5,2,Early Fusion,0.08547794117647059
+CDRP-bio,5,random,rand5,2,Late Fusion,0.1
+CDRP-bio,5,ranked,r0,3,CP,0.125
+CDRP-bio,5,ranked,r0,3,GE,0.07692307692307693
+CDRP-bio,5,ranked,r0,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,5,random,rand1,3,CP,0.125
+CDRP-bio,5,random,rand1,3,GE,0.020833333333333332
+CDRP-bio,5,random,rand1,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,random,rand1,3,Late Fusion,0.14285714285714285
+CDRP-bio,5,random,rand2,3,CP,0.125
+CDRP-bio,5,random,rand2,3,GE,0.03571428571428571
+CDRP-bio,5,random,rand2,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,random,rand2,3,Late Fusion,0.16708180708180706
+CDRP-bio,5,random,rand3,3,CP,0.125
+CDRP-bio,5,random,rand3,3,GE,0.05158730158730159
+CDRP-bio,5,random,rand3,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,random,rand3,3,Late Fusion,0.13541666666666666
+CDRP-bio,5,random,rand4,3,CP,0.125
+CDRP-bio,5,random,rand4,3,GE,0.09173789173789174
+CDRP-bio,5,random,rand4,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,random,rand4,3,Late Fusion,0.13777777777777775
+CDRP-bio,5,random,rand5,3,CP,0.125
+CDRP-bio,5,random,rand5,3,GE,0.08492063492063491
+CDRP-bio,5,random,rand5,3,Early Fusion,0.10416666666666666
+CDRP-bio,5,random,rand5,3,Late Fusion,0.12222222222222222
+CDRP-bio,5,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,5,ranked,r0,4,GE,0.03333333333333333
+CDRP-bio,5,ranked,r0,4,Early Fusion,0.08974358974358973
+CDRP-bio,5,ranked,r0,4,Late Fusion,0.1282051282051282
+CDRP-bio,5,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,5,random,rand1,4,GE,0.017857142857142856
+CDRP-bio,5,random,rand1,4,Early Fusion,0.08974358974358973
+CDRP-bio,5,random,rand1,4,Late Fusion,0.14285714285714285
+CDRP-bio,5,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,5,random,rand2,4,GE,0.1282051282051282
+CDRP-bio,5,random,rand2,4,Early Fusion,0.09722222222222221
+CDRP-bio,5,random,rand2,4,Late Fusion,0.1282051282051282
+CDRP-bio,5,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,5,random,rand3,4,GE,0.0
+CDRP-bio,5,random,rand3,4,Early Fusion,0.09722222222222221
+CDRP-bio,5,random,rand3,4,Late Fusion,0.13333333333333333
+CDRP-bio,5,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,5,random,rand4,4,GE,0.0
+CDRP-bio,5,random,rand4,4,Early Fusion,0.09722222222222221
+CDRP-bio,5,random,rand4,4,Late Fusion,0.11538461538461539
+CDRP-bio,5,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,5,random,rand5,4,GE,0.023809523809523808
+CDRP-bio,5,random,rand5,4,Early Fusion,0.09722222222222221
+CDRP-bio,5,random,rand5,4,Late Fusion,0.1357142857142857
+CDRP-bio,5,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,5,ranked,r0,5,GE,0.17708333333333331
+CDRP-bio,5,ranked,r0,5,Early Fusion,0.1844444444444444
+CDRP-bio,5,ranked,r0,5,Late Fusion,0.20888888888888885
+CDRP-bio,5,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,5,random,rand1,5,GE,0.07708333333333334
+CDRP-bio,5,random,rand1,5,Early Fusion,0.1844444444444444
+CDRP-bio,5,random,rand1,5,Late Fusion,0.246031746031746
+CDRP-bio,5,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,5,random,rand2,5,GE,0.05
+CDRP-bio,5,random,rand2,5,Early Fusion,0.19166666666666662
+CDRP-bio,5,random,rand2,5,Late Fusion,0.18333333333333332
+CDRP-bio,5,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,5,random,rand3,5,GE,0.10784313725490194
+CDRP-bio,5,random,rand3,5,Early Fusion,0.1844444444444444
+CDRP-bio,5,random,rand3,5,Late Fusion,0.20392156862745095
+CDRP-bio,5,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,5,random,rand4,5,GE,0.047619047619047616
+CDRP-bio,5,random,rand4,5,Early Fusion,0.1844444444444444
+CDRP-bio,5,random,rand4,5,Late Fusion,0.22777777777777775
+CDRP-bio,5,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,5,random,rand5,5,GE,0.04444444444444444
+CDRP-bio,5,random,rand5,5,Early Fusion,0.1844444444444444
+CDRP-bio,5,random,rand5,5,Late Fusion,0.1901960784313725
+CDRP-bio,5,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,5,ranked,r0,6,GE,0.11904761904761904
+CDRP-bio,5,ranked,r0,6,Early Fusion,0.1
+CDRP-bio,5,ranked,r0,6,Late Fusion,0.11904761904761904
+CDRP-bio,5,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,5,random,rand1,6,GE,0.08333333333333333
+CDRP-bio,5,random,rand1,6,Early Fusion,0.1
+CDRP-bio,5,random,rand1,6,Late Fusion,0.10476190476190476
+CDRP-bio,5,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,5,random,rand2,6,GE,0.16666666666666666
+CDRP-bio,5,random,rand2,6,Early Fusion,0.1
+CDRP-bio,5,random,rand2,6,Late Fusion,0.09777777777777778
+CDRP-bio,5,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,5,random,rand3,6,GE,0.0
+CDRP-bio,5,random,rand3,6,Early Fusion,0.1
+CDRP-bio,5,random,rand3,6,Late Fusion,0.09285714285714286
+CDRP-bio,5,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,5,random,rand4,6,GE,0.17777777777777778
+CDRP-bio,5,random,rand4,6,Early Fusion,0.09285714285714286
+CDRP-bio,5,random,rand4,6,Late Fusion,0.09777777777777778
+CDRP-bio,5,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,5,random,rand5,6,GE,0.0
+CDRP-bio,5,random,rand5,6,Early Fusion,0.1
+CDRP-bio,5,random,rand5,6,Late Fusion,0.09777777777777778
+CDRP-bio,5,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,5,ranked,r0,7,GE,0.08928571428571429
+CDRP-bio,5,ranked,r0,7,Early Fusion,0.21428571428571425
+CDRP-bio,5,ranked,r0,7,Late Fusion,0.19047619047619047
+CDRP-bio,5,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,5,random,rand1,7,GE,0.07692307692307693
+CDRP-bio,5,random,rand1,7,Early Fusion,0.21428571428571425
+CDRP-bio,5,random,rand1,7,Late Fusion,0.19047619047619047
+CDRP-bio,5,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,5,random,rand2,7,GE,0.02222222222222222
+CDRP-bio,5,random,rand2,7,Early Fusion,0.21428571428571425
+CDRP-bio,5,random,rand2,7,Late Fusion,0.19047619047619047
+CDRP-bio,5,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,5,random,rand3,7,GE,0.0625
+CDRP-bio,5,random,rand3,7,Early Fusion,0.21428571428571425
+CDRP-bio,5,random,rand3,7,Late Fusion,0.17142857142857143
+CDRP-bio,5,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,5,random,rand4,7,GE,0.01111111111111111
+CDRP-bio,5,random,rand4,7,Early Fusion,0.19047619047619047
+CDRP-bio,5,random,rand4,7,Late Fusion,0.17142857142857143
+CDRP-bio,5,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,5,random,rand5,7,GE,0.0
+CDRP-bio,5,random,rand5,7,Early Fusion,0.21428571428571425
+CDRP-bio,5,random,rand5,7,Late Fusion,0.1711111111111111
+CDRP-bio,5,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,5,ranked,r0,8,GE,0.11190476190476188
+CDRP-bio,5,ranked,r0,8,Early Fusion,0.20833333333333331
+CDRP-bio,5,ranked,r0,8,Late Fusion,0.20512820512820512
+CDRP-bio,5,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,5,random,rand1,8,GE,0.047619047619047616
+CDRP-bio,5,random,rand1,8,Early Fusion,0.20833333333333331
+CDRP-bio,5,random,rand1,8,Late Fusion,0.2292517006802721
+CDRP-bio,5,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,5,random,rand2,8,GE,0.0
+CDRP-bio,5,random,rand2,8,Early Fusion,0.20833333333333331
+CDRP-bio,5,random,rand2,8,Late Fusion,0.24688644688644687
+CDRP-bio,5,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,5,random,rand3,8,GE,0.05128205128205128
+CDRP-bio,5,random,rand3,8,Early Fusion,0.20833333333333331
+CDRP-bio,5,random,rand3,8,Late Fusion,0.23076923076923078
+CDRP-bio,5,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,5,random,rand4,8,GE,0.04888888888888889
+CDRP-bio,5,random,rand4,8,Early Fusion,0.20833333333333331
+CDRP-bio,5,random,rand4,8,Late Fusion,0.20512820512820512
+CDRP-bio,5,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,5,random,rand5,8,GE,0.06111111111111111
+CDRP-bio,5,random,rand5,8,Early Fusion,0.19999999999999998
+CDRP-bio,5,random,rand5,8,Late Fusion,0.21904761904761902
+CDRP-bio,5,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,5,ranked,r0,9,GE,0.11904761904761904
+CDRP-bio,5,ranked,r0,9,Early Fusion,0.14600550964187328
+CDRP-bio,5,ranked,r0,9,Late Fusion,0.13675213675213674
+CDRP-bio,5,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,5,random,rand1,9,GE,0.07692307692307693
+CDRP-bio,5,random,rand1,9,Early Fusion,0.11721611721611722
+CDRP-bio,5,random,rand1,9,Late Fusion,0.13675213675213674
+CDRP-bio,5,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,5,random,rand2,9,GE,0.03333333333333333
+CDRP-bio,5,random,rand2,9,Early Fusion,0.06593406593406594
+CDRP-bio,5,random,rand2,9,Late Fusion,0.12698412698412698
+CDRP-bio,5,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,5,random,rand3,9,GE,0.08333333333333333
+CDRP-bio,5,random,rand3,9,Early Fusion,0.11721611721611722
+CDRP-bio,5,random,rand3,9,Late Fusion,0.13675213675213674
+CDRP-bio,5,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,5,random,rand4,9,GE,0.07692307692307693
+CDRP-bio,5,random,rand4,9,Early Fusion,0.10238095238095238
+CDRP-bio,5,random,rand4,9,Late Fusion,0.18518518518518517
+CDRP-bio,5,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,5,random,rand5,9,GE,0.05555555555555555
+CDRP-bio,5,random,rand5,9,Early Fusion,0.07226107226107226
+CDRP-bio,5,random,rand5,9,Late Fusion,0.10317460317460317
+CDRP-bio,5,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,5,ranked,r0,10,GE,0.07692307692307693
+CDRP-bio,5,ranked,r0,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,ranked,r0,10,Late Fusion,0.11428571428571428
+CDRP-bio,5,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,5,random,rand1,10,GE,0.11538461538461539
+CDRP-bio,5,random,rand1,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,random,rand1,10,Late Fusion,0.11333333333333333
+CDRP-bio,5,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,5,random,rand2,10,GE,0.051587301587301584
+CDRP-bio,5,random,rand2,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,random,rand2,10,Late Fusion,0.14285714285714285
+CDRP-bio,5,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,5,random,rand3,10,GE,0.08974358974358973
+CDRP-bio,5,random,rand3,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,random,rand3,10,Late Fusion,0.14285714285714285
+CDRP-bio,5,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,5,random,rand4,10,GE,0.07539682539682539
+CDRP-bio,5,random,rand4,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,random,rand4,10,Late Fusion,0.14285714285714285
+CDRP-bio,5,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,5,random,rand5,10,GE,0.05128205128205128
+CDRP-bio,5,random,rand5,10,Early Fusion,0.06526806526806526
+CDRP-bio,5,random,rand5,10,Late Fusion,0.14395604395604394
+CDRP-bio,10,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,10,ranked,r0,1,GE,0.1992063492063492
+CDRP-bio,10,ranked,r0,1,Early Fusion,0.1346153846153846
+CDRP-bio,10,ranked,r0,1,Late Fusion,0.07692307692307693
+CDRP-bio,10,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,10,random,rand1,1,GE,0.05000000000000001
+CDRP-bio,10,random,rand1,1,Early Fusion,0.1346153846153846
+CDRP-bio,10,random,rand1,1,Late Fusion,0.06666666666666667
+CDRP-bio,10,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,10,random,rand2,1,GE,0.08241758241758242
+CDRP-bio,10,random,rand2,1,Early Fusion,0.13247863247863248
+CDRP-bio,10,random,rand2,1,Late Fusion,0.09523809523809523
+CDRP-bio,10,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,10,random,rand3,1,GE,0.1111111111111111
+CDRP-bio,10,random,rand3,1,Early Fusion,0.13247863247863248
+CDRP-bio,10,random,rand3,1,Late Fusion,0.09523809523809523
+CDRP-bio,10,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,10,random,rand4,1,GE,0.058823529411764705
+CDRP-bio,10,random,rand4,1,Early Fusion,0.13247863247863248
+CDRP-bio,10,random,rand4,1,Late Fusion,0.07142857142857142
+CDRP-bio,10,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,10,random,rand5,1,GE,0.025
+CDRP-bio,10,random,rand5,1,Early Fusion,0.13247863247863248
+CDRP-bio,10,random,rand5,1,Late Fusion,0.0625
+CDRP-bio,10,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,10,ranked,r0,2,GE,0.028571428571428574
+CDRP-bio,10,ranked,r0,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,10,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,10,random,rand1,2,GE,0.0
+CDRP-bio,10,random,rand1,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,random,rand1,2,Late Fusion,0.13333333333333333
+CDRP-bio,10,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,10,random,rand2,2,GE,0.0
+CDRP-bio,10,random,rand2,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,random,rand2,2,Late Fusion,0.16666666666666666
+CDRP-bio,10,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,10,random,rand3,2,GE,0.023809523809523808
+CDRP-bio,10,random,rand3,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,random,rand3,2,Late Fusion,0.16666666666666666
+CDRP-bio,10,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,10,random,rand4,2,GE,0.0
+CDRP-bio,10,random,rand4,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,random,rand4,2,Late Fusion,0.13333333333333333
+CDRP-bio,10,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,10,random,rand5,2,GE,0.0
+CDRP-bio,10,random,rand5,2,Early Fusion,0.09333333333333332
+CDRP-bio,10,random,rand5,2,Late Fusion,0.13333333333333333
+CDRP-bio,10,ranked,r0,3,CP,0.125
+CDRP-bio,10,ranked,r0,3,GE,0.13846153846153847
+CDRP-bio,10,ranked,r0,3,Early Fusion,0.0625
+CDRP-bio,10,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,10,random,rand1,3,CP,0.125
+CDRP-bio,10,random,rand1,3,GE,0.07111111111111111
+CDRP-bio,10,random,rand1,3,Early Fusion,0.10416666666666666
+CDRP-bio,10,random,rand1,3,Late Fusion,0.15625
+CDRP-bio,10,random,rand2,3,CP,0.125
+CDRP-bio,10,random,rand2,3,GE,0.0
+CDRP-bio,10,random,rand2,3,Early Fusion,0.10416666666666666
+CDRP-bio,10,random,rand2,3,Late Fusion,0.15625
+CDRP-bio,10,random,rand3,3,CP,0.125
+CDRP-bio,10,random,rand3,3,GE,0.0196078431372549
+CDRP-bio,10,random,rand3,3,Early Fusion,0.10416666666666666
+CDRP-bio,10,random,rand3,3,Late Fusion,0.12507936507936507
+CDRP-bio,10,random,rand4,3,CP,0.125
+CDRP-bio,10,random,rand4,3,GE,0.0642857142857143
+CDRP-bio,10,random,rand4,3,Early Fusion,0.10416666666666666
+CDRP-bio,10,random,rand4,3,Late Fusion,0.12202380952380952
+CDRP-bio,10,random,rand5,3,CP,0.125
+CDRP-bio,10,random,rand5,3,GE,0.07777777777777777
+CDRP-bio,10,random,rand5,3,Early Fusion,0.10416666666666666
+CDRP-bio,10,random,rand5,3,Late Fusion,0.14285714285714285
+CDRP-bio,10,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,10,ranked,r0,4,GE,0.05952380952380952
+CDRP-bio,10,ranked,r0,4,Early Fusion,0.14358974358974358
+CDRP-bio,10,ranked,r0,4,Late Fusion,0.11904761904761904
+CDRP-bio,10,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,10,random,rand1,4,GE,0.007518796992481203
+CDRP-bio,10,random,rand1,4,Early Fusion,0.11794871794871795
+CDRP-bio,10,random,rand1,4,Late Fusion,0.11555555555555556
+CDRP-bio,10,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,10,random,rand2,4,GE,0.006578947368421052
+CDRP-bio,10,random,rand2,4,Early Fusion,0.09206349206349206
+CDRP-bio,10,random,rand2,4,Late Fusion,0.0625
+CDRP-bio,10,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,10,random,rand3,4,GE,0.0
+CDRP-bio,10,random,rand3,4,Early Fusion,0.13333333333333333
+CDRP-bio,10,random,rand3,4,Late Fusion,0.11190476190476191
+CDRP-bio,10,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,10,random,rand4,4,GE,0.0
+CDRP-bio,10,random,rand4,4,Early Fusion,0.1474358974358974
+CDRP-bio,10,random,rand4,4,Late Fusion,0.11190476190476191
+CDRP-bio,10,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,10,random,rand5,4,GE,0.041666666666666664
+CDRP-bio,10,random,rand5,4,Early Fusion,0.16944444444444443
+CDRP-bio,10,random,rand5,4,Late Fusion,0.14615384615384613
+CDRP-bio,10,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,10,ranked,r0,5,GE,0.155011655011655
+CDRP-bio,10,ranked,r0,5,Early Fusion,0.17777777777777776
+CDRP-bio,10,ranked,r0,5,Late Fusion,0.2394957983193277
+CDRP-bio,10,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,10,random,rand1,5,GE,0.16462585034013605
+CDRP-bio,10,random,rand1,5,Early Fusion,0.16666666666666666
+CDRP-bio,10,random,rand1,5,Late Fusion,0.23039215686274506
+CDRP-bio,10,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,10,random,rand2,5,GE,0.0625
+CDRP-bio,10,random,rand2,5,Early Fusion,0.16666666666666666
+CDRP-bio,10,random,rand2,5,Late Fusion,0.21777777777777774
+CDRP-bio,10,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,10,random,rand3,5,GE,0.09999999999999999
+CDRP-bio,10,random,rand3,5,Early Fusion,0.16666666666666666
+CDRP-bio,10,random,rand3,5,Late Fusion,0.16666666666666666
+CDRP-bio,10,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,10,random,rand4,5,GE,0.023529411764705882
+CDRP-bio,10,random,rand4,5,Early Fusion,0.16666666666666666
+CDRP-bio,10,random,rand4,5,Late Fusion,0.17555555555555555
+CDRP-bio,10,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,10,random,rand5,5,GE,0.11333333333333334
+CDRP-bio,10,random,rand5,5,Early Fusion,0.16666666666666666
+CDRP-bio,10,random,rand5,5,Late Fusion,0.2571428571428571
+CDRP-bio,10,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,10,ranked,r0,6,GE,0.028571428571428574
+CDRP-bio,10,ranked,r0,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,ranked,r0,6,Late Fusion,0.1111111111111111
+CDRP-bio,10,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,10,random,rand1,6,GE,0.05396825396825397
+CDRP-bio,10,random,rand1,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,random,rand1,6,Late Fusion,0.16428571428571428
+CDRP-bio,10,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,10,random,rand2,6,GE,0.04444444444444444
+CDRP-bio,10,random,rand2,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,random,rand2,6,Late Fusion,0.09777777777777778
+CDRP-bio,10,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,10,random,rand3,6,GE,0.11564625850340136
+CDRP-bio,10,random,rand3,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,random,rand3,6,Late Fusion,0.12444444444444444
+CDRP-bio,10,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,10,random,rand4,6,GE,0.07777777777777777
+CDRP-bio,10,random,rand4,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,random,rand4,6,Late Fusion,0.10476190476190476
+CDRP-bio,10,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,10,random,rand5,6,GE,0.05555555555555555
+CDRP-bio,10,random,rand5,6,Early Fusion,0.08666666666666667
+CDRP-bio,10,random,rand5,6,Late Fusion,0.08666666666666667
+CDRP-bio,10,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,10,ranked,r0,7,GE,0.11324786324786326
+CDRP-bio,10,ranked,r0,7,Early Fusion,0.266934046345811
+CDRP-bio,10,ranked,r0,7,Late Fusion,0.19047619047619047
+CDRP-bio,10,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,10,random,rand1,7,GE,0.06111111111111111
+CDRP-bio,10,random,rand1,7,Early Fusion,0.2830687830687831
+CDRP-bio,10,random,rand1,7,Late Fusion,0.15476190476190474
+CDRP-bio,10,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,10,random,rand2,7,GE,0.1107142857142857
+CDRP-bio,10,random,rand2,7,Early Fusion,0.2852474323062558
+CDRP-bio,10,random,rand2,7,Late Fusion,0.17777777777777776
+CDRP-bio,10,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,10,random,rand3,7,GE,0.0787878787878788
+CDRP-bio,10,random,rand3,7,Early Fusion,0.2711988304093567
+CDRP-bio,10,random,rand3,7,Late Fusion,0.17142857142857143
+CDRP-bio,10,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,10,random,rand4,7,GE,0.08571428571428572
+CDRP-bio,10,random,rand4,7,Early Fusion,0.2811194653299916
+CDRP-bio,10,random,rand4,7,Late Fusion,0.15476190476190474
+CDRP-bio,10,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,10,random,rand5,7,GE,0.11666666666666667
+CDRP-bio,10,random,rand5,7,Early Fusion,0.2793650793650793
+CDRP-bio,10,random,rand5,7,Late Fusion,0.1952380952380952
+CDRP-bio,10,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,10,ranked,r0,8,GE,0.08148148148148147
+CDRP-bio,10,ranked,r0,8,Early Fusion,0.2156862745098039
+CDRP-bio,10,ranked,r0,8,Late Fusion,0.20512820512820512
+CDRP-bio,10,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,10,random,rand1,8,GE,0.029411764705882353
+CDRP-bio,10,random,rand1,8,Early Fusion,0.2156862745098039
+CDRP-bio,10,random,rand1,8,Late Fusion,0.2161172161172161
+CDRP-bio,10,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,10,random,rand2,8,GE,0.13174603174603175
+CDRP-bio,10,random,rand2,8,Early Fusion,0.20277777777777778
+CDRP-bio,10,random,rand2,8,Late Fusion,0.2006802721088435
+CDRP-bio,10,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,10,random,rand3,8,GE,0.05
+CDRP-bio,10,random,rand3,8,Early Fusion,0.2156862745098039
+CDRP-bio,10,random,rand3,8,Late Fusion,0.20512820512820512
+CDRP-bio,10,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,10,random,rand4,8,GE,0.047619047619047616
+CDRP-bio,10,random,rand4,8,Early Fusion,0.2648809523809524
+CDRP-bio,10,random,rand4,8,Late Fusion,0.19047619047619047
+CDRP-bio,10,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,10,random,rand5,8,GE,0.047619047619047616
+CDRP-bio,10,random,rand5,8,Early Fusion,0.2156862745098039
+CDRP-bio,10,random,rand5,8,Late Fusion,0.19047619047619047
+CDRP-bio,10,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,10,ranked,r0,9,GE,0.15384615384615385
+CDRP-bio,10,ranked,r0,9,Early Fusion,0.11794871794871795
+CDRP-bio,10,ranked,r0,9,Late Fusion,0.13630229419703102
+CDRP-bio,10,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,10,random,rand1,9,GE,0.09333333333333332
+CDRP-bio,10,random,rand1,9,Early Fusion,0.11794871794871795
+CDRP-bio,10,random,rand1,9,Late Fusion,0.13675213675213674
+CDRP-bio,10,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,10,random,rand2,9,GE,0.07142857142857142
+CDRP-bio,10,random,rand2,9,Early Fusion,0.059379217273954114
+CDRP-bio,10,random,rand2,9,Late Fusion,0.1984126984126984
+CDRP-bio,10,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,10,random,rand3,9,GE,0.0
+CDRP-bio,10,random,rand3,9,Early Fusion,0.11988304093567252
+CDRP-bio,10,random,rand3,9,Late Fusion,0.12698412698412698
+CDRP-bio,10,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,10,random,rand4,9,GE,0.09333333333333332
+CDRP-bio,10,random,rand4,9,Early Fusion,0.11794871794871795
+CDRP-bio,10,random,rand4,9,Late Fusion,0.12698412698412698
+CDRP-bio,10,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,10,random,rand5,9,GE,0.02222222222222222
+CDRP-bio,10,random,rand5,9,Early Fusion,0.12777777777777777
+CDRP-bio,10,random,rand5,9,Late Fusion,0.1623931623931624
+CDRP-bio,10,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,10,ranked,r0,10,GE,0.14615384615384616
+CDRP-bio,10,ranked,r0,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,ranked,r0,10,Late Fusion,0.11052631578947367
+CDRP-bio,10,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,10,random,rand1,10,GE,0.11843137254901961
+CDRP-bio,10,random,rand1,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,random,rand1,10,Late Fusion,0.13968253968253969
+CDRP-bio,10,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,10,random,rand2,10,GE,0.13333333333333333
+CDRP-bio,10,random,rand2,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,random,rand2,10,Late Fusion,0.11000000000000001
+CDRP-bio,10,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,10,random,rand3,10,GE,0.0404040404040404
+CDRP-bio,10,random,rand3,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,random,rand3,10,Late Fusion,0.07777777777777777
+CDRP-bio,10,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,10,random,rand4,10,GE,0.09917355371900825
+CDRP-bio,10,random,rand4,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,random,rand4,10,Late Fusion,0.10952380952380954
+CDRP-bio,10,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,10,random,rand5,10,GE,0.009090909090909092
+CDRP-bio,10,random,rand5,10,Early Fusion,0.1427536231884058
+CDRP-bio,10,random,rand5,10,Late Fusion,0.11000000000000001
+CDRP-bio,15,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,15,ranked,r0,1,GE,0.22222222222222224
+CDRP-bio,15,ranked,r0,1,Early Fusion,0.13095238095238093
+CDRP-bio,15,ranked,r0,1,Late Fusion,0.07692307692307693
+CDRP-bio,15,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,15,random,rand1,1,GE,0.125
+CDRP-bio,15,random,rand1,1,Early Fusion,0.1369047619047619
+CDRP-bio,15,random,rand1,1,Late Fusion,0.11224489795918367
+CDRP-bio,15,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,15,random,rand2,1,GE,0.06666666666666667
+CDRP-bio,15,random,rand2,1,Early Fusion,0.12797619047619047
+CDRP-bio,15,random,rand2,1,Late Fusion,0.09999999999999999
+CDRP-bio,15,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,15,random,rand3,1,GE,0.1607142857142857
+CDRP-bio,15,random,rand3,1,Early Fusion,0.1330891330891331
+CDRP-bio,15,random,rand3,1,Late Fusion,0.11785714285714285
+CDRP-bio,15,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,15,random,rand4,1,GE,0.058823529411764705
+CDRP-bio,15,random,rand4,1,Early Fusion,0.14615384615384613
+CDRP-bio,15,random,rand4,1,Late Fusion,0.11111111111111112
+CDRP-bio,15,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,15,random,rand5,1,GE,0.11538461538461539
+CDRP-bio,15,random,rand5,1,Early Fusion,0.12811791383219956
+CDRP-bio,15,random,rand5,1,Late Fusion,0.06666666666666667
+CDRP-bio,15,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,15,ranked,r0,2,GE,0.038461538461538464
+CDRP-bio,15,ranked,r0,2,Early Fusion,0.0625
+CDRP-bio,15,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,15,random,rand1,2,GE,0.13095238095238093
+CDRP-bio,15,random,rand1,2,Early Fusion,0.14814814814814817
+CDRP-bio,15,random,rand1,2,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,15,random,rand2,2,GE,0.1111111111111111
+CDRP-bio,15,random,rand2,2,Early Fusion,0.0625
+CDRP-bio,15,random,rand2,2,Late Fusion,0.0763888888888889
+CDRP-bio,15,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,15,random,rand3,2,GE,0.0
+CDRP-bio,15,random,rand3,2,Early Fusion,0.16
+CDRP-bio,15,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,15,random,rand4,2,GE,0.10769230769230768
+CDRP-bio,15,random,rand4,2,Early Fusion,0.08148148148148149
+CDRP-bio,15,random,rand4,2,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,15,random,rand5,2,GE,0.0989010989010989
+CDRP-bio,15,random,rand5,2,Early Fusion,0.0625
+CDRP-bio,15,random,rand5,2,Late Fusion,0.2
+CDRP-bio,15,ranked,r0,3,CP,0.125
+CDRP-bio,15,ranked,r0,3,GE,0.1625
+CDRP-bio,15,ranked,r0,3,Early Fusion,0.14583333333333331
+CDRP-bio,15,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,15,random,rand1,3,CP,0.125
+CDRP-bio,15,random,rand1,3,GE,0.07142857142857142
+CDRP-bio,15,random,rand1,3,Early Fusion,0.12916666666666665
+CDRP-bio,15,random,rand1,3,Late Fusion,0.12916666666666665
+CDRP-bio,15,random,rand2,3,CP,0.125
+CDRP-bio,15,random,rand2,3,GE,0.09333333333333332
+CDRP-bio,15,random,rand2,3,Early Fusion,0.14166666666666666
+CDRP-bio,15,random,rand2,3,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand3,3,CP,0.125
+CDRP-bio,15,random,rand3,3,GE,0.047619047619047616
+CDRP-bio,15,random,rand3,3,Early Fusion,0.1380952380952381
+CDRP-bio,15,random,rand3,3,Late Fusion,0.12444444444444443
+CDRP-bio,15,random,rand4,3,CP,0.125
+CDRP-bio,15,random,rand4,3,GE,0.15476190476190474
+CDRP-bio,15,random,rand4,3,Early Fusion,0.12202380952380952
+CDRP-bio,15,random,rand4,3,Late Fusion,0.14583333333333331
+CDRP-bio,15,random,rand5,3,CP,0.125
+CDRP-bio,15,random,rand5,3,GE,0.09333333333333332
+CDRP-bio,15,random,rand5,3,Early Fusion,0.14166666666666666
+CDRP-bio,15,random,rand5,3,Late Fusion,0.12916666666666665
+CDRP-bio,15,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,15,ranked,r0,4,GE,0.028571428571428574
+CDRP-bio,15,ranked,r0,4,Early Fusion,0.18055555555555555
+CDRP-bio,15,ranked,r0,4,Late Fusion,0.14285714285714285
+CDRP-bio,15,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,15,random,rand1,4,GE,0.0
+CDRP-bio,15,random,rand1,4,Early Fusion,0.18055555555555555
+CDRP-bio,15,random,rand1,4,Late Fusion,0.13888888888888887
+CDRP-bio,15,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,15,random,rand2,4,GE,0.0
+CDRP-bio,15,random,rand2,4,Early Fusion,0.18055555555555555
+CDRP-bio,15,random,rand2,4,Late Fusion,0.11190476190476191
+CDRP-bio,15,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,15,random,rand3,4,GE,0.007518796992481203
+CDRP-bio,15,random,rand3,4,Early Fusion,0.18055555555555555
+CDRP-bio,15,random,rand3,4,Late Fusion,0.1282051282051282
+CDRP-bio,15,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,15,random,rand4,4,GE,0.0
+CDRP-bio,15,random,rand4,4,Early Fusion,0.11538461538461539
+CDRP-bio,15,random,rand4,4,Late Fusion,0.11190476190476191
+CDRP-bio,15,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,15,random,rand5,4,GE,0.0
+CDRP-bio,15,random,rand5,4,Early Fusion,0.16666666666666666
+CDRP-bio,15,random,rand5,4,Late Fusion,0.10897435897435896
+CDRP-bio,15,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,15,ranked,r0,5,GE,0.11458333333333331
+CDRP-bio,15,ranked,r0,5,Early Fusion,0.17857142857142855
+CDRP-bio,15,ranked,r0,5,Late Fusion,0.23464052287581696
+CDRP-bio,15,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,15,random,rand1,5,GE,0.13333333333333333
+CDRP-bio,15,random,rand1,5,Early Fusion,0.17619047619047618
+CDRP-bio,15,random,rand1,5,Late Fusion,0.22732843137254902
+CDRP-bio,15,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,15,random,rand2,5,GE,0.13111111111111112
+CDRP-bio,15,random,rand2,5,Early Fusion,0.17857142857142858
+CDRP-bio,15,random,rand2,5,Late Fusion,0.2457516339869281
+CDRP-bio,15,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,15,random,rand3,5,GE,0.03333333333333333
+CDRP-bio,15,random,rand3,5,Early Fusion,0.17857142857142858
+CDRP-bio,15,random,rand3,5,Late Fusion,0.24074074074074073
+CDRP-bio,15,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,15,random,rand4,5,GE,0.05
+CDRP-bio,15,random,rand4,5,Early Fusion,0.17857142857142855
+CDRP-bio,15,random,rand4,5,Late Fusion,0.20098039215686272
+CDRP-bio,15,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,15,random,rand5,5,GE,0.09333333333333332
+CDRP-bio,15,random,rand5,5,Early Fusion,0.17857142857142855
+CDRP-bio,15,random,rand5,5,Late Fusion,0.21999999999999995
+CDRP-bio,15,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,15,ranked,r0,6,GE,0.11282051282051284
+CDRP-bio,15,ranked,r0,6,Early Fusion,0.09166666666666667
+CDRP-bio,15,ranked,r0,6,Late Fusion,0.09777777777777778
+CDRP-bio,15,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,15,random,rand1,6,GE,0.13015873015873014
+CDRP-bio,15,random,rand1,6,Early Fusion,0.08666666666666667
+CDRP-bio,15,random,rand1,6,Late Fusion,0.1142857142857143
+CDRP-bio,15,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,15,random,rand2,6,GE,0.0
+CDRP-bio,15,random,rand2,6,Early Fusion,0.09166666666666667
+CDRP-bio,15,random,rand2,6,Late Fusion,0.1
+CDRP-bio,15,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,15,random,rand3,6,GE,0.08392857142857144
+CDRP-bio,15,random,rand3,6,Early Fusion,0.08666666666666667
+CDRP-bio,15,random,rand3,6,Late Fusion,0.09777777777777778
+CDRP-bio,15,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,15,random,rand4,6,GE,0.0
+CDRP-bio,15,random,rand4,6,Early Fusion,0.09166666666666667
+CDRP-bio,15,random,rand4,6,Late Fusion,0.09166666666666667
+CDRP-bio,15,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,15,random,rand5,6,GE,0.12040816326530611
+CDRP-bio,15,random,rand5,6,Early Fusion,0.09166666666666667
+CDRP-bio,15,random,rand5,6,Late Fusion,0.09777777777777778
+CDRP-bio,15,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,15,ranked,r0,7,GE,0.11904761904761904
+CDRP-bio,15,ranked,r0,7,Early Fusion,0.13095238095238093
+CDRP-bio,15,ranked,r0,7,Late Fusion,0.1870748299319728
+CDRP-bio,15,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,15,random,rand1,7,GE,0.16874236874236875
+CDRP-bio,15,random,rand1,7,Early Fusion,0.18717948717948715
+CDRP-bio,15,random,rand1,7,Late Fusion,0.19047619047619047
+CDRP-bio,15,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,15,random,rand2,7,GE,0.016666666666666666
+CDRP-bio,15,random,rand2,7,Early Fusion,0.13852813852813853
+CDRP-bio,15,random,rand2,7,Late Fusion,0.19047619047619047
+CDRP-bio,15,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,15,random,rand3,7,GE,0.019047619047619046
+CDRP-bio,15,random,rand3,7,Early Fusion,0.19017094017094013
+CDRP-bio,15,random,rand3,7,Late Fusion,0.15952380952380954
+CDRP-bio,15,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,15,random,rand4,7,GE,0.14571428571428574
+CDRP-bio,15,random,rand4,7,Early Fusion,0.19120879120879122
+CDRP-bio,15,random,rand4,7,Late Fusion,0.19047619047619047
+CDRP-bio,15,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,15,random,rand5,7,GE,0.04444444444444444
+CDRP-bio,15,random,rand5,7,Early Fusion,0.19120879120879122
+CDRP-bio,15,random,rand5,7,Late Fusion,0.19047619047619047
+CDRP-bio,15,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,15,ranked,r0,8,GE,0.0857142857142857
+CDRP-bio,15,ranked,r0,8,Early Fusion,0.24829931972789113
+CDRP-bio,15,ranked,r0,8,Late Fusion,0.2358974358974359
+CDRP-bio,15,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,15,random,rand1,8,GE,0.041666666666666664
+CDRP-bio,15,random,rand1,8,Early Fusion,0.23174603174603173
+CDRP-bio,15,random,rand1,8,Late Fusion,0.2006802721088435
+CDRP-bio,15,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,15,random,rand2,8,GE,0.03571428571428571
+CDRP-bio,15,random,rand2,8,Early Fusion,0.23174603174603173
+CDRP-bio,15,random,rand2,8,Late Fusion,0.2292517006802721
+CDRP-bio,15,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,15,random,rand3,8,GE,0.06111111111111111
+CDRP-bio,15,random,rand3,8,Early Fusion,0.23174603174603173
+CDRP-bio,15,random,rand3,8,Late Fusion,0.2161172161172161
+CDRP-bio,15,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,15,random,rand4,8,GE,0.05128205128205128
+CDRP-bio,15,random,rand4,8,Early Fusion,0.24829931972789113
+CDRP-bio,15,random,rand4,8,Late Fusion,0.19047619047619047
+CDRP-bio,15,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,15,random,rand5,8,GE,0.0625
+CDRP-bio,15,random,rand5,8,Early Fusion,0.23174603174603173
+CDRP-bio,15,random,rand5,8,Late Fusion,0.20512820512820512
+CDRP-bio,15,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,15,ranked,r0,9,GE,0.14957264957264957
+CDRP-bio,15,ranked,r0,9,Early Fusion,0.13630229419703102
+CDRP-bio,15,ranked,r0,9,Late Fusion,0.13675213675213674
+CDRP-bio,15,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,15,random,rand1,9,GE,0.09333333333333332
+CDRP-bio,15,random,rand1,9,Early Fusion,0.15553306342780024
+CDRP-bio,15,random,rand1,9,Late Fusion,0.12698412698412698
+CDRP-bio,15,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,15,random,rand2,9,GE,0.07692307692307693
+CDRP-bio,15,random,rand2,9,Early Fusion,0.13263929053402737
+CDRP-bio,15,random,rand2,9,Late Fusion,0.13675213675213674
+CDRP-bio,15,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,15,random,rand3,9,GE,0.0606060606060606
+CDRP-bio,15,random,rand3,9,Early Fusion,0.13503455608718765
+CDRP-bio,15,random,rand3,9,Late Fusion,0.13333333333333333
+CDRP-bio,15,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,15,random,rand4,9,GE,0.047619047619047616
+CDRP-bio,15,random,rand4,9,Early Fusion,0.12775528565002248
+CDRP-bio,15,random,rand4,9,Late Fusion,0.12698412698412698
+CDRP-bio,15,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,15,random,rand5,9,GE,0.3055555555555555
+CDRP-bio,15,random,rand5,9,Early Fusion,0.13717627401837926
+CDRP-bio,15,random,rand5,9,Late Fusion,0.1746031746031746
+CDRP-bio,15,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,15,ranked,r0,10,GE,0.06746031746031746
+CDRP-bio,15,ranked,r0,10,Early Fusion,0.07142857142857142
+CDRP-bio,15,ranked,r0,10,Late Fusion,0.11333333333333333
+CDRP-bio,15,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,15,random,rand1,10,GE,0.09615384615384615
+CDRP-bio,15,random,rand1,10,Early Fusion,0.07692307692307693
+CDRP-bio,15,random,rand1,10,Late Fusion,0.1403361344537815
+CDRP-bio,15,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,15,random,rand2,10,GE,0.19138755980861244
+CDRP-bio,15,random,rand2,10,Early Fusion,0.07142857142857142
+CDRP-bio,15,random,rand2,10,Late Fusion,0.1125
+CDRP-bio,15,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,15,random,rand3,10,GE,0.06837606837606837
+CDRP-bio,15,random,rand3,10,Early Fusion,0.07692307692307693
+CDRP-bio,15,random,rand3,10,Late Fusion,0.1125
+CDRP-bio,15,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,15,random,rand4,10,GE,0.08875739644970414
+CDRP-bio,15,random,rand4,10,Early Fusion,0.07142857142857142
+CDRP-bio,15,random,rand4,10,Late Fusion,0.14583333333333331
+CDRP-bio,15,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,15,random,rand5,10,GE,0.09615384615384615
+CDRP-bio,15,random,rand5,10,Early Fusion,0.07142857142857142
+CDRP-bio,15,random,rand5,10,Late Fusion,0.1125
+CDRP-bio,20,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,20,ranked,r0,1,GE,0.2388888888888889
+CDRP-bio,20,ranked,r0,1,Early Fusion,0.10714285714285714
+CDRP-bio,20,ranked,r0,1,Late Fusion,0.12478632478632479
+CDRP-bio,20,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,20,random,rand1,1,GE,0.11904761904761904
+CDRP-bio,20,random,rand1,1,Early Fusion,0.14335664335664336
+CDRP-bio,20,random,rand1,1,Late Fusion,0.10222222222222221
+CDRP-bio,20,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,20,random,rand2,1,GE,0.16666666666666666
+CDRP-bio,20,random,rand2,1,Early Fusion,0.13821892393320964
+CDRP-bio,20,random,rand2,1,Late Fusion,0.09523809523809523
+CDRP-bio,20,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,20,random,rand3,1,GE,0.04444444444444444
+CDRP-bio,20,random,rand3,1,Early Fusion,0.10952380952380951
+CDRP-bio,20,random,rand3,1,Late Fusion,0.08730158730158731
+CDRP-bio,20,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,20,random,rand4,1,GE,0.10416666666666666
+CDRP-bio,20,random,rand4,1,Early Fusion,0.1401098901098901
+CDRP-bio,20,random,rand4,1,Late Fusion,0.08730158730158731
+CDRP-bio,20,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,20,random,rand5,1,GE,0.0875
+CDRP-bio,20,random,rand5,1,Early Fusion,0.13265306122448978
+CDRP-bio,20,random,rand5,1,Late Fusion,0.10769230769230768
+CDRP-bio,20,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,20,ranked,r0,2,GE,0.0
+CDRP-bio,20,ranked,r0,2,Early Fusion,0.15555555555555553
+CDRP-bio,20,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,20,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,20,random,rand1,2,GE,0.0
+CDRP-bio,20,random,rand1,2,Early Fusion,0.15784313725490196
+CDRP-bio,20,random,rand1,2,Late Fusion,0.13333333333333333
+CDRP-bio,20,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,20,random,rand2,2,GE,0.05952380952380952
+CDRP-bio,20,random,rand2,2,Early Fusion,0.1411764705882353
+CDRP-bio,20,random,rand2,2,Late Fusion,0.13333333333333333
+CDRP-bio,20,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,20,random,rand3,2,GE,0.041666666666666664
+CDRP-bio,20,random,rand3,2,Early Fusion,0.13333333333333333
+CDRP-bio,20,random,rand3,2,Late Fusion,0.15
+CDRP-bio,20,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,20,random,rand4,2,GE,0.0
+CDRP-bio,20,random,rand4,2,Early Fusion,0.13333333333333333
+CDRP-bio,20,random,rand4,2,Late Fusion,0.0625
+CDRP-bio,20,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,20,random,rand5,2,GE,0.02222222222222222
+CDRP-bio,20,random,rand5,2,Early Fusion,0.16
+CDRP-bio,20,random,rand5,2,Late Fusion,0.13333333333333333
+CDRP-bio,20,ranked,r0,3,CP,0.125
+CDRP-bio,20,ranked,r0,3,GE,0.13333333333333333
+CDRP-bio,20,ranked,r0,3,Early Fusion,0.0875
+CDRP-bio,20,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,20,random,rand1,3,CP,0.125
+CDRP-bio,20,random,rand1,3,GE,0.04444444444444444
+CDRP-bio,20,random,rand1,3,Early Fusion,0.11805555555555555
+CDRP-bio,20,random,rand1,3,Late Fusion,0.14285714285714285
+CDRP-bio,20,random,rand2,3,CP,0.125
+CDRP-bio,20,random,rand2,3,GE,0.15476190476190474
+CDRP-bio,20,random,rand2,3,Early Fusion,0.125
+CDRP-bio,20,random,rand2,3,Late Fusion,0.14444444444444443
+CDRP-bio,20,random,rand3,3,CP,0.125
+CDRP-bio,20,random,rand3,3,GE,0.047619047619047616
+CDRP-bio,20,random,rand3,3,Early Fusion,0.12916666666666665
+CDRP-bio,20,random,rand3,3,Late Fusion,0.15238095238095237
+CDRP-bio,20,random,rand4,3,CP,0.125
+CDRP-bio,20,random,rand4,3,GE,0.05555555555555555
+CDRP-bio,20,random,rand4,3,Early Fusion,0.11979166666666666
+CDRP-bio,20,random,rand4,3,Late Fusion,0.11458333333333333
+CDRP-bio,20,random,rand5,3,CP,0.125
+CDRP-bio,20,random,rand5,3,GE,0.0875
+CDRP-bio,20,random,rand5,3,Early Fusion,0.125
+CDRP-bio,20,random,rand5,3,Late Fusion,0.12916666666666665
+CDRP-bio,20,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,20,ranked,r0,4,GE,0.041666666666666664
+CDRP-bio,20,ranked,r0,4,Early Fusion,0.11538461538461539
+CDRP-bio,20,ranked,r0,4,Late Fusion,0.14285714285714285
+CDRP-bio,20,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,20,random,rand1,4,GE,0.007518796992481203
+CDRP-bio,20,random,rand1,4,Early Fusion,0.10256410256410256
+CDRP-bio,20,random,rand1,4,Late Fusion,0.11282051282051284
+CDRP-bio,20,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,20,random,rand2,4,GE,0.05146198830409356
+CDRP-bio,20,random,rand2,4,Early Fusion,0.11538461538461539
+CDRP-bio,20,random,rand2,4,Late Fusion,0.11282051282051284
+CDRP-bio,20,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,20,random,rand3,4,GE,0.0
+CDRP-bio,20,random,rand3,4,Early Fusion,0.125
+CDRP-bio,20,random,rand3,4,Late Fusion,0.19230769230769232
+CDRP-bio,20,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,20,random,rand4,4,GE,0.0
+CDRP-bio,20,random,rand4,4,Early Fusion,0.20040485829959515
+CDRP-bio,20,random,rand4,4,Late Fusion,0.11538461538461539
+CDRP-bio,20,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,20,random,rand5,4,GE,0.0
+CDRP-bio,20,random,rand5,4,Early Fusion,0.10769230769230768
+CDRP-bio,20,random,rand5,4,Late Fusion,0.11190476190476191
+CDRP-bio,20,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,20,ranked,r0,5,GE,0.09375
+CDRP-bio,20,ranked,r0,5,Early Fusion,0.17857142857142855
+CDRP-bio,20,ranked,r0,5,Late Fusion,0.21354166666666666
+CDRP-bio,20,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,20,random,rand1,5,GE,0.07142857142857142
+CDRP-bio,20,random,rand1,5,Early Fusion,0.16666666666666663
+CDRP-bio,20,random,rand1,5,Late Fusion,0.19791666666666666
+CDRP-bio,20,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,20,random,rand2,5,GE,0.16666666666666666
+CDRP-bio,20,random,rand2,5,Early Fusion,0.17857142857142855
+CDRP-bio,20,random,rand2,5,Late Fusion,0.203125
+CDRP-bio,20,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,20,random,rand3,5,GE,0.08592592592592592
+CDRP-bio,20,random,rand3,5,Early Fusion,0.16517857142857142
+CDRP-bio,20,random,rand3,5,Late Fusion,0.17291666666666666
+CDRP-bio,20,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,20,random,rand4,5,GE,0.06111111111111111
+CDRP-bio,20,random,rand4,5,Early Fusion,0.16666666666666663
+CDRP-bio,20,random,rand4,5,Late Fusion,0.19019607843137257
+CDRP-bio,20,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,20,random,rand5,5,GE,0.10416666666666666
+CDRP-bio,20,random,rand5,5,Early Fusion,0.16666666666666663
+CDRP-bio,20,random,rand5,5,Late Fusion,0.18666666666666665
+CDRP-bio,20,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,20,ranked,r0,6,GE,0.13333333333333333
+CDRP-bio,20,ranked,r0,6,Early Fusion,0.09285714285714286
+CDRP-bio,20,ranked,r0,6,Late Fusion,0.09777777777777778
+CDRP-bio,20,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,20,random,rand1,6,GE,0.0625
+CDRP-bio,20,random,rand1,6,Early Fusion,0.08666666666666667
+CDRP-bio,20,random,rand1,6,Late Fusion,0.11666666666666667
+CDRP-bio,20,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,20,random,rand2,6,GE,0.07111111111111111
+CDRP-bio,20,random,rand2,6,Early Fusion,0.08666666666666667
+CDRP-bio,20,random,rand2,6,Late Fusion,0.11025641025641025
+CDRP-bio,20,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,20,random,rand3,6,GE,0.0
+CDRP-bio,20,random,rand3,6,Early Fusion,0.09285714285714286
+CDRP-bio,20,random,rand3,6,Late Fusion,0.1
+CDRP-bio,20,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,20,random,rand4,6,GE,0.09333333333333332
+CDRP-bio,20,random,rand4,6,Early Fusion,0.09285714285714286
+CDRP-bio,20,random,rand4,6,Late Fusion,0.09285714285714286
+CDRP-bio,20,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,20,random,rand5,6,GE,0.05208333333333333
+CDRP-bio,20,random,rand5,6,Early Fusion,0.11666666666666667
+CDRP-bio,20,random,rand5,6,Late Fusion,0.1073015873015873
+CDRP-bio,20,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,20,ranked,r0,7,GE,0.15531135531135531
+CDRP-bio,20,ranked,r0,7,Early Fusion,0.1387878787878788
+CDRP-bio,20,ranked,r0,7,Late Fusion,0.16666666666666666
+CDRP-bio,20,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,20,random,rand1,7,GE,0.19505494505494506
+CDRP-bio,20,random,rand1,7,Early Fusion,0.11190476190476192
+CDRP-bio,20,random,rand1,7,Late Fusion,0.20714285714285713
+CDRP-bio,20,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,20,random,rand2,7,GE,0.1111111111111111
+CDRP-bio,20,random,rand2,7,Early Fusion,0.14285714285714285
+CDRP-bio,20,random,rand2,7,Late Fusion,0.19047619047619047
+CDRP-bio,20,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,20,random,rand3,7,GE,0.14285714285714285
+CDRP-bio,20,random,rand3,7,Early Fusion,0.1387878787878788
+CDRP-bio,20,random,rand3,7,Late Fusion,0.15476190476190474
+CDRP-bio,20,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,20,random,rand4,7,GE,0.1722222222222222
+CDRP-bio,20,random,rand4,7,Early Fusion,0.15656565656565657
+CDRP-bio,20,random,rand4,7,Late Fusion,0.15952380952380954
+CDRP-bio,20,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,20,random,rand5,7,GE,0.10769230769230768
+CDRP-bio,20,random,rand5,7,Early Fusion,0.15555555555555556
+CDRP-bio,20,random,rand5,7,Late Fusion,0.16666666666666666
+CDRP-bio,20,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,20,ranked,r0,8,GE,0.10416666666666666
+CDRP-bio,20,ranked,r0,8,Early Fusion,0.2476190476190476
+CDRP-bio,20,ranked,r0,8,Late Fusion,0.20512820512820512
+CDRP-bio,20,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,20,random,rand1,8,GE,0.05396825396825397
+CDRP-bio,20,random,rand1,8,Early Fusion,0.23076923076923078
+CDRP-bio,20,random,rand1,8,Late Fusion,0.19047619047619047
+CDRP-bio,20,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,20,random,rand2,8,GE,0.047619047619047616
+CDRP-bio,20,random,rand2,8,Early Fusion,0.23809523809523808
+CDRP-bio,20,random,rand2,8,Late Fusion,0.2161172161172161
+CDRP-bio,20,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,20,random,rand3,8,GE,0.04513888888888889
+CDRP-bio,20,random,rand3,8,Early Fusion,0.22710622710622708
+CDRP-bio,20,random,rand3,8,Late Fusion,0.2261904761904762
+CDRP-bio,20,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,20,random,rand4,8,GE,0.10444444444444442
+CDRP-bio,20,random,rand4,8,Early Fusion,0.19047619047619047
+CDRP-bio,20,random,rand4,8,Late Fusion,0.2006802721088435
+CDRP-bio,20,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,20,random,rand5,8,GE,0.08627450980392158
+CDRP-bio,20,random,rand5,8,Early Fusion,0.22710622710622708
+CDRP-bio,20,random,rand5,8,Late Fusion,0.19047619047619047
+CDRP-bio,20,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,20,ranked,r0,9,GE,0.12156862745098038
+CDRP-bio,20,ranked,r0,9,Early Fusion,0.12656641604010024
+CDRP-bio,20,ranked,r0,9,Late Fusion,0.12698412698412698
+CDRP-bio,20,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,20,random,rand1,9,GE,0.041666666666666664
+CDRP-bio,20,random,rand1,9,Early Fusion,0.1261904761904762
+CDRP-bio,20,random,rand1,9,Late Fusion,0.12698412698412698
+CDRP-bio,20,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,20,random,rand2,9,GE,0.0625
+CDRP-bio,20,random,rand2,9,Early Fusion,0.11721611721611722
+CDRP-bio,20,random,rand2,9,Late Fusion,0.188034188034188
+CDRP-bio,20,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,20,random,rand3,9,GE,0.09523809523809523
+CDRP-bio,20,random,rand3,9,Early Fusion,0.13265306122448978
+CDRP-bio,20,random,rand3,9,Late Fusion,0.14697457930540633
+CDRP-bio,20,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,20,random,rand4,9,GE,0.07142857142857142
+CDRP-bio,20,random,rand4,9,Early Fusion,0.11812865497076022
+CDRP-bio,20,random,rand4,9,Late Fusion,0.13630229419703102
+CDRP-bio,20,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,20,random,rand5,9,GE,0.11904761904761904
+CDRP-bio,20,random,rand5,9,Early Fusion,0.10238095238095238
+CDRP-bio,20,random,rand5,9,Late Fusion,0.13756613756613756
+CDRP-bio,20,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,20,ranked,r0,10,GE,0.1694884063305116
+CDRP-bio,20,ranked,r0,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,ranked,r0,10,Late Fusion,0.13428571428571429
+CDRP-bio,20,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,20,random,rand1,10,GE,0.16203796203796203
+CDRP-bio,20,random,rand1,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,random,rand1,10,Late Fusion,0.13428571428571429
+CDRP-bio,20,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,20,random,rand2,10,GE,0.17523923444976078
+CDRP-bio,20,random,rand2,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,random,rand2,10,Late Fusion,0.13760683760683762
+CDRP-bio,20,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,20,random,rand3,10,GE,0.14722222222222223
+CDRP-bio,20,random,rand3,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,random,rand3,10,Late Fusion,0.13333333333333336
+CDRP-bio,20,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,20,random,rand4,10,GE,0.1204250295159386
+CDRP-bio,20,random,rand4,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,random,rand4,10,Late Fusion,0.1339869281045752
+CDRP-bio,20,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,20,random,rand5,10,GE,0.20372960372960372
+CDRP-bio,20,random,rand5,10,Early Fusion,0.10606060606060605
+CDRP-bio,20,random,rand5,10,Late Fusion,0.13555555555555557
+CDRP-bio,25,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,25,ranked,r0,1,GE,0.14583333333333331
+CDRP-bio,25,ranked,r0,1,Early Fusion,0.18457300275482094
+CDRP-bio,25,ranked,r0,1,Late Fusion,0.10769230769230768
+CDRP-bio,25,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,25,random,rand1,1,GE,0.07142857142857142
+CDRP-bio,25,random,rand1,1,Early Fusion,0.16428571428571428
+CDRP-bio,25,random,rand1,1,Late Fusion,0.06666666666666667
+CDRP-bio,25,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,25,random,rand2,1,GE,0.09523809523809523
+CDRP-bio,25,random,rand2,1,Early Fusion,0.14583333333333334
+CDRP-bio,25,random,rand2,1,Late Fusion,0.07142857142857142
+CDRP-bio,25,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,25,random,rand3,1,GE,0.15625
+CDRP-bio,25,random,rand3,1,Early Fusion,0.1759149940968123
+CDRP-bio,25,random,rand3,1,Late Fusion,0.08333333333333334
+CDRP-bio,25,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,25,random,rand4,1,GE,0.14920634920634918
+CDRP-bio,25,random,rand4,1,Early Fusion,0.18787878787878787
+CDRP-bio,25,random,rand4,1,Late Fusion,0.08888888888888888
+CDRP-bio,25,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,25,random,rand5,1,GE,0.0625
+CDRP-bio,25,random,rand5,1,Early Fusion,0.1717171717171717
+CDRP-bio,25,random,rand5,1,Late Fusion,0.11965811965811966
+CDRP-bio,25,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,25,ranked,r0,2,GE,0.0
+CDRP-bio,25,ranked,r0,2,Early Fusion,0.09068627450980392
+CDRP-bio,25,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,25,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,25,random,rand1,2,GE,0.019230769230769232
+CDRP-bio,25,random,rand1,2,Early Fusion,0.09673202614379085
+CDRP-bio,25,random,rand1,2,Late Fusion,0.15555555555555553
+CDRP-bio,25,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,25,random,rand2,2,GE,0.0
+CDRP-bio,25,random,rand2,2,Early Fusion,0.1636029411764706
+CDRP-bio,25,random,rand2,2,Late Fusion,0.14285714285714285
+CDRP-bio,25,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,25,random,rand3,2,GE,0.03076923076923077
+CDRP-bio,25,random,rand3,2,Early Fusion,0.09673202614379085
+CDRP-bio,25,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,25,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,25,random,rand4,2,GE,0.04444444444444444
+CDRP-bio,25,random,rand4,2,Early Fusion,0.10784313725490197
+CDRP-bio,25,random,rand4,2,Late Fusion,0.13777777777777775
+CDRP-bio,25,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,25,random,rand5,2,GE,0.0
+CDRP-bio,25,random,rand5,2,Early Fusion,0.0625
+CDRP-bio,25,random,rand5,2,Late Fusion,0.16071428571428573
+CDRP-bio,25,ranked,r0,3,CP,0.125
+CDRP-bio,25,ranked,r0,3,GE,0.1711111111111111
+CDRP-bio,25,ranked,r0,3,Early Fusion,0.10416666666666666
+CDRP-bio,25,ranked,r0,3,Late Fusion,0.13015873015873014
+CDRP-bio,25,random,rand1,3,CP,0.125
+CDRP-bio,25,random,rand1,3,GE,0.07692307692307693
+CDRP-bio,25,random,rand1,3,Early Fusion,0.12916666666666665
+CDRP-bio,25,random,rand1,3,Late Fusion,0.125
+CDRP-bio,25,random,rand2,3,CP,0.125
+CDRP-bio,25,random,rand2,3,GE,0.15333333333333335
+CDRP-bio,25,random,rand2,3,Early Fusion,0.14166666666666666
+CDRP-bio,25,random,rand2,3,Late Fusion,0.15
+CDRP-bio,25,random,rand3,3,CP,0.125
+CDRP-bio,25,random,rand3,3,GE,0.03333333333333333
+CDRP-bio,25,random,rand3,3,Early Fusion,0.10416666666666666
+CDRP-bio,25,random,rand3,3,Late Fusion,0.12916666666666665
+CDRP-bio,25,random,rand4,3,CP,0.125
+CDRP-bio,25,random,rand4,3,GE,0.08469387755102041
+CDRP-bio,25,random,rand4,3,Early Fusion,0.125
+CDRP-bio,25,random,rand4,3,Late Fusion,0.13015873015873014
+CDRP-bio,25,random,rand5,3,CP,0.125
+CDRP-bio,25,random,rand5,3,GE,0.11555555555555556
+CDRP-bio,25,random,rand5,3,Early Fusion,0.10416666666666666
+CDRP-bio,25,random,rand5,3,Late Fusion,0.16
+CDRP-bio,25,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,25,ranked,r0,4,GE,0.05714285714285714
+CDRP-bio,25,ranked,r0,4,Early Fusion,0.2222222222222222
+CDRP-bio,25,ranked,r0,4,Late Fusion,0.14285714285714285
+CDRP-bio,25,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,25,random,rand1,4,GE,0.0
+CDRP-bio,25,random,rand1,4,Early Fusion,0.20512820512820512
+CDRP-bio,25,random,rand1,4,Late Fusion,0.12380952380952381
+CDRP-bio,25,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,25,random,rand2,4,GE,0.0
+CDRP-bio,25,random,rand2,4,Early Fusion,0.20833333333333334
+CDRP-bio,25,random,rand2,4,Late Fusion,0.12380952380952381
+CDRP-bio,25,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,25,random,rand3,4,GE,0.0
+CDRP-bio,25,random,rand3,4,Early Fusion,0.2424242424242424
+CDRP-bio,25,random,rand3,4,Late Fusion,0.11282051282051284
+CDRP-bio,25,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,25,random,rand4,4,GE,0.0
+CDRP-bio,25,random,rand4,4,Early Fusion,0.18055555555555555
+CDRP-bio,25,random,rand4,4,Late Fusion,0.10714285714285714
+CDRP-bio,25,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,25,random,rand5,4,GE,0.0
+CDRP-bio,25,random,rand5,4,Early Fusion,0.16666666666666666
+CDRP-bio,25,random,rand5,4,Late Fusion,0.05952380952380952
+CDRP-bio,25,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,25,ranked,r0,5,GE,0.11875
+CDRP-bio,25,ranked,r0,5,Early Fusion,0.1887755102040816
+CDRP-bio,25,ranked,r0,5,Late Fusion,0.18333333333333332
+CDRP-bio,25,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,25,random,rand1,5,GE,0.02666666666666667
+CDRP-bio,25,random,rand1,5,Early Fusion,0.2032967032967033
+CDRP-bio,25,random,rand1,5,Late Fusion,0.22777777777777775
+CDRP-bio,25,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,25,random,rand2,5,GE,0.12156862745098038
+CDRP-bio,25,random,rand2,5,Early Fusion,0.18809523809523807
+CDRP-bio,25,random,rand2,5,Late Fusion,0.1323529411764706
+CDRP-bio,25,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,25,random,rand3,5,GE,0.06666666666666667
+CDRP-bio,25,random,rand3,5,Early Fusion,0.17857142857142855
+CDRP-bio,25,random,rand3,5,Late Fusion,0.22777777777777775
+CDRP-bio,25,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,25,random,rand4,5,GE,0.025
+CDRP-bio,25,random,rand4,5,Early Fusion,0.20512820512820512
+CDRP-bio,25,random,rand4,5,Late Fusion,0.18666666666666665
+CDRP-bio,25,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,25,random,rand5,5,GE,0.06666666666666667
+CDRP-bio,25,random,rand5,5,Early Fusion,0.17857142857142855
+CDRP-bio,25,random,rand5,5,Late Fusion,0.18125
+CDRP-bio,25,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,25,ranked,r0,6,GE,0.08888888888888888
+CDRP-bio,25,ranked,r0,6,Early Fusion,0.09285714285714286
+CDRP-bio,25,ranked,r0,6,Late Fusion,0.15416666666666667
+CDRP-bio,25,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,25,random,rand1,6,GE,0.07142857142857142
+CDRP-bio,25,random,rand1,6,Early Fusion,0.11666666666666667
+CDRP-bio,25,random,rand1,6,Late Fusion,0.16428571428571428
+CDRP-bio,25,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,25,random,rand2,6,GE,0.20146520146520144
+CDRP-bio,25,random,rand2,6,Early Fusion,0.12444444444444444
+CDRP-bio,25,random,rand2,6,Late Fusion,0.1111111111111111
+CDRP-bio,25,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,25,random,rand3,6,GE,0.07142857142857142
+CDRP-bio,25,random,rand3,6,Early Fusion,0.11249999999999999
+CDRP-bio,25,random,rand3,6,Late Fusion,0.09777777777777778
+CDRP-bio,25,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,25,random,rand4,6,GE,0.041666666666666664
+CDRP-bio,25,random,rand4,6,Early Fusion,0.11333333333333334
+CDRP-bio,25,random,rand4,6,Late Fusion,0.12444444444444444
+CDRP-bio,25,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,25,random,rand5,6,GE,0.07777777777777777
+CDRP-bio,25,random,rand5,6,Early Fusion,0.11666666666666667
+CDRP-bio,25,random,rand5,6,Late Fusion,0.09777777777777778
+CDRP-bio,25,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,25,ranked,r0,7,GE,0.1111111111111111
+CDRP-bio,25,ranked,r0,7,Early Fusion,0.09791666666666665
+CDRP-bio,25,ranked,r0,7,Late Fusion,0.21088435374149658
+CDRP-bio,25,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,25,random,rand1,7,GE,0.15384615384615385
+CDRP-bio,25,random,rand1,7,Early Fusion,0.11564625850340136
+CDRP-bio,25,random,rand1,7,Late Fusion,0.15136054421768708
+CDRP-bio,25,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,25,random,rand2,7,GE,0.125
+CDRP-bio,25,random,rand2,7,Early Fusion,0.11904761904761904
+CDRP-bio,25,random,rand2,7,Late Fusion,0.16666666666666666
+CDRP-bio,25,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,25,random,rand3,7,GE,0.11813186813186813
+CDRP-bio,25,random,rand3,7,Early Fusion,0.13333333333333333
+CDRP-bio,25,random,rand3,7,Late Fusion,0.1952380952380952
+CDRP-bio,25,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,25,random,rand4,7,GE,0.09523809523809523
+CDRP-bio,25,random,rand4,7,Early Fusion,0.10374149659863945
+CDRP-bio,25,random,rand4,7,Late Fusion,0.17142857142857143
+CDRP-bio,25,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,25,random,rand5,7,GE,0.1111111111111111
+CDRP-bio,25,random,rand5,7,Early Fusion,0.11904761904761904
+CDRP-bio,25,random,rand5,7,Late Fusion,0.17142857142857143
+CDRP-bio,25,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,25,ranked,r0,8,GE,0.047619047619047616
+CDRP-bio,25,ranked,r0,8,Early Fusion,0.19047619047619047
+CDRP-bio,25,ranked,r0,8,Late Fusion,0.20512820512820512
+CDRP-bio,25,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,25,random,rand1,8,GE,0.05357142857142857
+CDRP-bio,25,random,rand1,8,Early Fusion,0.1282051282051282
+CDRP-bio,25,random,rand1,8,Late Fusion,0.20512820512820512
+CDRP-bio,25,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,25,random,rand2,8,GE,0.041666666666666664
+CDRP-bio,25,random,rand2,8,Early Fusion,0.11904761904761904
+CDRP-bio,25,random,rand2,8,Late Fusion,0.17777777777777776
+CDRP-bio,25,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,25,random,rand3,8,GE,0.03125
+CDRP-bio,25,random,rand3,8,Early Fusion,0.19047619047619047
+CDRP-bio,25,random,rand3,8,Late Fusion,0.19047619047619047
+CDRP-bio,25,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,25,random,rand4,8,GE,0.041666666666666664
+CDRP-bio,25,random,rand4,8,Early Fusion,0.11904761904761904
+CDRP-bio,25,random,rand4,8,Late Fusion,0.16666666666666666
+CDRP-bio,25,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,25,random,rand5,8,GE,0.08888888888888888
+CDRP-bio,25,random,rand5,8,Early Fusion,0.19047619047619047
+CDRP-bio,25,random,rand5,8,Late Fusion,0.2261904761904762
+CDRP-bio,25,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,25,ranked,r0,9,GE,0.13777777777777775
+CDRP-bio,25,ranked,r0,9,Early Fusion,0.07894736842105263
+CDRP-bio,25,ranked,r0,9,Late Fusion,0.13518518518518519
+CDRP-bio,25,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,25,random,rand1,9,GE,0.1357142857142857
+CDRP-bio,25,random,rand1,9,Early Fusion,0.07894736842105263
+CDRP-bio,25,random,rand1,9,Late Fusion,0.13630229419703102
+CDRP-bio,25,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,25,random,rand2,9,GE,0.0625
+CDRP-bio,25,random,rand2,9,Early Fusion,0.07857142857142858
+CDRP-bio,25,random,rand2,9,Late Fusion,0.12698412698412698
+CDRP-bio,25,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,25,random,rand3,9,GE,0.06666666666666667
+CDRP-bio,25,random,rand3,9,Early Fusion,0.05513784461152882
+CDRP-bio,25,random,rand3,9,Late Fusion,0.11851851851851851
+CDRP-bio,25,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,25,random,rand4,9,GE,0.07142857142857142
+CDRP-bio,25,random,rand4,9,Early Fusion,0.08502024291497975
+CDRP-bio,25,random,rand4,9,Late Fusion,0.12698412698412698
+CDRP-bio,25,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,25,random,rand5,9,GE,0.13095238095238096
+CDRP-bio,25,random,rand5,9,Early Fusion,0.07857142857142858
+CDRP-bio,25,random,rand5,9,Late Fusion,0.14484126984126983
+CDRP-bio,25,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,25,ranked,r0,10,GE,0.20202020202020202
+CDRP-bio,25,ranked,r0,10,Early Fusion,0.14393939393939395
+CDRP-bio,25,ranked,r0,10,Late Fusion,0.15
+CDRP-bio,25,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,25,random,rand1,10,GE,0.08333333333333333
+CDRP-bio,25,random,rand1,10,Early Fusion,0.07638888888888888
+CDRP-bio,25,random,rand1,10,Late Fusion,0.13538461538461538
+CDRP-bio,25,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,25,random,rand2,10,GE,0.10512820512820513
+CDRP-bio,25,random,rand2,10,Early Fusion,0.09120425029515938
+CDRP-bio,25,random,rand2,10,Late Fusion,0.10205128205128204
+CDRP-bio,25,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,25,random,rand3,10,GE,0.11538461538461539
+CDRP-bio,25,random,rand3,10,Early Fusion,0.09583333333333333
+CDRP-bio,25,random,rand3,10,Late Fusion,0.15174825174825174
+CDRP-bio,25,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,25,random,rand4,10,GE,0.0
+CDRP-bio,25,random,rand4,10,Early Fusion,0.048611111111111105
+CDRP-bio,25,random,rand4,10,Late Fusion,0.13538461538461538
+CDRP-bio,25,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,25,random,rand5,10,GE,0.018518518518518517
+CDRP-bio,25,random,rand5,10,Early Fusion,0.1318181818181818
+CDRP-bio,25,random,rand5,10,Late Fusion,0.10023310023310024
+CDRP-bio,30,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,30,ranked,r0,1,GE,0.1952380952380952
+CDRP-bio,30,ranked,r0,1,Early Fusion,0.14444444444444446
+CDRP-bio,30,ranked,r0,1,Late Fusion,0.10256410256410256
+CDRP-bio,30,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,30,random,rand1,1,GE,0.07142857142857142
+CDRP-bio,30,random,rand1,1,Early Fusion,0.09999999999999999
+CDRP-bio,30,random,rand1,1,Late Fusion,0.1130952380952381
+CDRP-bio,30,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,30,random,rand2,1,GE,0.12000000000000001
+CDRP-bio,30,random,rand2,1,Early Fusion,0.09401709401709403
+CDRP-bio,30,random,rand2,1,Late Fusion,0.09333333333333332
+CDRP-bio,30,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,30,random,rand3,1,GE,0.1568627450980392
+CDRP-bio,30,random,rand3,1,Early Fusion,0.12967032967032965
+CDRP-bio,30,random,rand3,1,Late Fusion,0.09999999999999999
+CDRP-bio,30,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,30,random,rand4,1,GE,0.13666666666666666
+CDRP-bio,30,random,rand4,1,Early Fusion,0.13333333333333333
+CDRP-bio,30,random,rand4,1,Late Fusion,0.12179487179487179
+CDRP-bio,30,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,30,random,rand5,1,GE,0.1111111111111111
+CDRP-bio,30,random,rand5,1,Early Fusion,0.12692307692307692
+CDRP-bio,30,random,rand5,1,Late Fusion,0.08888888888888888
+CDRP-bio,30,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,30,ranked,r0,2,GE,0.0
+CDRP-bio,30,ranked,r0,2,Early Fusion,0.1522875816993464
+CDRP-bio,30,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,30,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,30,random,rand1,2,GE,0.0
+CDRP-bio,30,random,rand1,2,Early Fusion,0.07450980392156863
+CDRP-bio,30,random,rand1,2,Late Fusion,0.17777777777777776
+CDRP-bio,30,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,30,random,rand2,2,GE,0.027777777777777776
+CDRP-bio,30,random,rand2,2,Early Fusion,0.176890756302521
+CDRP-bio,30,random,rand2,2,Late Fusion,0.09374999999999999
+CDRP-bio,30,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,30,random,rand3,2,GE,0.0
+CDRP-bio,30,random,rand3,2,Early Fusion,0.09355742296918766
+CDRP-bio,30,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,30,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,30,random,rand4,2,GE,0.0
+CDRP-bio,30,random,rand4,2,Early Fusion,0.12117647058823529
+CDRP-bio,30,random,rand4,2,Late Fusion,0.13333333333333333
+CDRP-bio,30,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,30,random,rand5,2,GE,0.03333333333333333
+CDRP-bio,30,random,rand5,2,Early Fusion,0.08148148148148149
+CDRP-bio,30,random,rand5,2,Late Fusion,0.13333333333333333
+CDRP-bio,30,ranked,r0,3,CP,0.125
+CDRP-bio,30,ranked,r0,3,GE,0.14047619047619048
+CDRP-bio,30,ranked,r0,3,Early Fusion,0.10416666666666666
+CDRP-bio,30,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,30,random,rand1,3,CP,0.125
+CDRP-bio,30,random,rand1,3,GE,0.07692307692307693
+CDRP-bio,30,random,rand1,3,Early Fusion,0.12202380952380952
+CDRP-bio,30,random,rand1,3,Late Fusion,0.11979166666666666
+CDRP-bio,30,random,rand2,3,CP,0.125
+CDRP-bio,30,random,rand2,3,GE,0.05
+CDRP-bio,30,random,rand2,3,Early Fusion,0.125
+CDRP-bio,30,random,rand2,3,Late Fusion,0.12202380952380952
+CDRP-bio,30,random,rand3,3,CP,0.125
+CDRP-bio,30,random,rand3,3,GE,0.07111111111111111
+CDRP-bio,30,random,rand3,3,Early Fusion,0.13541666666666666
+CDRP-bio,30,random,rand3,3,Late Fusion,0.12777777777777777
+CDRP-bio,30,random,rand4,3,CP,0.125
+CDRP-bio,30,random,rand4,3,GE,0.09183673469387754
+CDRP-bio,30,random,rand4,3,Early Fusion,0.10416666666666666
+CDRP-bio,30,random,rand4,3,Late Fusion,0.1693452380952381
+CDRP-bio,30,random,rand5,3,CP,0.125
+CDRP-bio,30,random,rand5,3,GE,0.04444444444444444
+CDRP-bio,30,random,rand5,3,Early Fusion,0.10416666666666666
+CDRP-bio,30,random,rand5,3,Late Fusion,0.11979166666666666
+CDRP-bio,30,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,30,ranked,r0,4,GE,0.05641025641025642
+CDRP-bio,30,ranked,r0,4,Early Fusion,0.1282051282051282
+CDRP-bio,30,ranked,r0,4,Late Fusion,0.14285714285714285
+CDRP-bio,30,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,30,random,rand1,4,GE,0.0
+CDRP-bio,30,random,rand1,4,Early Fusion,0.10439560439560439
+CDRP-bio,30,random,rand1,4,Late Fusion,0.11190476190476191
+CDRP-bio,30,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,30,random,rand2,4,GE,0.007518796992481203
+CDRP-bio,30,random,rand2,4,Early Fusion,0.038461538461538464
+CDRP-bio,30,random,rand2,4,Late Fusion,0.06153846153846154
+CDRP-bio,30,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,30,random,rand3,4,GE,0.03238095238095238
+CDRP-bio,30,random,rand3,4,Early Fusion,0.08974358974358973
+CDRP-bio,30,random,rand3,4,Late Fusion,0.11190476190476191
+CDRP-bio,30,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,30,random,rand4,4,GE,0.008097165991902834
+CDRP-bio,30,random,rand4,4,Early Fusion,0.10769230769230768
+CDRP-bio,30,random,rand4,4,Late Fusion,0.11190476190476191
+CDRP-bio,30,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,30,random,rand5,4,GE,0.0
+CDRP-bio,30,random,rand5,4,Early Fusion,0.1282051282051282
+CDRP-bio,30,random,rand5,4,Late Fusion,0.11282051282051284
+CDRP-bio,30,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,30,ranked,r0,5,GE,0.11458333333333333
+CDRP-bio,30,ranked,r0,5,Early Fusion,0.16517857142857142
+CDRP-bio,30,ranked,r0,5,Late Fusion,0.2529761904761904
+CDRP-bio,30,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,30,random,rand1,5,GE,0.05333333333333333
+CDRP-bio,30,random,rand1,5,Early Fusion,0.17555555555555555
+CDRP-bio,30,random,rand1,5,Late Fusion,0.18666666666666665
+CDRP-bio,30,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,30,random,rand2,5,GE,0.14285714285714285
+CDRP-bio,30,random,rand2,5,Early Fusion,0.17555555555555555
+CDRP-bio,30,random,rand2,5,Late Fusion,0.23229166666666667
+CDRP-bio,30,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,30,random,rand3,5,GE,0.07291666666666666
+CDRP-bio,30,random,rand3,5,Early Fusion,0.18333333333333332
+CDRP-bio,30,random,rand3,5,Late Fusion,0.2333333333333333
+CDRP-bio,30,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,30,random,rand4,5,GE,0.12916666666666665
+CDRP-bio,30,random,rand4,5,Early Fusion,0.16666666666666666
+CDRP-bio,30,random,rand4,5,Late Fusion,0.22777777777777775
+CDRP-bio,30,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,30,random,rand5,5,GE,0.06862745098039215
+CDRP-bio,30,random,rand5,5,Early Fusion,0.17187499999999997
+CDRP-bio,30,random,rand5,5,Late Fusion,0.21078431372549017
+CDRP-bio,30,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,30,ranked,r0,6,GE,0.10714285714285712
+CDRP-bio,30,ranked,r0,6,Early Fusion,0.09166666666666667
+CDRP-bio,30,ranked,r0,6,Late Fusion,0.15333333333333332
+CDRP-bio,30,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,30,random,rand1,6,GE,0.0
+CDRP-bio,30,random,rand1,6,Early Fusion,0.08666666666666667
+CDRP-bio,30,random,rand1,6,Late Fusion,0.12261904761904763
+CDRP-bio,30,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,30,random,rand2,6,GE,0.03333333333333333
+CDRP-bio,30,random,rand2,6,Early Fusion,0.08666666666666667
+CDRP-bio,30,random,rand2,6,Late Fusion,0.1
+CDRP-bio,30,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,30,random,rand3,6,GE,0.03333333333333333
+CDRP-bio,30,random,rand3,6,Early Fusion,0.08666666666666667
+CDRP-bio,30,random,rand3,6,Late Fusion,0.1769230769230769
+CDRP-bio,30,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,30,random,rand4,6,GE,0.11205357142857143
+CDRP-bio,30,random,rand4,6,Early Fusion,0.08666666666666667
+CDRP-bio,30,random,rand4,6,Late Fusion,0.16444444444444445
+CDRP-bio,30,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,30,random,rand5,6,GE,0.10416666666666666
+CDRP-bio,30,random,rand5,6,Early Fusion,0.08125
+CDRP-bio,30,random,rand5,6,Late Fusion,0.08666666666666667
+CDRP-bio,30,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,30,ranked,r0,7,GE,0.1111111111111111
+CDRP-bio,30,ranked,r0,7,Early Fusion,0.23214285714285712
+CDRP-bio,30,ranked,r0,7,Late Fusion,0.19047619047619047
+CDRP-bio,30,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,30,random,rand1,7,GE,0.0
+CDRP-bio,30,random,rand1,7,Early Fusion,0.22777777777777777
+CDRP-bio,30,random,rand1,7,Late Fusion,0.17777777777777776
+CDRP-bio,30,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,30,random,rand2,7,GE,0.13777777777777775
+CDRP-bio,30,random,rand2,7,Early Fusion,0.20925925925925926
+CDRP-bio,30,random,rand2,7,Late Fusion,0.1822222222222222
+CDRP-bio,30,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,30,random,rand3,7,GE,0.08333333333333333
+CDRP-bio,30,random,rand3,7,Early Fusion,0.21111111111111108
+CDRP-bio,30,random,rand3,7,Late Fusion,0.1822222222222222
+CDRP-bio,30,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,30,random,rand4,7,GE,0.019047619047619046
+CDRP-bio,30,random,rand4,7,Early Fusion,0.2361111111111111
+CDRP-bio,30,random,rand4,7,Late Fusion,0.1952380952380952
+CDRP-bio,30,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,30,random,rand5,7,GE,0.06349206349206349
+CDRP-bio,30,random,rand5,7,Early Fusion,0.21212121212121207
+CDRP-bio,30,random,rand5,7,Late Fusion,0.15952380952380954
+CDRP-bio,30,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,30,ranked,r0,8,GE,0.047619047619047616
+CDRP-bio,30,ranked,r0,8,Early Fusion,0.20444444444444443
+CDRP-bio,30,ranked,r0,8,Late Fusion,0.24358974358974358
+CDRP-bio,30,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,30,random,rand1,8,GE,0.050595238095238096
+CDRP-bio,30,random,rand1,8,Early Fusion,0.16666666666666666
+CDRP-bio,30,random,rand1,8,Late Fusion,0.2
+CDRP-bio,30,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,30,random,rand2,8,GE,0.05952380952380952
+CDRP-bio,30,random,rand2,8,Early Fusion,0.16666666666666666
+CDRP-bio,30,random,rand2,8,Late Fusion,0.2222222222222222
+CDRP-bio,30,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,30,random,rand3,8,GE,0.041666666666666664
+CDRP-bio,30,random,rand3,8,Early Fusion,0.23809523809523808
+CDRP-bio,30,random,rand3,8,Late Fusion,0.24829931972789113
+CDRP-bio,30,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,30,random,rand4,8,GE,0.047619047619047616
+CDRP-bio,30,random,rand4,8,Early Fusion,0.2111111111111111
+CDRP-bio,30,random,rand4,8,Late Fusion,0.19047619047619047
+CDRP-bio,30,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,30,random,rand5,8,GE,0.03333333333333333
+CDRP-bio,30,random,rand5,8,Early Fusion,0.1476190476190476
+CDRP-bio,30,random,rand5,8,Late Fusion,0.21904761904761902
+CDRP-bio,30,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,30,ranked,r0,9,GE,0.14285714285714285
+CDRP-bio,30,ranked,r0,9,Early Fusion,0.13333333333333333
+CDRP-bio,30,ranked,r0,9,Late Fusion,0.14484126984126983
+CDRP-bio,30,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,30,random,rand1,9,GE,0.08205128205128205
+CDRP-bio,30,random,rand1,9,Early Fusion,0.05714285714285714
+CDRP-bio,30,random,rand1,9,Late Fusion,0.11851851851851851
+CDRP-bio,30,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,30,random,rand2,9,GE,0.07142857142857142
+CDRP-bio,30,random,rand2,9,Early Fusion,0.09555555555555556
+CDRP-bio,30,random,rand2,9,Late Fusion,0.11851851851851851
+CDRP-bio,30,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,30,random,rand3,9,GE,0.07142857142857142
+CDRP-bio,30,random,rand3,9,Early Fusion,0.11794871794871795
+CDRP-bio,30,random,rand3,9,Late Fusion,0.12698412698412698
+CDRP-bio,30,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,30,random,rand4,9,GE,0.10687432867883995
+CDRP-bio,30,random,rand4,9,Early Fusion,0.1286713286713287
+CDRP-bio,30,random,rand4,9,Late Fusion,0.12698412698412698
+CDRP-bio,30,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,30,random,rand5,9,GE,0.07142857142857142
+CDRP-bio,30,random,rand5,9,Early Fusion,0.0979020979020979
+CDRP-bio,30,random,rand5,9,Late Fusion,0.12698412698412698
+CDRP-bio,30,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,30,ranked,r0,10,GE,0.17543859649122806
+CDRP-bio,30,ranked,r0,10,Early Fusion,0.09913419913419914
+CDRP-bio,30,ranked,r0,10,Late Fusion,0.14285714285714285
+CDRP-bio,30,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,30,random,rand1,10,GE,0.12222222222222223
+CDRP-bio,30,random,rand1,10,Early Fusion,0.10095238095238095
+CDRP-bio,30,random,rand1,10,Late Fusion,0.12
+CDRP-bio,30,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,30,random,rand2,10,GE,0.14305555555555557
+CDRP-bio,30,random,rand2,10,Early Fusion,0.10095238095238095
+CDRP-bio,30,random,rand2,10,Late Fusion,0.1181818181818182
+CDRP-bio,30,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,30,random,rand3,10,GE,0.08409090909090909
+CDRP-bio,30,random,rand3,10,Early Fusion,0.10095238095238095
+CDRP-bio,30,random,rand3,10,Late Fusion,0.13818181818181818
+CDRP-bio,30,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,30,random,rand4,10,GE,0.1392857142857143
+CDRP-bio,30,random,rand4,10,Early Fusion,0.10095238095238095
+CDRP-bio,30,random,rand4,10,Late Fusion,0.12
+CDRP-bio,30,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,30,random,rand5,10,GE,0.07272727272727272
+CDRP-bio,30,random,rand5,10,Early Fusion,0.07999999999999999
+CDRP-bio,30,random,rand5,10,Late Fusion,0.12
+CDRP-bio,50,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,50,ranked,r0,1,GE,0.22307692307692306
+CDRP-bio,50,ranked,r0,1,Early Fusion,0.16125541125541126
+CDRP-bio,50,ranked,r0,1,Late Fusion,0.1142857142857143
+CDRP-bio,50,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,50,random,rand1,1,GE,0.15555555555555553
+CDRP-bio,50,random,rand1,1,Early Fusion,0.14696969696969697
+CDRP-bio,50,random,rand1,1,Late Fusion,0.09523809523809523
+CDRP-bio,50,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,50,random,rand2,1,GE,0.1111111111111111
+CDRP-bio,50,random,rand2,1,Early Fusion,0.1792207792207792
+CDRP-bio,50,random,rand2,1,Late Fusion,0.17948717948717946
+CDRP-bio,50,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,50,random,rand3,1,GE,0.1111111111111111
+CDRP-bio,50,random,rand3,1,Early Fusion,0.15873015873015872
+CDRP-bio,50,random,rand3,1,Late Fusion,0.07142857142857142
+CDRP-bio,50,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,50,random,rand4,1,GE,0.08888888888888888
+CDRP-bio,50,random,rand4,1,Early Fusion,0.10822510822510822
+CDRP-bio,50,random,rand4,1,Late Fusion,0.09523809523809523
+CDRP-bio,50,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,50,random,rand5,1,GE,0.2222222222222222
+CDRP-bio,50,random,rand5,1,Early Fusion,0.13053613053613053
+CDRP-bio,50,random,rand5,1,Late Fusion,0.07142857142857142
+CDRP-bio,50,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,50,ranked,r0,2,GE,0.0
+CDRP-bio,50,ranked,r0,2,Early Fusion,0.125
+CDRP-bio,50,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,50,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,50,random,rand1,2,GE,0.04888888888888889
+CDRP-bio,50,random,rand1,2,Early Fusion,0.17777777777777776
+CDRP-bio,50,random,rand1,2,Late Fusion,0.16666666666666666
+CDRP-bio,50,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,50,random,rand2,2,GE,0.0
+CDRP-bio,50,random,rand2,2,Early Fusion,0.16071428571428573
+CDRP-bio,50,random,rand2,2,Late Fusion,0.15238095238095237
+CDRP-bio,50,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,50,random,rand3,2,GE,0.02666666666666667
+CDRP-bio,50,random,rand3,2,Early Fusion,0.13333333333333333
+CDRP-bio,50,random,rand3,2,Late Fusion,0.16666666666666666
+CDRP-bio,50,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,50,random,rand4,2,GE,0.023809523809523808
+CDRP-bio,50,random,rand4,2,Early Fusion,0.17857142857142858
+CDRP-bio,50,random,rand4,2,Late Fusion,0.18666666666666665
+CDRP-bio,50,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,50,random,rand5,2,GE,0.06535947712418301
+CDRP-bio,50,random,rand5,2,Early Fusion,0.13333333333333333
+CDRP-bio,50,random,rand5,2,Late Fusion,0.15555555555555553
+CDRP-bio,50,ranked,r0,3,CP,0.125
+CDRP-bio,50,ranked,r0,3,GE,0.15470085470085468
+CDRP-bio,50,ranked,r0,3,Early Fusion,0.15
+CDRP-bio,50,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,50,random,rand1,3,CP,0.125
+CDRP-bio,50,random,rand1,3,GE,0.10256410256410256
+CDRP-bio,50,random,rand1,3,Early Fusion,0.11458333333333333
+CDRP-bio,50,random,rand1,3,Late Fusion,0.12916666666666665
+CDRP-bio,50,random,rand2,3,CP,0.125
+CDRP-bio,50,random,rand2,3,GE,0.11555555555555556
+CDRP-bio,50,random,rand2,3,Early Fusion,0.1711111111111111
+CDRP-bio,50,random,rand2,3,Late Fusion,0.16444444444444442
+CDRP-bio,50,random,rand3,3,CP,0.125
+CDRP-bio,50,random,rand3,3,GE,0.09659863945578231
+CDRP-bio,50,random,rand3,3,Early Fusion,0.13777777777777775
+CDRP-bio,50,random,rand3,3,Late Fusion,0.12916666666666665
+CDRP-bio,50,random,rand4,3,CP,0.125
+CDRP-bio,50,random,rand4,3,GE,0.07142857142857142
+CDRP-bio,50,random,rand4,3,Early Fusion,0.11875
+CDRP-bio,50,random,rand4,3,Late Fusion,0.125
+CDRP-bio,50,random,rand5,3,CP,0.125
+CDRP-bio,50,random,rand5,3,GE,0.0875
+CDRP-bio,50,random,rand5,3,Early Fusion,0.16349206349206347
+CDRP-bio,50,random,rand5,3,Late Fusion,0.16
+CDRP-bio,50,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,50,ranked,r0,4,GE,0.08571428571428572
+CDRP-bio,50,ranked,r0,4,Early Fusion,0.19047619047619047
+CDRP-bio,50,ranked,r0,4,Late Fusion,0.13333333333333333
+CDRP-bio,50,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,50,random,rand1,4,GE,0.007518796992481203
+CDRP-bio,50,random,rand1,4,Early Fusion,0.08333333333333333
+CDRP-bio,50,random,rand1,4,Late Fusion,0.1
+CDRP-bio,50,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,50,random,rand2,4,GE,0.0
+CDRP-bio,50,random,rand2,4,Early Fusion,0.08974358974358973
+CDRP-bio,50,random,rand2,4,Late Fusion,0.07142857142857142
+CDRP-bio,50,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,50,random,rand3,4,GE,0.008771929824561403
+CDRP-bio,50,random,rand3,4,Early Fusion,0.1282051282051282
+CDRP-bio,50,random,rand3,4,Late Fusion,0.09333333333333332
+CDRP-bio,50,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,50,random,rand4,4,GE,0.04035087719298246
+CDRP-bio,50,random,rand4,4,Early Fusion,0.13888888888888887
+CDRP-bio,50,random,rand4,4,Late Fusion,0.09523809523809523
+CDRP-bio,50,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,50,random,rand5,4,GE,0.0
+CDRP-bio,50,random,rand5,4,Early Fusion,0.09722222222222221
+CDRP-bio,50,random,rand5,4,Late Fusion,0.09999999999999999
+CDRP-bio,50,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,50,ranked,r0,5,GE,0.14285714285714285
+CDRP-bio,50,ranked,r0,5,Early Fusion,0.16666666666666666
+CDRP-bio,50,ranked,r0,5,Late Fusion,0.2916666666666667
+CDRP-bio,50,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,50,random,rand1,5,GE,0.06862745098039215
+CDRP-bio,50,random,rand1,5,Early Fusion,0.17857142857142855
+CDRP-bio,50,random,rand1,5,Late Fusion,0.2222222222222222
+CDRP-bio,50,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,50,random,rand2,5,GE,0.19999999999999998
+CDRP-bio,50,random,rand2,5,Early Fusion,0.17857142857142858
+CDRP-bio,50,random,rand2,5,Late Fusion,0.2117647058823529
+CDRP-bio,50,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,50,random,rand3,5,GE,0.12666666666666665
+CDRP-bio,50,random,rand3,5,Early Fusion,0.19230769230769226
+CDRP-bio,50,random,rand3,5,Late Fusion,0.2261904761904762
+CDRP-bio,50,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,50,random,rand4,5,GE,0.0784313725490196
+CDRP-bio,50,random,rand4,5,Early Fusion,0.22380952380952382
+CDRP-bio,50,random,rand4,5,Late Fusion,0.24583333333333335
+CDRP-bio,50,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,50,random,rand5,5,GE,0.19791666666666666
+CDRP-bio,50,random,rand5,5,Early Fusion,0.16666666666666666
+CDRP-bio,50,random,rand5,5,Late Fusion,0.1941176470588235
+CDRP-bio,50,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,50,ranked,r0,6,GE,0.11274509803921567
+CDRP-bio,50,ranked,r0,6,Early Fusion,0.12564102564102564
+CDRP-bio,50,ranked,r0,6,Late Fusion,0.17396825396825397
+CDRP-bio,50,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,50,random,rand1,6,GE,0.08333333333333333
+CDRP-bio,50,random,rand1,6,Early Fusion,0.12142857142857144
+CDRP-bio,50,random,rand1,6,Late Fusion,0.1761904761904762
+CDRP-bio,50,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,50,random,rand2,6,GE,0.24358974358974358
+CDRP-bio,50,random,rand2,6,Early Fusion,0.12197802197802199
+CDRP-bio,50,random,rand2,6,Late Fusion,0.11682539682539682
+CDRP-bio,50,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,50,random,rand3,6,GE,0.13095238095238096
+CDRP-bio,50,random,rand3,6,Early Fusion,0.13846153846153847
+CDRP-bio,50,random,rand3,6,Late Fusion,0.10611111111111111
+CDRP-bio,50,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,50,random,rand4,6,GE,0.08888888888888888
+CDRP-bio,50,random,rand4,6,Early Fusion,0.10833333333333334
+CDRP-bio,50,random,rand4,6,Late Fusion,0.14375
+CDRP-bio,50,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,50,random,rand5,6,GE,0.04444444444444444
+CDRP-bio,50,random,rand5,6,Early Fusion,0.09285714285714286
+CDRP-bio,50,random,rand5,6,Late Fusion,0.08666666666666667
+CDRP-bio,50,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,50,ranked,r0,7,GE,0.27645502645502645
+CDRP-bio,50,ranked,r0,7,Early Fusion,0.10952380952380951
+CDRP-bio,50,ranked,r0,7,Late Fusion,0.21088435374149658
+CDRP-bio,50,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,50,random,rand1,7,GE,0.0787878787878788
+CDRP-bio,50,random,rand1,7,Early Fusion,0.1487179487179487
+CDRP-bio,50,random,rand1,7,Late Fusion,0.17777777777777776
+CDRP-bio,50,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,50,random,rand2,7,GE,0.1285714285714286
+CDRP-bio,50,random,rand2,7,Early Fusion,0.15136054421768708
+CDRP-bio,50,random,rand2,7,Late Fusion,0.15476190476190474
+CDRP-bio,50,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,50,random,rand3,7,GE,0.22008547008547008
+CDRP-bio,50,random,rand3,7,Early Fusion,0.1248917748917749
+CDRP-bio,50,random,rand3,7,Late Fusion,0.26666666666666666
+CDRP-bio,50,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,50,random,rand4,7,GE,0.10121457489878544
+CDRP-bio,50,random,rand4,7,Early Fusion,0.09761904761904762
+CDRP-bio,50,random,rand4,7,Late Fusion,0.15555555555555553
+CDRP-bio,50,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,50,random,rand5,7,GE,0.11813186813186813
+CDRP-bio,50,random,rand5,7,Early Fusion,0.13003663003663002
+CDRP-bio,50,random,rand5,7,Late Fusion,0.21088435374149658
+CDRP-bio,50,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,50,ranked,r0,8,GE,0.041666666666666664
+CDRP-bio,50,ranked,r0,8,Early Fusion,0.19047619047619047
+CDRP-bio,50,ranked,r0,8,Late Fusion,0.2564102564102564
+CDRP-bio,50,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,50,random,rand1,8,GE,0.2111111111111111
+CDRP-bio,50,random,rand1,8,Early Fusion,0.1292517006802721
+CDRP-bio,50,random,rand1,8,Late Fusion,0.19047619047619047
+CDRP-bio,50,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,50,random,rand2,8,GE,0.041666666666666664
+CDRP-bio,50,random,rand2,8,Early Fusion,0.11904761904761904
+CDRP-bio,50,random,rand2,8,Late Fusion,0.17559523809523808
+CDRP-bio,50,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,50,random,rand3,8,GE,0.06923076923076923
+CDRP-bio,50,random,rand3,8,Early Fusion,0.1292517006802721
+CDRP-bio,50,random,rand3,8,Late Fusion,0.20512820512820512
+CDRP-bio,50,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,50,random,rand4,8,GE,0.041666666666666664
+CDRP-bio,50,random,rand4,8,Early Fusion,0.16666666666666666
+CDRP-bio,50,random,rand4,8,Late Fusion,0.2619047619047619
+CDRP-bio,50,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,50,random,rand5,8,GE,0.041666666666666664
+CDRP-bio,50,random,rand5,8,Early Fusion,0.16666666666666666
+CDRP-bio,50,random,rand5,8,Late Fusion,0.19047619047619047
+CDRP-bio,50,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,50,ranked,r0,9,GE,0.1684941520467836
+CDRP-bio,50,ranked,r0,9,Early Fusion,0.16194331983805668
+CDRP-bio,50,ranked,r0,9,Late Fusion,0.15553306342780024
+CDRP-bio,50,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,50,random,rand1,9,GE,0.08333333333333333
+CDRP-bio,50,random,rand1,9,Early Fusion,0.10256410256410256
+CDRP-bio,50,random,rand1,9,Late Fusion,0.15079365079365079
+CDRP-bio,50,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,50,random,rand2,9,GE,0.09999999999999999
+CDRP-bio,50,random,rand2,9,Early Fusion,0.10275689223057645
+CDRP-bio,50,random,rand2,9,Late Fusion,0.1473922902494331
+CDRP-bio,50,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,50,random,rand3,9,GE,0.13247863247863248
+CDRP-bio,50,random,rand3,9,Early Fusion,0.047619047619047616
+CDRP-bio,50,random,rand3,9,Late Fusion,0.1623931623931624
+CDRP-bio,50,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,50,random,rand4,9,GE,0.11238095238095239
+CDRP-bio,50,random,rand4,9,Early Fusion,0.10275689223057645
+CDRP-bio,50,random,rand4,9,Late Fusion,0.15873015873015872
+CDRP-bio,50,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,50,random,rand5,9,GE,0.07777777777777777
+CDRP-bio,50,random,rand5,9,Early Fusion,0.1106612685560054
+CDRP-bio,50,random,rand5,9,Late Fusion,0.15185185185185185
+CDRP-bio,50,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,50,ranked,r0,10,GE,0.22020202020202023
+CDRP-bio,50,ranked,r0,10,Early Fusion,0.22719298245614034
+CDRP-bio,50,ranked,r0,10,Late Fusion,0.14666666666666667
+CDRP-bio,50,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,50,random,rand1,10,GE,0.10897435897435898
+CDRP-bio,50,random,rand1,10,Early Fusion,0.21719298245614035
+CDRP-bio,50,random,rand1,10,Late Fusion,0.17079365079365078
+CDRP-bio,50,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,50,random,rand2,10,GE,0.11172161172161171
+CDRP-bio,50,random,rand2,10,Early Fusion,0.21719298245614035
+CDRP-bio,50,random,rand2,10,Late Fusion,0.12222222222222223
+CDRP-bio,50,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,50,random,rand3,10,GE,0.13675213675213674
+CDRP-bio,50,random,rand3,10,Early Fusion,0.21719298245614035
+CDRP-bio,50,random,rand3,10,Late Fusion,0.16666666666666669
+CDRP-bio,50,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,50,random,rand4,10,GE,0.0989010989010989
+CDRP-bio,50,random,rand4,10,Early Fusion,0.22719298245614034
+CDRP-bio,50,random,rand4,10,Late Fusion,0.17222222222222222
+CDRP-bio,50,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,50,random,rand5,10,GE,0.17407407407407408
+CDRP-bio,50,random,rand5,10,Early Fusion,0.21719298245614035
+CDRP-bio,50,random,rand5,10,Late Fusion,0.14675324675324677
+CDRP-bio,75,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,75,ranked,r0,1,GE,0.19183673469387755
+CDRP-bio,75,ranked,r0,1,Early Fusion,0.07142857142857142
+CDRP-bio,75,ranked,r0,1,Late Fusion,0.21785714285714283
+CDRP-bio,75,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,75,random,rand1,1,GE,0.13333333333333333
+CDRP-bio,75,random,rand1,1,Early Fusion,0.10769230769230768
+CDRP-bio,75,random,rand1,1,Late Fusion,0.09523809523809523
+CDRP-bio,75,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,75,random,rand2,1,GE,0.0625
+CDRP-bio,75,random,rand2,1,Early Fusion,0.08730158730158731
+CDRP-bio,75,random,rand2,1,Late Fusion,0.09183673469387754
+CDRP-bio,75,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,75,random,rand3,1,GE,0.06666666666666667
+CDRP-bio,75,random,rand3,1,Early Fusion,0.07142857142857142
+CDRP-bio,75,random,rand3,1,Late Fusion,0.06666666666666667
+CDRP-bio,75,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,75,random,rand4,1,GE,0.17777777777777776
+CDRP-bio,75,random,rand4,1,Early Fusion,0.11587301587301588
+CDRP-bio,75,random,rand4,1,Late Fusion,0.16
+CDRP-bio,75,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,75,random,rand5,1,GE,0.15
+CDRP-bio,75,random,rand5,1,Early Fusion,0.09999999999999999
+CDRP-bio,75,random,rand5,1,Late Fusion,0.09523809523809523
+CDRP-bio,75,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,75,ranked,r0,2,GE,0.028571428571428574
+CDRP-bio,75,ranked,r0,2,Early Fusion,0.14285714285714285
+CDRP-bio,75,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,75,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,75,random,rand1,2,GE,0.0
+CDRP-bio,75,random,rand1,2,Early Fusion,0.17142857142857143
+CDRP-bio,75,random,rand1,2,Late Fusion,0.16666666666666666
+CDRP-bio,75,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,75,random,rand2,2,GE,0.05714285714285715
+CDRP-bio,75,random,rand2,2,Early Fusion,0.18222222222222223
+CDRP-bio,75,random,rand2,2,Late Fusion,0.14583333333333331
+CDRP-bio,75,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,75,random,rand3,2,GE,0.023809523809523808
+CDRP-bio,75,random,rand3,2,Early Fusion,0.20238095238095236
+CDRP-bio,75,random,rand3,2,Late Fusion,0.1611111111111111
+CDRP-bio,75,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,75,random,rand4,2,GE,0.10714285714285714
+CDRP-bio,75,random,rand4,2,Early Fusion,0.09999999999999999
+CDRP-bio,75,random,rand4,2,Late Fusion,0.11555555555555556
+CDRP-bio,75,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,75,random,rand5,2,GE,0.028571428571428574
+CDRP-bio,75,random,rand5,2,Early Fusion,0.14285714285714285
+CDRP-bio,75,random,rand5,2,Late Fusion,0.15555555555555553
+CDRP-bio,75,ranked,r0,3,CP,0.125
+CDRP-bio,75,ranked,r0,3,GE,0.11682539682539682
+CDRP-bio,75,ranked,r0,3,Early Fusion,0.14
+CDRP-bio,75,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,75,random,rand1,3,CP,0.125
+CDRP-bio,75,random,rand1,3,GE,0.06666666666666667
+CDRP-bio,75,random,rand1,3,Early Fusion,0.14285714285714285
+CDRP-bio,75,random,rand1,3,Late Fusion,0.15416666666666667
+CDRP-bio,75,random,rand2,3,CP,0.125
+CDRP-bio,75,random,rand2,3,GE,0.1111111111111111
+CDRP-bio,75,random,rand2,3,Early Fusion,0.15178571428571427
+CDRP-bio,75,random,rand2,3,Late Fusion,0.15
+CDRP-bio,75,random,rand3,3,CP,0.125
+CDRP-bio,75,random,rand3,3,GE,0.11904761904761904
+CDRP-bio,75,random,rand3,3,Early Fusion,0.1961111111111111
+CDRP-bio,75,random,rand3,3,Late Fusion,0.15238095238095237
+CDRP-bio,75,random,rand4,3,CP,0.125
+CDRP-bio,75,random,rand4,3,GE,0.09999999999999999
+CDRP-bio,75,random,rand4,3,Early Fusion,0.1285714285714286
+CDRP-bio,75,random,rand4,3,Late Fusion,0.13777777777777775
+CDRP-bio,75,random,rand5,3,CP,0.125
+CDRP-bio,75,random,rand5,3,GE,0.05714285714285715
+CDRP-bio,75,random,rand5,3,Early Fusion,0.16944444444444443
+CDRP-bio,75,random,rand5,3,Late Fusion,0.13777777777777775
+CDRP-bio,75,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,75,ranked,r0,4,GE,0.04035087719298246
+CDRP-bio,75,ranked,r0,4,Early Fusion,0.10701754385964911
+CDRP-bio,75,ranked,r0,4,Late Fusion,0.09777777777777778
+CDRP-bio,75,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,75,random,rand1,4,GE,0.007017543859649122
+CDRP-bio,75,random,rand1,4,Early Fusion,0.019230769230769232
+CDRP-bio,75,random,rand1,4,Late Fusion,0.061111111111111116
+CDRP-bio,75,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,75,random,rand2,4,GE,0.007017543859649122
+CDRP-bio,75,random,rand2,4,Early Fusion,0.029605263157894735
+CDRP-bio,75,random,rand2,4,Late Fusion,0.0641025641025641
+CDRP-bio,75,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,75,random,rand3,4,GE,0.006578947368421052
+CDRP-bio,75,random,rand3,4,Early Fusion,0.10425101214574897
+CDRP-bio,75,random,rand3,4,Late Fusion,0.10402930402930403
+CDRP-bio,75,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,75,random,rand4,4,GE,0.007017543859649122
+CDRP-bio,75,random,rand4,4,Early Fusion,0.030952380952380953
+CDRP-bio,75,random,rand4,4,Late Fusion,0.08205128205128205
+CDRP-bio,75,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,75,random,rand5,4,GE,0.007518796992481203
+CDRP-bio,75,random,rand5,4,Early Fusion,0.07299498746867168
+CDRP-bio,75,random,rand5,4,Late Fusion,0.10769230769230768
+CDRP-bio,75,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,75,ranked,r0,5,GE,0.1711111111111111
+CDRP-bio,75,ranked,r0,5,Early Fusion,0.25111111111111106
+CDRP-bio,75,ranked,r0,5,Late Fusion,0.3174603174603174
+CDRP-bio,75,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,75,random,rand1,5,GE,0.07777777777777777
+CDRP-bio,75,random,rand1,5,Early Fusion,0.18627450980392157
+CDRP-bio,75,random,rand1,5,Late Fusion,0.23333333333333334
+CDRP-bio,75,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,75,random,rand2,5,GE,0.22499999999999998
+CDRP-bio,75,random,rand2,5,Early Fusion,0.19583333333333333
+CDRP-bio,75,random,rand2,5,Late Fusion,0.20343137254901958
+CDRP-bio,75,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,75,random,rand3,5,GE,0.13777777777777775
+CDRP-bio,75,random,rand3,5,Early Fusion,0.21428571428571425
+CDRP-bio,75,random,rand3,5,Late Fusion,0.175
+CDRP-bio,75,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,75,random,rand4,5,GE,0.0875
+CDRP-bio,75,random,rand4,5,Early Fusion,0.234375
+CDRP-bio,75,random,rand4,5,Late Fusion,0.21078431372549017
+CDRP-bio,75,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,75,random,rand5,5,GE,0.09841269841269841
+CDRP-bio,75,random,rand5,5,Early Fusion,0.18125
+CDRP-bio,75,random,rand5,5,Late Fusion,0.22745098039215686
+CDRP-bio,75,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,75,ranked,r0,6,GE,0.09583333333333333
+CDRP-bio,75,ranked,r0,6,Early Fusion,0.1769230769230769
+CDRP-bio,75,ranked,r0,6,Late Fusion,0.15476190476190474
+CDRP-bio,75,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,75,random,rand1,6,GE,0.08333333333333333
+CDRP-bio,75,random,rand1,6,Early Fusion,0.12564102564102564
+CDRP-bio,75,random,rand1,6,Late Fusion,0.15476190476190474
+CDRP-bio,75,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,75,random,rand2,6,GE,0.15873015873015872
+CDRP-bio,75,random,rand2,6,Early Fusion,0.11333333333333334
+CDRP-bio,75,random,rand2,6,Late Fusion,0.1961904761904762
+CDRP-bio,75,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,75,random,rand3,6,GE,0.07777777777777777
+CDRP-bio,75,random,rand3,6,Early Fusion,0.11326530612244899
+CDRP-bio,75,random,rand3,6,Late Fusion,0.1
+CDRP-bio,75,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,75,random,rand4,6,GE,0.07111111111111111
+CDRP-bio,75,random,rand4,6,Early Fusion,0.12564102564102564
+CDRP-bio,75,random,rand4,6,Late Fusion,0.10476190476190476
+CDRP-bio,75,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,75,random,rand5,6,GE,0.1111111111111111
+CDRP-bio,75,random,rand5,6,Early Fusion,0.11666666666666667
+CDRP-bio,75,random,rand5,6,Late Fusion,0.1911111111111111
+CDRP-bio,75,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,75,ranked,r0,7,GE,0.09523809523809523
+CDRP-bio,75,ranked,r0,7,Early Fusion,0.24839743589743588
+CDRP-bio,75,ranked,r0,7,Late Fusion,0.19047619047619047
+CDRP-bio,75,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,75,random,rand1,7,GE,0.0625
+CDRP-bio,75,random,rand1,7,Early Fusion,0.32251082251082247
+CDRP-bio,75,random,rand1,7,Late Fusion,0.21555555555555553
+CDRP-bio,75,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,75,random,rand2,7,GE,0.04444444444444444
+CDRP-bio,75,random,rand2,7,Early Fusion,0.32142857142857145
+CDRP-bio,75,random,rand2,7,Late Fusion,0.1822222222222222
+CDRP-bio,75,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,75,random,rand3,7,GE,0.06666666666666667
+CDRP-bio,75,random,rand3,7,Early Fusion,0.3403679653679653
+CDRP-bio,75,random,rand3,7,Late Fusion,0.16
+CDRP-bio,75,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,75,random,rand4,7,GE,0.10714285714285714
+CDRP-bio,75,random,rand4,7,Early Fusion,0.3412698412698413
+CDRP-bio,75,random,rand4,7,Late Fusion,0.16
+CDRP-bio,75,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,75,random,rand5,7,GE,0.075
+CDRP-bio,75,random,rand5,7,Early Fusion,0.28
+CDRP-bio,75,random,rand5,7,Late Fusion,0.1488888888888889
+CDRP-bio,75,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,75,ranked,r0,8,GE,0.0875
+CDRP-bio,75,ranked,r0,8,Early Fusion,0.11904761904761904
+CDRP-bio,75,ranked,r0,8,Late Fusion,0.2222222222222222
+CDRP-bio,75,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,75,random,rand1,8,GE,0.04444444444444444
+CDRP-bio,75,random,rand1,8,Early Fusion,0.11904761904761904
+CDRP-bio,75,random,rand1,8,Late Fusion,0.2006802721088435
+CDRP-bio,75,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,75,random,rand2,8,GE,0.041666666666666664
+CDRP-bio,75,random,rand2,8,Early Fusion,0.1111111111111111
+CDRP-bio,75,random,rand2,8,Late Fusion,0.25457875457875456
+CDRP-bio,75,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,75,random,rand3,8,GE,0.13945578231292516
+CDRP-bio,75,random,rand3,8,Early Fusion,0.14358974358974358
+CDRP-bio,75,random,rand3,8,Late Fusion,0.2222222222222222
+CDRP-bio,75,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,75,random,rand4,8,GE,0.041666666666666664
+CDRP-bio,75,random,rand4,8,Early Fusion,0.1111111111111111
+CDRP-bio,75,random,rand4,8,Late Fusion,0.1292517006802721
+CDRP-bio,75,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,75,random,rand5,8,GE,0.041666666666666664
+CDRP-bio,75,random,rand5,8,Early Fusion,0.1111111111111111
+CDRP-bio,75,random,rand5,8,Late Fusion,0.23174603174603173
+CDRP-bio,75,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,75,ranked,r0,9,GE,0.14615384615384613
+CDRP-bio,75,ranked,r0,9,Early Fusion,0.14697457930540633
+CDRP-bio,75,ranked,r0,9,Late Fusion,0.12656641604010024
+CDRP-bio,75,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,75,random,rand1,9,GE,0.07142857142857142
+CDRP-bio,75,random,rand1,9,Early Fusion,0.12008281573498965
+CDRP-bio,75,random,rand1,9,Late Fusion,0.12698412698412698
+CDRP-bio,75,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,75,random,rand2,9,GE,0.1
+CDRP-bio,75,random,rand2,9,Early Fusion,0.15764790764790762
+CDRP-bio,75,random,rand2,9,Late Fusion,0.12656641604010024
+CDRP-bio,75,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,75,random,rand3,9,GE,0.06666666666666667
+CDRP-bio,75,random,rand3,9,Early Fusion,0.18181818181818182
+CDRP-bio,75,random,rand3,9,Late Fusion,0.12698412698412698
+CDRP-bio,75,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,75,random,rand4,9,GE,0.03571428571428571
+CDRP-bio,75,random,rand4,9,Early Fusion,0.16269841269841268
+CDRP-bio,75,random,rand4,9,Late Fusion,0.12656641604010024
+CDRP-bio,75,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,75,random,rand5,9,GE,0.047619047619047616
+CDRP-bio,75,random,rand5,9,Early Fusion,0.15764790764790762
+CDRP-bio,75,random,rand5,9,Late Fusion,0.13675213675213674
+CDRP-bio,75,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,75,ranked,r0,10,GE,0.18181818181818182
+CDRP-bio,75,ranked,r0,10,Early Fusion,0.1065390749601276
+CDRP-bio,75,ranked,r0,10,Late Fusion,0.14166666666666666
+CDRP-bio,75,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,75,random,rand1,10,GE,0.08441558441558442
+CDRP-bio,75,random,rand1,10,Early Fusion,0.1065390749601276
+CDRP-bio,75,random,rand1,10,Late Fusion,0.14166666666666666
+CDRP-bio,75,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,75,random,rand2,10,GE,0.20512820512820512
+CDRP-bio,75,random,rand2,10,Early Fusion,0.11666666666666665
+CDRP-bio,75,random,rand2,10,Late Fusion,0.14166666666666666
+CDRP-bio,75,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,75,random,rand3,10,GE,0.14285714285714285
+CDRP-bio,75,random,rand3,10,Early Fusion,0.11666666666666665
+CDRP-bio,75,random,rand3,10,Late Fusion,0.14166666666666666
+CDRP-bio,75,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,75,random,rand4,10,GE,0.17142857142857143
+CDRP-bio,75,random,rand4,10,Early Fusion,0.11666666666666665
+CDRP-bio,75,random,rand4,10,Late Fusion,0.14523809523809522
+CDRP-bio,75,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,75,random,rand5,10,GE,0.1282051282051282
+CDRP-bio,75,random,rand5,10,Early Fusion,0.11666666666666665
+CDRP-bio,75,random,rand5,10,Late Fusion,0.14395604395604394
+CDRP-bio,100,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,100,ranked,r0,1,GE,0.25555555555555554
+CDRP-bio,100,ranked,r0,1,Early Fusion,0.17094017094017094
+CDRP-bio,100,ranked,r0,1,Late Fusion,0.23010204081632651
+CDRP-bio,100,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,100,random,rand1,1,GE,0.13333333333333333
+CDRP-bio,100,random,rand1,1,Early Fusion,0.12040816326530611
+CDRP-bio,100,random,rand1,1,Late Fusion,0.11224489795918367
+CDRP-bio,100,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,100,random,rand2,1,GE,0.15238095238095237
+CDRP-bio,100,random,rand2,1,Early Fusion,0.0875
+CDRP-bio,100,random,rand2,1,Late Fusion,0.09333333333333332
+CDRP-bio,100,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,100,random,rand3,1,GE,0.14285714285714285
+CDRP-bio,100,random,rand3,1,Early Fusion,0.10793650793650794
+CDRP-bio,100,random,rand3,1,Late Fusion,0.1037037037037037
+CDRP-bio,100,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,100,random,rand4,1,GE,0.125
+CDRP-bio,100,random,rand4,1,Early Fusion,0.09333333333333332
+CDRP-bio,100,random,rand4,1,Late Fusion,0.11238095238095237
+CDRP-bio,100,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,100,random,rand5,1,GE,0.06666666666666667
+CDRP-bio,100,random,rand5,1,Early Fusion,0.09333333333333332
+CDRP-bio,100,random,rand5,1,Late Fusion,0.07142857142857142
+CDRP-bio,100,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,100,ranked,r0,2,GE,0.0
+CDRP-bio,100,ranked,r0,2,Early Fusion,0.16666666666666666
+CDRP-bio,100,ranked,r0,2,Late Fusion,0.13333333333333333
+CDRP-bio,100,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,100,random,rand1,2,GE,0.0
+CDRP-bio,100,random,rand1,2,Early Fusion,0.13333333333333333
+CDRP-bio,100,random,rand1,2,Late Fusion,0.2346938775510204
+CDRP-bio,100,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,100,random,rand2,2,GE,0.0
+CDRP-bio,100,random,rand2,2,Early Fusion,0.07450980392156863
+CDRP-bio,100,random,rand2,2,Late Fusion,0.09375
+CDRP-bio,100,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,100,random,rand3,2,GE,0.08333333333333333
+CDRP-bio,100,random,rand3,2,Early Fusion,0.08888888888888888
+CDRP-bio,100,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,100,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,100,random,rand4,2,GE,0.07596371882086168
+CDRP-bio,100,random,rand4,2,Early Fusion,0.12000000000000001
+CDRP-bio,100,random,rand4,2,Late Fusion,0.125
+CDRP-bio,100,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,100,random,rand5,2,GE,0.0
+CDRP-bio,100,random,rand5,2,Early Fusion,0.06666666666666667
+CDRP-bio,100,random,rand5,2,Late Fusion,0.0625
+CDRP-bio,100,ranked,r0,3,CP,0.125
+CDRP-bio,100,ranked,r0,3,GE,0.08333333333333333
+CDRP-bio,100,ranked,r0,3,Early Fusion,0.1621164021164021
+CDRP-bio,100,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,100,random,rand1,3,CP,0.125
+CDRP-bio,100,random,rand1,3,GE,0.08928571428571429
+CDRP-bio,100,random,rand1,3,Early Fusion,0.11326530612244899
+CDRP-bio,100,random,rand1,3,Late Fusion,0.16
+CDRP-bio,100,random,rand2,3,CP,0.125
+CDRP-bio,100,random,rand2,3,GE,0.07901622187336474
+CDRP-bio,100,random,rand2,3,Early Fusion,0.14349206349206348
+CDRP-bio,100,random,rand2,3,Late Fusion,0.16041666666666665
+CDRP-bio,100,random,rand3,3,CP,0.125
+CDRP-bio,100,random,rand3,3,GE,0.11282051282051284
+CDRP-bio,100,random,rand3,3,Early Fusion,0.125
+CDRP-bio,100,random,rand3,3,Late Fusion,0.12202380952380952
+CDRP-bio,100,random,rand4,3,CP,0.125
+CDRP-bio,100,random,rand4,3,GE,0.15
+CDRP-bio,100,random,rand4,3,Early Fusion,0.1634920634920635
+CDRP-bio,100,random,rand4,3,Late Fusion,0.16
+CDRP-bio,100,random,rand5,3,CP,0.125
+CDRP-bio,100,random,rand5,3,GE,0.08333333333333333
+CDRP-bio,100,random,rand5,3,Early Fusion,0.12444444444444444
+CDRP-bio,100,random,rand5,3,Late Fusion,0.14166666666666666
+CDRP-bio,100,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,100,ranked,r0,4,GE,0.075
+CDRP-bio,100,ranked,r0,4,Early Fusion,0.12179487179487179
+CDRP-bio,100,ranked,r0,4,Late Fusion,0.1285714285714286
+CDRP-bio,100,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,100,random,rand1,4,GE,0.009569377990430622
+CDRP-bio,100,random,rand1,4,Early Fusion,0.05641025641025642
+CDRP-bio,100,random,rand1,4,Late Fusion,0.06349206349206349
+CDRP-bio,100,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,100,random,rand2,4,GE,0.0125
+CDRP-bio,100,random,rand2,4,Early Fusion,0.05274725274725275
+CDRP-bio,100,random,rand2,4,Late Fusion,0.05714285714285715
+CDRP-bio,100,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,100,random,rand3,4,GE,0.007518796992481203
+CDRP-bio,100,random,rand3,4,Early Fusion,0.05555555555555555
+CDRP-bio,100,random,rand3,4,Late Fusion,0.10402930402930403
+CDRP-bio,100,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,100,random,rand4,4,GE,0.007017543859649122
+CDRP-bio,100,random,rand4,4,Early Fusion,0.023809523809523808
+CDRP-bio,100,random,rand4,4,Late Fusion,0.13846153846153844
+CDRP-bio,100,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,100,random,rand5,4,GE,0.007518796992481203
+CDRP-bio,100,random,rand5,4,Early Fusion,0.027327935222672066
+CDRP-bio,100,random,rand5,4,Late Fusion,0.05128205128205128
+CDRP-bio,100,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,100,ranked,r0,5,GE,0.18333333333333332
+CDRP-bio,100,ranked,r0,5,Early Fusion,0.20416666666666666
+CDRP-bio,100,ranked,r0,5,Late Fusion,0.31777777777777777
+CDRP-bio,100,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,100,random,rand1,5,GE,0.10444444444444444
+CDRP-bio,100,random,rand1,5,Early Fusion,0.2222222222222222
+CDRP-bio,100,random,rand1,5,Late Fusion,0.2222222222222222
+CDRP-bio,100,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,100,random,rand2,5,GE,0.10444444444444444
+CDRP-bio,100,random,rand2,5,Early Fusion,0.17857142857142855
+CDRP-bio,100,random,rand2,5,Late Fusion,0.18431372549019606
+CDRP-bio,100,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,100,random,rand3,5,GE,0.0625
+CDRP-bio,100,random,rand3,5,Early Fusion,0.2222222222222222
+CDRP-bio,100,random,rand3,5,Late Fusion,0.20833333333333331
+CDRP-bio,100,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,100,random,rand4,5,GE,0.15238095238095237
+CDRP-bio,100,random,rand4,5,Early Fusion,0.1958333333333333
+CDRP-bio,100,random,rand4,5,Late Fusion,0.23039215686274508
+CDRP-bio,100,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,100,random,rand5,5,GE,0.15555555555555553
+CDRP-bio,100,random,rand5,5,Early Fusion,0.16666666666666663
+CDRP-bio,100,random,rand5,5,Late Fusion,0.23541666666666666
+CDRP-bio,100,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,100,ranked,r0,6,GE,0.09375
+CDRP-bio,100,ranked,r0,6,Early Fusion,0.1880952380952381
+CDRP-bio,100,ranked,r0,6,Late Fusion,0.15476190476190474
+CDRP-bio,100,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,100,random,rand1,6,GE,0.047619047619047616
+CDRP-bio,100,random,rand1,6,Early Fusion,0.08666666666666667
+CDRP-bio,100,random,rand1,6,Late Fusion,0.16444444444444445
+CDRP-bio,100,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,100,random,rand2,6,GE,0.08888888888888888
+CDRP-bio,100,random,rand2,6,Early Fusion,0.09777777777777778
+CDRP-bio,100,random,rand2,6,Late Fusion,0.09777777777777778
+CDRP-bio,100,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,100,random,rand3,6,GE,0.19743589743589743
+CDRP-bio,100,random,rand3,6,Early Fusion,0.11333333333333334
+CDRP-bio,100,random,rand3,6,Late Fusion,0.18000000000000002
+CDRP-bio,100,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,100,random,rand4,6,GE,0.1111111111111111
+CDRP-bio,100,random,rand4,6,Early Fusion,0.08666666666666667
+CDRP-bio,100,random,rand4,6,Late Fusion,0.15333333333333332
+CDRP-bio,100,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,100,random,rand5,6,GE,0.1
+CDRP-bio,100,random,rand5,6,Early Fusion,0.08666666666666667
+CDRP-bio,100,random,rand5,6,Late Fusion,0.16444444444444445
+CDRP-bio,100,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,100,ranked,r0,7,GE,0.09615384615384616
+CDRP-bio,100,ranked,r0,7,Early Fusion,0.1694139194139194
+CDRP-bio,100,ranked,r0,7,Late Fusion,0.16666666666666666
+CDRP-bio,100,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,100,random,rand1,7,GE,0.06666666666666667
+CDRP-bio,100,random,rand1,7,Early Fusion,0.2396825396825397
+CDRP-bio,100,random,rand1,7,Late Fusion,0.20444444444444443
+CDRP-bio,100,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,100,random,rand2,7,GE,0.1
+CDRP-bio,100,random,rand2,7,Early Fusion,0.27521367521367524
+CDRP-bio,100,random,rand2,7,Late Fusion,0.19047619047619047
+CDRP-bio,100,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,100,random,rand3,7,GE,0.06666666666666667
+CDRP-bio,100,random,rand3,7,Early Fusion,0.1600907029478458
+CDRP-bio,100,random,rand3,7,Late Fusion,0.1822222222222222
+CDRP-bio,100,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,100,random,rand4,7,GE,0.08928571428571429
+CDRP-bio,100,random,rand4,7,Early Fusion,0.2591575091575091
+CDRP-bio,100,random,rand4,7,Late Fusion,0.15952380952380954
+CDRP-bio,100,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,100,random,rand5,7,GE,0.07142857142857142
+CDRP-bio,100,random,rand5,7,Early Fusion,0.24064625850340132
+CDRP-bio,100,random,rand5,7,Late Fusion,0.19777777777777775
+CDRP-bio,100,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,100,ranked,r0,8,GE,0.0625
+CDRP-bio,100,ranked,r0,8,Early Fusion,0.2571428571428571
+CDRP-bio,100,ranked,r0,8,Late Fusion,0.2673992673992674
+CDRP-bio,100,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,100,random,rand1,8,GE,0.04444444444444444
+CDRP-bio,100,random,rand1,8,Early Fusion,0.1111111111111111
+CDRP-bio,100,random,rand1,8,Late Fusion,0.1111111111111111
+CDRP-bio,100,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,100,random,rand2,8,GE,0.060000000000000005
+CDRP-bio,100,random,rand2,8,Early Fusion,0.14871794871794872
+CDRP-bio,100,random,rand2,8,Late Fusion,0.11904761904761904
+CDRP-bio,100,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,100,random,rand3,8,GE,0.03125
+CDRP-bio,100,random,rand3,8,Early Fusion,0.14444444444444443
+CDRP-bio,100,random,rand3,8,Late Fusion,0.2261904761904762
+CDRP-bio,100,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,100,random,rand4,8,GE,0.0625
+CDRP-bio,100,random,rand4,8,Early Fusion,0.1111111111111111
+CDRP-bio,100,random,rand4,8,Late Fusion,0.25457875457875456
+CDRP-bio,100,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,100,random,rand5,8,GE,0.041666666666666664
+CDRP-bio,100,random,rand5,8,Early Fusion,0.11904761904761904
+CDRP-bio,100,random,rand5,8,Late Fusion,0.19047619047619047
+CDRP-bio,100,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,100,ranked,r0,9,GE,0.15164835164835166
+CDRP-bio,100,ranked,r0,9,Early Fusion,0.16257309941520467
+CDRP-bio,100,ranked,r0,9,Late Fusion,0.1811740890688259
+CDRP-bio,100,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,100,random,rand1,9,GE,0.09999999999999999
+CDRP-bio,100,random,rand1,9,Early Fusion,0.14766081871345027
+CDRP-bio,100,random,rand1,9,Late Fusion,0.13675213675213674
+CDRP-bio,100,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,100,random,rand2,9,GE,0.06666666666666667
+CDRP-bio,100,random,rand2,9,Early Fusion,0.18758434547908232
+CDRP-bio,100,random,rand2,9,Late Fusion,0.13675213675213674
+CDRP-bio,100,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,100,random,rand3,9,GE,0.07692307692307693
+CDRP-bio,100,random,rand3,9,Early Fusion,0.12656641604010024
+CDRP-bio,100,random,rand3,9,Late Fusion,0.11851851851851851
+CDRP-bio,100,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,100,random,rand4,9,GE,0.08843537414965986
+CDRP-bio,100,random,rand4,9,Early Fusion,0.12444444444444443
+CDRP-bio,100,random,rand4,9,Late Fusion,0.1407364565259302
+CDRP-bio,100,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,100,random,rand5,9,GE,0.0989010989010989
+CDRP-bio,100,random,rand5,9,Early Fusion,0.12656641604010024
+CDRP-bio,100,random,rand5,9,Late Fusion,0.12698412698412698
+CDRP-bio,100,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,100,ranked,r0,10,GE,0.16326530612244897
+CDRP-bio,100,ranked,r0,10,Early Fusion,0.18253968253968253
+CDRP-bio,100,ranked,r0,10,Late Fusion,0.14646464646464646
+CDRP-bio,100,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,100,random,rand1,10,GE,0.12916666666666665
+CDRP-bio,100,random,rand1,10,Early Fusion,0.09682539682539683
+CDRP-bio,100,random,rand1,10,Late Fusion,0.16666666666666666
+CDRP-bio,100,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,100,random,rand2,10,GE,0.05
+CDRP-bio,100,random,rand2,10,Early Fusion,0.07993197278911565
+CDRP-bio,100,random,rand2,10,Late Fusion,0.14666666666666667
+CDRP-bio,100,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,100,random,rand3,10,GE,0.1111111111111111
+CDRP-bio,100,random,rand3,10,Early Fusion,0.11355311355311354
+CDRP-bio,100,random,rand3,10,Late Fusion,0.14038461538461539
+CDRP-bio,100,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,100,random,rand4,10,GE,0.08666666666666667
+CDRP-bio,100,random,rand4,10,Early Fusion,0.08333333333333334
+CDRP-bio,100,random,rand4,10,Late Fusion,0.14107142857142857
+CDRP-bio,100,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,100,random,rand5,10,GE,0.05
+CDRP-bio,100,random,rand5,10,Early Fusion,0.08608058608058608
+CDRP-bio,100,random,rand5,10,Late Fusion,0.14761904761904762
+CDRP-bio,150,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,150,ranked,r0,1,GE,0.19333333333333333
+CDRP-bio,150,ranked,r0,1,Early Fusion,0.19285714285714287
+CDRP-bio,150,ranked,r0,1,Late Fusion,0.2211111111111111
+CDRP-bio,150,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,150,random,rand1,1,GE,0.17777777777777776
+CDRP-bio,150,random,rand1,1,Early Fusion,0.10256410256410256
+CDRP-bio,150,random,rand1,1,Late Fusion,0.07692307692307693
+CDRP-bio,150,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,150,random,rand2,1,GE,0.1794871794871795
+CDRP-bio,150,random,rand2,1,Early Fusion,0.09183673469387754
+CDRP-bio,150,random,rand2,1,Late Fusion,0.19230769230769232
+CDRP-bio,150,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,150,random,rand3,1,GE,0.15555555555555553
+CDRP-bio,150,random,rand3,1,Early Fusion,0.07692307692307693
+CDRP-bio,150,random,rand3,1,Late Fusion,0.09523809523809523
+CDRP-bio,150,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,150,random,rand4,1,GE,0.16
+CDRP-bio,150,random,rand4,1,Early Fusion,0.11904761904761904
+CDRP-bio,150,random,rand4,1,Late Fusion,0.09523809523809523
+CDRP-bio,150,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,150,random,rand5,1,GE,0.24444444444444444
+CDRP-bio,150,random,rand5,1,Early Fusion,0.13350340136054423
+CDRP-bio,150,random,rand5,1,Late Fusion,0.2358974358974359
+CDRP-bio,150,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,150,ranked,r0,2,GE,0.008403361344537815
+CDRP-bio,150,ranked,r0,2,Early Fusion,0.15384615384615385
+CDRP-bio,150,ranked,r0,2,Late Fusion,0.21538461538461537
+CDRP-bio,150,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,150,random,rand1,2,GE,0.00784313725490196
+CDRP-bio,150,random,rand1,2,Early Fusion,0.08888888888888888
+CDRP-bio,150,random,rand1,2,Late Fusion,0.17777777777777776
+CDRP-bio,150,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,150,random,rand2,2,GE,0.05128205128205128
+CDRP-bio,150,random,rand2,2,Early Fusion,0.06666666666666667
+CDRP-bio,150,random,rand2,2,Late Fusion,0.16666666666666666
+CDRP-bio,150,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,150,random,rand3,2,GE,0.00784313725490196
+CDRP-bio,150,random,rand3,2,Early Fusion,0.11904761904761904
+CDRP-bio,150,random,rand3,2,Late Fusion,0.09375
+CDRP-bio,150,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,150,random,rand4,2,GE,0.0
+CDRP-bio,150,random,rand4,2,Early Fusion,0.07142857142857142
+CDRP-bio,150,random,rand4,2,Late Fusion,0.041666666666666664
+CDRP-bio,150,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,150,random,rand5,2,GE,0.0
+CDRP-bio,150,random,rand5,2,Early Fusion,0.07450980392156863
+CDRP-bio,150,random,rand5,2,Late Fusion,0.16666666666666666
+CDRP-bio,150,ranked,r0,3,CP,0.125
+CDRP-bio,150,ranked,r0,3,GE,0.13205128205128205
+CDRP-bio,150,ranked,r0,3,Early Fusion,0.0763888888888889
+CDRP-bio,150,ranked,r0,3,Late Fusion,0.12202380952380952
+CDRP-bio,150,random,rand1,3,CP,0.125
+CDRP-bio,150,random,rand1,3,GE,0.1111111111111111
+CDRP-bio,150,random,rand1,3,Early Fusion,0.1688888888888889
+CDRP-bio,150,random,rand1,3,Late Fusion,0.14705882352941177
+CDRP-bio,150,random,rand2,3,CP,0.125
+CDRP-bio,150,random,rand2,3,GE,0.13095238095238096
+CDRP-bio,150,random,rand2,3,Early Fusion,0.15714285714285717
+CDRP-bio,150,random,rand2,3,Late Fusion,0.12916666666666665
+CDRP-bio,150,random,rand3,3,CP,0.125
+CDRP-bio,150,random,rand3,3,GE,0.1708086785009862
+CDRP-bio,150,random,rand3,3,Early Fusion,0.125
+CDRP-bio,150,random,rand3,3,Late Fusion,0.12941176470588237
+CDRP-bio,150,random,rand4,3,CP,0.125
+CDRP-bio,150,random,rand4,3,GE,0.06666666666666667
+CDRP-bio,150,random,rand4,3,Early Fusion,0.12202380952380952
+CDRP-bio,150,random,rand4,3,Late Fusion,0.15238095238095237
+CDRP-bio,150,random,rand5,3,CP,0.125
+CDRP-bio,150,random,rand5,3,GE,0.12222222222222222
+CDRP-bio,150,random,rand5,3,Early Fusion,0.10571428571428572
+CDRP-bio,150,random,rand5,3,Late Fusion,0.11484593837535013
+CDRP-bio,150,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,150,ranked,r0,4,GE,0.07368421052631578
+CDRP-bio,150,ranked,r0,4,Early Fusion,0.11111111111111112
+CDRP-bio,150,ranked,r0,4,Late Fusion,0.09659863945578231
+CDRP-bio,150,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,150,random,rand1,4,GE,0.007518796992481203
+CDRP-bio,150,random,rand1,4,Early Fusion,0.05897435897435897
+CDRP-bio,150,random,rand1,4,Late Fusion,0.02040816326530612
+CDRP-bio,150,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,150,random,rand2,4,GE,0.0
+CDRP-bio,150,random,rand2,4,Early Fusion,0.049999999999999996
+CDRP-bio,150,random,rand2,4,Late Fusion,0.05416666666666667
+CDRP-bio,150,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,150,random,rand3,4,GE,0.008097165991902834
+CDRP-bio,150,random,rand3,4,Early Fusion,0.04365079365079364
+CDRP-bio,150,random,rand3,4,Late Fusion,0.02040816326530612
+CDRP-bio,150,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,150,random,rand4,4,GE,0.008097165991902834
+CDRP-bio,150,random,rand4,4,Early Fusion,0.08974358974358974
+CDRP-bio,150,random,rand4,4,Late Fusion,0.07692307692307693
+CDRP-bio,150,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,150,random,rand5,4,GE,0.007017543859649122
+CDRP-bio,150,random,rand5,4,Early Fusion,0.04615384615384615
+CDRP-bio,150,random,rand5,4,Late Fusion,0.0989010989010989
+CDRP-bio,150,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,150,ranked,r0,5,GE,0.16041666666666665
+CDRP-bio,150,ranked,r0,5,Early Fusion,0.24432234432234431
+CDRP-bio,150,ranked,r0,5,Late Fusion,0.29791666666666666
+CDRP-bio,150,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,150,random,rand1,5,GE,0.11458333333333333
+CDRP-bio,150,random,rand1,5,Early Fusion,0.2738095238095238
+CDRP-bio,150,random,rand1,5,Late Fusion,0.24999999999999997
+CDRP-bio,150,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,150,random,rand2,5,GE,0.1568627450980392
+CDRP-bio,150,random,rand2,5,Early Fusion,0.24404761904761904
+CDRP-bio,150,random,rand2,5,Late Fusion,0.26666666666666666
+CDRP-bio,150,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,150,random,rand3,5,GE,0.13333333333333333
+CDRP-bio,150,random,rand3,5,Early Fusion,0.20238095238095236
+CDRP-bio,150,random,rand3,5,Late Fusion,0.18749999999999997
+CDRP-bio,150,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,150,random,rand4,5,GE,0.07777777777777777
+CDRP-bio,150,random,rand4,5,Early Fusion,0.17708333333333331
+CDRP-bio,150,random,rand4,5,Late Fusion,0.196078431372549
+CDRP-bio,150,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,150,random,rand5,5,GE,0.13541666666666666
+CDRP-bio,150,random,rand5,5,Early Fusion,0.21190476190476187
+CDRP-bio,150,random,rand5,5,Late Fusion,0.196078431372549
+CDRP-bio,150,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,150,ranked,r0,6,GE,0.13777777777777775
+CDRP-bio,150,ranked,r0,6,Early Fusion,0.175
+CDRP-bio,150,ranked,r0,6,Late Fusion,0.15333333333333332
+CDRP-bio,150,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,150,random,rand1,6,GE,0.13333333333333333
+CDRP-bio,150,random,rand1,6,Early Fusion,0.16444444444444445
+CDRP-bio,150,random,rand1,6,Late Fusion,0.1761904761904762
+CDRP-bio,150,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,150,random,rand2,6,GE,0.15098039215686274
+CDRP-bio,150,random,rand2,6,Early Fusion,0.12444444444444444
+CDRP-bio,150,random,rand2,6,Late Fusion,0.18666666666666665
+CDRP-bio,150,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,150,random,rand3,6,GE,0.12666666666666665
+CDRP-bio,150,random,rand3,6,Early Fusion,0.10476190476190476
+CDRP-bio,150,random,rand3,6,Late Fusion,0.1761904761904762
+CDRP-bio,150,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,150,random,rand4,6,GE,0.14444444444444443
+CDRP-bio,150,random,rand4,6,Early Fusion,0.16444444444444445
+CDRP-bio,150,random,rand4,6,Late Fusion,0.1761904761904762
+CDRP-bio,150,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,150,random,rand5,6,GE,0.14444444444444443
+CDRP-bio,150,random,rand5,6,Early Fusion,0.11682539682539682
+CDRP-bio,150,random,rand5,6,Late Fusion,0.09777777777777778
+CDRP-bio,150,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,150,ranked,r0,7,GE,0.16153846153846155
+CDRP-bio,150,ranked,r0,7,Early Fusion,0.21904761904761902
+CDRP-bio,150,ranked,r0,7,Late Fusion,0.1680272108843537
+CDRP-bio,150,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,150,random,rand1,7,GE,0.04444444444444444
+CDRP-bio,150,random,rand1,7,Early Fusion,0.20238095238095236
+CDRP-bio,150,random,rand1,7,Late Fusion,0.18888888888888886
+CDRP-bio,150,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,150,random,rand2,7,GE,0.047619047619047616
+CDRP-bio,150,random,rand2,7,Early Fusion,0.2857142857142857
+CDRP-bio,150,random,rand2,7,Late Fusion,0.14285714285714285
+CDRP-bio,150,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,150,random,rand3,7,GE,0.15384615384615385
+CDRP-bio,150,random,rand3,7,Early Fusion,0.2948717948717948
+CDRP-bio,150,random,rand3,7,Late Fusion,0.15555555555555553
+CDRP-bio,150,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,150,random,rand4,7,GE,0.1851851851851852
+CDRP-bio,150,random,rand4,7,Early Fusion,0.30769230769230765
+CDRP-bio,150,random,rand4,7,Late Fusion,0.17023809523809524
+CDRP-bio,150,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,150,random,rand5,7,GE,0.04444444444444444
+CDRP-bio,150,random,rand5,7,Early Fusion,0.28205128205128205
+CDRP-bio,150,random,rand5,7,Late Fusion,0.14285714285714285
+CDRP-bio,150,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,150,ranked,r0,8,GE,0.07142857142857142
+CDRP-bio,150,ranked,r0,8,Early Fusion,0.17948717948717946
+CDRP-bio,150,ranked,r0,8,Late Fusion,0.23809523809523808
+CDRP-bio,150,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,150,random,rand1,8,GE,0.07777777777777777
+CDRP-bio,150,random,rand1,8,Early Fusion,0.1476190476190476
+CDRP-bio,150,random,rand1,8,Late Fusion,0.2261904761904762
+CDRP-bio,150,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,150,random,rand2,8,GE,0.03333333333333333
+CDRP-bio,150,random,rand2,8,Early Fusion,0.16666666666666666
+CDRP-bio,150,random,rand2,8,Late Fusion,0.2161172161172161
+CDRP-bio,150,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,150,random,rand3,8,GE,0.04444444444444444
+CDRP-bio,150,random,rand3,8,Early Fusion,0.1282051282051282
+CDRP-bio,150,random,rand3,8,Late Fusion,0.19047619047619047
+CDRP-bio,150,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,150,random,rand4,8,GE,0.03333333333333333
+CDRP-bio,150,random,rand4,8,Early Fusion,0.11904761904761904
+CDRP-bio,150,random,rand4,8,Late Fusion,0.19047619047619047
+CDRP-bio,150,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,150,random,rand5,8,GE,0.041666666666666664
+CDRP-bio,150,random,rand5,8,Early Fusion,0.15476190476190474
+CDRP-bio,150,random,rand5,8,Late Fusion,0.10416666666666666
+CDRP-bio,150,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,150,ranked,r0,9,GE,0.16446886446886447
+CDRP-bio,150,ranked,r0,9,Early Fusion,0.16194331983805668
+CDRP-bio,150,ranked,r0,9,Late Fusion,0.1875843454790823
+CDRP-bio,150,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,150,random,rand1,9,GE,0.08333333333333333
+CDRP-bio,150,random,rand1,9,Early Fusion,0.13630229419703102
+CDRP-bio,150,random,rand1,9,Late Fusion,0.13675213675213674
+CDRP-bio,150,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,150,random,rand2,9,GE,0.08333333333333333
+CDRP-bio,150,random,rand2,9,Early Fusion,0.14912280701754382
+CDRP-bio,150,random,rand2,9,Late Fusion,0.12656641604010024
+CDRP-bio,150,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,150,random,rand3,9,GE,0.09523809523809523
+CDRP-bio,150,random,rand3,9,Early Fusion,0.13630229419703102
+CDRP-bio,150,random,rand3,9,Late Fusion,0.11507936507936509
+CDRP-bio,150,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,150,random,rand4,9,GE,0.07352941176470588
+CDRP-bio,150,random,rand4,9,Early Fusion,0.09590643274853801
+CDRP-bio,150,random,rand4,9,Late Fusion,0.12698412698412698
+CDRP-bio,150,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,150,random,rand5,9,GE,0.10416666666666666
+CDRP-bio,150,random,rand5,9,Early Fusion,0.12656641604010024
+CDRP-bio,150,random,rand5,9,Late Fusion,0.13675213675213674
+CDRP-bio,150,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,150,ranked,r0,10,GE,0.25227272727272726
+CDRP-bio,150,ranked,r0,10,Early Fusion,0.19666666666666666
+CDRP-bio,150,ranked,r0,10,Late Fusion,0.19454545454545455
+CDRP-bio,150,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,150,random,rand1,10,GE,0.1733333333333333
+CDRP-bio,150,random,rand1,10,Early Fusion,0.09545454545454546
+CDRP-bio,150,random,rand1,10,Late Fusion,0.15636363636363637
+CDRP-bio,150,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,150,random,rand2,10,GE,0.252991452991453
+CDRP-bio,150,random,rand2,10,Early Fusion,0.1351981351981352
+CDRP-bio,150,random,rand2,10,Late Fusion,0.16136363636363638
+CDRP-bio,150,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,150,random,rand3,10,GE,0.14107142857142857
+CDRP-bio,150,random,rand3,10,Early Fusion,0.1515151515151515
+CDRP-bio,150,random,rand3,10,Late Fusion,0.15333333333333332
+CDRP-bio,150,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,150,random,rand4,10,GE,0.1370851370851371
+CDRP-bio,150,random,rand4,10,Early Fusion,0.14038461538461539
+CDRP-bio,150,random,rand4,10,Late Fusion,0.16666666666666669
+CDRP-bio,150,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,150,random,rand5,10,GE,0.15076923076923077
+CDRP-bio,150,random,rand5,10,Early Fusion,0.1392857142857143
+CDRP-bio,150,random,rand5,10,Late Fusion,0.1622222222222222
+CDRP-bio,200,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,200,ranked,r0,1,GE,0.22666666666666666
+CDRP-bio,200,ranked,r0,1,Early Fusion,0.14102564102564102
+CDRP-bio,200,ranked,r0,1,Late Fusion,0.25015873015873014
+CDRP-bio,200,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,200,random,rand1,1,GE,0.1794871794871795
+CDRP-bio,200,random,rand1,1,Early Fusion,0.10714285714285714
+CDRP-bio,200,random,rand1,1,Late Fusion,0.20238095238095236
+CDRP-bio,200,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,200,random,rand2,1,GE,0.12222222222222222
+CDRP-bio,200,random,rand2,1,Early Fusion,0.10714285714285714
+CDRP-bio,200,random,rand2,1,Late Fusion,0.227891156462585
+CDRP-bio,200,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,200,random,rand3,1,GE,0.15555555555555553
+CDRP-bio,200,random,rand3,1,Early Fusion,0.07142857142857142
+CDRP-bio,200,random,rand3,1,Late Fusion,0.09999999999999999
+CDRP-bio,200,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,200,random,rand4,1,GE,0.16326530612244897
+CDRP-bio,200,random,rand4,1,Early Fusion,0.10714285714285714
+CDRP-bio,200,random,rand4,1,Late Fusion,0.17777777777777776
+CDRP-bio,200,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,200,random,rand5,1,GE,0.16666666666666666
+CDRP-bio,200,random,rand5,1,Early Fusion,0.1282051282051282
+CDRP-bio,200,random,rand5,1,Late Fusion,0.2
+CDRP-bio,200,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,200,ranked,r0,2,GE,0.034690799396681744
+CDRP-bio,200,ranked,r0,2,Early Fusion,0.19183673469387755
+CDRP-bio,200,ranked,r0,2,Late Fusion,0.16
+CDRP-bio,200,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,200,random,rand1,2,GE,0.06666666666666667
+CDRP-bio,200,random,rand1,2,Early Fusion,0.08888888888888888
+CDRP-bio,200,random,rand1,2,Late Fusion,0.15476190476190474
+CDRP-bio,200,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,200,random,rand2,2,GE,0.0
+CDRP-bio,200,random,rand2,2,Early Fusion,0.06666666666666667
+CDRP-bio,200,random,rand2,2,Late Fusion,0.0625
+CDRP-bio,200,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,200,random,rand3,2,GE,0.03571428571428571
+CDRP-bio,200,random,rand3,2,Early Fusion,0.10714285714285714
+CDRP-bio,200,random,rand3,2,Late Fusion,0.08333333333333333
+CDRP-bio,200,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,200,random,rand4,2,GE,0.10714285714285714
+CDRP-bio,200,random,rand4,2,Early Fusion,0.11555555555555556
+CDRP-bio,200,random,rand4,2,Late Fusion,0.1822222222222222
+CDRP-bio,200,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,200,random,rand5,2,GE,0.0
+CDRP-bio,200,random,rand5,2,Early Fusion,0.10833333333333332
+CDRP-bio,200,random,rand5,2,Late Fusion,0.0625
+CDRP-bio,200,ranked,r0,3,CP,0.125
+CDRP-bio,200,ranked,r0,3,GE,0.11904761904761904
+CDRP-bio,200,ranked,r0,3,Early Fusion,0.1076388888888889
+CDRP-bio,200,ranked,r0,3,Late Fusion,0.12916666666666665
+CDRP-bio,200,random,rand1,3,CP,0.125
+CDRP-bio,200,random,rand1,3,GE,0.12380952380952381
+CDRP-bio,200,random,rand1,3,Early Fusion,0.1125925925925926
+CDRP-bio,200,random,rand1,3,Late Fusion,0.12916666666666665
+CDRP-bio,200,random,rand2,3,CP,0.125
+CDRP-bio,200,random,rand2,3,GE,0.07692307692307691
+CDRP-bio,200,random,rand2,3,Early Fusion,0.16999999999999998
+CDRP-bio,200,random,rand2,3,Late Fusion,0.15014005602240896
+CDRP-bio,200,random,rand3,3,CP,0.125
+CDRP-bio,200,random,rand3,3,GE,0.07142857142857142
+CDRP-bio,200,random,rand3,3,Early Fusion,0.1711111111111111
+CDRP-bio,200,random,rand3,3,Late Fusion,0.13333333333333333
+CDRP-bio,200,random,rand4,3,CP,0.125
+CDRP-bio,200,random,rand4,3,GE,0.10714285714285712
+CDRP-bio,200,random,rand4,3,Early Fusion,0.11682539682539682
+CDRP-bio,200,random,rand4,3,Late Fusion,0.13529411764705881
+CDRP-bio,200,random,rand5,3,CP,0.125
+CDRP-bio,200,random,rand5,3,GE,0.12666666666666665
+CDRP-bio,200,random,rand5,3,Early Fusion,0.14592592592592593
+CDRP-bio,200,random,rand5,3,Late Fusion,0.1375
+CDRP-bio,200,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,200,ranked,r0,4,GE,0.06907894736842105
+CDRP-bio,200,ranked,r0,4,Early Fusion,0.05442176870748299
+CDRP-bio,200,ranked,r0,4,Late Fusion,0.06802721088435373
+CDRP-bio,200,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,200,random,rand1,4,GE,0.007017543859649122
+CDRP-bio,200,random,rand1,4,Early Fusion,0.04931972789115646
+CDRP-bio,200,random,rand1,4,Late Fusion,0.060000000000000005
+CDRP-bio,200,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,200,random,rand2,4,GE,0.0
+CDRP-bio,200,random,rand2,4,Early Fusion,0.0071428571428571435
+CDRP-bio,200,random,rand2,4,Late Fusion,0.02564102564102564
+CDRP-bio,200,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,200,random,rand3,4,GE,0.007518796992481203
+CDRP-bio,200,random,rand3,4,Early Fusion,0.012987012987012988
+CDRP-bio,200,random,rand3,4,Late Fusion,0.11538461538461536
+CDRP-bio,200,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,200,random,rand4,4,GE,0.0
+CDRP-bio,200,random,rand4,4,Early Fusion,0.05860805860805861
+CDRP-bio,200,random,rand4,4,Late Fusion,0.11904761904761904
+CDRP-bio,200,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,200,random,rand5,4,GE,0.0
+CDRP-bio,200,random,rand5,4,Early Fusion,0.007518796992481203
+CDRP-bio,200,random,rand5,4,Late Fusion,0.08333333333333333
+CDRP-bio,200,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,200,ranked,r0,5,GE,0.1470238095238095
+CDRP-bio,200,ranked,r0,5,Early Fusion,0.26666666666666666
+CDRP-bio,200,ranked,r0,5,Late Fusion,0.2928571428571428
+CDRP-bio,200,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,200,random,rand1,5,GE,0.12222222222222222
+CDRP-bio,200,random,rand1,5,Early Fusion,0.20238095238095236
+CDRP-bio,200,random,rand1,5,Late Fusion,0.22916666666666666
+CDRP-bio,200,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,200,random,rand2,5,GE,0.16666666666666666
+CDRP-bio,200,random,rand2,5,Early Fusion,0.2222222222222222
+CDRP-bio,200,random,rand2,5,Late Fusion,0.20448179271708683
+CDRP-bio,200,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,200,random,rand3,5,GE,0.10833333333333334
+CDRP-bio,200,random,rand3,5,Early Fusion,0.24444444444444444
+CDRP-bio,200,random,rand3,5,Late Fusion,0.22408963585434172
+CDRP-bio,200,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,200,random,rand4,5,GE,0.06862745098039215
+CDRP-bio,200,random,rand4,5,Early Fusion,0.18888888888888886
+CDRP-bio,200,random,rand4,5,Late Fusion,0.20588235294117643
+CDRP-bio,200,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,200,random,rand5,5,GE,0.11555555555555556
+CDRP-bio,200,random,rand5,5,Early Fusion,0.19999999999999998
+CDRP-bio,200,random,rand5,5,Late Fusion,0.22549019607843135
+CDRP-bio,200,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,200,ranked,r0,6,GE,0.11904761904761904
+CDRP-bio,200,ranked,r0,6,Early Fusion,0.24102564102564106
+CDRP-bio,200,ranked,r0,6,Late Fusion,0.16666666666666666
+CDRP-bio,200,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,200,random,rand1,6,GE,0.06666666666666667
+CDRP-bio,200,random,rand1,6,Early Fusion,0.14017094017094017
+CDRP-bio,200,random,rand1,6,Late Fusion,0.16428571428571428
+CDRP-bio,200,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,200,random,rand2,6,GE,0.1111111111111111
+CDRP-bio,200,random,rand2,6,Early Fusion,0.19999999999999998
+CDRP-bio,200,random,rand2,6,Late Fusion,0.16444444444444445
+CDRP-bio,200,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,200,random,rand3,6,GE,0.08888888888888888
+CDRP-bio,200,random,rand3,6,Early Fusion,0.20571428571428568
+CDRP-bio,200,random,rand3,6,Late Fusion,0.16444444444444445
+CDRP-bio,200,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,200,random,rand4,6,GE,0.10416666666666666
+CDRP-bio,200,random,rand4,6,Early Fusion,0.11682539682539682
+CDRP-bio,200,random,rand4,6,Late Fusion,0.1761904761904762
+CDRP-bio,200,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,200,random,rand5,6,GE,0.09333333333333332
+CDRP-bio,200,random,rand5,6,Early Fusion,0.18349206349206348
+CDRP-bio,200,random,rand5,6,Late Fusion,0.1761904761904762
+CDRP-bio,200,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,200,ranked,r0,7,GE,0.08974358974358974
+CDRP-bio,200,ranked,r0,7,Early Fusion,0.24444444444444444
+CDRP-bio,200,ranked,r0,7,Late Fusion,0.2476190476190476
+CDRP-bio,200,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,200,random,rand1,7,GE,0.09183673469387754
+CDRP-bio,200,random,rand1,7,Early Fusion,0.23777777777777775
+CDRP-bio,200,random,rand1,7,Late Fusion,0.16
+CDRP-bio,200,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,200,random,rand2,7,GE,0.09183673469387754
+CDRP-bio,200,random,rand2,7,Early Fusion,0.2525925925925926
+CDRP-bio,200,random,rand2,7,Late Fusion,0.20555555555555555
+CDRP-bio,200,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,200,random,rand3,7,GE,0.07142857142857142
+CDRP-bio,200,random,rand3,7,Early Fusion,0.23777777777777775
+CDRP-bio,200,random,rand3,7,Late Fusion,0.19999999999999998
+CDRP-bio,200,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,200,random,rand4,7,GE,0.08333333333333333
+CDRP-bio,200,random,rand4,7,Early Fusion,0.22349206349206346
+CDRP-bio,200,random,rand4,7,Late Fusion,0.16
+CDRP-bio,200,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,200,random,rand5,7,GE,0.07142857142857142
+CDRP-bio,200,random,rand5,7,Early Fusion,0.24333333333333332
+CDRP-bio,200,random,rand5,7,Late Fusion,0.21428571428571425
+CDRP-bio,200,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,200,ranked,r0,8,GE,0.05952380952380952
+CDRP-bio,200,ranked,r0,8,Early Fusion,0.16507936507936508
+CDRP-bio,200,ranked,r0,8,Late Fusion,0.24829931972789113
+CDRP-bio,200,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,200,random,rand1,8,GE,0.07111111111111111
+CDRP-bio,200,random,rand1,8,Early Fusion,0.1649659863945578
+CDRP-bio,200,random,rand1,8,Late Fusion,0.1111111111111111
+CDRP-bio,200,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,200,random,rand2,8,GE,0.041666666666666664
+CDRP-bio,200,random,rand2,8,Early Fusion,0.17687074829931973
+CDRP-bio,200,random,rand2,8,Late Fusion,0.16249999999999998
+CDRP-bio,200,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,200,random,rand3,8,GE,0.041666666666666664
+CDRP-bio,200,random,rand3,8,Early Fusion,0.1111111111111111
+CDRP-bio,200,random,rand3,8,Late Fusion,0.12063492063492064
+CDRP-bio,200,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,200,random,rand4,8,GE,0.047619047619047616
+CDRP-bio,200,random,rand4,8,Early Fusion,0.1649659863945578
+CDRP-bio,200,random,rand4,8,Late Fusion,0.12083333333333332
+CDRP-bio,200,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,200,random,rand5,8,GE,0.041666666666666664
+CDRP-bio,200,random,rand5,8,Early Fusion,0.14444444444444443
+CDRP-bio,200,random,rand5,8,Late Fusion,0.2006802721088435
+CDRP-bio,200,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,200,ranked,r0,9,GE,0.2186602870813397
+CDRP-bio,200,ranked,r0,9,Early Fusion,0.15598290598290598
+CDRP-bio,200,ranked,r0,9,Late Fusion,0.20040485829959515
+CDRP-bio,200,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,200,random,rand1,9,GE,0.07692307692307693
+CDRP-bio,200,random,rand1,9,Early Fusion,0.1212121212121212
+CDRP-bio,200,random,rand1,9,Late Fusion,0.14814814814814814
+CDRP-bio,200,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,200,random,rand2,9,GE,0.07407407407407408
+CDRP-bio,200,random,rand2,9,Early Fusion,0.12037037037037036
+CDRP-bio,200,random,rand2,9,Late Fusion,0.13675213675213674
+CDRP-bio,200,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,200,random,rand3,9,GE,0.11538461538461539
+CDRP-bio,200,random,rand3,9,Early Fusion,0.15384615384615385
+CDRP-bio,200,random,rand3,9,Late Fusion,0.1675213675213675
+CDRP-bio,200,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,200,random,rand4,9,GE,0.10256410256410256
+CDRP-bio,200,random,rand4,9,Early Fusion,0.12037037037037036
+CDRP-bio,200,random,rand4,9,Late Fusion,0.13675213675213674
+CDRP-bio,200,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,200,random,rand5,9,GE,0.09333333333333332
+CDRP-bio,200,random,rand5,9,Early Fusion,0.1473922902494331
+CDRP-bio,200,random,rand5,9,Late Fusion,0.14814814814814814
+CDRP-bio,200,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,200,ranked,r0,10,GE,0.06607142857142857
+CDRP-bio,200,ranked,r0,10,Early Fusion,0.1388888888888889
+CDRP-bio,200,ranked,r0,10,Late Fusion,0.13939393939393938
+CDRP-bio,200,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,200,random,rand1,10,GE,0.08547008547008547
+CDRP-bio,200,random,rand1,10,Early Fusion,0.125
+CDRP-bio,200,random,rand1,10,Late Fusion,0.17777777777777776
+CDRP-bio,200,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,200,random,rand2,10,GE,0.06151742993848257
+CDRP-bio,200,random,rand2,10,Early Fusion,0.125
+CDRP-bio,200,random,rand2,10,Late Fusion,0.14176470588235296
+CDRP-bio,200,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,200,random,rand3,10,GE,0.048701298701298704
+CDRP-bio,200,random,rand3,10,Early Fusion,0.11666666666666665
+CDRP-bio,200,random,rand3,10,Late Fusion,0.1276190476190476
+CDRP-bio,200,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,200,random,rand4,10,GE,0.06481481481481481
+CDRP-bio,200,random,rand4,10,Early Fusion,0.12727272727272726
+CDRP-bio,200,random,rand4,10,Late Fusion,0.16176470588235295
+CDRP-bio,200,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,200,random,rand5,10,GE,0.06285714285714286
+CDRP-bio,200,random,rand5,10,Early Fusion,0.125
+CDRP-bio,200,random,rand5,10,Late Fusion,0.1616161616161616
+CDRP-bio,300,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,300,ranked,r0,1,GE,0.18125
+CDRP-bio,300,ranked,r0,1,Early Fusion,0.24285714285714285
+CDRP-bio,300,ranked,r0,1,Late Fusion,0.23333333333333334
+CDRP-bio,300,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,300,random,rand1,1,GE,0.125
+CDRP-bio,300,random,rand1,1,Early Fusion,0.09999999999999999
+CDRP-bio,300,random,rand1,1,Late Fusion,0.17777777777777776
+CDRP-bio,300,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,300,random,rand2,1,GE,0.08035714285714285
+CDRP-bio,300,random,rand2,1,Early Fusion,0.07142857142857142
+CDRP-bio,300,random,rand2,1,Late Fusion,0.1111111111111111
+CDRP-bio,300,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,300,random,rand3,1,GE,0.10714285714285714
+CDRP-bio,300,random,rand3,1,Early Fusion,0.1476190476190476
+CDRP-bio,300,random,rand3,1,Late Fusion,0.09999999999999999
+CDRP-bio,300,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,300,random,rand4,1,GE,0.13333333333333333
+CDRP-bio,300,random,rand4,1,Early Fusion,0.07142857142857142
+CDRP-bio,300,random,rand4,1,Late Fusion,0.0875
+CDRP-bio,300,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,300,random,rand5,1,GE,0.15555555555555556
+CDRP-bio,300,random,rand5,1,Early Fusion,0.10476190476190476
+CDRP-bio,300,random,rand5,1,Late Fusion,0.14444444444444443
+CDRP-bio,300,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,300,ranked,r0,2,GE,0.008547008547008546
+CDRP-bio,300,ranked,r0,2,Early Fusion,0.09333333333333332
+CDRP-bio,300,ranked,r0,2,Late Fusion,0.16666666666666666
+CDRP-bio,300,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,300,random,rand1,2,GE,0.0
+CDRP-bio,300,random,rand1,2,Early Fusion,0.08888888888888888
+CDRP-bio,300,random,rand1,2,Late Fusion,0.2
+CDRP-bio,300,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,300,random,rand2,2,GE,0.014814814814814814
+CDRP-bio,300,random,rand2,2,Early Fusion,0.08888888888888888
+CDRP-bio,300,random,rand2,2,Late Fusion,0.0625
+CDRP-bio,300,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,300,random,rand3,2,GE,0.03125
+CDRP-bio,300,random,rand3,2,Early Fusion,0.0625
+CDRP-bio,300,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,300,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,300,random,rand4,2,GE,0.0
+CDRP-bio,300,random,rand4,2,Early Fusion,0.09333333333333332
+CDRP-bio,300,random,rand4,2,Late Fusion,0.09375
+CDRP-bio,300,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,300,random,rand5,2,GE,0.0
+CDRP-bio,300,random,rand5,2,Early Fusion,0.10714285714285714
+CDRP-bio,300,random,rand5,2,Late Fusion,0.09375
+CDRP-bio,300,ranked,r0,3,CP,0.125
+CDRP-bio,300,ranked,r0,3,GE,0.14285714285714285
+CDRP-bio,300,ranked,r0,3,Early Fusion,0.16396825396825396
+CDRP-bio,300,ranked,r0,3,Late Fusion,0.14479166666666665
+CDRP-bio,300,random,rand1,3,CP,0.125
+CDRP-bio,300,random,rand1,3,GE,0.07777777777777777
+CDRP-bio,300,random,rand1,3,Early Fusion,0.10444444444444442
+CDRP-bio,300,random,rand1,3,Late Fusion,0.10980392156862745
+CDRP-bio,300,random,rand2,3,CP,0.125
+CDRP-bio,300,random,rand2,3,GE,0.09432234432234432
+CDRP-bio,300,random,rand2,3,Early Fusion,0.09904761904761905
+CDRP-bio,300,random,rand2,3,Late Fusion,0.15098039215686274
+CDRP-bio,300,random,rand3,3,CP,0.125
+CDRP-bio,300,random,rand3,3,GE,0.0907738095238095
+CDRP-bio,300,random,rand3,3,Early Fusion,0.08452380952380953
+CDRP-bio,300,random,rand3,3,Late Fusion,0.10588235294117647
+CDRP-bio,300,random,rand4,3,CP,0.125
+CDRP-bio,300,random,rand4,3,GE,0.1
+CDRP-bio,300,random,rand4,3,Early Fusion,0.13777777777777775
+CDRP-bio,300,random,rand4,3,Late Fusion,0.14375
+CDRP-bio,300,random,rand5,3,CP,0.125
+CDRP-bio,300,random,rand5,3,GE,0.10714285714285714
+CDRP-bio,300,random,rand5,3,Early Fusion,0.16444444444444442
+CDRP-bio,300,random,rand5,3,Late Fusion,0.11666666666666667
+CDRP-bio,300,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,300,ranked,r0,4,GE,0.05416666666666667
+CDRP-bio,300,ranked,r0,4,Early Fusion,0.11904761904761904
+CDRP-bio,300,ranked,r0,4,Late Fusion,0.08205128205128205
+CDRP-bio,300,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,300,random,rand1,4,GE,0.019047619047619046
+CDRP-bio,300,random,rand1,4,Early Fusion,0.059379217273954114
+CDRP-bio,300,random,rand1,4,Late Fusion,0.06923076923076923
+CDRP-bio,300,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,300,random,rand2,4,GE,0.0071428571428571435
+CDRP-bio,300,random,rand2,4,Early Fusion,0.09166666666666667
+CDRP-bio,300,random,rand2,4,Late Fusion,0.075
+CDRP-bio,300,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,300,random,rand3,4,GE,0.007518796992481203
+CDRP-bio,300,random,rand3,4,Early Fusion,0.059379217273954114
+CDRP-bio,300,random,rand3,4,Late Fusion,0.06923076923076923
+CDRP-bio,300,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,300,random,rand4,4,GE,0.012698412698412698
+CDRP-bio,300,random,rand4,4,Early Fusion,0.03571428571428571
+CDRP-bio,300,random,rand4,4,Late Fusion,0.05612244897959184
+CDRP-bio,300,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,300,random,rand5,4,GE,0.007518796992481203
+CDRP-bio,300,random,rand5,4,Early Fusion,0.038461538461538464
+CDRP-bio,300,random,rand5,4,Late Fusion,0.05952380952380952
+CDRP-bio,300,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,300,ranked,r0,5,GE,0.140625
+CDRP-bio,300,ranked,r0,5,Early Fusion,0.26666666666666666
+CDRP-bio,300,ranked,r0,5,Late Fusion,0.24999999999999997
+CDRP-bio,300,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,300,random,rand1,5,GE,0.15892857142857142
+CDRP-bio,300,random,rand1,5,Early Fusion,0.21874999999999997
+CDRP-bio,300,random,rand1,5,Late Fusion,0.2311111111111111
+CDRP-bio,300,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,300,random,rand2,5,GE,0.12222222222222222
+CDRP-bio,300,random,rand2,5,Early Fusion,0.21874999999999997
+CDRP-bio,300,random,rand2,5,Late Fusion,0.20833333333333331
+CDRP-bio,300,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,300,random,rand3,5,GE,0.13333333333333333
+CDRP-bio,300,random,rand3,5,Early Fusion,0.2222222222222222
+CDRP-bio,300,random,rand3,5,Late Fusion,0.2577777777777778
+CDRP-bio,300,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,300,random,rand4,5,GE,0.06666666666666667
+CDRP-bio,300,random,rand4,5,Early Fusion,0.21874999999999997
+CDRP-bio,300,random,rand4,5,Late Fusion,0.2270833333333333
+CDRP-bio,300,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,300,random,rand5,5,GE,0.12351190476190477
+CDRP-bio,300,random,rand5,5,Early Fusion,0.21874999999999997
+CDRP-bio,300,random,rand5,5,Late Fusion,0.2583333333333333
+CDRP-bio,300,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,300,ranked,r0,6,GE,0.17857142857142858
+CDRP-bio,300,ranked,r0,6,Early Fusion,0.15416666666666667
+CDRP-bio,300,ranked,r0,6,Late Fusion,0.17777777777777776
+CDRP-bio,300,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,300,random,rand1,6,GE,0.23333333333333334
+CDRP-bio,300,random,rand1,6,Early Fusion,0.09777777777777778
+CDRP-bio,300,random,rand1,6,Late Fusion,0.1761904761904762
+CDRP-bio,300,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,300,random,rand2,6,GE,0.125
+CDRP-bio,300,random,rand2,6,Early Fusion,0.09777777777777778
+CDRP-bio,300,random,rand2,6,Late Fusion,0.15416666666666667
+CDRP-bio,300,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,300,random,rand3,6,GE,0.0625
+CDRP-bio,300,random,rand3,6,Early Fusion,0.16444444444444445
+CDRP-bio,300,random,rand3,6,Late Fusion,0.18666666666666665
+CDRP-bio,300,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,300,random,rand4,6,GE,0.0625
+CDRP-bio,300,random,rand4,6,Early Fusion,0.16444444444444445
+CDRP-bio,300,random,rand4,6,Late Fusion,0.16444444444444445
+CDRP-bio,300,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,300,random,rand5,6,GE,0.058823529411764705
+CDRP-bio,300,random,rand5,6,Early Fusion,0.16444444444444445
+CDRP-bio,300,random,rand5,6,Late Fusion,0.15416666666666667
+CDRP-bio,300,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,300,ranked,r0,7,GE,0.07692307692307693
+CDRP-bio,300,ranked,r0,7,Early Fusion,0.1476190476190476
+CDRP-bio,300,ranked,r0,7,Late Fusion,0.2261904761904762
+CDRP-bio,300,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,300,random,rand1,7,GE,0.08888888888888888
+CDRP-bio,300,random,rand1,7,Early Fusion,0.21025641025641023
+CDRP-bio,300,random,rand1,7,Late Fusion,0.13095238095238093
+CDRP-bio,300,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,300,random,rand2,7,GE,0.20833333333333334
+CDRP-bio,300,random,rand2,7,Early Fusion,0.21388888888888888
+CDRP-bio,300,random,rand2,7,Late Fusion,0.17820512820512818
+CDRP-bio,300,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,300,random,rand3,7,GE,0.1111111111111111
+CDRP-bio,300,random,rand3,7,Early Fusion,0.27435897435897433
+CDRP-bio,300,random,rand3,7,Late Fusion,0.17666666666666667
+CDRP-bio,300,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,300,random,rand4,7,GE,0.07142857142857142
+CDRP-bio,300,random,rand4,7,Early Fusion,0.1952380952380952
+CDRP-bio,300,random,rand4,7,Late Fusion,0.13095238095238093
+CDRP-bio,300,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,300,random,rand5,7,GE,0.047619047619047616
+CDRP-bio,300,random,rand5,7,Early Fusion,0.21794871794871792
+CDRP-bio,300,random,rand5,7,Late Fusion,0.16666666666666666
+CDRP-bio,300,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,300,ranked,r0,8,GE,0.12351190476190475
+CDRP-bio,300,ranked,r0,8,Early Fusion,0.1369047619047619
+CDRP-bio,300,ranked,r0,8,Late Fusion,0.17687074829931973
+CDRP-bio,300,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,300,random,rand1,8,GE,0.050595238095238096
+CDRP-bio,300,random,rand1,8,Early Fusion,0.1649659863945578
+CDRP-bio,300,random,rand1,8,Late Fusion,0.12063492063492064
+CDRP-bio,300,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,300,random,rand2,8,GE,0.09226190476190475
+CDRP-bio,300,random,rand2,8,Early Fusion,0.11904761904761904
+CDRP-bio,300,random,rand2,8,Late Fusion,0.1733333333333333
+CDRP-bio,300,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,300,random,rand3,8,GE,0.08333333333333333
+CDRP-bio,300,random,rand3,8,Early Fusion,0.11904761904761904
+CDRP-bio,300,random,rand3,8,Late Fusion,0.15476190476190477
+CDRP-bio,300,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,300,random,rand4,8,GE,0.041666666666666664
+CDRP-bio,300,random,rand4,8,Early Fusion,0.11904761904761904
+CDRP-bio,300,random,rand4,8,Late Fusion,0.12063492063492064
+CDRP-bio,300,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,300,random,rand5,8,GE,0.047619047619047616
+CDRP-bio,300,random,rand5,8,Early Fusion,0.15476190476190474
+CDRP-bio,300,random,rand5,8,Late Fusion,0.12063492063492064
+CDRP-bio,300,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,300,ranked,r0,9,GE,0.18229665071770332
+CDRP-bio,300,ranked,r0,9,Early Fusion,0.19744816586921846
+CDRP-bio,300,ranked,r0,9,Late Fusion,0.19271255060728743
+CDRP-bio,300,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,300,random,rand1,9,GE,0.07142857142857142
+CDRP-bio,300,random,rand1,9,Early Fusion,0.26190476190476186
+CDRP-bio,300,random,rand1,9,Late Fusion,0.11507936507936509
+CDRP-bio,300,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,300,random,rand2,9,GE,0.08547008547008547
+CDRP-bio,300,random,rand2,9,Early Fusion,0.16923076923076924
+CDRP-bio,300,random,rand2,9,Late Fusion,0.12698412698412698
+CDRP-bio,300,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,300,random,rand3,9,GE,0.07142857142857142
+CDRP-bio,300,random,rand3,9,Early Fusion,0.13939393939393938
+CDRP-bio,300,random,rand3,9,Late Fusion,0.12777777777777777
+CDRP-bio,300,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,300,random,rand4,9,GE,0.04444444444444444
+CDRP-bio,300,random,rand4,9,Early Fusion,0.15018315018315015
+CDRP-bio,300,random,rand4,9,Late Fusion,0.14035087719298245
+CDRP-bio,300,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,300,random,rand5,9,GE,0.047619047619047616
+CDRP-bio,300,random,rand5,9,Early Fusion,0.15555555555555553
+CDRP-bio,300,random,rand5,9,Late Fusion,0.13630229419703102
+CDRP-bio,300,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,300,ranked,r0,10,GE,0.07142857142857142
+CDRP-bio,300,ranked,r0,10,Early Fusion,0.13419913419913418
+CDRP-bio,300,ranked,r0,10,Late Fusion,0.18319559228650137
+CDRP-bio,300,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,300,random,rand1,10,GE,0.07692307692307693
+CDRP-bio,300,random,rand1,10,Early Fusion,0.15562770562770564
+CDRP-bio,300,random,rand1,10,Late Fusion,0.13095238095238096
+CDRP-bio,300,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,300,random,rand2,10,GE,0.07142857142857142
+CDRP-bio,300,random,rand2,10,Early Fusion,0.1696969696969697
+CDRP-bio,300,random,rand2,10,Late Fusion,0.1349206349206349
+CDRP-bio,300,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,300,random,rand3,10,GE,0.07692307692307693
+CDRP-bio,300,random,rand3,10,Early Fusion,0.1792929292929293
+CDRP-bio,300,random,rand3,10,Late Fusion,0.13888888888888887
+CDRP-bio,300,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,300,random,rand4,10,GE,0.08441558441558442
+CDRP-bio,300,random,rand4,10,Early Fusion,0.16652892561983473
+CDRP-bio,300,random,rand4,10,Late Fusion,0.1597222222222222
+CDRP-bio,300,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,300,random,rand5,10,GE,0.07692307692307693
+CDRP-bio,300,random,rand5,10,Early Fusion,0.13383838383838384
+CDRP-bio,300,random,rand5,10,Late Fusion,0.1282051282051282
+CDRP-bio,400,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,400,ranked,r0,1,GE,0.23619047619047615
+CDRP-bio,400,ranked,r0,1,Early Fusion,0.1897435897435897
+CDRP-bio,400,ranked,r0,1,Late Fusion,0.2634920634920635
+CDRP-bio,400,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,400,random,rand1,1,GE,0.2125
+CDRP-bio,400,random,rand1,1,Early Fusion,0.18095238095238095
+CDRP-bio,400,random,rand1,1,Late Fusion,0.21224489795918364
+CDRP-bio,400,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,400,random,rand2,1,GE,0.140625
+CDRP-bio,400,random,rand2,1,Early Fusion,0.07142857142857142
+CDRP-bio,400,random,rand2,1,Late Fusion,0.1111111111111111
+CDRP-bio,400,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,400,random,rand3,1,GE,0.14583333333333331
+CDRP-bio,400,random,rand3,1,Early Fusion,0.11555555555555556
+CDRP-bio,400,random,rand3,1,Late Fusion,0.19365079365079366
+CDRP-bio,400,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,400,random,rand4,1,GE,0.08888888888888888
+CDRP-bio,400,random,rand4,1,Early Fusion,0.17857142857142858
+CDRP-bio,400,random,rand4,1,Late Fusion,0.14285714285714285
+CDRP-bio,400,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,400,random,rand5,1,GE,0.14583333333333331
+CDRP-bio,400,random,rand5,1,Early Fusion,0.13809523809523808
+CDRP-bio,400,random,rand5,1,Late Fusion,0.21428571428571427
+CDRP-bio,400,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,400,ranked,r0,2,GE,0.014814814814814814
+CDRP-bio,400,ranked,r0,2,Early Fusion,0.11151960784313725
+CDRP-bio,400,ranked,r0,2,Late Fusion,0.14285714285714285
+CDRP-bio,400,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,400,random,rand1,2,GE,0.00784313725490196
+CDRP-bio,400,random,rand1,2,Early Fusion,0.10416666666666666
+CDRP-bio,400,random,rand1,2,Late Fusion,0.13333333333333333
+CDRP-bio,400,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,400,random,rand2,2,GE,0.0
+CDRP-bio,400,random,rand2,2,Early Fusion,0.10416666666666666
+CDRP-bio,400,random,rand2,2,Late Fusion,0.13333333333333333
+CDRP-bio,400,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,400,random,rand3,2,GE,0.0
+CDRP-bio,400,random,rand3,2,Early Fusion,0.10416666666666666
+CDRP-bio,400,random,rand3,2,Late Fusion,0.16666666666666666
+CDRP-bio,400,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,400,random,rand4,2,GE,0.04411764705882353
+CDRP-bio,400,random,rand4,2,Early Fusion,0.10416666666666666
+CDRP-bio,400,random,rand4,2,Late Fusion,0.13333333333333333
+CDRP-bio,400,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,400,random,rand5,2,GE,0.0
+CDRP-bio,400,random,rand5,2,Early Fusion,0.09375
+CDRP-bio,400,random,rand5,2,Late Fusion,0.0625
+CDRP-bio,400,ranked,r0,3,CP,0.125
+CDRP-bio,400,ranked,r0,3,GE,0.17142857142857143
+CDRP-bio,400,ranked,r0,3,Early Fusion,0.15119047619047618
+CDRP-bio,400,ranked,r0,3,Late Fusion,0.16666666666666666
+CDRP-bio,400,random,rand1,3,CP,0.125
+CDRP-bio,400,random,rand1,3,GE,0.0873015873015873
+CDRP-bio,400,random,rand1,3,Early Fusion,0.0946031746031746
+CDRP-bio,400,random,rand1,3,Late Fusion,0.138375350140056
+CDRP-bio,400,random,rand2,3,CP,0.125
+CDRP-bio,400,random,rand2,3,GE,0.12222222222222222
+CDRP-bio,400,random,rand2,3,Early Fusion,0.14666666666666667
+CDRP-bio,400,random,rand2,3,Late Fusion,0.17647058823529413
+CDRP-bio,400,random,rand3,3,CP,0.125
+CDRP-bio,400,random,rand3,3,GE,0.057291666666666664
+CDRP-bio,400,random,rand3,3,Early Fusion,0.15444444444444444
+CDRP-bio,400,random,rand3,3,Late Fusion,0.15327380952380953
+CDRP-bio,400,random,rand4,3,CP,0.125
+CDRP-bio,400,random,rand4,3,GE,0.10256410256410256
+CDRP-bio,400,random,rand4,3,Early Fusion,0.20260416666666664
+CDRP-bio,400,random,rand4,3,Late Fusion,0.13452380952380955
+CDRP-bio,400,random,rand5,3,CP,0.125
+CDRP-bio,400,random,rand5,3,GE,0.07777777777777777
+CDRP-bio,400,random,rand5,3,Early Fusion,0.13541666666666666
+CDRP-bio,400,random,rand5,3,Late Fusion,0.11249999999999999
+CDRP-bio,400,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,400,ranked,r0,4,GE,0.013333333333333334
+CDRP-bio,400,ranked,r0,4,Early Fusion,0.0
+CDRP-bio,400,ranked,r0,4,Late Fusion,0.06666666666666667
+CDRP-bio,400,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,400,random,rand1,4,GE,0.014652014652014652
+CDRP-bio,400,random,rand1,4,Early Fusion,0.023809523809523808
+CDRP-bio,400,random,rand1,4,Late Fusion,0.09210526315789473
+CDRP-bio,400,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,400,random,rand2,4,GE,0.015384615384615385
+CDRP-bio,400,random,rand2,4,Early Fusion,0.0
+CDRP-bio,400,random,rand2,4,Late Fusion,0.0712719298245614
+CDRP-bio,400,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,400,random,rand3,4,GE,0.007017543859649122
+CDRP-bio,400,random,rand3,4,Early Fusion,0.03571428571428571
+CDRP-bio,400,random,rand3,4,Late Fusion,0.029239766081871343
+CDRP-bio,400,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,400,random,rand4,4,GE,0.019047619047619046
+CDRP-bio,400,random,rand4,4,Early Fusion,0.03076923076923077
+CDRP-bio,400,random,rand4,4,Late Fusion,0.09305555555555556
+CDRP-bio,400,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,400,random,rand5,4,GE,0.016666666666666666
+CDRP-bio,400,random,rand5,4,Early Fusion,0.05000000000000001
+CDRP-bio,400,random,rand5,4,Late Fusion,0.12083333333333333
+CDRP-bio,400,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,400,ranked,r0,5,GE,0.1750700280112045
+CDRP-bio,400,ranked,r0,5,Early Fusion,0.23809523809523808
+CDRP-bio,400,ranked,r0,5,Late Fusion,0.24999999999999997
+CDRP-bio,400,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,400,random,rand1,5,GE,0.1372549019607843
+CDRP-bio,400,random,rand1,5,Early Fusion,0.22916666666666663
+CDRP-bio,400,random,rand1,5,Late Fusion,0.21874999999999997
+CDRP-bio,400,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,400,random,rand2,5,GE,0.14444444444444443
+CDRP-bio,400,random,rand2,5,Early Fusion,0.18888888888888886
+CDRP-bio,400,random,rand2,5,Late Fusion,0.20833333333333331
+CDRP-bio,400,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,400,random,rand3,5,GE,0.125
+CDRP-bio,400,random,rand3,5,Early Fusion,0.11555555555555556
+CDRP-bio,400,random,rand3,5,Late Fusion,0.20833333333333331
+CDRP-bio,400,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,400,random,rand4,5,GE,0.11458333333333331
+CDRP-bio,400,random,rand4,5,Early Fusion,0.12380952380952381
+CDRP-bio,400,random,rand4,5,Late Fusion,0.1764705882352941
+CDRP-bio,400,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,400,random,rand5,5,GE,0.11764705882352941
+CDRP-bio,400,random,rand5,5,Early Fusion,0.15625
+CDRP-bio,400,random,rand5,5,Late Fusion,0.20588235294117643
+CDRP-bio,400,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,400,ranked,r0,6,GE,0.1111111111111111
+CDRP-bio,400,ranked,r0,6,Early Fusion,0.1811111111111111
+CDRP-bio,400,ranked,r0,6,Late Fusion,0.1761904761904762
+CDRP-bio,400,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,400,random,rand1,6,GE,0.10267857142857142
+CDRP-bio,400,random,rand1,6,Early Fusion,0.19404761904761905
+CDRP-bio,400,random,rand1,6,Late Fusion,0.1857142857142857
+CDRP-bio,400,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,400,random,rand2,6,GE,0.1111111111111111
+CDRP-bio,400,random,rand2,6,Early Fusion,0.2595238095238095
+CDRP-bio,400,random,rand2,6,Late Fusion,0.1857142857142857
+CDRP-bio,400,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,400,random,rand3,6,GE,0.13333333333333333
+CDRP-bio,400,random,rand3,6,Early Fusion,0.1811111111111111
+CDRP-bio,400,random,rand3,6,Late Fusion,0.1761904761904762
+CDRP-bio,400,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,400,random,rand4,6,GE,0.13333333333333333
+CDRP-bio,400,random,rand4,6,Early Fusion,0.22393162393162389
+CDRP-bio,400,random,rand4,6,Late Fusion,0.1857142857142857
+CDRP-bio,400,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,400,random,rand5,6,GE,0.13333333333333333
+CDRP-bio,400,random,rand5,6,Early Fusion,0.22820512820512823
+CDRP-bio,400,random,rand5,6,Late Fusion,0.16444444444444445
+CDRP-bio,400,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,400,ranked,r0,7,GE,0.14285714285714285
+CDRP-bio,400,ranked,r0,7,Early Fusion,0.18333333333333332
+CDRP-bio,400,ranked,r0,7,Late Fusion,0.14583333333333331
+CDRP-bio,400,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,400,random,rand1,7,GE,0.1476190476190476
+CDRP-bio,400,random,rand1,7,Early Fusion,0.13095238095238096
+CDRP-bio,400,random,rand1,7,Late Fusion,0.1822222222222222
+CDRP-bio,400,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,400,random,rand2,7,GE,0.07291666666666666
+CDRP-bio,400,random,rand2,7,Early Fusion,0.12301587301587302
+CDRP-bio,400,random,rand2,7,Late Fusion,0.1111111111111111
+CDRP-bio,400,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,400,random,rand3,7,GE,0.10416666666666666
+CDRP-bio,400,random,rand3,7,Early Fusion,0.20555555555555555
+CDRP-bio,400,random,rand3,7,Late Fusion,0.17083333333333334
+CDRP-bio,400,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,400,random,rand4,7,GE,0.13333333333333333
+CDRP-bio,400,random,rand4,7,Early Fusion,0.2756410256410256
+CDRP-bio,400,random,rand4,7,Late Fusion,0.1488888888888889
+CDRP-bio,400,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,400,random,rand5,7,GE,0.08333333333333333
+CDRP-bio,400,random,rand5,7,Early Fusion,0.20833333333333331
+CDRP-bio,400,random,rand5,7,Late Fusion,0.16
+CDRP-bio,400,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,400,ranked,r0,8,GE,0.041666666666666664
+CDRP-bio,400,ranked,r0,8,Early Fusion,0.17687074829931973
+CDRP-bio,400,ranked,r0,8,Late Fusion,0.19047619047619047
+CDRP-bio,400,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,400,random,rand1,8,GE,0.047619047619047616
+CDRP-bio,400,random,rand1,8,Early Fusion,0.1380952380952381
+CDRP-bio,400,random,rand1,8,Late Fusion,0.10416666666666666
+CDRP-bio,400,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,400,random,rand2,8,GE,0.07291666666666666
+CDRP-bio,400,random,rand2,8,Early Fusion,0.1380952380952381
+CDRP-bio,400,random,rand2,8,Late Fusion,0.11309523809523808
+CDRP-bio,400,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,400,random,rand3,8,GE,0.041666666666666664
+CDRP-bio,400,random,rand3,8,Early Fusion,0.1292517006802721
+CDRP-bio,400,random,rand3,8,Late Fusion,0.17777777777777776
+CDRP-bio,400,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,400,random,rand4,8,GE,0.050595238095238096
+CDRP-bio,400,random,rand4,8,Early Fusion,0.1857142857142857
+CDRP-bio,400,random,rand4,8,Late Fusion,0.17777777777777776
+CDRP-bio,400,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,400,random,rand5,8,GE,0.07291666666666666
+CDRP-bio,400,random,rand5,8,Early Fusion,0.1292517006802721
+CDRP-bio,400,random,rand5,8,Late Fusion,0.15555555555555553
+CDRP-bio,400,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,400,ranked,r0,9,GE,0.1106612685560054
+CDRP-bio,400,ranked,r0,9,Early Fusion,0.2111111111111111
+CDRP-bio,400,ranked,r0,9,Late Fusion,0.19271255060728743
+CDRP-bio,400,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,400,random,rand1,9,GE,0.15
+CDRP-bio,400,random,rand1,9,Early Fusion,0.14766081871345027
+CDRP-bio,400,random,rand1,9,Late Fusion,0.16701754385964912
+CDRP-bio,400,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,400,random,rand2,9,GE,0.1212121212121212
+CDRP-bio,400,random,rand2,9,Early Fusion,0.13675213675213674
+CDRP-bio,400,random,rand2,9,Late Fusion,0.1746031746031746
+CDRP-bio,400,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,400,random,rand3,9,GE,0.09999999999999999
+CDRP-bio,400,random,rand3,9,Early Fusion,0.15555555555555553
+CDRP-bio,400,random,rand3,9,Late Fusion,0.18609022556390978
+CDRP-bio,400,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,400,random,rand4,9,GE,0.10769230769230768
+CDRP-bio,400,random,rand4,9,Early Fusion,0.14439946018893385
+CDRP-bio,400,random,rand4,9,Late Fusion,0.17407407407407408
+CDRP-bio,400,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,400,random,rand5,9,GE,0.10769230769230768
+CDRP-bio,400,random,rand5,9,Early Fusion,0.15018315018315015
+CDRP-bio,400,random,rand5,9,Late Fusion,0.1623931623931624
+CDRP-bio,400,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,400,ranked,r0,10,GE,0.19999999999999998
+CDRP-bio,400,ranked,r0,10,Early Fusion,0.12509803921568627
+CDRP-bio,400,ranked,r0,10,Late Fusion,0.16117216117216115
+CDRP-bio,400,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,400,random,rand1,10,GE,0.07692307692307693
+CDRP-bio,400,random,rand1,10,Early Fusion,0.13555555555555557
+CDRP-bio,400,random,rand1,10,Late Fusion,0.1883116883116883
+CDRP-bio,400,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,400,random,rand2,10,GE,0.08333333333333333
+CDRP-bio,400,random,rand2,10,Early Fusion,0.13205128205128205
+CDRP-bio,400,random,rand2,10,Late Fusion,0.13419913419913418
+CDRP-bio,400,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,400,random,rand3,10,GE,0.11666666666666665
+CDRP-bio,400,random,rand3,10,Early Fusion,0.13356643356643355
+CDRP-bio,400,random,rand3,10,Late Fusion,0.187012987012987
+CDRP-bio,400,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,400,random,rand4,10,GE,0.1111111111111111
+CDRP-bio,400,random,rand4,10,Early Fusion,0.13538461538461538
+CDRP-bio,400,random,rand4,10,Late Fusion,0.12103174603174605
+CDRP-bio,400,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,400,random,rand5,10,GE,0.07692307692307693
+CDRP-bio,400,random,rand5,10,Early Fusion,0.13760683760683762
+CDRP-bio,400,random,rand5,10,Late Fusion,0.18536009445100354
+CDRP-bio,978,ranked,r0,1,CP,0.10769230769230768
+CDRP-bio,978,ranked,r0,1,GE,0.20535714285714285
+CDRP-bio,978,ranked,r0,1,Early Fusion,0.25850340136054417
+CDRP-bio,978,ranked,r0,1,Late Fusion,0.1568253968253968
+CDRP-bio,978,random,rand1,1,CP,0.10769230769230768
+CDRP-bio,978,random,rand1,1,GE,0.08888888888888888
+CDRP-bio,978,random,rand1,1,Early Fusion,0.23015873015873015
+CDRP-bio,978,random,rand1,1,Late Fusion,0.13605442176870747
+CDRP-bio,978,random,rand2,1,CP,0.10769230769230768
+CDRP-bio,978,random,rand2,1,GE,0.2312925170068027
+CDRP-bio,978,random,rand2,1,Early Fusion,0.22222222222222224
+CDRP-bio,978,random,rand2,1,Late Fusion,0.1568253968253968
+CDRP-bio,978,random,rand3,1,CP,0.10769230769230768
+CDRP-bio,978,random,rand3,1,GE,0.14920634920634918
+CDRP-bio,978,random,rand3,1,Early Fusion,0.26666666666666666
+CDRP-bio,978,random,rand3,1,Late Fusion,0.16
+CDRP-bio,978,random,rand4,1,CP,0.10769230769230768
+CDRP-bio,978,random,rand4,1,GE,0.15873015873015875
+CDRP-bio,978,random,rand4,1,Early Fusion,0.21088435374149658
+CDRP-bio,978,random,rand4,1,Late Fusion,0.16
+CDRP-bio,978,random,rand5,1,CP,0.10769230769230768
+CDRP-bio,978,random,rand5,1,GE,0.16
+CDRP-bio,978,random,rand5,1,Early Fusion,0.19682539682539682
+CDRP-bio,978,random,rand5,1,Late Fusion,0.17460317460317457
+CDRP-bio,978,ranked,r0,2,CP,0.13333333333333333
+CDRP-bio,978,ranked,r0,2,GE,0.0
+CDRP-bio,978,ranked,r0,2,Early Fusion,0.10117647058823528
+CDRP-bio,978,ranked,r0,2,Late Fusion,0.14285714285714285
+CDRP-bio,978,random,rand1,2,CP,0.13333333333333333
+CDRP-bio,978,random,rand1,2,GE,0.0
+CDRP-bio,978,random,rand1,2,Early Fusion,0.10117647058823528
+CDRP-bio,978,random,rand1,2,Late Fusion,0.0625
+CDRP-bio,978,random,rand2,2,CP,0.13333333333333333
+CDRP-bio,978,random,rand2,2,GE,0.0
+CDRP-bio,978,random,rand2,2,Early Fusion,0.09673202614379085
+CDRP-bio,978,random,rand2,2,Late Fusion,0.13333333333333333
+CDRP-bio,978,random,rand3,2,CP,0.13333333333333333
+CDRP-bio,978,random,rand3,2,GE,0.0
+CDRP-bio,978,random,rand3,2,Early Fusion,0.10784313725490197
+CDRP-bio,978,random,rand3,2,Late Fusion,0.13333333333333333
+CDRP-bio,978,random,rand4,2,CP,0.13333333333333333
+CDRP-bio,978,random,rand4,2,GE,0.0
+CDRP-bio,978,random,rand4,2,Early Fusion,0.09673202614379085
+CDRP-bio,978,random,rand4,2,Late Fusion,0.13333333333333333
+CDRP-bio,978,random,rand5,2,CP,0.13333333333333333
+CDRP-bio,978,random,rand5,2,GE,0.0
+CDRP-bio,978,random,rand5,2,Early Fusion,0.10117647058823528
+CDRP-bio,978,random,rand5,2,Late Fusion,0.13333333333333333
+CDRP-bio,978,ranked,r0,3,CP,0.125
+CDRP-bio,978,ranked,r0,3,GE,0.05396825396825397
+CDRP-bio,978,ranked,r0,3,Early Fusion,0.2
+CDRP-bio,978,ranked,r0,3,Late Fusion,0.14063492063492064
+CDRP-bio,978,random,rand1,3,CP,0.125
+CDRP-bio,978,random,rand1,3,GE,0.04444444444444444
+CDRP-bio,978,random,rand1,3,Early Fusion,0.19166666666666665
+CDRP-bio,978,random,rand1,3,Late Fusion,0.13111111111111112
+CDRP-bio,978,random,rand2,3,CP,0.125
+CDRP-bio,978,random,rand2,3,GE,0.047619047619047616
+CDRP-bio,978,random,rand2,3,Early Fusion,0.15
+CDRP-bio,978,random,rand2,3,Late Fusion,0.09777777777777778
+CDRP-bio,978,random,rand3,3,CP,0.125
+CDRP-bio,978,random,rand3,3,GE,0.04444444444444444
+CDRP-bio,978,random,rand3,3,Early Fusion,0.18125
+CDRP-bio,978,random,rand3,3,Late Fusion,0.08627450980392158
+CDRP-bio,978,random,rand4,3,CP,0.125
+CDRP-bio,978,random,rand4,3,GE,0.04444444444444444
+CDRP-bio,978,random,rand4,3,Early Fusion,0.19166666666666665
+CDRP-bio,978,random,rand4,3,Late Fusion,0.09777777777777778
+CDRP-bio,978,random,rand5,3,CP,0.125
+CDRP-bio,978,random,rand5,3,GE,0.041666666666666664
+CDRP-bio,978,random,rand5,3,Early Fusion,0.11555555555555555
+CDRP-bio,978,random,rand5,3,Late Fusion,0.13111111111111112
+CDRP-bio,978,ranked,r0,4,CP,0.13095238095238093
+CDRP-bio,978,ranked,r0,4,GE,0.020979020979020976
+CDRP-bio,978,ranked,r0,4,Early Fusion,0.02222222222222222
+CDRP-bio,978,ranked,r0,4,Late Fusion,0.08333333333333333
+CDRP-bio,978,random,rand1,4,CP,0.13095238095238093
+CDRP-bio,978,random,rand1,4,GE,0.01948051948051948
+CDRP-bio,978,random,rand1,4,Early Fusion,0.0
+CDRP-bio,978,random,rand1,4,Late Fusion,0.015384615384615385
+CDRP-bio,978,random,rand2,4,CP,0.13095238095238093
+CDRP-bio,978,random,rand2,4,GE,0.020979020979020976
+CDRP-bio,978,random,rand2,4,Early Fusion,0.02040816326530612
+CDRP-bio,978,random,rand2,4,Late Fusion,0.08333333333333333
+CDRP-bio,978,random,rand3,4,CP,0.13095238095238093
+CDRP-bio,978,random,rand3,4,GE,0.014652014652014652
+CDRP-bio,978,random,rand3,4,Early Fusion,0.03333333333333333
+CDRP-bio,978,random,rand3,4,Late Fusion,0.015384615384615385
+CDRP-bio,978,random,rand4,4,CP,0.13095238095238093
+CDRP-bio,978,random,rand4,4,GE,0.014652014652014652
+CDRP-bio,978,random,rand4,4,Early Fusion,0.02040816326530612
+CDRP-bio,978,random,rand4,4,Late Fusion,0.05833333333333333
+CDRP-bio,978,random,rand5,4,CP,0.13095238095238093
+CDRP-bio,978,random,rand5,4,GE,0.026755852842809364
+CDRP-bio,978,random,rand5,4,Early Fusion,0.023809523809523808
+CDRP-bio,978,random,rand5,4,Late Fusion,0.05000000000000001
+CDRP-bio,978,ranked,r0,5,CP,0.21999999999999995
+CDRP-bio,978,ranked,r0,5,GE,0.11887254901960784
+CDRP-bio,978,ranked,r0,5,Early Fusion,0.11458333333333331
+CDRP-bio,978,ranked,r0,5,Late Fusion,0.18489583333333331
+CDRP-bio,978,random,rand1,5,CP,0.21999999999999995
+CDRP-bio,978,random,rand1,5,GE,0.13622291021671828
+CDRP-bio,978,random,rand1,5,Early Fusion,0.12222222222222222
+CDRP-bio,978,random,rand1,5,Late Fusion,0.1838235294117647
+CDRP-bio,978,random,rand2,5,CP,0.21999999999999995
+CDRP-bio,978,random,rand2,5,GE,0.1230392156862745
+CDRP-bio,978,random,rand2,5,Early Fusion,0.12222222222222222
+CDRP-bio,978,random,rand2,5,Late Fusion,0.17916666666666664
+CDRP-bio,978,random,rand3,5,CP,0.21999999999999995
+CDRP-bio,978,random,rand3,5,GE,0.13148788927335642
+CDRP-bio,978,random,rand3,5,Early Fusion,0.11458333333333331
+CDRP-bio,978,random,rand3,5,Late Fusion,0.1838235294117647
+CDRP-bio,978,random,rand4,5,CP,0.21999999999999995
+CDRP-bio,978,random,rand4,5,GE,0.13148788927335642
+CDRP-bio,978,random,rand4,5,Early Fusion,0.12222222222222222
+CDRP-bio,978,random,rand4,5,Late Fusion,0.1838235294117647
+CDRP-bio,978,random,rand5,5,CP,0.21999999999999995
+CDRP-bio,978,random,rand5,5,GE,0.13541666666666666
+CDRP-bio,978,random,rand5,5,Early Fusion,0.14285714285714285
+CDRP-bio,978,random,rand5,5,Late Fusion,0.17401960784313725
+CDRP-bio,978,ranked,r0,6,CP,0.10476190476190476
+CDRP-bio,978,ranked,r0,6,GE,0.12622549019607843
+CDRP-bio,978,ranked,r0,6,Early Fusion,0.20952380952380953
+CDRP-bio,978,ranked,r0,6,Late Fusion,0.1962962962962963
+CDRP-bio,978,random,rand1,6,CP,0.10476190476190476
+CDRP-bio,978,random,rand1,6,GE,0.15104166666666666
+CDRP-bio,978,random,rand1,6,Early Fusion,0.18730158730158727
+CDRP-bio,978,random,rand1,6,Late Fusion,0.22115384615384615
+CDRP-bio,978,random,rand2,6,CP,0.10476190476190476
+CDRP-bio,978,random,rand2,6,GE,0.11249999999999999
+CDRP-bio,978,random,rand2,6,Early Fusion,0.22448979591836735
+CDRP-bio,978,random,rand2,6,Late Fusion,0.2161654135338346
+CDRP-bio,978,random,rand3,6,CP,0.10476190476190476
+CDRP-bio,978,random,rand3,6,GE,0.14619883040935674
+CDRP-bio,978,random,rand3,6,Early Fusion,0.20952380952380953
+CDRP-bio,978,random,rand3,6,Late Fusion,0.21031746031746032
+CDRP-bio,978,random,rand4,6,CP,0.10476190476190476
+CDRP-bio,978,random,rand4,6,GE,0.12622549019607843
+CDRP-bio,978,random,rand4,6,Early Fusion,0.18730158730158727
+CDRP-bio,978,random,rand4,6,Late Fusion,0.21031746031746032
+CDRP-bio,978,random,rand5,6,CP,0.10476190476190476
+CDRP-bio,978,random,rand5,6,GE,0.12622549019607843
+CDRP-bio,978,random,rand5,6,Early Fusion,0.2006802721088435
+CDRP-bio,978,random,rand5,6,Late Fusion,0.20378151260504201
+CDRP-bio,978,ranked,r0,7,CP,0.19047619047619047
+CDRP-bio,978,ranked,r0,7,GE,0.12967032967032968
+CDRP-bio,978,ranked,r0,7,Early Fusion,0.21904761904761902
+CDRP-bio,978,ranked,r0,7,Late Fusion,0.1474358974358974
+CDRP-bio,978,random,rand1,7,CP,0.19047619047619047
+CDRP-bio,978,random,rand1,7,GE,0.1476190476190476
+CDRP-bio,978,random,rand1,7,Early Fusion,0.21904761904761902
+CDRP-bio,978,random,rand1,7,Late Fusion,0.11666666666666667
+CDRP-bio,978,random,rand2,7,CP,0.19047619047619047
+CDRP-bio,978,random,rand2,7,GE,0.13333333333333333
+CDRP-bio,978,random,rand2,7,Early Fusion,0.19999999999999998
+CDRP-bio,978,random,rand2,7,Late Fusion,0.15476190476190474
+CDRP-bio,978,random,rand3,7,CP,0.19047619047619047
+CDRP-bio,978,random,rand3,7,GE,0.15873015873015875
+CDRP-bio,978,random,rand3,7,Early Fusion,0.24358974358974358
+CDRP-bio,978,random,rand3,7,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand4,7,CP,0.19047619047619047
+CDRP-bio,978,random,rand4,7,GE,0.1369047619047619
+CDRP-bio,978,random,rand4,7,Early Fusion,0.2261904761904762
+CDRP-bio,978,random,rand4,7,Late Fusion,0.15476190476190474
+CDRP-bio,978,random,rand5,7,CP,0.19047619047619047
+CDRP-bio,978,random,rand5,7,GE,0.13945578231292516
+CDRP-bio,978,random,rand5,7,Early Fusion,0.2261904761904762
+CDRP-bio,978,random,rand5,7,Late Fusion,0.157312925170068
+CDRP-bio,978,ranked,r0,8,CP,0.2358974358974359
+CDRP-bio,978,ranked,r0,8,GE,0.050595238095238096
+CDRP-bio,978,ranked,r0,8,Early Fusion,0.14871794871794872
+CDRP-bio,978,ranked,r0,8,Late Fusion,0.1288888888888889
+CDRP-bio,978,random,rand1,8,CP,0.2358974358974359
+CDRP-bio,978,random,rand1,8,GE,0.050595238095238096
+CDRP-bio,978,random,rand1,8,Early Fusion,0.1380952380952381
+CDRP-bio,978,random,rand1,8,Late Fusion,0.1288888888888889
+CDRP-bio,978,random,rand2,8,CP,0.2358974358974359
+CDRP-bio,978,random,rand2,8,GE,0.050595238095238096
+CDRP-bio,978,random,rand2,8,Early Fusion,0.1380952380952381
+CDRP-bio,978,random,rand2,8,Late Fusion,0.12083333333333332
+CDRP-bio,978,random,rand3,8,CP,0.2358974358974359
+CDRP-bio,978,random,rand3,8,GE,0.050595238095238096
+CDRP-bio,978,random,rand3,8,Early Fusion,0.14871794871794872
+CDRP-bio,978,random,rand3,8,Late Fusion,0.1288888888888889
+CDRP-bio,978,random,rand4,8,CP,0.2358974358974359
+CDRP-bio,978,random,rand4,8,GE,0.047058823529411764
+CDRP-bio,978,random,rand4,8,Early Fusion,0.12063492063492064
+CDRP-bio,978,random,rand4,8,Late Fusion,0.12083333333333332
+CDRP-bio,978,random,rand5,8,CP,0.2358974358974359
+CDRP-bio,978,random,rand5,8,GE,0.050595238095238096
+CDRP-bio,978,random,rand5,8,Early Fusion,0.14871794871794872
+CDRP-bio,978,random,rand5,8,Late Fusion,0.1288888888888889
+CDRP-bio,978,ranked,r0,9,CP,0.13675213675213674
+CDRP-bio,978,ranked,r0,9,GE,0.07619047619047618
+CDRP-bio,978,ranked,r0,9,Early Fusion,0.21666666666666665
+CDRP-bio,978,ranked,r0,9,Late Fusion,0.16701754385964912
+CDRP-bio,978,random,rand1,9,CP,0.13675213675213674
+CDRP-bio,978,random,rand1,9,GE,0.07111111111111111
+CDRP-bio,978,random,rand1,9,Early Fusion,0.24047619047619048
+CDRP-bio,978,random,rand1,9,Late Fusion,0.1622222222222222
+CDRP-bio,978,random,rand2,9,CP,0.13675213675213674
+CDRP-bio,978,random,rand2,9,GE,0.0642857142857143
+CDRP-bio,978,random,rand2,9,Early Fusion,0.188034188034188
+CDRP-bio,978,random,rand2,9,Late Fusion,0.15694444444444444
+CDRP-bio,978,random,rand3,9,CP,0.13675213675213674
+CDRP-bio,978,random,rand3,9,GE,0.07111111111111111
+CDRP-bio,978,random,rand3,9,Early Fusion,0.21367521367521367
+CDRP-bio,978,random,rand3,9,Late Fusion,0.15694444444444444
+CDRP-bio,978,random,rand4,9,CP,0.13675213675213674
+CDRP-bio,978,random,rand4,9,GE,0.0642857142857143
+CDRP-bio,978,random,rand4,9,Early Fusion,0.188034188034188
+CDRP-bio,978,random,rand4,9,Late Fusion,0.17418546365914783
+CDRP-bio,978,random,rand5,9,CP,0.13675213675213674
+CDRP-bio,978,random,rand5,9,GE,0.09523809523809523
+CDRP-bio,978,random,rand5,9,Early Fusion,0.1623931623931624
+CDRP-bio,978,random,rand5,9,Late Fusion,0.1704081632653061
+CDRP-bio,978,ranked,r0,10,CP,0.11428571428571428
+CDRP-bio,978,ranked,r0,10,GE,0.08333333333333333
+CDRP-bio,978,ranked,r0,10,Early Fusion,0.03076923076923077
+CDRP-bio,978,ranked,r0,10,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand1,10,CP,0.11428571428571428
+CDRP-bio,978,random,rand1,10,GE,0.08333333333333333
+CDRP-bio,978,random,rand1,10,Early Fusion,0.08333333333333333
+CDRP-bio,978,random,rand1,10,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand2,10,CP,0.11428571428571428
+CDRP-bio,978,random,rand2,10,GE,0.07692307692307693
+CDRP-bio,978,random,rand2,10,Early Fusion,0.07638888888888888
+CDRP-bio,978,random,rand2,10,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand3,10,CP,0.11428571428571428
+CDRP-bio,978,random,rand3,10,GE,0.08333333333333333
+CDRP-bio,978,random,rand3,10,Early Fusion,0.061224489795918366
+CDRP-bio,978,random,rand3,10,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand4,10,CP,0.11428571428571428
+CDRP-bio,978,random,rand4,10,GE,0.08333333333333333
+CDRP-bio,978,random,rand4,10,Early Fusion,0.038461538461538464
+CDRP-bio,978,random,rand4,10,Late Fusion,0.16666666666666666
+CDRP-bio,978,random,rand5,10,CP,0.11428571428571428
+CDRP-bio,978,random,rand5,10,GE,0.08333333333333333
+CDRP-bio,978,random,rand5,10,Early Fusion,0.12916666666666668
+CDRP-bio,978,random,rand5,10,Late Fusion,0.16666666666666666

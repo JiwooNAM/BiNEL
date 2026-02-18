@@ -1,0 +1,1 @@
+sweep으로 얻은 hyperparameter적용, random gene
