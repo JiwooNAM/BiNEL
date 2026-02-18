@@ -12,3 +12,16 @@
 **/*.csv.gz
 **/*.tsv.gz
 .DS_Store
+# L1000 big data outputs
+ISS/Capstone/L1000/preprocessed_data/
+ISS/Capstone/L1000/curated_preprocessed_data/
+ISS/Capstone/L1000/results/
+
+# large files
+*.parquet
+*.h5ad
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.xlsx
