@@ -30,3 +30,8 @@ ISS/Capstone/L1000/results/
 .keys/
 *.pem
 *.key
+
+# secrets
+.keys/
+*.pem
+*.key
