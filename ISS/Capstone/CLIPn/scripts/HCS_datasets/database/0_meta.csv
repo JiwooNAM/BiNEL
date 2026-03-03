@@ -1,0 +1,179 @@
+Compound,Compound_Category,Dose
+105D,MT,12
+A23187 free acid,Calcium,12
+Amanitin,Transcription,12
+Actinomycin D,Transcription,12
+ALLN,Proteosome,12
+Alsterpaullone,CDK,12
+Anisomycin,Translation,12
+Brefeldin A,ARFGEF,12
+8-bromo-cAMP,PKA,12
+Camptothecin,Topo I,12
+Chelerythrine,PKC,12
+Ciglitazone,NR,12
+Colchicine,MT,12
+Cycloheximide,Translation,12
+Cyclosporin A,"Calcium, Phosphatase",12
+Cytochalasin D,Actin,12
+Deoxymannojirimycin,Glycosylation,12
+Deoxynorjrimycin,Glycosylation,12
+Dexamethasone,NR,12
+Doxorubicin,Topo II,12
+Emetine,Translation,12
+Emodin,Kinase,12
+Etoposide,Topo II,12
+Exo1,ARFGEF,12
+11N84,Kinase,12
+Forskolin,PKA,12
+Genistein,Kinase,12
+Griseofulvin,MT,12
+H89,PKA,12
+Hydroxy urea,DNA,12
+Ibuprofen,COX,12
+Indirubin monoxime,CDK,12
+Indomethacin,COX,12
+Jasplakinolide,Actin,12
+Lactacystin,Proteosome,12
+Latrunculin B,Actin,12
+Mevinolin (mevastatin),Cholesterol,12
+MG132,Proteosome,12
+Monastrol,Kinesin,12
+Nocodazole,MT,12
+Okadaic acid,Phosphotase,12
+Olomucine,CDK,12
+PMA,PKC,12
+Podophyllotoxin,MT,12
+Purvalanol A,CDK,12
+Rapamycin,Kinase (TOR),12
+Retinoic acid (trans),NR,12
+Roscovitine,CDK,12
+ICRF193 (C4 only),Topo II,12
+Staurosporine,Kinase,12
+Sulindac sulfide,COX,12
+Taxol,MT,12
+Trichostatin,HDAC,12
+Tunicamycin,Glycosylation,12
+U0126,Kinase (MEK),12
+Vinblastine,MT,12
+W-7 hydrochloride,"Calmodulin, MLCK",12
+Wortmannin,PI3 kinase,12
+WY-14643,NR,12
+Cytochalasin B,Actin,12
+Chloropromazine,Dopamine antagonist,12
+PD98059,Kinase (MEK),12
+Clozapine,Dopamine antagonist,12
+Trifluoperazine,Dopamine antagonist,12
+SB202190,Kinase (MAP),12
+LY294002,PI3 kinase,12
+Sodium butyrate,HDAC,12
+Nitropropionate,Mitochondria,12
+Simavastatin (zocor),Cholesterol,12
+Niflumic acid,COX,12
+Fluobiprofen,COX,12
+Fluoxetine,SSRI,12
+Scriptaid,HDAC,12
+SC560,COX,12
+Apicidin,HDAC,12
+Epothilone B,MT,12
+Oxamflatin,HDAC,12
+SC236,COX,12
+SB203580,Kinase (MEK),12
+Aphidicolin,DNA,12
+PD169316,Kinase (MEK),12
+Methotrexate,DNA,12
+Ceramide,PKC,12
+Leupeptine,Protease,12
+Sodium azide,ATP,12
+Zvad,Proteosome,12
+CKI7,Kinase (CK1),12
+TPEN,Metal Chelator,12
+oligomycin,ATP,12
+105D,MT,12
+A23187 free acid,Calcium,12
+Amanitin,Transcription,12
+Actinomycin D,Transcription,12
+ALLN,Proteosome,12
+Alsterpaullone,CDK,12
+Anisomycin,Translation,12
+Brefeldin A,ARFGEF,12
+8-bromo-cAMP,PKA,12
+Camptothecin,Topo I,12
+Chelerythrine,PKC,12
+Ciglitazone,NR,12
+Colchicine,MT,12
+Cycloheximide,Translation,12
+Cyclosporin A,"Calcium, Phosphatase",12
+Cytochalasin D,Actin,12
+Deoxymannojirimycin,Glycosylation,12
+Deoxynorjrimycin,Glycosylation,12
+Dexamethasone,NR,12
+Doxorubicin,Topo II,12
+Emetine,Translation,12
+Emodin,Kinase,12
+Etoposide,Topo II,12
+Exo1,ARFGEF,12
+11N84,Kinase,12
+Forskolin,PKA,12
+Genistein,Kinase,12
+Griseofulvin,MT,12
+H89,PKA,12
+Hydroxy urea,DNA,12
+Ibuprofen,COX,12
+Indirubin monoxime,CDK,12
+Indomethacin,COX,12
+Jasplakinolide,Actin,12
+Lactacystin,Proteosome,12
+Latrunculin B,Actin,12
+Mevinolin (mevastatin),Cholesterol,12
+MG132,Proteosome,12
+Monastrol,Kinesin,12
+Nocodazole,MT,12
+Okadaic acid,Phosphotase,12
+Olomucine,CDK,12
+PMA,PKC,12
+Podophyllotoxin,MT,12
+Purvalanol A,CDK,12
+Rapamycin,Kinase (TOR),12
+Retinoic acid (trans),NR,12
+Roscovitine,CDK,12
+ICRF193 (C4 only),Topo II,12
+Staurosporine,Kinase,12
+Sulindac sulfide,COX,12
+Taxol,MT,12
+Trichostatin,HDAC,12
+Tunicamycin,Glycosylation,12
+U0126,Kinase (MEK),12
+Vinblastine,MT,12
+W-7 hydrochloride,"Calmodulin, MLCK",12
+Wortmannin,PI3 kinase,12
+WY-14643,NR,12
+Cytochalasin B,Actin,12
+Chloropromazine,Dopamine antagonist,12
+PD98059,Kinase (MEK),12
+Clozapine,Dopamine antagonist,12
+Trifluoperazine,Dopamine antagonist,12
+SB202190,Kinase (MAP),12
+LY294002,PI3 kinase,12
+Sodium butyrate,HDAC,12
+Nitropropionate,Mitochondria,12
+Simavastatin (zocor),Cholesterol,12
+Niflumic acid,COX,12
+Fluobiprofen,COX,12
+Fluoxetine,SSRI,12
+Scriptaid,HDAC,12
+SC560,COX,12
+Apicidin,HDAC,12
+Epothilone B,MT,12
+Oxamflatin,HDAC,12
+SC236,COX,12
+SB203580,Kinase (MEK),12
+Aphidicolin,DNA,12
+PD169316,Kinase (MEK),12
+Methotrexate,DNA,12
+Ceramide,PKC,12
+Leupeptine,Protease,12
+Sodium azide,ATP,12
+Zvad,Proteosome,12
+CKI7,Kinase (CK1),12
+TPEN,Metal Chelator,12
+oligomycin,ATP,12

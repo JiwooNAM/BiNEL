@@ -1,0 +1,161 @@
+Time,Dose,Compound,Compound_Category
+3h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+3h,H,aphidicolin,DNA inhibitor
+3h,H,apicidin,HDAC inhibitor
+3h,H,arctigenin,DNA inhibitor
+3h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+3h,H,aphidicolin,DNA inhibitor
+3h,H,apicidin,HDAC inhibitor
+3h,H,arctigenin,DNA inhibitor
+3h,H,camptothecin,DNA inhibitor
+3h,H,colchicine,tubulin polymerization inhibitor
+3h,H,camptothecin,DNA inhibitor
+3h,H,colchicine,tubulin polymerization inhibitor
+3h,H,docetaxel,tubulin polymerization inhibitor
+3h,H,doxorubicin,DNA inhibitor
+3h,H,etoposide,DNA inhibitor
+3h,H,docetaxel,tubulin polymerization inhibitor
+3h,H,doxorubicin,DNA inhibitor
+3h,H,etoposide,DNA inhibitor
+3h,H,ganciclovir,DNA inhibitor
+3h,H,M344,HDAC inhibitor
+3h,H,ganciclovir,DNA inhibitor
+3h,H,M344,HDAC inhibitor
+3h,H,methotrexate,DNA inhibitor
+3h,H,mitomycin C,DNA inhibitor
+3h,H,MS-275,HDAC inhibitor
+3h,H,methotrexate,DNA inhibitor
+3h,H,mitomycin C,DNA inhibitor
+3h,H,MS-275,HDAC inhibitor
+3h,H,nocodazole,tubulin polymerization inhibitor
+3h,H,scriptaid,HDAC inhibitor
+3h,H,nocodazole,tubulin polymerization inhibitor
+3h,H,scriptaid,HDAC inhibitor
+3h,H,paclitaxel,tubulin polymerization inhibitor
+3h,H,trichostatin A,HDAC inhibitor
+3h,H,trifluoperazine,DNA inhibitor
+3h,H,vinorelbine,tubulin polymerization inhibitor
+3h,H,paclitaxel,tubulin polymerization inhibitor
+3h,H,trichostatin A,HDAC inhibitor
+3h,H,trifluoperazine,DNA inhibitor
+3h,H,vinorelbine,tubulin polymerization inhibitor
+6h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+6h,H,aphidicolin,DNA inhibitor
+6h,H,apicidin,HDAC inhibitor
+6h,H,arctigenin,DNA inhibitor
+6h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+6h,H,aphidicolin,DNA inhibitor
+6h,H,apicidin,HDAC inhibitor
+6h,H,arctigenin,DNA inhibitor
+6h,H,camptothecin,DNA inhibitor
+6h,H,colchicine,tubulin polymerization inhibitor
+6h,H,camptothecin,DNA inhibitor
+6h,H,colchicine,tubulin polymerization inhibitor
+6h,H,docetaxel,tubulin polymerization inhibitor
+6h,H,doxorubicin,DNA inhibitor
+6h,H,etoposide,DNA inhibitor
+6h,H,docetaxel,tubulin polymerization inhibitor
+6h,H,doxorubicin,DNA inhibitor
+6h,H,etoposide,DNA inhibitor
+6h,H,ganciclovir,DNA inhibitor
+6h,H,M344,HDAC inhibitor
+6h,H,ganciclovir,DNA inhibitor
+6h,H,M344,HDAC inhibitor
+6h,H,methotrexate,DNA inhibitor
+6h,H,mitomycin C,DNA inhibitor
+6h,H,MS-275,HDAC inhibitor
+6h,H,methotrexate,DNA inhibitor
+6h,H,mitomycin C,DNA inhibitor
+6h,H,MS-275,HDAC inhibitor
+6h,H,nocodazole,tubulin polymerization inhibitor
+6h,H,scriptaid,HDAC inhibitor
+6h,H,nocodazole,tubulin polymerization inhibitor
+6h,H,scriptaid,HDAC inhibitor
+6h,H,paclitaxel,tubulin polymerization inhibitor
+6h,H,trichostatin A,HDAC inhibitor
+6h,H,trifluoperazine,DNA inhibitor
+6h,H,vinorelbine,tubulin polymerization inhibitor
+6h,H,paclitaxel,tubulin polymerization inhibitor
+6h,H,trichostatin A,HDAC inhibitor
+6h,H,trifluoperazine,DNA inhibitor
+6h,H,vinorelbine,tubulin polymerization inhibitor
+12h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+12h,H,aphidicolin,DNA inhibitor
+12h,H,apicidin,HDAC inhibitor
+12h,H,arctigenin,DNA inhibitor
+12h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+12h,H,aphidicolin,DNA inhibitor
+12h,H,apicidin,HDAC inhibitor
+12h,H,arctigenin,DNA inhibitor
+12h,H,camptothecin,DNA inhibitor
+12h,H,colchicine,tubulin polymerization inhibitor
+12h,H,camptothecin,DNA inhibitor
+12h,H,colchicine,tubulin polymerization inhibitor
+12h,H,docetaxel,tubulin polymerization inhibitor
+12h,H,doxorubicin,DNA inhibitor
+12h,H,etoposide,DNA inhibitor
+12h,H,docetaxel,tubulin polymerization inhibitor
+12h,H,doxorubicin,DNA inhibitor
+12h,H,etoposide,DNA inhibitor
+12h,H,ganciclovir,DNA inhibitor
+12h,H,M344,HDAC inhibitor
+12h,H,ganciclovir,DNA inhibitor
+12h,H,M344,HDAC inhibitor
+12h,H,methotrexate,DNA inhibitor
+12h,H,mitomycin C,DNA inhibitor
+12h,H,MS-275,HDAC inhibitor
+12h,H,methotrexate,DNA inhibitor
+12h,H,mitomycin C,DNA inhibitor
+12h,H,MS-275,HDAC inhibitor
+12h,H,nocodazole,tubulin polymerization inhibitor
+12h,H,scriptaid,HDAC inhibitor
+12h,H,nocodazole,tubulin polymerization inhibitor
+12h,H,scriptaid,HDAC inhibitor
+12h,H,paclitaxel,tubulin polymerization inhibitor
+12h,H,trichostatin A,HDAC inhibitor
+12h,H,trifluoperazine,DNA inhibitor
+12h,H,vinorelbine,tubulin polymerization inhibitor
+12h,H,paclitaxel,tubulin polymerization inhibitor
+12h,H,trichostatin A,HDAC inhibitor
+12h,H,trifluoperazine,DNA inhibitor
+12h,H,vinorelbine,tubulin polymerization inhibitor
+24h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+24h,H,aphidicolin,DNA inhibitor
+24h,H,apicidin,HDAC inhibitor
+24h,H,arctigenin,DNA inhibitor
+24h,H,3-O-acetyl-B-boswellic acid,DNA inhibitor
+24h,H,aphidicolin,DNA inhibitor
+24h,H,apicidin,HDAC inhibitor
+24h,H,arctigenin,DNA inhibitor
+24h,H,camptothecin,DNA inhibitor
+24h,H,colchicine,tubulin polymerization inhibitor
+24h,H,camptothecin,DNA inhibitor
+24h,H,colchicine,tubulin polymerization inhibitor
+24h,H,docetaxel,tubulin polymerization inhibitor
+24h,H,doxorubicin,DNA inhibitor
+24h,H,etoposide,DNA inhibitor
+24h,H,docetaxel,tubulin polymerization inhibitor
+24h,H,doxorubicin,DNA inhibitor
+24h,H,etoposide,DNA inhibitor
+24h,H,ganciclovir,DNA inhibitor
+24h,H,M344,HDAC inhibitor
+24h,H,ganciclovir,DNA inhibitor
+24h,H,M344,HDAC inhibitor
+24h,H,methotrexate,DNA inhibitor
+24h,H,mitomycin C,DNA inhibitor
+24h,H,MS-275,HDAC inhibitor
+24h,H,methotrexate,DNA inhibitor
+24h,H,mitomycin C,DNA inhibitor
+24h,H,MS-275,HDAC inhibitor
+24h,H,nocodazole,tubulin polymerization inhibitor
+24h,H,scriptaid,HDAC inhibitor
+24h,H,nocodazole,tubulin polymerization inhibitor
+24h,H,scriptaid,HDAC inhibitor
+24h,H,paclitaxel,tubulin polymerization inhibitor
+24h,H,trichostatin A,HDAC inhibitor
+24h,H,trifluoperazine,DNA inhibitor
+24h,H,vinorelbine,tubulin polymerization inhibitor
+24h,H,paclitaxel,tubulin polymerization inhibitor
+24h,H,trichostatin A,HDAC inhibitor
+24h,H,trifluoperazine,DNA inhibitor
+24h,H,vinorelbine,tubulin polymerization inhibitor

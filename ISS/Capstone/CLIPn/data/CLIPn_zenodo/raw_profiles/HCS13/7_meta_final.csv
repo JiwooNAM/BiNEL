@@ -1,0 +1,1411 @@
+UsedWells,Cell_Line,Compound,Compound_Category,Dose_Category,Dose,Compound_Usage,Target,Pathway,RowID,ColID,WellID,Markers,PlateID
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018020.0
+1.0,A549,PD184352 (CI-1040),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,1.0,5.0,1-5,CellPainting,2021018020.0
+1.0,A549,Alisertib (MLN8237),Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,6.0,1-6,CellPainting,2021018020.0
+1.0,A549,Panobinostat (LBH589),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,1.0,7.0,1-7,CellPainting,2021018020.0
+1.0,A549,SNS-314 Mesylate,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,10.0,1-10,CellPainting,2021018020.0
+1.0,A549,Decitabine,MAPK inhibitor,2.0,5.0,query_cpd,DNA Methyltransferase,Epigenetics,1.0,20.0,1-20,CellPainting,2021018020.0
+1.0,A549,ZM 447439,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,21.0,1-21,CellPainting,2021018020.0
+1.0,A549,Omeprazole,ATPase inhibitor,2.0,5.0,query_cpd,Autophagy.Proton Pump,Transmembrane Transporters,2.0,8.0,2-8,CellPainting,2021018020.0
+1.0,A549,PHA-680632,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,2.0,18.0,2-18,CellPainting,2021018020.0
+1.0,A549,Everolimus (RAD001),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,4.0,3-4,CellPainting,2021018020.0
+1.0,A549,ABT-751 (E7010),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,3.0,12.0,3-12,CellPainting,2021018020.0
+1.0,A549,WZ4002,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,14.0,3-14,CellPainting,2021018020.0
+1.0,A549,ZSTK474,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,15.0,3-15,CellPainting,2021018020.0
+1.0,A549,Belinostat (PXD101),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,17.0,3-17,CellPainting,2021018020.0
+1.0,A549,LAQ824 (Dacinostat),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,19.0,3-19,CellPainting,2021018020.0
+1.0,A549,Dimesna,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,3.0,20.0,3-20,CellPainting,2021018020.0
+1.0,A549,KU-0063794,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,4.0,3.0,4-3,CellPainting,2021018020.0
+1.0,A549,Budesonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,13.0,4-13,CellPainting,2021018020.0
+1.0,A549,Pimasertib (AS-703026),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,4.0,22.0,4-22,CellPainting,2021018020.0
+1.0,A549,Afatinib (BIBW2992),EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,5.0,3.0,5-3,CellPainting,2021018020.0
+1.0,A549,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,5.0,5.0,5-5,CellPainting,2021018020.0
+1.0,A549,GDC-0941,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,13.0,5-13,CellPainting,2021018020.0
+1.0,A549,SB216763,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,5.0,15.0,5-15,CellPainting,2021018020.0
+1.0,A549,CUDC-101,EGFR inhibitor,2.0,5.0,query_cpd,HDAC.HER2.EGFR,Epigenetics,5.0,18.0,5-18,CellPainting,2021018020.0
+1.0,A549,Quisinostat (JNJ-26481585),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,5.0,19.0,5-19,CellPainting,2021018020.0
+1.0,A549,Vincristine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,6.0,5.0,6-5,CellPainting,2021018020.0
+1.0,A549,Meropenem,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,6.0,6.0,6-6,CellPainting,2021018020.0
+1.0,A549,Droxinostat,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,6.0,12.0,6-12,CellPainting,2021018020.0
+1.0,A549,Dexamethasone (DHAP),glucocorticoid receptor agonist,2.0,5.0,query_cpd,Autophagy.IL Receptor,Others,6.0,17.0,6-17,CellPainting,2021018020.0
+1.0,A549,Mocetinostat (MGCD0103),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,4.0,7-4,CellPainting,2021018020.0
+1.0,A549,Erlotinib HCl (OSI-744),EGFR inhibitor,2.0,5.0,query_cpd,Autophagy.EGFR,Protein Tyrosine Kinase,7.0,5.0,7-5,CellPainting,2021018020.0
+1.0,A549,Barasertib (AZD1152-HQPA),Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,7.0,8.0,7-8,CellPainting,2021018020.0
+1.0,A549,Entinostat (MS-275),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,11.0,7-11,CellPainting,2021018020.0
+1.0,A549,SL-327,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018020.0
+1.0,A549,BIIB021,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,14.0,7-14,CellPainting,2021018020.0
+1.0,A549,Bendamustine HCl,DNA inhibitor,2.0,5.0,query_cpd,Others,Others,7.0,22.0,7-22,CellPainting,2021018020.0
+1.0,A549,Daptomycin,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,8.0,4.0,8-4,CellPainting,2021018020.0
+1.0,A549,Pelitinib (EKB-569),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,8.0,8.0,8-8,CellPainting,2021018020.0
+1.0,A549,TG100-115,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,8.0,21.0,8-21,CellPainting,2021018020.0
+1.0,A549,Oligomycin A,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,8.0,22.0,8-22,CellPainting,2021018020.0
+1.0,A549,Gefitinib (ZD1839),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,9.0,5.0,9-5,CellPainting,2021018020.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,8.0,9-8,CellPainting,2021018020.0
+1.0,A549,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,9.0,9-9,CellPainting,2021018020.0
+1.0,A549,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,2.0,5.0,query_cpd,Autophagy.HDAC.GABA Receptor,Neuronal Signaling,9.0,12.0,9-12,CellPainting,2021018020.0
+1.0,A549,PD98059,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,14.0,9-14,CellPainting,2021018020.0
+1.0,A549,PCI-24781 (Abexinostat),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,9.0,17.0,9-17,CellPainting,2021018020.0
+1.0,A549,Fludarabine Phosphate,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,DNA/RNA Synthesis,DNA Damage,10.0,3.0,10-3,CellPainting,2021018020.0
+1.0,A549,Doripenem Hydrate,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,4.0,10-4,CellPainting,2021018020.0
+1.0,A549,WYE-354,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,10.0,9.0,10-9,CellPainting,2021018020.0
+1.0,A549,PD0325901,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018020.0
+1.0,A549,Paclitaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,11.0,8.0,11-8,CellPainting,2021018020.0
+1.0,A549,Trichostatin A (TSA),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,11.0,9.0,11-9,CellPainting,2021018020.0
+1.0,A549,Ganetespib (STA-9090),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,10.0,11-10,CellPainting,2021018020.0
+1.0,A549,TGX-221,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,11.0,12.0,11-12,CellPainting,2021018020.0
+1.0,A549,MLN8054,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,11.0,19.0,11-19,CellPainting,2021018020.0
+1.0,A549,Aurora A Inhibitor I,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,12.0,16.0,12-16,CellPainting,2021018020.0
+1.0,A549,Lansoprazole,ATPase inhibitor,2.0,5.0,query_cpd,Proton Pump,Transmembrane Transporters,12.0,21.0,12-21,CellPainting,2021018020.0
+1.0,A549,Lapatinib (GW-572016) Ditosylate,EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,13.0,5.0,13-5,CellPainting,2021018020.0
+1.0,A549,17-AAG (Tanespimycin),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,6.0,13-6,CellPainting,2021018020.0
+1.0,A549,WZ3146,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,12.0,13-12,CellPainting,2021018020.0
+1.0,A549,AUY922 (NVP-AUY922),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018020.0
+1.0,A549,WZ8040,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,14.0,13-14,CellPainting,2021018020.0
+1.0,A549,BI 2536,PLK inhibitor,2.0,5.0,query_cpd,PLK,Cell Cycle,13.0,21.0,13-21,CellPainting,2021018020.0
+1.0,A549,Canertinib (CI-1033),EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,15.0,3.0,15-3,CellPainting,2021018020.0
+1.0,A549,17-DMAG (Alvespimycin) HCl,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018020.0
+1.0,A549,Rapamycin (Sirolimus),mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018020.0
+1.0,A549,Vorinostat (SAHA. MK0683),HDAC inhibitor,2.0,5.0,query_cpd,Autophagy.HDAC,Epigenetics,15.0,9.0,15-9,CellPainting,2021018020.0
+1.0,A549,CYC116,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase.VEGFR,Cell Cycle,15.0,12.0,15-12,CellPainting,2021018020.0
+1.0,A549,U0126-EtOH,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,19.0,15-19,CellPainting,2021018020.0
+1.0,A549,PFI-1 (PF-6405761),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,15.0,22.0,15-22,CellPainting,2021018020.0
+1.0,A549,Ruxolitinib (INCB018424),JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,16.0,4.0,16-4,CellPainting,2021018020.0
+1.0,A549,AZD6482,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,16.0,18.0,16-18,CellPainting,2021018020.0
+1.0,A549,Lidocaine,histamine receptor agonist,2.0,5.0,query_cpd,Histamine Receptor,Neuronal Signaling,16.0,21.0,16-21,CellPainting,2021018020.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018020.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018021.0
+1.0,A549,Busulfan,DNA inhibitor,2.0,5.0,query_cpd,Others,Others,1.0,12.0,1-12,CellPainting,2021018021.0
+1.0,A549,Mometasone furoate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,2.0,8.0,2-8,CellPainting,2021018021.0
+1.0,A549,Fenticonazole Nitrate,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,2.0,14.0,2-14,CellPainting,2021018021.0
+1.0,A549,Cefoperazone,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,3.0,19.0,3-19,CellPainting,2021018021.0
+1.0,A549,Prednisone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,3.0,21.0,3-21,CellPainting,2021018021.0
+1.0,A549,Flubendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,9.0,4-9,CellPainting,2021018021.0
+1.0,A549,PCI-34051,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,4.0,10.0,4-10,CellPainting,2021018021.0
+1.0,A549,Oxibendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,11.0,4-11,CellPainting,2021018021.0
+1.0,A549,Deflazacort,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,15.0,4-15,CellPainting,2021018021.0
+1.0,A549,Pracinostat (SB939),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,5.0,5.0,5-5,CellPainting,2021018021.0
+1.0,A549,Hydrocortisone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,5.0,12.0,5-12,CellPainting,2021018021.0
+1.0,A549,Methylprednisolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,5.0,18.0,5-18,CellPainting,2021018021.0
+1.0,A549,Fluticasone propionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,6.0,8.0,6-8,CellPainting,2021018021.0
+1.0,A549,Cephalexin,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,7.0,3.0,7-3,CellPainting,2021018021.0
+1.0,A549,Hesperadin,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,7.0,7.0,7-7,CellPainting,2021018021.0
+1.0,A549,PD318088,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018021.0
+1.0,A549,Cefdinir,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,7.0,17.0,7-17,CellPainting,2021018021.0
+1.0,A549,CCT129202,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,9.0,5.0,9-5,CellPainting,2021018021.0
+1.0,A549,BIX 02188,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,7.0,9-7,CellPainting,2021018021.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,11.0,9-11,CellPainting,2021018021.0
+1.0,A549,Desonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,9.0,12.0,9-12,CellPainting,2021018021.0
+1.0,A549,Triamcinolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,10.0,21.0,10-21,CellPainting,2021018021.0
+1.0,A549,Aztreonam,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,11.0,3.0,11-3,CellPainting,2021018021.0
+1.0,A549,Cytarabine,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,DNA/RNA Synthesis,DNA Damage,11.0,4.0,11-4,CellPainting,2021018021.0
+1.0,A549,BIX 02189,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018021.0
+1.0,A549,TWS119,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,11.0,15.0,11-15,CellPainting,2021018021.0
+1.0,A549,SAR245409 (XL765),PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,13.0,5.0,13-5,CellPainting,2021018021.0
+1.0,A549,Divalproex Sodium,HDAC inhibitor,2.0,5.0,query_cpd,Autophagy,Ubiquitin,13.0,12.0,13-12,CellPainting,2021018021.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,Autophagy.DNA/RNA Synthesis,DNA Damage,13.0,14.0,13-14,CellPainting,2021018021.0
+1.0,A549,Prednisolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,13.0,18.0,13-18,CellPainting,2021018021.0
+1.0,A549,Butoconazole nitrate,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,14.0,7.0,14-7,CellPainting,2021018021.0
+1.0,A549,Hydroxyurea,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,Others,Others,14.0,15.0,14-15,CellPainting,2021018021.0
+1.0,A549,Amorolfine HCl,membrane integrity inhibitor,2.0,5.0,query_cpd,Others,Others,15.0,8.0,15-8,CellPainting,2021018021.0
+1.0,A549,Cytidine,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,16.0,16-16,CellPainting,2021018021.0
+1.0,A549,Metronidazole,DNA inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,17.0,16-17,CellPainting,2021018021.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018021.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018022.0
+1.0,A549,Esomeprazole Sodium,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,1.0,21.0,1-21,CellPainting,2021018022.0
+1.0,A549,Curcumol,JAK inhibitor,2.0,5.0,query_cpd,Others,Others,2.0,11.0,2-11,CellPainting,2021018022.0
+1.0,A549,Tetracaine HCl,membrane integrity inhibitor,2.0,5.0,query_cpd,Calcium Channel,Transmembrane Transporters,2.0,18.0,2-18,CellPainting,2021018022.0
+1.0,A549,Clobetasol propionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,2.0,20.0,2-20,CellPainting,2021018022.0
+1.0,A549,Givinostat (ITF2357),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,3.0,11.0,3-11,CellPainting,2021018022.0
+1.0,A549,AST-1306,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,13.0,3-13,CellPainting,2021018022.0
+1.0,A549,CAL-101 (Idelalisib. GS-1101),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,19.0,3-19,CellPainting,2021018022.0
+1.0,A549,Volasertib (BI 6727),PLK inhibitor,2.0,5.0,query_cpd,PLK,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018022.0
+1.0,A549,Fenbendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,19.0,4-19,CellPainting,2021018022.0
+1.0,A549,AZD8330,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,5.0,7.0,5-7,CellPainting,2021018022.0
+1.0,A549,PIK-294,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,19.0,5-19,CellPainting,2021018022.0
+1.0,A549,Cloxacillin Sodium,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,6.0,16.0,6-16,CellPainting,2021018022.0
+1.0,A549,Fluocinolone Acetonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,6.0,19.0,6-19,CellPainting,2021018022.0
+1.0,A549,Fisetin,Aurora kinase inhibitor,2.0,5.0,query_cpd,Others,Others,7.0,10.0,7-10,CellPainting,2021018022.0
+1.0,A549,OSI-420,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,7.0,15.0,7-15,CellPainting,2021018022.0
+1.0,A549,PP242,mTOR inhibitor,2.0,5.0,query_cpd,mTOR.Autophagy,PI3K/Akt/mTOR,7.0,17.0,7-17,CellPainting,2021018022.0
+1.0,A549,Neratinib (HKI-272),EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,9.0,7.0,9-7,CellPainting,2021018022.0
+1.0,A549,LY2784544,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,9.0,11.0,9-11,CellPainting,2021018022.0
+1.0,A549,AZD8931 (Sapitinib),EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,9.0,13.0,9-13,CellPainting,2021018022.0
+1.0,A549,PIK-293,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,9.0,15.0,9-15,CellPainting,2021018022.0
+1.0,A549,CYT387,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,9.0,17.0,9-17,CellPainting,2021018022.0
+1.0,A549,Ciclopirox,membrane integrity inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,8.0,10-8,CellPainting,2021018022.0
+1.0,A549,Miconazole,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,10.0,10-10,CellPainting,2021018022.0
+1.0,A549,GSK461364,PLK inhibitor,2.0,5.0,query_cpd,PLK,Cell Cycle,11.0,13.0,11-13,CellPainting,2021018022.0
+1.0,A549,Nobiletin,MEK inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,16.0,13-16,CellPainting,2021018022.0
+1.0,A549,AR-42,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,13.0,21.0,13-21,CellPainting,2021018022.0
+1.0,A549,AZ 960,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,15.0,15.0,15-15,CellPainting,2021018022.0
+1.0,A549,Chrysophanic Acid,EGFR inhibitor,2.0,5.0,query_cpd,mTOR.EGFR,Protein Tyrosine Kinase,16.0,9.0,16-9,CellPainting,2021018022.0
+1.0,A549,Cortisone acetate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,16.0,14.0,16-14,CellPainting,2021018022.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018022.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018023.0
+1.0,A549,HER2-Inhibitor-1,EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,1.0,4.0,1-4,CellPainting,2021018023.0
+1.0,A549,Tubastatin A HCl,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,1.0,5.0,1-5,CellPainting,2021018023.0
+1.0,A549,3-Methyladenine,PI3K inhibitor,2.0,5.0,query_cpd,Autophagy.PI3K,PI3K/Akt/mTOR,1.0,6.0,1-6,CellPainting,2021018023.0
+1.0,A549,TAK-285,EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,1.0,10.0,1-10,CellPainting,2021018023.0
+1.0,A549,AS-604850,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,13.0,1-13,CellPainting,2021018023.0
+1.0,A549,Torin 2,mTOR inhibitor,2.0,5.0,query_cpd,ATM/ATR.mTOR,PI3K/Akt/mTOR,1.0,16.0,1-16,CellPainting,2021018023.0
+1.0,A549,AMG-900,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,19.0,1-19,CellPainting,2021018023.0
+1.0,A549,Varlitinib,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,4.0,3-4,CellPainting,2021018023.0
+1.0,A549,A66,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,7.0,3-7,CellPainting,2021018023.0
+1.0,A549,WYE-125132 (WYE-132),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,9.0,3-9,CellPainting,2021018023.0
+1.0,A549,AS-252424,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,11.0,3-11,CellPainting,2021018023.0
+1.0,A549,CAY10505,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,13.0,3-13,CellPainting,2021018023.0
+1.0,A549,TG101209,JAK inhibitor,2.0,5.0,query_cpd,JAK.FLT3.c-RET,JAK/STAT,3.0,15.0,3-15,CellPainting,2021018023.0
+1.0,A549,CI994 (Tacedinaline),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,16.0,3-16,CellPainting,2021018023.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,3.0,18.0,3-18,CellPainting,2021018023.0
+1.0,A549,Wortmannin,PI3K inhibitor,2.0,5.0,query_cpd,Autophagy.ATM/ATR.PI3K,PI3K/Akt/mTOR,5.0,4.0,5-4,CellPainting,2021018023.0
+1.0,A549,Resminostat,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,5.0,15.0,5-15,CellPainting,2021018023.0
+1.0,A549,CUDC-907,PI3K inhibitor,2.0,5.0,query_cpd,PI3K.HDAC,Cytoskeletal Signaling,7.0,4.0,7-4,CellPainting,2021018023.0
+1.0,A549,MK-5108 (VX-689),Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,7.0,6.0,7-6,CellPainting,2021018023.0
+1.0,A549,M344,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,7.0,8.0,7-8,CellPainting,2021018023.0
+1.0,A549,Trametinib (GSK1120212),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,11.0,7-11,CellPainting,2021018023.0
+1.0,A549,KW-2478,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,13.0,7-13,CellPainting,2021018023.0
+1.0,A549,INK 128 (MLN0128),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,7.0,14.0,7-14,CellPainting,2021018023.0
+1.0,A549,Baricitinib (LY3009104. INCB028050),JAK inhibitor,2.0,5.0,query_cpd,JAK,Epigenetics,7.0,20.0,7-20,CellPainting,2021018023.0
+1.0,A549,S-Ruxolitinib (INCB018424),JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,8.0,7.0,8-7,CellPainting,2021018023.0
+1.0,A549,SNX-2112 (PF-04928473),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,9.0,7.0,9-7,CellPainting,2021018023.0
+1.0,A549,I-BET151 (GSK1210151A),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,9.0,8.0,9-8,CellPainting,2021018023.0
+1.0,A549,Tofacitinib (CP-690550.Tasocitinib),JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,9.0,10.0,9-10,CellPainting,2021018023.0
+1.0,A549,NVP-BSK805 2HCl,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,9.0,13.0,9-13,CellPainting,2021018023.0
+1.0,A549,RG108,MAPK inhibitor,2.0,5.0,query_cpd,Transferase.DNA Methyltransferase,Epigenetics,9.0,16.0,9-16,CellPainting,2021018023.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90).Autophagy,Cytoskeletal Signaling,9.0,17.0,9-17,CellPainting,2021018023.0
+1.0,A549,Beclomethasone dipropionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,10.0,4.0,10-4,CellPainting,2021018023.0
+1.0,A549,Icotinib,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,10.0,11.0,10-11,CellPainting,2021018023.0
+1.0,A549,Catharanthine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,18.0,10-18,CellPainting,2021018023.0
+1.0,A549,OSI-027,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,11.0,3.0,11-3,CellPainting,2021018023.0
+1.0,A549,PF-04929113 (SNX-5422),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,7.0,11-7,CellPainting,2021018023.0
+1.0,A549,Dacomitinib (PF299804. PF299),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,11.0,19.0,11-19,CellPainting,2021018023.0
+1.0,A549,GSK1070916,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,11.0,21.0,11-21,CellPainting,2021018023.0
+1.0,A549,Carbenicillin disodium,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,12.0,14.0,12-14,CellPainting,2021018023.0
+1.0,A549,WAY-600,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,13.0,13.0,13-13,CellPainting,2021018023.0
+1.0,A549,BYL719,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,13.0,14.0,13-14,CellPainting,2021018023.0
+1.0,A549,Tideglusib,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,13.0,16.0,13-16,CellPainting,2021018023.0
+1.0,A549,AG-1478 (Tyrphostin AG-1478),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,19.0,13-19,CellPainting,2021018023.0
+1.0,A549,CHIR-99021 (CT99021) HCl,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,14.0,11.0,14-11,CellPainting,2021018023.0
+1.0,A549,Ciclopirox ethanolamine,membrane integrity inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,14.0,15.0,14-15,CellPainting,2021018023.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018023.0
+1.0,A549,AZD2014,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,15.0,8.0,15-8,CellPainting,2021018023.0
+1.0,A549,CEP-33779,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,15.0,12.0,15-12,CellPainting,2021018023.0
+1.0,A549,CH5132799,PI3K inhibitor,2.0,5.0,query_cpd,mTOR.PI3K,PI3K/Akt/mTOR,15.0,15.0,15-15,CellPainting,2021018023.0
+1.0,A549,TAK-901,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,15.0,17.0,15-17,CellPainting,2021018023.0
+1.0,A549,SB415286,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,15.0,19.0,15-19,CellPainting,2021018023.0
+1.0,A549,Ampicillin sodium,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,12.0,16-12,CellPainting,2021018023.0
+1.0,A549,Azlocillin sodium salt,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,16.0,16-16,CellPainting,2021018023.0
+1.0,A549,Ethambutol HCl,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,20.0,16-20,CellPainting,2021018023.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018023.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018024.0
+1.0,A549,Dexlansoprazole,ATPase inhibitor,2.0,5.0,query_cpd,Others,Others,1.0,17.0,1-17,CellPainting,2021018024.0
+1.0,A549,CZC24832,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,2.0,11.0,2-11,CellPainting,2021018024.0
+1.0,A549,XL019,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,2.0,13.0,2-13,CellPainting,2021018024.0
+1.0,A549,CO-1686 (AVL-301),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,2.0,18.0,2-18,CellPainting,2021018024.0
+1.0,A549,Zebularine,MAPK inhibitor,2.0,5.0,query_cpd,DNA Methyltransferase,Epigenetics,2.0,21.0,2-21,CellPainting,2021018024.0
+1.0,A549,RGFP966,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,4.0,12.0,4-12,CellPainting,2021018024.0
+1.0,A549,AZD2858,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,4.0,14.0,4-14,CellPainting,2021018024.0
+1.0,A549,NMS-873,ATPase inhibitor,2.0,5.0,query_cpd,p97,Ubiquitin,4.0,18.0,4-18,CellPainting,2021018024.0
+1.0,A549,(-)-Blebbistatin,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,4.0,19.0,4-19,CellPainting,2021018024.0
+1.0,A549,BIO,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,6.0,10.0,6-10,CellPainting,2021018024.0
+1.0,A549,Bromosporine,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,12.0,6-12,CellPainting,2021018024.0
+1.0,A549,PD168393,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,6.0,13.0,6-13,CellPainting,2021018024.0
+1.0,A549,SGC-CBP30,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,14.0,6-14,CellPainting,2021018024.0
+1.0,A549,Piperacillin Sodium,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,7.0,18.0,7-18,CellPainting,2021018024.0
+1.0,A549,Tofacitinib (CP-690550) Citrate,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,8.0,7.0,8-7,CellPainting,2021018024.0
+1.0,A549,DBeQ,ATPase inhibitor,2.0,5.0,query_cpd,p97,Ubiquitin,8.0,10.0,8-10,CellPainting,2021018024.0
+1.0,A549,IPI-145 (INK1197),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,Angiogenesis,8.0,11.0,8-11,CellPainting,2021018024.0
+1.0,A549,MK-8745,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,8.0,15.0,8-15,CellPainting,2021018024.0
+1.0,A549,SGI-1027,MAPK inhibitor,2.0,5.0,query_cpd,DNA Methyltransferase,Epigenetics,8.0,16.0,8-16,CellPainting,2021018024.0
+1.0,A549,RG2833 (RGFP109),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,8.0,18.0,8-18,CellPainting,2021018024.0
+1.0,A549,Difluprednate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,9.0,15.0,9-15,CellPainting,2021018024.0
+1.0,A549,Sodium Phenylbutyrate,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,DNA Damage,9.0,21.0,9-21,CellPainting,2021018024.0
+1.0,A549,MEK162 (ARRY-162. ARRY-438162),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,10.0,9.0,10-9,CellPainting,2021018024.0
+1.0,A549,XL888,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,21.0,10-21,CellPainting,2021018024.0
+1.0,A549,AZD1080,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,12.0,4.0,12-4,CellPainting,2021018024.0
+1.0,A549,Mezlocillin Sodium,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,8.0,13-8,CellPainting,2021018024.0
+1.0,A549,Guanidine HCl,HSP inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,9.0,13-9,CellPainting,2021018024.0
+1.0,A549,Histamine 2HCl,histamine receptor agonist,2.0,5.0,query_cpd,Histamine Receptor,Neuronal Signaling,13.0,19.0,13-19,CellPainting,2021018024.0
+1.0,A549,I-BET-762,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,8.0,14-8,CellPainting,2021018024.0
+1.0,A549,(+)-JQ1,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,19.0,14-19,CellPainting,2021018024.0
+1.0,A549,Griseofulvin,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,9.0,15-9,CellPainting,2021018024.0
+1.0,A549,Flumethasone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,15.0,13.0,15-13,CellPainting,2021018024.0
+1.0,A549,Halcinonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,15.0,15.0,15-15,CellPainting,2021018024.0
+1.0,A549,1-Azakenpaullone,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,16.0,8.0,16-8,CellPainting,2021018024.0
+1.0,A549,XL388,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,16.0,11.0,16-11,CellPainting,2021018024.0
+1.0,A549,NMS-E973,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,16.0,16.0,16-16,CellPainting,2021018024.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018024.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018025.0
+1.0,A549,BTB06584,ATPase inhibitor,2.0,5.0,query_cpd,Fo-ATPase,Transmembrane Transporters,1.0,7.0,1-7,CellPainting,2021018025.0
+1.0,A549,GSK2636771,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,11.0,1-11,CellPainting,2021018025.0
+1.0,A549,MC1568,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,1.0,12.0,1-12,CellPainting,2021018025.0
+1.0,A549,Cefditoren Pivoxil,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,1.0,16.0,1-16,CellPainting,2021018025.0
+1.0,A549,BKM120 (NVP-BKM120. Buparlisib),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,22.0,1-22,CellPainting,2021018025.0
+1.0,A549,OTX015,bromodomain inhibitor,2.0,5.0,query_cpd,BET,Epigenetics,2.0,4.0,2-4,CellPainting,2021018025.0
+1.0,A549,CCT137690,Aurora kinase inhibitor,2.0,5.0,query_cpd,Aurora Kinase,Cell Cycle,2.0,9.0,2-9,CellPainting,2021018025.0
+1.0,A549,Ouabain,ATPase inhibitor,2.0,5.0,query_cpd,Sodium Channel,Transmembrane Transporters,2.0,15.0,2-15,CellPainting,2021018025.0
+1.0,A549,Clofarabine,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,DNA/RNA Synthesis,DNA Damage,3.0,8.0,3-8,CellPainting,2021018025.0
+1.0,A549,HMN-214,PLK inhibitor,2.0,5.0,query_cpd,PLK,Cell Cycle,3.0,12.0,3-12,CellPainting,2021018025.0
+1.0,A549,Tubastatin A,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,19.0,3-19,CellPainting,2021018025.0
+1.0,A549,Fluocinonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,7.0,4-7,CellPainting,2021018025.0
+1.0,A549,CHIR-98014,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,4.0,9.0,4-9,CellPainting,2021018025.0
+1.0,A549,Triapine,ribonucleotide reductase inhibitor,2.0,5.0,query_cpd,ribonucleotide reductase,DNA Damage,5.0,7.0,5-7,CellPainting,2021018025.0
+1.0,A549,YM201636,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,8.0,5-8,CellPainting,2021018025.0
+1.0,A549,GSK1059615,PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,5.0,10.0,5-10,CellPainting,2021018025.0
+1.0,A549,ZM 39923 HCl,JAK inhibitor,2.0,5.0,query_cpd,JAK,JAK/STAT,5.0,11.0,5-11,CellPainting,2021018025.0
+1.0,A549,Nexturastat A,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,7.0,7-7,CellPainting,2021018025.0
+1.0,A549,WHI-P154,JAK inhibitor,2.0,5.0,query_cpd,JAK.EGFR,JAK/STAT,8.0,11.0,8-11,CellPainting,2021018025.0
+1.0,A549,Miconazole Nitrate,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,9.0,18.0,9-18,CellPainting,2021018025.0
+1.0,A549,Mechlorethamine HCl,DNA inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,19.0,10-19,CellPainting,2021018025.0
+1.0,A549,PIK-93,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,11.0,12.0,11-12,CellPainting,2021018025.0
+1.0,A549,Scriptaid,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,DNA Damage,11.0,17.0,11-17,CellPainting,2021018025.0
+1.0,A549,BGT226 (NVP-BGT226),PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,12.0,9.0,12-9,CellPainting,2021018025.0
+1.0,A549,TG100713,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,12.0,11.0,12-11,CellPainting,2021018025.0
+1.0,A549,AR-A014418,CDK inhibitor,2.0,5.0,query_cpd,GSK-3,PI3K/Akt/mTOR,13.0,3.0,13-3,CellPainting,2021018025.0
+1.0,A549,Epothilone B (EPO906. Patupilone),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,10.0,13-10,CellPainting,2021018025.0
+1.0,A549,Bacitracin,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,14.0,17.0,14-17,CellPainting,2021018025.0
+1.0,A549,Selumetinib (AZD6244),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,4.0,15-4,CellPainting,2021018025.0
+1.0,A549,VER-49009,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,15.0,5.0,15-5,CellPainting,2021018025.0
+1.0,A549,XL147,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,15.0,6.0,15-6,CellPainting,2021018025.0
+1.0,A549,Oxaliplatin,DNA inhibitor,2.0,5.0,query_cpd,DNA/RNA Synthesis,DNA Damage,15.0,8.0,15-8,CellPainting,2021018025.0
+1.0,A549,Rocilinostat (ACY-1215),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,15.0,9.0,15-9,CellPainting,2021018025.0
+1.0,A549,Azacitidine,MAPK inhibitor,2.0,5.0,query_cpd,DNA Methyltransferase,DNA Damage,15.0,16.0,15-16,CellPainting,2021018025.0
+1.0,A549,TAK-733,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,16.0,7.0,16-7,CellPainting,2021018025.0
+1.0,A549,Ampicillin Trihydrate,bacterial cell wall synthesis inhibitor,2.0,5.0,query_cpd,Others,Others,16.0,17.0,16-17,CellPainting,2021018025.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018025.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018026.0
+1.0,A549,Belinostat (PXD101),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,1.0,5.0,1-5,CellPainting,2021018026.0
+1.0,A549,SNS-314 Mesylate,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,9.0,1-9,CellPainting,2021018026.0
+1.0,A549,SGI-1027,MAPK inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,1.0,10.0,1-10,CellPainting,2021018026.0
+1.0,A549,CCT129202,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,13.0,1-13,CellPainting,2021018026.0
+1.0,A549,Tubastatin A HCl,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,1.0,17.0,1-17,CellPainting,2021018026.0
+1.0,A549,CCT137690,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,1.0,19.0,1-19,CellPainting,2021018026.0
+1.0,A549,CEP-33779,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,1.0,21.0,1-21,CellPainting,2021018026.0
+1.0,A549,Sodium Phenylbutyrate,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,4.0,3-4,CellPainting,2021018026.0
+1.0,A549,Mocetinostat (MGCD0103),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,7.0,3-7,CellPainting,2021018026.0
+1.0,A549,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,1.0,10.0,query_cpd,Autophagy.HDAC.GABA Receptor,HDAC,3.0,9.0,3-9,CellPainting,2021018026.0
+1.0,A549,Tubastatin A,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,10.0,3-10,CellPainting,2021018026.0
+1.0,A549,Ruxolitinib (INCB018424),JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,3.0,11.0,3-11,CellPainting,2021018026.0
+1.0,A549,Nexturastat A,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,12.0,3-12,CellPainting,2021018026.0
+1.0,A549,Hesperadin,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,3.0,13.0,3-13,CellPainting,2021018026.0
+1.0,A549,LY2784544,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,3.0,15.0,3-15,CellPainting,2021018026.0
+1.0,A549,NVP-BSK805 2HCl,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,3.0,17.0,3-17,CellPainting,2021018026.0
+1.0,A549,CUDC-907,PI3K inhibitor,1.0,10.0,query_cpd,PI3K.HDAC,mTOR,3.0,19.0,3-19,CellPainting,2021018026.0
+1.0,A549,CI994 (Tacedinaline),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,21.0,3-21,CellPainting,2021018026.0
+1.0,A549,Panobinostat (LBH589),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,3.0,5-3,CellPainting,2021018026.0
+1.0,A549,PCI-24781 (Abexinostat),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,5.0,5-5,CellPainting,2021018026.0
+1.0,A549,I-BET-762,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,5.0,8.0,5-8,CellPainting,2021018026.0
+1.0,A549,CYC116,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase.VEGFR,Cell Cycle,5.0,9.0,5-9,CellPainting,2021018026.0
+1.0,A549,RG2833 (RGFP109),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,10.0,5-10,CellPainting,2021018026.0
+1.0,A549,Rocilinostat (ACY-1215),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,12.0,5-12,CellPainting,2021018026.0
+1.0,A549,TG101209,JAK inhibitor,1.0,10.0,query_cpd,JAK.FLT3.c-RET,JAK/STAT,5.0,17.0,5-17,CellPainting,2021018026.0
+1.0,A549,MK-5108 (VX-689),Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,5.0,19.0,5-19,CellPainting,2021018026.0
+1.0,A549,RG108,MAPK inhibitor,1.0,10.0,query_cpd,Transferase.DNA Methyltransferase,Epigenetics,5.0,21.0,5-21,CellPainting,2021018026.0
+1.0,A549,Trichostatin A (TSA),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,3.0,7-3,CellPainting,2021018026.0
+1.0,A549,Tofacitinib (CP-690550) Citrate,JAK inhibitor,1.0,10.0,,,,7.0,4.0,7-4,CellPainting,2021018026.0
+1.0,A549,LAQ824 (Dacinostat),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,5.0,7-5,CellPainting,2021018026.0
+1.0,A549,RGFP966,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,8.0,7-8,CellPainting,2021018026.0
+1.0,A549,Droxinostat,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,11.0,7-11,CellPainting,2021018026.0
+1.0,A549,ZM 39923 HCl,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,7.0,12.0,7-12,CellPainting,2021018026.0
+1.0,A549,Azacitidine,MAPK inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,7.0,13.0,7-13,CellPainting,2021018026.0
+1.0,A549,AZ 960,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,7.0,15.0,7-15,CellPainting,2021018026.0
+1.0,A549,Resminostat,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,17.0,7-17,CellPainting,2021018026.0
+1.0,A549,M344,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,19.0,7-19,CellPainting,2021018026.0
+1.0,A549,Baricitinib (LY3009104. INCB028050),JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,7.0,21.0,7-21,CellPainting,2021018026.0
+1.0,A549,Vorinostat (SAHA. MK0683),HDAC inhibitor,1.0,10.0,query_cpd,Autophagy.HDAC,HDAC,9.0,3.0,9-3,CellPainting,2021018026.0
+1.0,A549,Quisinostat (JNJ-26481585),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,5.0,9-5,CellPainting,2021018026.0
+1.0,A549,Alisertib (MLN8237),Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,9.0,7.0,9-7,CellPainting,2021018026.0
+1.0,A549,Bromosporine,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,8.0,9-8,CellPainting,2021018026.0
+1.0,A549,CUDC-101,EGFR inhibitor,1.0,10.0,query_cpd,HDAC.HER2.EGFR,HDAC,9.0,9.0,9-9,CellPainting,2021018026.0
+1.0,A549,Scriptaid,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,10.0,9-10,CellPainting,2021018026.0
+1.0,A549,Aurora A Inhibitor I,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,9.0,11.0,9-11,CellPainting,2021018026.0
+1.0,A549,PCI-34051,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,13.0,9-13,CellPainting,2021018026.0
+1.0,A549,CYT387,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,9.0,15.0,9-15,CellPainting,2021018026.0
+1.0,A549,TAK-901,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,9.0,17.0,9-17,CellPainting,2021018026.0
+1.0,A549,I-BET151 (GSK1210151A),bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,19.0,9-19,CellPainting,2021018026.0
+1.0,A549,WHI-P154,JAK inhibitor,1.0,10.0,query_cpd,JAK.EGFR,JAK/STAT,9.0,21.0,9-21,CellPainting,2021018026.0
+1.0,A549,(+)-JQ1,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,11.0,6.0,11-6,CellPainting,2021018026.0
+1.0,A549,Decitabine,MAPK inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,11.0,9.0,11-9,CellPainting,2021018026.0
+1.0,A549,PHA-680632,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,11.0,11.0,11-11,CellPainting,2021018026.0
+1.0,A549,AMG-900,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,11.0,17.0,11-17,CellPainting,2021018026.0
+1.0,A549,Tofacitinib (CP-690550.Tasocitinib),JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,11.0,19.0,11-19,CellPainting,2021018026.0
+1.0,A549,Entinostat (MS-275),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,3.0,13-3,CellPainting,2021018026.0
+1.0,A549,MLN8054,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,13.0,5.0,13-5,CellPainting,2021018026.0
+1.0,A549,Zebularine,MAPK inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,13.0,6.0,13-6,CellPainting,2021018026.0
+1.0,A549,SGC-CBP30,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,13.0,8.0,13-8,CellPainting,2021018026.0
+1.0,A549,PFI-1 (PF-6405761),bromodomain inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,13.0,9.0,13-9,CellPainting,2021018026.0
+1.0,A549,OTX015,bromodomain inhibitor,1.0,10.0,query_cpd,BET,BET,13.0,10.0,13-10,CellPainting,2021018026.0
+1.0,A549,MC1568,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,11.0,13-11,CellPainting,2021018026.0
+1.0,A549,AR-42,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,15.0,13-15,CellPainting,2021018026.0
+1.0,A549,S-Ruxolitinib (INCB018424),JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,13.0,21.0,13-21,CellPainting,2021018026.0
+1.0,A549,XL019,JAK inhibitor,1.0,10.0,query_cpd,JAK,JAK/STAT,15.0,4.0,15-4,CellPainting,2021018026.0
+1.0,A549,ZM 447439,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,15.0,5.0,15-5,CellPainting,2021018026.0
+1.0,A549,Barasertib (AZD1152-HQPA),Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,15.0,7.0,15-7,CellPainting,2021018026.0
+1.0,A549,Pracinostat (SB939),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,15.0,11.0,15-11,CellPainting,2021018026.0
+1.0,A549,Givinostat (ITF2357),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,15.0,13.0,15-13,CellPainting,2021018026.0
+1.0,A549,GSK1070916,Aurora kinase inhibitor,1.0,10.0,query_cpd,Aurora Kinase,Cell Cycle,15.0,17.0,15-17,CellPainting,2021018026.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018026.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018027.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018027.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018027.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018027.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018027.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018027.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018027.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018027.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018027.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018027.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018027.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018027.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018027.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018027.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018027.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018027.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018027.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018027.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018027.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018027.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018027.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018027.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018027.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018027.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018027.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018027.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018027.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018027.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018027.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018027.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018027.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018027.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018027.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018027.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018027.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018027.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018027.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018027.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018027.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018027.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018027.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018027.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018027.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018027.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018027.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018027.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018027.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018027.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018027.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018027.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018027.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018027.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018027.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018027.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018027.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018027.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018027.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018027.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018027.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018027.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018027.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018027.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018027.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018027.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018027.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018027.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018027.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018027.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018027.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018027.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018027.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018027.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018027.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018027.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018027.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018027.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018027.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018027.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018027.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018027.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018027.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018027.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018027.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018027.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018027.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018027.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018027.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018027.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018027.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018027.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018027.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018027.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018027.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018027.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018027.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018027.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018027.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018027.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018027.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018027.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018027.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018027.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018027.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018027.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018027.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018027.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018028.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018028.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018028.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018028.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018028.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018028.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018028.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018028.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018028.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018028.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018028.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018028.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018028.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018028.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018028.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018028.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018028.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018028.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018028.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018028.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018028.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018028.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018028.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018028.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018028.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018028.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018028.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018028.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018028.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018028.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018028.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018028.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018028.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018028.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018028.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018028.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018028.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018028.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018028.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018028.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018028.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018028.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018028.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018028.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018028.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018028.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018028.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018028.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018028.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018028.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018028.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018028.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018028.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018028.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018028.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018028.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018028.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018028.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018028.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018028.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018028.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018028.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018028.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018028.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018028.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018028.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018028.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018028.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018028.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018028.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018028.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018028.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018028.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018028.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018028.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018028.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018028.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018028.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018028.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018028.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018028.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018028.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018028.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018028.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018028.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018028.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018028.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018028.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018028.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018028.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018028.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018028.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018028.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018028.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018028.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018028.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018028.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018028.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018028.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018028.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018028.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018028.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018028.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018028.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018028.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018028.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018046.0
+1.0,A549,Panobinostat (LBH589),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,1.0,7.0,1-7,CellPainting,2021018046.0
+1.0,A549,Vorinostat (SAHA. MK0683),HDAC inhibitor,1.0,10.0,known_query_cpd,Autophagy.HDAC,Epigenetics,1.0,9.0,1-9,CellPainting,2021018046.0
+1.0,A549,Dimesna,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Others,Others,1.0,21.0,1-21,CellPainting,2021018046.0
+1.0,A549,Bendamustine HCl,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,2.0,3.0,2-3,CellPainting,2021018046.0
+1.0,A549,Vincristine sulfate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,2.0,7.0,2-7,CellPainting,2021018046.0
+1.0,A549,Amorolfine HCl,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,18.0,2-18,CellPainting,2021018046.0
+1.0,A549,Divalproex Sodium,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,2.0,22.0,2-22,CellPainting,2021018046.0
+1.0,A549,Meropenem,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,4.0,3-4,CellPainting,2021018046.0
+1.0,A549,Entinostat (MS-275),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,9.0,3-9,CellPainting,2021018046.0
+1.0,A549,Belinostat (PXD101),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,11.0,3-11,CellPainting,2021018046.0
+1.0,A549,Everolimus (RAD001),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,3.0,13.0,3-13,CellPainting,2021018046.0
+1.0,A549,HMN-214,PLK inhibitor,1.0,10.0,known_query_cpd,PLK,Cell Cycle,3.0,16.0,3-16,CellPainting,2021018046.0
+1.0,A549,Plinabulin (NPI-2358),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,VDA,Angiogenesis,3.0,17.0,3-17,CellPainting,2021018046.0
+1.0,A549,Fludarabine Phosphate,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,4.0,5.0,4-5,CellPainting,2021018046.0
+1.0,A549,Betamethasone Valerate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,4.0,20.0,4-20,CellPainting,2021018046.0
+1.0,A549,Refametinib (RDEA119. Bay 86-9766),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,5.0,11.0,5-11,CellPainting,2021018046.0
+1.0,A549,Mocetinostat (MGCD0103),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,5.0,13.0,5-13,CellPainting,2021018046.0
+1.0,A549,Ganetespib (STA-9090),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,5.0,15.0,5-15,CellPainting,2021018046.0
+1.0,A549,Aztreonam,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,18.0,5-18,CellPainting,2021018046.0
+1.0,A549,Prednisone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor.Immunology & Inflammation related,Endocrinology & Hormones,6.0,8.0,6-8,CellPainting,2021018046.0
+1.0,A549,Lansoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,6.0,19.0,6-19,CellPainting,2021018046.0
+1.0,A549,Daptomycin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection.DNA/RNA Synthesis,DNA Damage,6.0,21.0,6-21,CellPainting,2021018046.0
+1.0,A549,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,7.0,5.0,7-5,CellPainting,2021018046.0
+1.0,A549,PD0325901,MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,7.0,7.0,7-7,CellPainting,2021018046.0
+1.0,A549,Abexinostat (PCI-24781),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,7.0,11.0,7-11,CellPainting,2021018046.0
+1.0,A549,Clofarabine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,8.0,3.0,8-3,CellPainting,2021018046.0
+1.0,A549,Dexamethasone (DHAP),glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Autophagy.IL Receptor,Others,8.0,15.0,8-15,CellPainting,2021018046.0
+1.0,A549,Busulfan,DNA inhibitor,1.0,10.0,known_query_cpd,DNA alkylator,DNA Damage,8.0,20.0,8-20,CellPainting,2021018046.0
+1.0,A549,Doripenem Hydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,21.0,8-21,CellPainting,2021018046.0
+1.0,A549,Selumetinib (AZD6244),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,9.0,3.0,9-3,CellPainting,2021018046.0
+1.0,A549,Gefitinib (ZD1839),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,9.0,5.0,9-5,CellPainting,2021018046.0
+1.0,A549,Rapamycin (Sirolimus),mTOR inhibitor,1.0,10.0,known_query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,9.0,7.0,9-7,CellPainting,2021018046.0
+1.0,A549,Quisinostat (JNJ-26481585) 2HCl,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,9.0,11.0,9-11,CellPainting,2021018046.0
+1.0,A549,Fludarabine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis.STAT,JAK/STAT,9.0,16.0,9-16,CellPainting,2021018046.0
+1.0,A549,Cefoperazone,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,6.0,10-6,CellPainting,2021018046.0
+1.0,A549,Lidocaine,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,10.0,19.0,10-19,CellPainting,2021018046.0
+1.0,A549,Hydrocortisone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,12.0,20.0,12-20,CellPainting,2021018046.0
+1.0,A549,Afatinib (BIBW2992),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,13.0,3.0,13-3,CellPainting,2021018046.0
+1.0,A549,Omeprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump.Autophagy,Transmembrane Transporters,13.0,4.0,13-4,CellPainting,2021018046.0
+1.0,A549,Lapatinib (GW-572016) Ditosylate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,13.0,5.0,13-5,CellPainting,2021018046.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018046.0
+1.0,A549,ABT-751 (E7010),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,15.0,13-15,CellPainting,2021018046.0
+1.0,A549,Cefaclor,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,16.0,13-16,CellPainting,2021018046.0
+1.0,A549,Cefdinir,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,4.0,14-4,CellPainting,2021018046.0
+1.0,A549,Budesonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,11.0,14-11,CellPainting,2021018046.0
+1.0,A549,Desonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,20.0,14-20,CellPainting,2021018046.0
+1.0,A549,Ruxolitinib (INCB018424),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,14.0,21.0,14-21,CellPainting,2021018046.0
+1.0,A549,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018046.0
+1.0,A549,Paclitaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,15.0,13.0,15-13,CellPainting,2021018046.0
+1.0,A549,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,1.0,10.0,known_query_cpd,GABA Receptor.HDAC.Autophagy,Neuronal Signaling,15.0,15.0,15-15,CellPainting,2021018046.0
+1.0,A549,Pracinostat (SB939),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,15.0,18.0,15-18,CellPainting,2021018046.0
+1.0,A549,Decitabine,MAPK inhibitor,1.0,10.0,known_query_cpd,DNA Methyltransferase,Epigenetics,15.0,19.0,15-19,CellPainting,2021018046.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,Autophagy.DNA/RNA Synthesis,DNA Damage,16.0,22.0,16-22,CellPainting,2021018046.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018046.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018048.0
+1.0,A549,Trametinib (GSK1120212),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,2.0,21.0,2-21,CellPainting,2021018048.0
+1.0,A549,GSK1070916,Aurora kinase inhibitor,1.0,10.0,known_query_cpd,Aurora Kinase,Cell Cycle,3.0,4.0,3-4,CellPainting,2021018048.0
+1.0,A549,Ciclopirox ethanolamine,membrane integrity inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,3.0,18.0,3-18,CellPainting,2021018048.0
+1.0,A549,Dexamethasone Acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Autophagy.IL Receptor,Others,4.0,10.0,4-10,CellPainting,2021018048.0
+1.0,A549,Catharanthine,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,AChR,Neuronal Signaling,4.0,20.0,4-20,CellPainting,2021018048.0
+1.0,A549,Sapanisertib (INK 128. MLN0128),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,5.0,10.0,5-10,CellPainting,2021018048.0
+1.0,A549,Baricitinib (LY3009104. INCB028050),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,5.0,12.0,5-12,CellPainting,2021018048.0
+1.0,A549,S-Ruxolitinib (INCB018424),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,5.0,14.0,5-14,CellPainting,2021018048.0
+1.0,A549,Beclomethasone dipropionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,6.0,6.0,6-6,CellPainting,2021018048.0
+1.0,A549,Chlorhexidine?2HCl,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,4.0,8-4,CellPainting,2021018048.0
+1.0,A549,Prednisolone Acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,11.0,8-11,CellPainting,2021018048.0
+1.0,A549,Clobetasol propionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,13.0,8-13,CellPainting,2021018048.0
+1.0,A549,Fluocinonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,17.0,8-17,CellPainting,2021018048.0
+1.0,A549,Resminostat,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,8.0,21.0,8-21,CellPainting,2021018048.0
+1.0,A549,Alpelisib (BYL719),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,9.0,10.0,9-10,CellPainting,2021018048.0
+1.0,A549,Pyrantel Pamoate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,19.0,9-19,CellPainting,2021018048.0
+1.0,A549,Miconazole,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,5.0,10-5,CellPainting,2021018048.0
+1.0,A549,Cortisone acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,10.0,9.0,10-9,CellPainting,2021018048.0
+1.0,A549,Tetracaine HCl,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Calcium Channel,Transmembrane Transporters,10.0,11.0,10-11,CellPainting,2021018048.0
+1.0,A549,Carbenicillin disodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,16.0,10-16,CellPainting,2021018048.0
+1.0,A549,PF-04929113 (SNX-5422),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,19.0,10-19,CellPainting,2021018048.0
+1.0,A549,Varlitinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,4.0,11-4,CellPainting,2021018048.0
+1.0,A549,Azlocillin sodium salt,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,18.0,12-18,CellPainting,2021018048.0
+1.0,A549,Tideglusib,CDK inhibitor,1.0,10.0,known_query_cpd,GSK-3,PI3K/Akt/mTOR,13.0,10.0,13-10,CellPainting,2021018048.0
+1.0,A549,Fenbendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,13.0,13-13,CellPainting,2021018048.0
+1.0,A549,Icotinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,13.0,14.0,13-14,CellPainting,2021018048.0
+1.0,A549,Cloxacillin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,9.0,14-9,CellPainting,2021018048.0
+1.0,A549,Ampicillin sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,14.0,14-14,CellPainting,2021018048.0
+1.0,A549,Dacomitinib (PF299804. PF299),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,14.0,21.0,14-21,CellPainting,2021018048.0
+1.0,A549,Acetylspiramycin (ASPM),bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,22.0,14-22,CellPainting,2021018048.0
+1.0,A549,CUDC-907,PI3K inhibitor,1.0,10.0,known_query_cpd,HDAC.PI3K,Cytoskeletal Signaling,15.0,4.0,15-4,CellPainting,2021018048.0
+1.0,A549,Tofacitinib (CP-690550.Tasocitinib),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,15.0,6.0,15-6,CellPainting,2021018048.0
+1.0,A549,Fluocinolone Acetonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,15.0,13.0,15-13,CellPainting,2021018048.0
+1.0,A549,Ciclopirox,membrane integrity inhibitor,1.0,10.0,known_query_cpd,ATPase.Anti-infection,Transmembrane Transporters,16.0,3.0,16-3,CellPainting,2021018048.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018048.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018049.0
+1.0,A549,Histamine,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Immunology & Inflammation,1.0,4.0,1-4,CellPainting,2021018049.0
+1.0,A549,Ouabain,ATPase inhibitor,1.0,10.0,known_query_cpd,Sodium Channel,Transmembrane Transporters,1.0,12.0,1-12,CellPainting,2021018049.0
+1.0,A549,Difluprednate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,2.0,8.0,2-8,CellPainting,2021018049.0
+1.0,A549,Histamine 2HCl,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,2.0,12.0,2-12,CellPainting,2021018049.0
+1.0,A549,Ampicillin Trihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,16.0,2-16,CellPainting,2021018049.0
+1.0,A549,Ceftibuten dihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,3.0,3-3,CellPainting,2021018049.0
+1.0,A549,Osalmid,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,Others,Others,3.0,5.0,3-5,CellPainting,2021018049.0
+1.0,A549,Cefepime Dihydrochloride Monohydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,7.0,3-7,CellPainting,2021018049.0
+1.0,A549,Ethambutol 2HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,10.0,3-10,CellPainting,2021018049.0
+1.0,A549,Vindoline,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,4.0,5-4,CellPainting,2021018049.0
+1.0,A549,Halcinonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Immunology & Inflammation related,Immunology & Inflammation,6.0,8.0,6-8,CellPainting,2021018049.0
+1.0,A549,Fusidine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,4.0,7-4,CellPainting,2021018049.0
+1.0,A549,Cefsulodin sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,phosphatase,Others,7.0,9.0,7-9,CellPainting,2021018049.0
+1.0,A549,Avibactam sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,19.0,7-19,CellPainting,2021018049.0
+1.0,A549,Guanidine HCl,HSP inhibitor,1.0,10.0,known_query_cpd,Others,Others,7.0,22.0,7-22,CellPainting,2021018049.0
+1.0,A549,Flumethasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,6.0,8-6,CellPainting,2021018049.0
+1.0,A549,Dexlansoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,8.0,8.0,8-8,CellPainting,2021018049.0
+1.0,A549,Kitasamycin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,5.0,9-5,CellPainting,2021018049.0
+1.0,A549,Griseofulvin,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,22.0,9-22,CellPainting,2021018049.0
+1.0,A549,Cefpirome sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,3.0,11-3,CellPainting,2021018049.0
+1.0,A549,Thimerosal,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,5.0,11-5,CellPainting,2021018049.0
+1.0,A549,Cefonicid sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,9.0,11-9,CellPainting,2021018049.0
+1.0,A549,Dinitolmide,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,14.0,12-14,CellPainting,2021018049.0
+1.0,A549,(-)-Arctigenin,MEK inhibitor,1.0,10.0,known_query_cpd,Others,Others,12.0,15.0,12-15,CellPainting,2021018049.0
+1.0,A549,Valproic acid,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,12.0,19.0,12-19,CellPainting,2021018049.0
+1.0,A549,Cefamandole nafate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,3.0,13-3,CellPainting,2021018049.0
+1.0,A549,Chlorobutanol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,13.0,13-13,CellPainting,2021018049.0
+1.0,A549,Sodium Phenylbutyrate,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,DNA Damage,14.0,12.0,14-12,CellPainting,2021018049.0
+1.0,A549,Azithromycin Dihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,14.0,16-14,CellPainting,2021018049.0
+1.0,A549,Mezlocillin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,20.0,16-20,CellPainting,2021018049.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018049.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018070.0
+1.0,A549,Bronopol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,8.0,1-8,CellPainting,2021018070.0
+1.0,A549,Amodiaquine dihydrochloride dihydrate,histamine receptor agonist,1.0,10.0,known_query_cpd,Transferase.Histone Methyltransferase,Epigenetics,1.0,14.0,1-14,CellPainting,2021018070.0
+1.0,A549,Lidocaine hydrochloride,histamine receptor agonist,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,2.0,8.0,2-8,CellPainting,2021018070.0
+1.0,A549,Digoxin,ATPase inhibitor,1.0,10.0,known_query_cpd,Sodium Channel,Transmembrane Transporters,3.0,21.0,3-21,CellPainting,2021018070.0
+1.0,A549,Vinorelbine Tartrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,17.0,5-17,CellPainting,2021018070.0
+1.0,A549,Cefotaxime sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,21.0,6-21,CellPainting,2021018070.0
+1.0,A549,Triacetin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,12.0,7-12,CellPainting,2021018070.0
+1.0,A549,p-Coumaric Acid,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,20.0,8-20,CellPainting,2021018070.0
+1.0,A549,Nitrofurantoin,DNA inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,4.0,9-4,CellPainting,2021018070.0
+1.0,A549,Mechlorethamine HCl,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,9.0,13.0,9-13,CellPainting,2021018070.0
+1.0,A549,Cephalothin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,14.0,9-14,CellPainting,2021018070.0
+1.0,A549,Cefuroxime sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,18.0,9-18,CellPainting,2021018070.0
+1.0,A549,Fusidate Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,6.0,10-6,CellPainting,2021018070.0
+1.0,A549,Cefazolin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,14.0,11-14,CellPainting,2021018070.0
+1.0,A549,Piperacillin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,7.0,13-7,CellPainting,2021018070.0
+1.0,A549,Cefixime,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,14.0,13-14,CellPainting,2021018070.0
+1.0,A549,Anidulafungin (LY303366),bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,19.0,13-19,CellPainting,2021018070.0
+1.0,A549,Sodium sulfadiazine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,20.0,13-20,CellPainting,2021018070.0
+1.0,A549,Ciclesonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,13.0,22.0,13-22,CellPainting,2021018070.0
+1.0,A549,Mefloquine HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,17.0,14-17,CellPainting,2021018070.0
+1.0,A549,Ethylparaben,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,21.0,14-21,CellPainting,2021018070.0
+1.0,A549,Diethylcarbamazine citrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,8.0,15-8,CellPainting,2021018070.0
+1.0,A549,Mebendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,16.0,15-16,CellPainting,2021018070.0
+1.0,A549,Demeclocycline HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,17.0,15-17,CellPainting,2021018070.0
+1.0,A549,Chloroambucil,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,15.0,19.0,15-19,CellPainting,2021018070.0
+1.0,A549,Cefmenoxime hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,22.0,15-22,CellPainting,2021018070.0
+1.0,A549,Medrysone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,16.0,5.0,16-5,CellPainting,2021018070.0
+1.0,A549,Povidone iodine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,8.0,16-8,CellPainting,2021018070.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018070.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018071.0
+1.0,A549,Ceftizoxime,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,3.0,1-3,CellPainting,2021018071.0
+1.0,A549,Piroctone Olamine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,12.0,1-12,CellPainting,2021018071.0
+1.0,A549,Erythromycin thiocyanate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,14.0,1-14,CellPainting,2021018071.0
+1.0,A549,Lapatinib ditosylate monohydrate,EGFR inhibitor,1.0,10.0,known_query_cpd,Others,Others,1.0,16.0,1-16,CellPainting,2021018071.0
+1.0,A549,SulfadiMethoxine sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,21.0,2-21,CellPainting,2021018071.0
+1.0,A549,Cefuroxime axetil,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,3.0,3-3,CellPainting,2021018071.0
+1.0,A549,Flucloxacillin sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,9.0,3-9,CellPainting,2021018071.0
+1.0,A549,Imidocarb dipropionate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,12.0,3-12,CellPainting,2021018071.0
+1.0,A549,Cefazedone,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,13.0,3-13,CellPainting,2021018071.0
+1.0,A549,Delamanid,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,5.0,4-5,CellPainting,2021018071.0
+1.0,A549,Butoconazole,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,10.0,4-10,CellPainting,2021018071.0
+1.0,A549,Milbemycin Oxime,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,13.0,4-13,CellPainting,2021018071.0
+1.0,A549,Cefoxitin sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,5.0,5-5,CellPainting,2021018071.0
+1.0,A549,Potassium acetate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,7.0,5-7,CellPainting,2021018071.0
+1.0,A549,Cefetamet pivoxil hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,11.0,5-11,CellPainting,2021018071.0
+1.0,A549,Cephapirin Benzathine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,13.0,5-13,CellPainting,2021018071.0
+1.0,A549,Ruxolitinib Phosphate,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,5.0,16.0,5-16,CellPainting,2021018071.0
+1.0,A549,Azathramycin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,21.0,5-21,CellPainting,2021018071.0
+1.0,A549,Ceftezole,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,22.0,5-22,CellPainting,2021018071.0
+1.0,A549,Avermectin B1,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,3.0,6-3,CellPainting,2021018071.0
+1.0,A549,Oxyclozanide,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,7.0,6-7,CellPainting,2021018071.0
+1.0,A549,Cefpodoxime proxetil,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,8.0,6-8,CellPainting,2021018071.0
+1.0,A549,Diflorasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid receptor,Immunology & Inflammation,6.0,10.0,6-10,CellPainting,2021018071.0
+1.0,A549,Chloramphenicol sodium succinate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,18.0,6-18,CellPainting,2021018071.0
+1.0,A549,Cefcapene Pivoxil Hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,7.0,7-7,CellPainting,2021018071.0
+1.0,A549,Benzylpenicillin potassium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,10.0,7-10,CellPainting,2021018071.0
+1.0,A549,Nicarbazin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,11.0,7-11,CellPainting,2021018071.0
+1.0,A549,Robenidine Hydrochoride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,13.0,7-13,CellPainting,2021018071.0
+1.0,A549,sulfaisodimidine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,22.0,7-22,CellPainting,2021018071.0
+1.0,A549,Tofacitinib (CP-690550) Citrate,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,8.0,3.0,8-3,CellPainting,2021018071.0
+1.0,A549,p-Anisaldehyde,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,19.0,8-19,CellPainting,2021018071.0
+1.0,A549,Diazolidinyl urea,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,22.0,9-22,CellPainting,2021018071.0
+1.0,A549,Cefminox Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,8.0,10-8,CellPainting,2021018071.0
+1.0,A549,Mupirocin calcium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,15.0,10-15,CellPainting,2021018071.0
+1.0,A549,Osimertinib mesylate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,10.0,17.0,10-17,CellPainting,2021018071.0
+1.0,A549,Saikosaponin D,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,10.0,22.0,10-22,CellPainting,2021018071.0
+1.0,A549,Meropenem Trihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,7.0,11-7,CellPainting,2021018071.0
+1.0,A549,Bedaquiline fumarate,ATPase inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,9.0,11-9,CellPainting,2021018071.0
+1.0,A549,Enoxacin Sesquihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,10.0,11-10,CellPainting,2021018071.0
+1.0,A549,Neticonazole Hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,13.0,11-13,CellPainting,2021018071.0
+1.0,A549,Octenidine Dihydrochloride,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,5.0,12-5,CellPainting,2021018071.0
+1.0,A549,Ceftezole sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,6.0,12-6,CellPainting,2021018071.0
+1.0,A549,Cefpiramide sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,8.0,12-8,CellPainting,2021018071.0
+1.0,A549,Faropenem Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,7.0,13-7,CellPainting,2021018071.0
+1.0,A549,Sulfamethazine Sodium Salt,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,10.0,13-10,CellPainting,2021018071.0
+1.0,A549,Sulfamethoxazole sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,11.0,13-11,CellPainting,2021018071.0
+1.0,A549,Cefathiamidine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,13.0,13-13,CellPainting,2021018071.0
+1.0,A549,Lincomycin Hydrochloride Monohydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,22.0,13-22,CellPainting,2021018071.0
+1.0,A549,Sulbenicillin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,6.0,14-6,CellPainting,2021018071.0
+1.0,A549,Ceftiofur,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,8.0,14-8,CellPainting,2021018071.0
+1.0,A549,Febantel,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,19.0,14-19,CellPainting,2021018071.0
+1.0,A549,Dalbavancin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,7.0,15-7,CellPainting,2021018071.0
+1.0,A549,Cefodizime Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,11.0,15-11,CellPainting,2021018071.0
+1.0,A549,Cefotiam hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,3.0,16-3,CellPainting,2021018071.0
+1.0,A549,Chlorhexidine,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Bacterial,Infection,16.0,14.0,16-14,CellPainting,2021018071.0
+1.0,A549,Sultamicillin Tosylate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,16.0,16-16,CellPainting,2021018071.0
+1.0,A549,Rafoxanide,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,19.0,16-19,CellPainting,2021018071.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018071.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018072.0
+1.0,A549,Pivmecillinam hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,3.0,1-3,CellPainting,2021018072.0
+1.0,A549,Metronidazole Benzoate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,14.0,1-14,CellPainting,2021018072.0
+1.0,A549,Benzathine penicilline,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,21.0,2-21,CellPainting,2021018072.0
+1.0,A549,Suberohydroxamic acid,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,16.0,3-16,CellPainting,2021018072.0
+1.0,A549,Chlorhexidine diacetate,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,12.0,4-12,CellPainting,2021018072.0
+1.0,A549,NMS-P937 (NMS1286937),PLK inhibitor,1.0,10.0,known_query_cpd,PLK,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018072.0
+1.0,A549,Kasugamycin hydrochloride,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,15.0,5-15,CellPainting,2021018072.0
+1.0,A549,2.4-dichlorobenzyl alcohol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,22.0,5-22,CellPainting,2021018072.0
+1.0,A549,Amylmetacresol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,4.0,6-4,CellPainting,2021018072.0
+1.0,A549,Baricitinib phosphate,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,7.0,4.0,7-4,CellPainting,2021018072.0
+1.0,A549,Fluorometholone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,7.0,5.0,7-5,CellPainting,2021018072.0
+1.0,A549,Allopregnanolone,membrane integrity inhibitor,1.0,10.0,known_query_cpd,GABA Receptor,Neuronal Signaling,7.0,10.0,7-10,CellPainting,2021018072.0
+1.0,A549,Doripenem,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Bacterial,Infection,7.0,11.0,7-11,CellPainting,2021018072.0
+1.0,A549,Lanatoside C,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,7.0,15.0,7-15,CellPainting,2021018072.0
+1.0,A549,Doxycycline monohydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,22.0,7-22,CellPainting,2021018072.0
+1.0,A549,Binimetinib (MEK162. ARRY-162. ARRY-438162),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,8.0,14.0,8-14,CellPainting,2021018072.0
+1.0,A549,Ceftizoxime sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,17.0,8-17,CellPainting,2021018072.0
+1.0,A549,I-BET-762,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,8.0,20.0,8-20,CellPainting,2021018072.0
+1.0,A549,Sodium dehydroacetate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,8.0,10-8,CellPainting,2021018072.0
+1.0,A549,Isoeugenol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,4.0,11-4,CellPainting,2021018072.0
+1.0,A549,Amodiaquine hydrochloride,histamine receptor agonist,1.0,10.0,known_query_cpd,HnMT,Immunology,11.0,7.0,11-7,CellPainting,2021018072.0
+1.0,A549,Olanexidine Hydrochloride semihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,16.0,11-16,CellPainting,2021018072.0
+1.0,A549,Bedaquiline,ATPase inhibitor,1.0,10.0,known_query_cpd,tuberculosis,Immunology,12.0,3.0,12-3,CellPainting,2021018072.0
+1.0,A549,Oxantel Pamoate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,12.0,17.0,12-17,CellPainting,2021018072.0
+1.0,A549,Hydrocortisone acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid receptor,Nervous system,13.0,7.0,13-7,CellPainting,2021018072.0
+1.0,A549,Ertapenem sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,7.0,14-7,CellPainting,2021018072.0
+1.0,A549,Zotarolimus(ABT-578),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,14.0,16.0,14-16,CellPainting,2021018072.0
+1.0,A549,Osimertinib (AZD9291),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,14.0,22.0,14-22,CellPainting,2021018072.0
+1.0,A549,Vancomycin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,8.0,15-8,CellPainting,2021018072.0
+1.0,A549,Penicillin G Procaine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,9.0,15-9,CellPainting,2021018072.0
+1.0,A549,pyrvinium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,10.0,15-10,CellPainting,2021018072.0
+1.0,A549,Terpinen-4-ol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,22.0,15-22,CellPainting,2021018072.0
+1.0,A549,Desoximetasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Recep,Endocrinology & Hormones,16.0,11.0,16-11,CellPainting,2021018072.0
+1.0,A549,Duvelisib (IPI-145. INK1197),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,Angiogenesis,16.0,14.0,16-14,CellPainting,2021018072.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018072.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018073.0
+1.0,A549,Triapine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,1.0,5.0,1-5,CellPainting,2021018073.0
+1.0,A549,Erythromycin Cyclocarbonate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,7.0,1-7,CellPainting,2021018073.0
+1.0,A549,Combretastatin A4,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,1.0,15.0,1-15,CellPainting,2021018073.0
+1.0,A549,Itacitinib (INCB39110),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,1.0,17.0,1-17,CellPainting,2021018073.0
+1.0,A549,GSK2636771,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,2.0,5.0,2-5,CellPainting,2021018073.0
+1.0,A549,Cefotaxime,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,18.0,2-18,CellPainting,2021018073.0
+1.0,A549,PF-06651600,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,2.0,19.0,2-19,CellPainting,2021018073.0
+1.0,A549,Tucidinostat (Chidamide),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,2.0,21.0,2-21,CellPainting,2021018073.0
+1.0,A549,Poziotinib (HM781-36B),EGFR inhibitor,1.0,10.0,known_query_cpd,HER2.EGFR,Protein Tyrosine Kinase,3.0,3.0,3-3,CellPainting,2021018073.0
+1.0,A549,4SC-202,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,7.0,3-7,CellPainting,2021018073.0
+1.0,A549,AMG319,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,3.0,17.0,3-17,CellPainting,2021018073.0
+1.0,A549,Amodiaquine,histamine receptor agonist,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,22.0,4-22,CellPainting,2021018073.0
+1.0,A549,OTX015,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,5.0,3.0,5-3,CellPainting,2021018073.0
+1.0,A549,PF-04965842,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,5.0,8.0,5-8,CellPainting,2021018073.0
+1.0,A549,Erlotinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,5.0,15.0,5-15,CellPainting,2021018073.0
+1.0,A549,AZD3759,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,6.0,3.0,6-3,CellPainting,2021018073.0
+1.0,A549,Cefoxitin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,22.0,6-22,CellPainting,2021018073.0
+1.0,A549,Docetaxel Trihydrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,7.0,15.0,7-15,CellPainting,2021018073.0
+1.0,A549,Nazartinib (EGF816. NVS-816),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,7.0,17.0,7-17,CellPainting,2021018073.0
+1.0,A549,Nemiralisib (GSK2269557),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,7.0,21.0,7-21,CellPainting,2021018073.0
+1.0,A549,Cefazolin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,20.0,8-20,CellPainting,2021018073.0
+1.0,A549,Baloxavir marboxil,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,22.0,8-22,CellPainting,2021018073.0
+1.0,A549,Ascomycin (FK520),bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,3.0,9-3,CellPainting,2021018073.0
+1.0,A549,Bimiralisib (PQR309),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,9.0,6.0,9-6,CellPainting,2021018073.0
+1.0,A549,Peficitinib (ASP015K. JNJ-54781532),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,9.0,9.0,9-9,CellPainting,2021018073.0
+1.0,A549,umbralisib (TGR-1202),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,10.0,11.0,10-11,CellPainting,2021018073.0
+1.0,A549,Bacitracin Zinc,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,12.0,10-12,CellPainting,2021018073.0
+1.0,A549,Serabelisib (INK-1117.MLN-1117.TAK-117),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,10.0,21.0,10-21,CellPainting,2021018073.0
+1.0,A549,Puromycin 2HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,3.0,11-3,CellPainting,2021018073.0
+1.0,A549,Avitinib (AC0010),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,6.0,11-6,CellPainting,2021018073.0
+1.0,A549,Oclacitinib?maleate,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,12.0,11.0,12-11,CellPainting,2021018073.0
+1.0,A549,Irbinitinib (ARRY-380. ONT-380),EGFR inhibitor,1.0,10.0,known_query_cpd,HER2,Protein Tyrosine Kinase,12.0,15.0,12-15,CellPainting,2021018073.0
+1.0,A549,Citarinostat (ACY-241),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,12.0,17.0,12-17,CellPainting,2021018073.0
+1.0,A549,Seletalisib (UCB-5857),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,12.0,19.0,12-19,CellPainting,2021018073.0
+1.0,A549,Bendamustine,DNA inhibitor,1.0,10.0,known_query_cpd,Others,Others,12.0,20.0,12-20,CellPainting,2021018073.0
+1.0,A549,Tenalisib (RP6530),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,4.0,13-4,CellPainting,2021018073.0
+1.0,A549,leniolisib(CDZ 173),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,6.0,13-6,CellPainting,2021018073.0
+1.0,A549,Filgotinib (GLPG0634),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,13.0,7.0,13-7,CellPainting,2021018073.0
+1.0,A549,AZD8186,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,11.0,13-11,CellPainting,2021018073.0
+1.0,A549,CC-223,mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,13.0,19.0,13-19,CellPainting,2021018073.0
+1.0,A549,Monomethyl auristatin E (MMAE),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,11.0,15-11,CellPainting,2021018073.0
+1.0,A549,Afatinib (BIBW2992) Dimaleate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,15.0,15.0,15-15,CellPainting,2021018073.0
+1.0,A549,Ricolinostat (ACY-1215),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,16.0,3.0,16-3,CellPainting,2021018073.0
+1.0,A549,Cobimetinib (GDC-0973. RG7420),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,16.0,5.0,16-5,CellPainting,2021018073.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018073.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018074.0
+1.0,A549,PF-06700841,JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,1.0,17.0,1-17,CellPainting,2021018074.0
+1.0,A549,TAS-116,HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,2.0,5.0,2-5,CellPainting,2021018074.0
+1.0,A549,Tirapazamine,DNA inhibitor,1.0,10.0,known_query_cpd,Others,Others,2.0,9.0,2-9,CellPainting,2021018074.0
+1.0,A549,HS-10296,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,3.0,17.0,3-17,CellPainting,2021018074.0
+1.0,A549,Nifurtimox,DNA inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,9.0,5-9,CellPainting,2021018074.0
+1.0,A549,Permethrin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,9.0,7-9,CellPainting,2021018074.0
+1.0,A549,Sevoflurane,membrane integrity inhibitor,1.0,10.0,known_query_cpd,5-HT Receptor,Neuronal Signaling,8.0,9.0,8-9,CellPainting,2021018074.0
+1.0,A549,Besifovir,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,3.0,10-3,CellPainting,2021018074.0
+1.0,A549,TAS6417,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,10.0,5.0,10-5,CellPainting,2021018074.0
+1.0,A549,Tinostamustine(EDO-S101),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,11.0,15.0,11-15,CellPainting,2021018074.0
+1.0,A549,Hydrocortisone butyrate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,13.0,13.0,13-13,CellPainting,2021018074.0
+1.0,A549,Omadacycline tosylate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,17.0,13-17,CellPainting,2021018074.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018074.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018075.0
+1.0,A549,Imipenem,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,3.0,2-3,CellPainting,2021018075.0
+1.0,A549,Colistin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,7.0,2-7,CellPainting,2021018075.0
+1.0,A549,Micafungin Sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,13.0,2-13,CellPainting,2021018075.0
+1.0,A549,Dihydrostreptomycin sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,15.0,2-15,CellPainting,2021018075.0
+1.0,A549,Cefradine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,2.0,17.0,2-17,CellPainting,2021018075.0
+1.0,A549,Hygromycin B,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,17.0,3-17,CellPainting,2021018075.0
+1.0,A549,Gentamicin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,7.0,4-7,CellPainting,2021018075.0
+1.0,A549,Sisomicin sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,15.0,4-15,CellPainting,2021018075.0
+1.0,A549,Biapenem,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,5.0,5-5,CellPainting,2021018075.0
+1.0,A549,Nedaplatin,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,5.0,9.0,5-9,CellPainting,2021018075.0
+1.0,A549,D-Cycloserine,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,11.0,5-11,CellPainting,2021018075.0
+1.0,A549,Netilmicin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,7.0,6-7,CellPainting,2021018075.0
+1.0,A549,Ribostamycin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,6.0,11.0,6-11,CellPainting,2021018075.0
+1.0,A549,Gemcitabine HCl,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis.Autophagy,DNA Damage,7.0,3.0,7-3,CellPainting,2021018075.0
+1.0,A549,Sodium butyrate,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,7.0,11.0,7-11,CellPainting,2021018075.0
+1.0,A549,Bismuth Subcitrate Potassium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,7.0,8-7,CellPainting,2021018075.0
+1.0,A549,Capreomycin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,11.0,8-11,CellPainting,2021018075.0
+1.0,A549,Fosfomycin Disodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,8.0,21.0,8-21,CellPainting,2021018075.0
+1.0,A549,Cephradine monohydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,4.0,9-4,CellPainting,2021018075.0
+1.0,A549,Oxacillin sodium monohydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,15.0,9-15,CellPainting,2021018075.0
+1.0,A549,Geneticin (G418 Sulfate),bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,17.0,9-17,CellPainting,2021018075.0
+1.0,A549,Bacitracin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,9.0,10-9,CellPainting,2021018075.0
+1.0,A549,Proflavine Hemisulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,11.0,10-11,CellPainting,2021018075.0
+1.0,A549,Neomycin sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,15.0,11-15,CellPainting,2021018075.0
+1.0,A549,Ceftazidime,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,21.0,11-21,CellPainting,2021018075.0
+1.0,A549,Estramustine phosphate sodium,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,11.0,22.0,11-22,CellPainting,2021018075.0
+1.0,A549,Teicoplanin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,5.0,13-5,CellPainting,2021018075.0
+1.0,A549,Penicillin V potassium salt,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,21.0,13-21,CellPainting,2021018075.0
+1.0,A549,Histamine Phosphate,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,14.0,7.0,14-7,CellPainting,2021018075.0
+1.0,A549,Ceftriaxone Sodium Trihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,9.0,14-9,CellPainting,2021018075.0
+1.0,A549,Apramycin Sulfate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,11.0,14-11,CellPainting,2021018075.0
+1.0,A549,Cytarabine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,15.0,7.0,15-7,CellPainting,2021018075.0
+1.0,A549,Vancomycin HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,15.0,15-15,CellPainting,2021018075.0
+1.0,A549,Miltefosine,membrane integrity inhibitor,1.0,10.0,known_query_cpd,Akt,PI3K/Akt/mTOR,15.0,17.0,15-17,CellPainting,2021018075.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018075.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018076.0
+1.0,A549,Erlotinib HCl (OSI-744),EGFR inhibitor,1.0,10.0,known_query_cpd,Autophagy.EGFR,Protein Tyrosine Kinase,1.0,3.0,1-3,CellPainting,2021018076.0
+1.0,A549,Clopidol,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,15.0,1-15,CellPainting,2021018076.0
+1.0,A549,Lazertinib (YH25448.GNS-1480),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,1.0,21.0,1-21,CellPainting,2021018076.0
+1.0,A549,Flubendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy,Autophagy,3.0,7.0,3-7,CellPainting,2021018076.0
+1.0,A549,Neratinib (HKI-272),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,3.0,9.0,3-9,CellPainting,2021018076.0
+1.0,A549,Chlortetracycline HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,15.0,3-15,CellPainting,2021018076.0
+1.0,A549,6-Aminopenicillanic acid,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,17.0,3-17,CellPainting,2021018076.0
+1.0,A549,Cefadroxil hydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,21.0,3-21,CellPainting,2021018076.0
+1.0,A549,Oxibendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,7.0,5-7,CellPainting,2021018076.0
+1.0,A549,Sodium Houttuyfonate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,9.0,13.0,9-13,CellPainting,2021018076.0
+1.0,A549,Gefitinib hydrochloride,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,21.0,11-21,CellPainting,2021018076.0
+1.0,A549,Sulfaquinoxaline sodium,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,3.0,14-3,CellPainting,2021018076.0
+1.0,A549,Cephalexin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,3.0,16-3,CellPainting,2021018076.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018076.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018077.0
+1.0,A549,Oxaliplatin,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,1.0,3.0,1-3,CellPainting,2021018077.0
+1.0,A549,Nisin,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,3.0,7.0,3-7,CellPainting,2021018077.0
+1.0,A549,Minocycline HCl,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,5.0,7-5,CellPainting,2021018077.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018077.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018078.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018078.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018078.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018078.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018078.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018078.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018078.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018078.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018078.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018078.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018078.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018078.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018078.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018078.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018078.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018078.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018078.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018078.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018078.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018078.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018078.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018078.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018078.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018078.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018078.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018078.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018078.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018078.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018078.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018078.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018078.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018078.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018078.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018078.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018078.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018078.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018078.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018078.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018078.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018078.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018078.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018078.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018078.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018078.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018078.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018078.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018078.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018078.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018078.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018078.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018078.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018078.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018078.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018078.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018078.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018078.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018078.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018078.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018078.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018078.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018078.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018078.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018078.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018078.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018078.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018078.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018078.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018078.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018078.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018078.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018078.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018078.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018078.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018078.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018078.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018078.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018078.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018078.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018078.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018078.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018078.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018078.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018078.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018078.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018078.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018078.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018078.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018078.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018078.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018078.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018078.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018078.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018078.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018078.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018078.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018078.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018078.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018078.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018078.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018078.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018078.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018078.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018078.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018078.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018078.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018078.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018079.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018079.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018079.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018079.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018079.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018079.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018079.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018079.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018079.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018079.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018079.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018079.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018079.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018079.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018079.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018079.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018079.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018079.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018079.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018079.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018079.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018079.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018079.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018079.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018079.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018079.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018079.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018079.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018079.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018079.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018079.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018079.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018079.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018079.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018079.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018079.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018079.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018079.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018079.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018079.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018079.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018079.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018079.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018079.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018079.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018079.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018079.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018079.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018079.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018079.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018079.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018079.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018079.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018079.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018079.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018079.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018079.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018079.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018079.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018079.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018079.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018079.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018079.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018079.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018079.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018079.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018079.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018079.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018079.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018079.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018079.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018079.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018079.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018079.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018079.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018079.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018079.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018079.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018079.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018079.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018079.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018079.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018079.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018079.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018079.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018079.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018079.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018079.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018079.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018079.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018079.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018079.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018079.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018079.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018079.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018079.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018079.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018079.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018079.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018079.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018079.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018079.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018079.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018079.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018079.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018079.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018138.0
+1.0,A549,Prednisolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Immunology & Inflammation related.Glucocorticoid Receptor,Endocrinology & Hormones,1.0,7.0,1-7,CellPainting,2021018138.0
+1.0,A549,Oxytetracycline Dihydrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,1.0,8.0,1-8,CellPainting,2021018138.0
+1.0,A549,Lapatinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,1.0,18.0,1-18,CellPainting,2021018138.0
+1.0,A549,Buparlisib (BKM120. NVP-BKM120),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,2.0,8.0,2-8,CellPainting,2021018138.0
+1.0,A549,Fluticasone propionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,2.0,19.0,2-19,CellPainting,2021018138.0
+1.0,A549,Cytidine,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,Others,Others,3.0,8.0,3-8,CellPainting,2021018138.0
+1.0,A549,Idelalisib (CAL-101. GS-1101),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,4.0,6.0,4-6,CellPainting,2021018138.0
+1.0,A549,Sapitinib (AZD8931),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,6.0,4.0,6-4,CellPainting,2021018138.0
+1.0,A549,Fenticonazole Nitrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,4.0,7-4,CellPainting,2021018138.0
+1.0,A549,Cefditoren Pivoxil,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,7.0,11.0,7-11,CellPainting,2021018138.0
+1.0,A549,Hydroxyurea,ribonucleotide reductase inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,8.0,7.0,8-7,CellPainting,2021018138.0
+1.0,A549,Metronidazole,DNA inhibitor,1.0,10.0,known_query_cpd,DNA/RNA Synthesis,DNA Damage,8.0,9.0,8-9,CellPainting,2021018138.0
+1.0,A549,Methylprednisolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor.Immunology & Inflammation related,Endocrinology & Hormones,9.0,5.0,9-5,CellPainting,2021018138.0
+1.0,A549,Azacitidine,MAPK inhibitor,1.0,10.0,known_query_cpd,DNA Methyltransferase,DNA Damage,9.0,13.0,9-13,CellPainting,2021018138.0
+1.0,A549,Givinostat (ITF2357),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,9.0,22.0,9-22,CellPainting,2021018138.0
+1.0,A549,Pantoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,11.0,16.0,11-16,CellPainting,2021018138.0
+1.0,A549,Butoconazole nitrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,19.0,11-19,CellPainting,2021018138.0
+1.0,A549,Esomeprazole sodium,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,12.0,6.0,12-6,CellPainting,2021018138.0
+1.0,A549,Mometasone furoate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,12.0,17.0,12-17,CellPainting,2021018138.0
+1.0,A549,Deflazacort,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,5.0,14-5,CellPainting,2021018138.0
+1.0,A549,Volasertib (BI 6727),PLK inhibitor,1.0,10.0,known_query_cpd,PLK,Cell Cycle,14.0,6.0,14-6,CellPainting,2021018138.0
+1.0,A549,Triamcinolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,11.0,14-11,CellPainting,2021018138.0
+1.0,A549,Miconazole Nitrate,bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,14.0,13.0,14-13,CellPainting,2021018138.0
+1.0,A549,Gandotinib (LY2784544),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,15.0,22.0,15-22,CellPainting,2021018138.0
+1.0,A549,Momelotinib (CYT387),JAK inhibitor,1.0,10.0,known_query_cpd,JAK,JAK/STAT,16.0,4.0,16-4,CellPainting,2021018138.0
+1.0,A549,Rotenone (Barbasco),bacterial cell wall synthesis inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,20.0,16-20,CellPainting,2021018138.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018138.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018192.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018192.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018192.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018192.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018192.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018192.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018192.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018192.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018192.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018192.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018192.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018192.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018192.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018192.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018192.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018192.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018192.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018192.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018192.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018192.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018192.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018192.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018192.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018192.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018192.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018192.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018192.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018192.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018192.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018192.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018192.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018192.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018192.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018192.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018192.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018192.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018192.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018192.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018192.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018192.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018192.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018192.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018192.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018192.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018192.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018192.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018192.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018192.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018192.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018192.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018192.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018192.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018192.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018192.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018192.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018192.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018192.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018192.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018192.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018192.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018192.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018192.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018192.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018192.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018192.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018192.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018192.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018192.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018192.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018192.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018192.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018192.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018192.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018192.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018192.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018192.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018192.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018192.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018192.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018192.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018192.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018192.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018192.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018192.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018192.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018192.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018192.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018192.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018192.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018192.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018192.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018192.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018192.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018192.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018192.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018192.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018192.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018192.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018192.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018192.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018192.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018192.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018192.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018192.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018192.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018192.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,1.0,2.0,1-2,CellPainting,2021018193.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018193.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018193.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018193.0
+1.0,A549,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018193.0
+1.0,A549,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018193.0
+1.0,A549,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018193.0
+1.0,A549,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018193.0
+1.0,A549,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018193.0
+1.0,A549,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018193.0
+1.0,A549,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018193.0
+1.0,A549,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018193.0
+1.0,A549,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018193.0
+1.0,A549,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018193.0
+1.0,A549,BI-2536,PLK inhibitor,1.0,5.0,reference_cpd,PLK1,Cell Cycle,3.0,21.0,3-21,CellPainting,2021018193.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,1.0,5.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,3.0,22.0,3-22,CellPainting,2021018193.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018193.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018193.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018193.0
+1.0,A549,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018193.0
+1.0,A549,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018193.0
+1.0,A549,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018193.0
+1.0,A549,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018193.0
+1.0,A549,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018193.0
+1.0,A549,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018193.0
+1.0,A549,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018193.0
+1.0,A549,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018193.0
+1.0,A549,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018193.0
+1.0,A549,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018193.0
+1.0,A549,BI-2536,PLK inhibitor,2.0,1.0,reference_cpd,PLK1,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018193.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,2.0,1.0,reference_cpd,Aurora A. Aurora B,Cell Cycle,4.0,22.0,4-22,CellPainting,2021018193.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018193.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018193.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018193.0
+1.0,A549,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018193.0
+1.0,A549,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018193.0
+1.0,A549,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018193.0
+1.0,A549,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018193.0
+1.0,A549,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018193.0
+1.0,A549,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018193.0
+1.0,A549,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018193.0
+1.0,A549,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018193.0
+1.0,A549,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018193.0
+1.0,A549,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018193.0
+1.0,A549,BI-2536,PLK inhibitor,3.0,0.2,reference_cpd,PLK1,Cell Cycle,5.0,21.0,5-21,CellPainting,2021018193.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,3.0,0.2,reference_cpd,Aurora A. Aurora B,Cell Cycle,5.0,22.0,5-22,CellPainting,2021018193.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018193.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018193.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018193.0
+1.0,A549,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018193.0
+1.0,A549,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018193.0
+1.0,A549,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018193.0
+1.0,A549,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018193.0
+1.0,A549,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018193.0
+1.0,A549,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018193.0
+1.0,A549,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018193.0
+1.0,A549,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018193.0
+1.0,A549,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018193.0
+1.0,A549,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018193.0
+1.0,A549,BI-2536,PLK inhibitor,4.0,0.04,reference_cpd,PLK1,Cell Cycle,6.0,21.0,6-21,CellPainting,2021018193.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,4.0,0.04,reference_cpd,Aurora A. Aurora B,Cell Cycle,6.0,22.0,6-22,CellPainting,2021018193.0
+1.0,A549,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018193.0
+1.0,A549,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018193.0
+1.0,A549,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018193.0
+1.0,A549,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018193.0
+1.0,A549,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018193.0
+1.0,A549,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018193.0
+1.0,A549,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018193.0
+1.0,A549,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018193.0
+1.0,A549,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018193.0
+1.0,A549,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018193.0
+1.0,A549,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018193.0
+1.0,A549,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018193.0
+1.0,A549,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018193.0
+1.0,A549,BI-2536,PLK inhibitor,5.0,0.008,reference_cpd,PLK1,Cell Cycle,7.0,21.0,7-21,CellPainting,2021018193.0
+1.0,A549,ZM447439,Aurora kinase inhibitor,5.0,0.008,reference_cpd,Aurora A. Aurora B,Cell Cycle,7.0,22.0,7-22,CellPainting,2021018193.0
+1.0,A549,Eloxatin,DNA inhibitor,1.0,25.0,reference_cpd,DNA,DNA Synthesis,9.0,4.0,9-4,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,9.0,6.0,9-6,CellPainting,2021018193.0
+1.0,A549,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018193.0
+1.0,A549,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018193.0
+1.0,A549,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018193.0
+1.0,A549,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018193.0
+1.0,A549,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018193.0
+1.0,A549,Eloxatin,DNA inhibitor,2.0,5.0,reference_cpd,DNA,DNA Synthesis,10.0,4.0,10-4,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,2.0,1.0,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,10.0,6.0,10-6,CellPainting,2021018193.0
+1.0,A549,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018193.0
+1.0,A549,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018193.0
+1.0,A549,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018193.0
+1.0,A549,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018193.0
+1.0,A549,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018193.0
+1.0,A549,Eloxatin,DNA inhibitor,3.0,1.0,reference_cpd,DNA,DNA Synthesis,11.0,4.0,11-4,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,3.0,0.2,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,11.0,6.0,11-6,CellPainting,2021018193.0
+1.0,A549,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018193.0
+1.0,A549,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018193.0
+1.0,A549,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018193.0
+1.0,A549,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018193.0
+1.0,A549,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018193.0
+1.0,A549,Eloxatin,DNA inhibitor,4.0,0.2,reference_cpd,DNA,DNA Synthesis,12.0,4.0,12-4,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,4.0,0.04,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,12.0,6.0,12-6,CellPainting,2021018193.0
+1.0,A549,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018193.0
+1.0,A549,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018193.0
+1.0,A549,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018193.0
+1.0,A549,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018193.0
+1.0,A549,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018193.0
+1.0,A549,Eloxatin,DNA inhibitor,5.0,0.04,reference_cpd,DNA,DNA Synthesis,13.0,4.0,13-4,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,5.0,0.008,reference_cpd,Nucleic Acids,Nucleic Acid Synthesis,13.0,6.0,13-6,CellPainting,2021018193.0
+1.0,A549,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018193.0
+1.0,A549,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018193.0
+1.0,A549,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018193.0
+1.0,A549,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018193.0
+1.0,A549,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018193.0
+1.0,A549,Gemcitabine,ribonucleotide reductase inhibitor,1.0,5.0,positive_ctrl_cpd,,,16.0,23.0,16-23,CellPainting,2021018193.0

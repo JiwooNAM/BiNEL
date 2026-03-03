@@ -1,0 +1,67 @@
+Plate,Well,Compound_Category,Compound,Concentration
+2013002117,A-4,Actin,CytD,1
+2013002127,A-4,Actin,CytD,1
+2013002117,A-22,Actin,LatA,1
+2013002127,A-22,Actin,LatA,1
+2013002117,A-21,Aurora kinase inhibitor,ZM447439,1
+2013002127,A-21,Aurora kinase inhibitor,ZM447439,1
+2013002117,A-18,DNA inhibitor,CPT,1
+2013002127,A-18,DNA inhibitor,CPT,1
+2013002117,A-6,DNA inhibitor,Eloxatin,1
+2013002127,A-6,DNA inhibitor,Eloxatin,1
+2013002117,A-13,DNA inhibitor,Etoposide,1
+2013002127,A-13,DNA inhibitor,Etoposide,1
+2013002117,B-10,DNA inhibitor,Gemcitabine,1
+2013002127,B-10,DNA inhibitor,Gemcitabine,1
+2013002117,B-13,HDAC inhibitor,Apicidin,1
+2013002127,B-13,HDAC inhibitor,Apicidin,1
+2013002117,A-9,HDAC inhibitor,Oxamflatin,1
+2013002127,A-9,HDAC inhibitor,Oxamflatin,1
+2013002117,B-6,HDAC inhibitor,Panobinostat,1
+2013002127,B-6,HDAC inhibitor,Panobinostat,1
+2013002117,B-18,HDAC inhibitor,SAHA,1
+2013002127,B-18,HDAC inhibitor,SAHA,1
+2013002117,A-14,HDAC inhibitor,TSA,1
+2013002127,A-14,HDAC inhibitor,TSA,1
+2013002117,B-19,HSP inhibitor,17-AAG,1
+2013002127,B-19,HSP inhibitor,17-AAG,1
+2013002117,B-12,HSP inhibitor,17-DMAG,1
+2013002127,B-12,HSP inhibitor,17-DMAG,1
+2013002117,A-8,HSP inhibitor,AUY922,1
+2013002127,A-8,HSP inhibitor,AUY922,1
+2013002117,B-7,HSP inhibitor,Geldanamycin,1
+2013002127,B-7,HSP inhibitor,Geldanamycin,1
+2013002117,A-15,HSP inhibitor,SNX-2112,1
+2013002127,A-15,HSP inhibitor,SNX-2112,1
+2013002117,B-15,tubulin polymerization inhibitor,Colchicine,1
+2013002127,B-15,tubulin polymerization inhibitor,Colchicine,1
+2013002117,A-16,tubulin polymerization inhibitor,Docetaxel,1
+2013002127,A-16,tubulin polymerization inhibitor,Docetaxel,1
+2013002117,A-11,tubulin polymerization inhibitor,EpothiloneB,1
+2013002127,A-11,tubulin polymerization inhibitor,EpothiloneB,1
+2013002117,B-20,tubulin polymerization inhibitor,Nocodazole,1
+2013002127,B-20,tubulin polymerization inhibitor,Nocodazole,1
+2013002117,B-8,tubulin polymerization inhibitor,Vinblastine,1
+2013002127,B-8,tubulin polymerization inhibitor,Vinblastine,1
+2013002117,A-3,PLK inhibitor,BI2536,1
+2013002127,A-3,PLK inhibitor,BI2536,1
+2013002117,B-11,proteasome inhibitor,AclacinomycinA,1
+2013002127,B-11,proteasome inhibitor,AclacinomycinA,1
+2013002117,A-7,proteasome inhibitor,Epoxomycin,1
+2013002127,A-7,proteasome inhibitor,Epoxomycin,1
+2013002117,A-19,proteasome inhibitor,MG-115,1
+2013002127,A-19,proteasome inhibitor,MG-115,1
+2013002117,A-12,proteasome inhibitor,MG132,1
+2013002127,A-12,proteasome inhibitor,MG132,1
+2013002117,B-16,proteasome inhibitor,PS-341,1
+2013002127,B-16,proteasome inhibitor,PS-341,1
+2013002117,A-10,mTOR inhibitor,AZD8055,1
+2013002127,A-10,mTOR inhibitor,AZD8055,1
+2013002117,B-14,mTOR inhibitor,Deforolimus,1
+2013002127,B-14,mTOR inhibitor,Deforolimus,1
+2013002117,A-17,mTOR inhibitor,INK128,1
+2013002127,A-17,mTOR inhibitor,INK128,1
+2013002117,B-9,mTOR inhibitor,Rapamycin,1
+2013002127,B-9,mTOR inhibitor,Rapamycin,1
+2013002117,A-5,mTOR inhibitor,Torin1,1
+2013002127,A-5,mTOR inhibitor,Torin1,1

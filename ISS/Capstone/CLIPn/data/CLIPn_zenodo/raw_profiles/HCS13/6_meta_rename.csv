@@ -1,0 +1,1638 @@
+Metadata_pert_id,Compound,Compound_Category,Metadata_target,Metadata_mmoles_per_liter
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A01320529,salmeterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A01787639,naftopidil,adrenergic receptor antagonist,ADRA1A,5.0
+BRD-A04322457,isoprenaline,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3, MAPK1, PIK3R1, PIK3R2, PIK3R3",5.0
+BRD-A04438777,,dopamine receptor agonist,,5.0
+BRD-A09094913,strychnine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",5.0
+BRD-A09467419,mebeverine,acetylcholine receptor antagonist,CHRM1,2.14587651373348
+BRD-A10070317,propranolol,adrenergic receptor antagonist,,5.0
+BRD-A10739734,efaroxan,adrenergic receptor antagonist,ADORA2A,5.0
+BRD-A14566392,scopolamine,acetylcholine receptor antagonist,"CHRM2, CHRM1, CHRM3, CHRM4, CHRM",5.0
+BRD-A17065207,brefeldin-a,protein synthesis inhibitor,"ARF1, ARFGEF1, ARFGEF2, CYTH2, GBF1, SAR1A",5.0
+BRD-A18696154,idazoxan,adrenergic receptor antagonist,ADRA2A,5.0
+BRD-A22380646,,ATPase inhibitor,,5.0
+BRD-A22684332,procaterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A23034328,clindamycin,protein synthesis inhibitor,,2.1671103897426702
+BRD-A23683907,NAS-181,serotonin receptor antagonist,HTR1B,5.0
+BRD-A24587114,,adrenergic receptor agonist,"ADRB1, ADRB2",2.98136882990814
+BRD-A26222320,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",5.30211943104611
+BRD-A28856712,,adrenergic receptor agonist,,5.0
+BRD-A29260609,acebutolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-A30717181,,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1, SERPINA6",5.0
+BRD-A31800922,procyclidine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4",5.0
+BRD-A34806832,,ATPase inhibitor,ATP1A1,1.88448243293014
+BRD-A35931254,,dopamine receptor agonist,"DRD1, DRD2, DRD3",5.0
+BRD-A37432947,ipratropium,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",2.41914585572253
+BRD-A37441042,tulobuterol,adrenergic receptor agonist,ADRB2,5.0
+BRD-A40022950,,ATPase inhibitor,,5.0
+BRD-A44551378,,EGFR inhibitor,EGFR,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A44966919,,acetylcholine receptor antagonist,"CHRNA4, CHRNB2, DRD1, DRD2",5.0
+BRD-A49172652,lansoprazole,ATPase inhibitor,"ATP4A, ATP4B",5.0
+BRD-A49370193,RO-60-0175,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-A50157456,terbutaline,adrenergic receptor agonist,ADRB2,5.0
+BRD-A50684349,fenoldopam,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD4, DRD5",5.0
+BRD-A50764878,MDL-73005EF,serotonin receptor antagonist,HTR1A,5.0
+BRD-A51410489,,adrenergic receptor antagonist,"ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR7, KCNJ1, KCNJ10, KCNJ11, KCNJ12, KCNJ14, KCNJ15, KCNJ8",5.0
+BRD-A55272860,sulpiride,dopamine receptor antagonist,,5.0
+BRD-A61392169,,glutamate receptor antagonist,"GRIN1, GRIN2B",5.0
+BRD-A62021152,WAY-161503,serotonin receptor agonist,HTR2C,5.0
+BRD-A63894585,clobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B",2.141465267526
+BRD-A66025870,,bacterial cell wall synthesis inhibitor,,2.47822630369573
+BRD-A67552019,ouabain,ATPase inhibitor,ATP1A1,4.2760446094762
+BRD-A69786436,eucatropine,acetylcholine receptor antagonist,,5.0
+BRD-A75817871,blebbistatin-(-),ATPase inhibitor,,8.55192509991385
+BRD-A77291778,cyclopentolate,acetylcholine receptor antagonist,CHRM1,5.0
+BRD-A79981887,midodrine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D",5.0
+BRD-A80594172,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1,5.0
+BRD-A82238138,budesonide,glucocorticoid receptor agonist,"CYP3A5, CYP3A7, NR3C1",5.0
+BRD-A84389633,,serotonin receptor antagonist,,5.0
+BRD-A85137183,cefprozil,bacterial cell wall synthesis inhibitor,,5.0
+BRD-A88254928,,adrenergic receptor agonist,"ADRB1, ADRB2",4.1786674513647
+BRD-A88548664,SKF-38393,dopamine receptor agonist,"CALY, DRD1, DRD5",5.0
+BRD-A89434049,,ATPase inhibitor,ATP1A1,5.0
+BRD-A95096829,PNU-96415E,dopamine receptor antagonist,,5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-A97104540,fenoterol,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",2.60237157244243
+BRD-A97701745,pindolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B, HTR2A, HTR2B",5.0
+BRD-A98725278,methysergide,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-A99177642,,acetylcholine receptor antagonist,CHRNA7,1.96999174612858
+BRD-A99402294,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",5.0
+BRD-K00824317,fludroxycortide,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.29087924603403
+BRD-K01244426,cloxacillin,bacterial cell wall synthesis inhibitor,,5.0
+BRD-K01292756,pimozide,dopamine receptor antagonist,"CACNA1I, CALM1, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HTR1A, HTR2A, KCNA10, KCNH2",5.41657624306507
+BRD-K01868942,RS-23597-190,serotonin receptor antagonist,HTR4,5.0
+BRD-K02275692,cefotiam,bacterial cell wall synthesis inhibitor,,1.77907750063664
+BRD-K02407574,parbendazole,tubulin polymerization inhibitor,TUBB,4.043786443108901
+BRD-K02900412,clofoctol,protein synthesis inhibitor,,5.0
+BRD-K03067624,emetine,protein synthesis inhibitor,RPS2,1.80648636270799
+BRD-K03670461,,EGFR inhibitor,,5.0
+BRD-K05181084,NGB-2904,dopamine receptor antagonist,DRD3,5.0
+BRD-K07117950,,CDK inhibitor,,5.0
+BRD-K07507905,BRL-37344,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3",5.0
+BRD-K07691486,roscovitine,CDK inhibitor,"CDK2, CDK9",7.053194117952089
+BRD-K08109516,,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D",5.0
+BRD-K08132273,,EGFR inhibitor,,5.0
+BRD-K09598619,vincristine,tubulin polymerization inhibitor,"TUBA4A, TUBB",5.0
+BRD-K10176267,,glutamate receptor antagonist,GRIN1,5.0
+BRD-K11158509,,EGFR inhibitor,,5.0
+BRD-K11298197,florfenicol,protein synthesis inhibitor,,2.79163309327738
+BRD-K11911061,GR-127935,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6",5.0
+BRD-K12539581,nocodazole,tubulin polymerization inhibitor,HPGDS,8.29681517788836
+BRD-K13211965,,dopamine receptor antagonist,"DRD3, DRD4, SCN1A, SCN3A",5.0
+BRD-K13994703,propranolol,adrenergic receptor antagonist,,9.63972715099329
+BRD-K14282469,LY-165163,serotonin receptor antagonist,"HTR1A, HTR1D",5.0
+BRD-K14441456,,EGFR inhibitor,,5.0
+BRD-K14496212,bromocriptine,dopamine receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K14807180,SB-221284,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K15519488,CS-110266,dopamine receptor agonist,SLC6A3,5.0
+BRD-K15588452,R-96544,serotonin receptor antagonist,HTR2A,5.0
+BRD-K15766189,cefdinir,bacterial cell wall synthesis inhibitor,MPO,5.0
+BRD-K16551401,PNU-22394,serotonin receptor agonist,"MAOA, MAOB",5.0
+BRD-K16977723,,EGFR inhibitor,,5.0
+BRD-K17294426,clebopride,dopamine receptor antagonist,"ACHE, DRD2",5.0
+BRD-K18194590,mephentermine,adrenergic receptor agonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2, ADRB3",5.0
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K18574842,nafcillin,bacterial cell wall synthesis inhibitor,"CYP1A2, CYP3A4, SLC22A6",2.19548690004561
+BRD-K18909381,,serotonin receptor agonist,"HTR1B, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K19352500,prochlorperazine,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4",1.64992820007452
+BRD-K19554809,,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C",5.0
+BRD-K20620780,butaclamol,dopamine receptor antagonist,"DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR2A",5.0
+BRD-K20742498,RS-39604,serotonin receptor antagonist,HTR4,5.0
+BRD-K21565985,xylazine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K21853356,,EGFR inhibitor,EGFR,9.08652376932849
+BRD-K23478508,digoxin,ATPase inhibitor,ATP1A1,1.28051063076084
+BRD-K24396733,A77636,dopamine receptor agonist,CALY,5.0
+BRD-K25224017,pirenperone,serotonin receptor antagonist,"HTR2A, HTR7",5.0
+BRD-K26429091,J-104129,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K28761384,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A",2.28610284481724
+BRD-K28806945,,dopamine receptor antagonist,DRD4,5.0
+BRD-K30421593,timolol,adrenergic receptor antagonist,"ADRB1, ADRB2",5.0
+BRD-K30867024,SB-216641,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C",5.0
+BRD-K31491153,1-phenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K31627533,rimexolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.6988735117871703
+BRD-K32292990,,EGFR inhibitor,,5.0
+BRD-K32645441,,serotonin receptor agonist,"HTR1B, HTR1D, HTR1F, HTR7",5.0
+BRD-K32828673,,tubulin polymerization inhibitor,,5.0
+BRD-K32830106,guanfacine,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C",5.0
+BRD-K35240538,methylprednisolone,glucocorticoid receptor agonist,NR3C1,2.6704366110450297
+BRD-K35708212,ouabain,ATPase inhibitor,ATP1A1,1.37216618524216
+BRD-K36007650,puromycin,protein synthesis inhibitor,"NHP2L1, RPL10L, RPL11, RPL13A, RPL15, RPL19, RPL23, RPL23A, RPL26L1, RPL3, RPL37, RPL8, RSL24D1",1.8367785666456
+BRD-K36055864,,protein synthesis inhibitor,,5.0
+BRD-K36965586,m-Chlorophenylbiguanide,serotonin receptor agonist,"HTR3A, HTR3B",5.0
+BRD-K38305202,domperidone,dopamine receptor antagonist,"DRD2, DRD3",5.0
+BRD-K38775274,dexamethasone,glucocorticoid receptor agonist,"ANXA1, NOS2, NR0B1, NR3C1, NR3C2",6.37005867439642
+BRD-K39188321,betamethasone,glucocorticoid receptor agonist,NR3C1,2.54802346975857
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K40887525,ritanserin,serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7",5.0
+BRD-K40901640,cinanserin,serotonin receptor antagonist,HTR2A,5.0
+BRD-K41143549,,glutamate receptor antagonist,,5.0
+BRD-K41996876,,EGFR inhibitor,,13.5726447579569
+BRD-K42635745,suloctidil,adrenergic receptor antagonist,,2.9624099797667403
+BRD-K43736954,cortisone,glucocorticoid receptor agonist,NR3C1,2.77435591801468
+BRD-K43796186,benzyl-quinazolin-4-yl-amine,EGFR inhibitor,EGFR,5.0
+BRD-K46441700,,serotonin receptor antagonist,"HTR1B, HTR1D",5.0
+BRD-K47635719,dexamethasone-acetate,glucocorticoid receptor agonist,,2.3015079264513
+BRD-K47659338,EMD-386088,serotonin receptor agonist,HTR6,5.0
+BRD-K47936004,piribedil,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR2B",5.0
+BRD-K47943470,,EGFR inhibitor,,5.0
+BRD-K49294207,BIBU-1361,EGFR inhibitor,EGFR,5.0
+BRD-K49448285,,CDK inhibitor,,5.0
+BRD-K50836978,purvalanol-a,CDK inhibitor,"CDK1, CDK2, CDK4, CDK5, CSNK1G3, RPS6KA1, SRC",5.0
+BRD-K50891186,GR-103691,dopamine receptor antagonist,DRD3,5.0
+BRD-K51318897,fenbendazole,tubulin polymerization inhibitor,TUBB,3.34059779730335
+BRD-K51465424,ritodrine,adrenergic receptor agonist,ADRB2,3.08818802667503
+BRD-K54094468,remoxipride,dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR2A, SIGMAR1",5.0
+BRD-K54704028,BAY-36-7620,glutamate receptor antagonist,GRM1,5.0
+BRD-K55468218,spiperone,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1D, HTR2A, HTR2B, HTR2C, HTR6, HTR7",5.0
+BRD-K57886322,fluocinonide,glucocorticoid receptor agonist,"NR3C1, SERPINA6, SMO",2.02214292445364
+BRD-K58930050,,glutamate receptor antagonist,,5.0
+BRD-K59058766,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C",5.0
+BRD-K59650319,YM-298198,glutamate receptor antagonist,GRM1,5.0
+BRD-K59753853,MDL-29951,glutamate receptor antagonist,FBP1,5.0
+BRD-K60640630,mometasone-furoate,glucocorticoid receptor agonist,NR3C1,1.91780480390925
+BRD-K60932973,,dopamine receptor agonist,,5.0
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K68336408,tyrphostin-AG-1478,EGFR inhibitor,"EGFR, MAPK14",7.9
+BRD-K60690191,MPEP,glutamate receptor antagonist,"GRM1, GRM4, GRM5",5.0
+BRD-K61496577,flumetasone,glucocorticoid receptor agonist,NR3C1,2.4363412868039
+BRD-K61590534,,EGFR inhibitor,,5.0
+BRD-K62008436,paclitaxel,tubulin polymerization inhibitor,"BCL2, MAP2, MAP4, MAPT, NR1I2, TLR4, TUBB, TUBB1",1.17108889742847
+BRD-K62310379,fluticasone-propionate,glucocorticoid receptor agonist,"NR3C1, NR3C2, PGR, PLA2G4A",1.99771920558116
+BRD-K62607865,aztreonam,bacterial cell wall synthesis inhibitor,,2.29656572938767
+BRD-K64670467,JNJ-16259685,glutamate receptor antagonist,GRM1,5.0
+BRD-K64862097,fluorometholone,glucocorticoid receptor agonist,NR3C1,2.6563129735437
+BRD-K66715657,UH-232-(+),dopamine receptor antagonist,"DRD2, DRD3, DRD4, HTR1A",5.0
+BRD-K67439147,SIB-1893,glutamate receptor antagonist,"GRM5, GRM4",5.0
+BRD-K68507560,dicycloverine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3",5.0
+BRD-K70487031,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A",5.0
+BRD-K71726959,,CDK inhibitor,"CDK1, CDK5",7.6594033667918495
+BRD-K71799778,,CDK inhibitor,,5.0
+BRD-K71860425,,CDK inhibitor,"CDK2, CDK5",5.0
+BRD-K72726508,arcyriaflavin-a,CDK inhibitor,"CCND1, CCNE1, CDK2, CDK4",5.0
+BRD-K73196317,urapidil,adrenergic receptor antagonist,HTR1A,5.0
+BRD-K73323637,levobunolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3",3.0502103669085896
+BRD-K73323637,levobunolol-(+),adrenergic receptor antagonist,,3.0502103669085896
+BRD-K75958195,pizotifen,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C",5.0
+BRD-K76810206,nicergoline,adrenergic receptor antagonist,ADRA1A,2.0644712061388097
+BRD-K76840893,RS-17053,adrenergic receptor antagonist,"ADRA1A, ADRA1D",5.0
+BRD-K77554836,triamcinolone,glucocorticoid receptor agonist,"NR3C1, SERPINA6",2.53527914966916
+BRD-K77641333,naphazoline,adrenergic receptor agonist,"ADRA1A, ADRA2A",5.0
+BRD-K77677632,SB-200646,serotonin receptor antagonist,"HTR2B, HTR2C",5.0
+BRD-K77925998,quipazine,serotonin receptor agonist,,5.0
+BRD-K77947974,fluspirilene,dopamine receptor antagonist,"CACNG1, DRD2, HRH1, HTR1A, HTR1D, HTR1E, HTR2A",5.25681931718028
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0
+BRD-K78364995,cefotaxime,bacterial cell wall synthesis inhibitor,,2.09005962417593
+BRD-K78643075,bromperidol,dopamine receptor antagonist,DRD2,2.37916674153904
+BRD-K79131256,albendazole,tubulin polymerization inhibitor,"TUBA1A, TUBB, TUBB4B",5.0
+BRD-K79425933,benperidol,dopamine receptor antagonist,DRD2,2.6216218674589
+BRD-K80451230,zamifenacin,acetylcholine receptor antagonist,CHRM3,5.0
+BRD-K80639402,SB-258585,serotonin receptor antagonist,HTR6,5.0
+BRD-K80725821,RS-16566,serotonin receptor antagonist,,5.0
+BRD-K81709173,halcinonide,glucocorticoid receptor agonist,NR3C1,2.19799889116759
+BRD-K81729199,AQ-RA741,acetylcholine receptor antagonist,,5.0
+BRD-K82484965,carmoxirole,dopamine receptor agonist,DRD2,5.0
+BRD-K82731415,,CDK inhibitor,,8.37961618810455
+BRD-K84421793,,dopamine receptor agonist,DRD1,5.0
+BRD-K84595254,,ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1",2.47220878851436
+BRD-K85266041,DNQX,glutamate receptor antagonist,"GRIA1, GRIA2, GRIK1, GRIN1, GRIN2A, GRIN2B",5.0
+BRD-K85883481,prednisone,glucocorticoid receptor agonist,"HSD11B1, NR3C1",5.0
+BRD-K86509404,,CDK inhibitor,,5.0
+BRD-K87696786,LY-456236,glutamate receptor antagonist,GRM1,5.0
+BRD-K89046952,,bacterial cell wall synthesis inhibitor,,2.9288938956052
+BRD-K89732114,trifluoperazine,dopamine receptor antagonist,"ADRA1A, CALM1, CALY, DRD2, DRD4, HRH1, HTR2A, HTR2C, S100A4, TNNC1",6.13503602616837
+BRD-K89923877,scopolamine,acetylcholine receptor antagonist,,2.94278738702492
+BRD-K89997465,chlorpromazine,dopamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CALM1, CHRM1, CHRM3, DRD1, DRD2, DRD3, DRD4, DRD5, HRH1, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, HTR7, KCNH2, ORM1, ORM2, SMPD1, TRPC5",5.0
+BRD-K90333595,phentolamine,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C",8.88565814257188
+BRD-K92830582,propranolol,adrenergic receptor antagonist,,5.0
+BRD-K93188295,ARC-239,adrenergic receptor antagonist,"ADRA2B, ADRA2A, ADRA2C",5.0
+BRD-K93568044,hydrocortisone,glucocorticoid receptor agonist,,2.75892588393916
+BRD-K94270326,ecopipam,dopamine receptor antagonist,"DRD1, DRD5, DRD2",5.0
+BRD-K94512704,,dopamine receptor antagonist,,5.0
+BRD-K95603879,BHQ,ATPase inhibitor,ATP2A1,11.2448862755173
+BRD-K97810537,beclomethasone-dipropionate,glucocorticoid receptor agonist,"GPR97, NR3C1",1.91923041624001
+BRD-K98039984,prednisolone,glucocorticoid receptor agonist,"NR3C1, NR3C2, SERPINA6",2.77435591801468
+BRD-K98157055,SIB-1757,glutamate receptor antagonist,GRM5,5.0

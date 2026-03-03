@@ -1,0 +1,460 @@
+UsedWells,Cell_Line,Compound,Compound_Category,Dose_Category,Dose,Compound_Usage,Target,Pathway,RowID,ColID,WellID,Markers,PlateID
+1.0,HEPG2,Dimesna,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Others,Others,1.0,21.0,1-21,CellPainting,2021018104.0
+1.0,HEPG2,Vincristine sulfate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,2.0,7.0,2-7,CellPainting,2021018104.0
+1.0,HEPG2,Everolimus (RAD001),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,3.0,13.0,3-13,CellPainting,2021018104.0
+1.0,HEPG2,Plinabulin (NPI-2358),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,VDA,Angiogenesis,3.0,17.0,3-17,CellPainting,2021018104.0
+1.0,HEPG2,Refametinib (RDEA119. Bay 86-9766),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,5.0,11.0,5-11,CellPainting,2021018104.0
+1.0,HEPG2,Ganetespib (STA-9090),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,5.0,15.0,5-15,CellPainting,2021018104.0
+1.0,HEPG2,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,7.0,5.0,7-5,CellPainting,2021018104.0
+1.0,HEPG2,PD0325901,MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,7.0,7.0,7-7,CellPainting,2021018104.0
+1.0,HEPG2,Selumetinib (AZD6244),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,9.0,3.0,9-3,CellPainting,2021018104.0
+1.0,HEPG2,Rapamycin (Sirolimus),mTOR inhibitor,1.0,10.0,known_query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,9.0,7.0,9-7,CellPainting,2021018104.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018104.0
+1.0,HEPG2,ABT-751 (E7010),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,15.0,13-15,CellPainting,2021018104.0
+1.0,HEPG2,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018104.0
+1.0,HEPG2,Paclitaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,15.0,13.0,15-13,CellPainting,2021018104.0
+1.0,HEPG2,Ixazomib (MLN2238),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,2.0,4.0,2-4,CellPainting,2021018105.0
+1.0,HEPG2,Ixazomib Citrate (MLN9708),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,4.0,4.0,4-4,CellPainting,2021018105.0
+1.0,HEPG2,Trametinib (GSK1120212),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,2.0,21.0,2-21,CellPainting,2021018106.0
+1.0,HEPG2,Catharanthine,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,AChR,Neuronal Signaling,4.0,20.0,4-20,CellPainting,2021018106.0
+1.0,HEPG2,Sapanisertib (INK 128. MLN0128),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,5.0,10.0,5-10,CellPainting,2021018106.0
+1.0,HEPG2,Carfilzomib (PR-171),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,7.0,12.0,7-12,CellPainting,2021018106.0
+1.0,HEPG2,PF-04929113 (SNX-5422),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,19.0,10-19,CellPainting,2021018106.0
+1.0,HEPG2,Fenbendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,13.0,13-13,CellPainting,2021018106.0
+1.0,HEPG2,Vindoline,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,4.0,5-4,CellPainting,2021018107.0
+1.0,HEPG2,Guanidine HCl,HSP inhibitor,1.0,10.0,known_query_cpd,Others,Others,7.0,22.0,7-22,CellPainting,2021018107.0
+1.0,HEPG2,Griseofulvin,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,22.0,9-22,CellPainting,2021018107.0
+1.0,HEPG2,(-)-Arctigenin,MEK inhibitor,1.0,10.0,known_query_cpd,Others,Others,12.0,15.0,12-15,CellPainting,2021018107.0
+1.0,HEPG2,Vinorelbine Tartrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,17.0,5-17,CellPainting,2021018108.0
+1.0,HEPG2,Mebendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,16.0,15-16,CellPainting,2021018108.0
+1.0,HEPG2,Oprozomib (ONX 0912),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,2.0,16.0,2-16,CellPainting,2021018110.0
+1.0,HEPG2,Binimetinib (MEK162. ARRY-162. ARRY-438162),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,8.0,14.0,8-14,CellPainting,2021018110.0
+1.0,HEPG2,I-BET-762,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,8.0,20.0,8-20,CellPainting,2021018110.0
+1.0,HEPG2,Zotarolimus(ABT-578),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,14.0,16.0,14-16,CellPainting,2021018110.0
+1.0,HEPG2,Combretastatin A4,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,1.0,15.0,1-15,CellPainting,2021018111.0
+1.0,HEPG2,OTX015,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,5.0,3.0,5-3,CellPainting,2021018111.0
+1.0,HEPG2,Docetaxel Trihydrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,7.0,15.0,7-15,CellPainting,2021018111.0
+1.0,HEPG2,CC-223,mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,13.0,19.0,13-19,CellPainting,2021018111.0
+1.0,HEPG2,Monomethyl auristatin E (MMAE),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,11.0,15-11,CellPainting,2021018111.0
+1.0,HEPG2,Cobimetinib (GDC-0973. RG7420),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,16.0,5.0,16-5,CellPainting,2021018111.0
+1.0,HEPG2,TAS-116,HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,2.0,5.0,2-5,CellPainting,2021018112.0
+1.0,HEPG2,Estramustine phosphate sodium,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,11.0,22.0,11-22,CellPainting,2021018113.0
+1.0,HEPG2,Flubendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy,Autophagy,3.0,7.0,3-7,CellPainting,2021018114.0
+1.0,HEPG2,Oxibendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,7.0,5-7,CellPainting,2021018114.0
+1.0,HEPG2,I-BET-762,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,5.0,8.0,5-8,CellPainting,2021018116.0
+1.0,HEPG2,Bromosporine,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,8.0,9-8,CellPainting,2021018116.0
+1.0,HEPG2,I-BET151 (GSK1210151A),bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,19.0,9-19,CellPainting,2021018116.0
+1.0,HEPG2,(+)-JQ1,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,11.0,6.0,11-6,CellPainting,2021018116.0
+1.0,HEPG2,SGC-CBP30,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,13.0,8.0,13-8,CellPainting,2021018116.0
+1.0,HEPG2,PFI-1 (PF-6405761),bromodomain inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,13.0,9.0,13-9,CellPainting,2021018116.0
+1.0,HEPG2,OTX015,bromodomain inhibitor,1.0,10.0,query_cpd,BET,BET,13.0,10.0,13-10,CellPainting,2021018116.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018117.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018117.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018117.0
+1.0,HEPG2,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018117.0
+1.0,HEPG2,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018117.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018117.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018117.0
+1.0,HEPG2,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018117.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018117.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018117.0
+1.0,HEPG2,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018117.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018117.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018117.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018117.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018117.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018117.0
+1.0,HEPG2,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018117.0
+1.0,HEPG2,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018117.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018117.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018117.0
+1.0,HEPG2,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018117.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018117.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018117.0
+1.0,HEPG2,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018117.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018117.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018117.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018117.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018117.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018117.0
+1.0,HEPG2,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018117.0
+1.0,HEPG2,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018117.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018117.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018117.0
+1.0,HEPG2,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018117.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018117.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018117.0
+1.0,HEPG2,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018117.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018117.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018117.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018117.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018117.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018117.0
+1.0,HEPG2,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018117.0
+1.0,HEPG2,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018117.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018117.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018117.0
+1.0,HEPG2,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018117.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018117.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018117.0
+1.0,HEPG2,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018117.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018117.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018117.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018117.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018117.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018117.0
+1.0,HEPG2,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018117.0
+1.0,HEPG2,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018117.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018117.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018117.0
+1.0,HEPG2,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018117.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018117.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018117.0
+1.0,HEPG2,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018117.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018117.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018117.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018117.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018117.0
+1.0,HEPG2,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018117.0
+1.0,HEPG2,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018117.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018117.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018117.0
+1.0,HEPG2,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018117.0
+1.0,HEPG2,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018117.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018117.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018117.0
+1.0,HEPG2,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018117.0
+1.0,HEPG2,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018117.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018117.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018117.0
+1.0,HEPG2,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018117.0
+1.0,HEPG2,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018117.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018117.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018117.0
+1.0,HEPG2,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018117.0
+1.0,HEPG2,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018117.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018118.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018118.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018118.0
+1.0,HEPG2,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018118.0
+1.0,HEPG2,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018118.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018118.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018118.0
+1.0,HEPG2,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018118.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018118.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018118.0
+1.0,HEPG2,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018118.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018118.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018118.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018118.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018118.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018118.0
+1.0,HEPG2,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018118.0
+1.0,HEPG2,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018118.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018118.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018118.0
+1.0,HEPG2,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018118.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018118.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018118.0
+1.0,HEPG2,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018118.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018118.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018118.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018118.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018118.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018118.0
+1.0,HEPG2,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018118.0
+1.0,HEPG2,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018118.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018118.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018118.0
+1.0,HEPG2,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018118.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018118.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018118.0
+1.0,HEPG2,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018118.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018118.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018118.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018118.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018118.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018118.0
+1.0,HEPG2,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018118.0
+1.0,HEPG2,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018118.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018118.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018118.0
+1.0,HEPG2,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018118.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018118.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018118.0
+1.0,HEPG2,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018118.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018118.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018118.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018118.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018118.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018118.0
+1.0,HEPG2,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018118.0
+1.0,HEPG2,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018118.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018118.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018118.0
+1.0,HEPG2,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018118.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018118.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018118.0
+1.0,HEPG2,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018118.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018118.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018118.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018118.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018118.0
+1.0,HEPG2,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018118.0
+1.0,HEPG2,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018118.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018118.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018118.0
+1.0,HEPG2,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018118.0
+1.0,HEPG2,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018118.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018118.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018118.0
+1.0,HEPG2,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018118.0
+1.0,HEPG2,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018118.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018118.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018118.0
+1.0,HEPG2,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018118.0
+1.0,HEPG2,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018118.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018118.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018118.0
+1.0,HEPG2,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018118.0
+1.0,HEPG2,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018118.0
+1.0,HEPG2,PD184352 (CI-1040),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,1.0,5.0,1-5,CellPainting,2021018149.0
+1.0,HEPG2,Everolimus (RAD001),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,4.0,3-4,CellPainting,2021018149.0
+1.0,HEPG2,ABT-751 (E7010),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,3.0,12.0,3-12,CellPainting,2021018149.0
+1.0,HEPG2,Dimesna,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,3.0,20.0,3-20,CellPainting,2021018149.0
+1.0,HEPG2,KU-0063794,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,4.0,3.0,4-3,CellPainting,2021018149.0
+1.0,HEPG2,Pimasertib (AS-703026),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,4.0,22.0,4-22,CellPainting,2021018149.0
+1.0,HEPG2,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,5.0,5.0,5-5,CellPainting,2021018149.0
+1.0,HEPG2,Vincristine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,6.0,5.0,6-5,CellPainting,2021018149.0
+1.0,HEPG2,CEP-18770 (Delanzomib),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,7.0,10.0,7-10,CellPainting,2021018149.0
+1.0,HEPG2,SL-327,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018149.0
+1.0,HEPG2,BIIB021,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,14.0,7-14,CellPainting,2021018149.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,8.0,9-8,CellPainting,2021018149.0
+1.0,HEPG2,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,9.0,9-9,CellPainting,2021018149.0
+1.0,HEPG2,PD98059,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,14.0,9-14,CellPainting,2021018149.0
+1.0,HEPG2,WYE-354,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,10.0,9.0,10-9,CellPainting,2021018149.0
+1.0,HEPG2,PD0325901,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018149.0
+1.0,HEPG2,Paclitaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,11.0,8.0,11-8,CellPainting,2021018149.0
+1.0,HEPG2,Ganetespib (STA-9090),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,10.0,11-10,CellPainting,2021018149.0
+1.0,HEPG2,17-AAG (Tanespimycin),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,6.0,13-6,CellPainting,2021018149.0
+1.0,HEPG2,AUY922 (NVP-AUY922),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018149.0
+1.0,HEPG2,17-DMAG (Alvespimycin) HCl,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018149.0
+1.0,HEPG2,Rapamycin (Sirolimus),mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018149.0
+1.0,HEPG2,U0126-EtOH,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,19.0,15-19,CellPainting,2021018149.0
+1.0,HEPG2,PFI-1 (PF-6405761),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,15.0,22.0,15-22,CellPainting,2021018149.0
+1.0,HEPG2,Flubendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,9.0,4-9,CellPainting,2021018150.0
+1.0,HEPG2,Oxibendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,11.0,4-11,CellPainting,2021018150.0
+1.0,HEPG2,PD318088,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018150.0
+1.0,HEPG2,BIX 02188,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,7.0,9-7,CellPainting,2021018150.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,11.0,9-11,CellPainting,2021018150.0
+1.0,HEPG2,BIX 02189,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018150.0
+1.0,HEPG2,Fenbendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,19.0,4-19,CellPainting,2021018151.0
+1.0,HEPG2,AZD8330,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,5.0,7.0,5-7,CellPainting,2021018151.0
+1.0,HEPG2,PP242,mTOR inhibitor,2.0,5.0,query_cpd,mTOR.Autophagy,PI3K/Akt/mTOR,7.0,17.0,7-17,CellPainting,2021018151.0
+1.0,HEPG2,MLN2238,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,11.0,11.0,11-11,CellPainting,2021018151.0
+1.0,HEPG2,MLN9708,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,13.0,11.0,13-11,CellPainting,2021018151.0
+1.0,HEPG2,Nobiletin,MEK inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,16.0,13-16,CellPainting,2021018151.0
+1.0,HEPG2,MG-132,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,1.0,3.0,1-3,CellPainting,2021018152.0
+1.0,HEPG2,Torin 2,mTOR inhibitor,2.0,5.0,query_cpd,ATM/ATR.mTOR,PI3K/Akt/mTOR,1.0,16.0,1-16,CellPainting,2021018152.0
+1.0,HEPG2,WYE-125132 (WYE-132),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,9.0,3-9,CellPainting,2021018152.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,3.0,18.0,3-18,CellPainting,2021018152.0
+1.0,HEPG2,Trametinib (GSK1120212),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,11.0,7-11,CellPainting,2021018152.0
+1.0,HEPG2,KW-2478,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,13.0,7-13,CellPainting,2021018152.0
+1.0,HEPG2,INK 128 (MLN0128),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,7.0,14.0,7-14,CellPainting,2021018152.0
+1.0,HEPG2,SNX-2112 (PF-04928473),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,9.0,7.0,9-7,CellPainting,2021018152.0
+1.0,HEPG2,I-BET151 (GSK1210151A),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,9.0,8.0,9-8,CellPainting,2021018152.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90).Autophagy,Cytoskeletal Signaling,9.0,17.0,9-17,CellPainting,2021018152.0
+1.0,HEPG2,Catharanthine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,18.0,10-18,CellPainting,2021018152.0
+1.0,HEPG2,OSI-027,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,11.0,3.0,11-3,CellPainting,2021018152.0
+1.0,HEPG2,PF-04929113 (SNX-5422),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,7.0,11-7,CellPainting,2021018152.0
+1.0,HEPG2,Carfilzomib (PR-171),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,11.0,20.0,11-20,CellPainting,2021018152.0
+1.0,HEPG2,WAY-600,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,13.0,13.0,13-13,CellPainting,2021018152.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018152.0
+1.0,HEPG2,AZD2014,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,15.0,8.0,15-8,CellPainting,2021018152.0
+1.0,HEPG2,ONX-0914 (PR-957),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,6.0,8.0,6-8,CellPainting,2021018153.0
+1.0,HEPG2,Bromosporine,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,12.0,6-12,CellPainting,2021018153.0
+1.0,HEPG2,SGC-CBP30,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,14.0,6-14,CellPainting,2021018153.0
+1.0,HEPG2,MEK162 (ARRY-162. ARRY-438162),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,10.0,9.0,10-9,CellPainting,2021018153.0
+1.0,HEPG2,XL888,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,21.0,10-21,CellPainting,2021018153.0
+1.0,HEPG2,Guanidine HCl,HSP inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,9.0,13-9,CellPainting,2021018153.0
+1.0,HEPG2,I-BET-762,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,8.0,14-8,CellPainting,2021018153.0
+1.0,HEPG2,Oprozomib (ONX 0912),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,14.0,13.0,14-13,CellPainting,2021018153.0
+1.0,HEPG2,(+)-JQ1,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,19.0,14-19,CellPainting,2021018153.0
+1.0,HEPG2,Griseofulvin,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,9.0,15-9,CellPainting,2021018153.0
+1.0,HEPG2,XL388,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,16.0,11.0,16-11,CellPainting,2021018153.0
+1.0,HEPG2,NMS-E973,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,16.0,16.0,16-16,CellPainting,2021018153.0
+1.0,HEPG2,OTX015,bromodomain inhibitor,2.0,5.0,query_cpd,BET,Epigenetics,2.0,4.0,2-4,CellPainting,2021018154.0
+1.0,HEPG2,Epothilone B (EPO906. Patupilone),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,10.0,13-10,CellPainting,2021018154.0
+1.0,HEPG2,Selumetinib (AZD6244),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,4.0,15-4,CellPainting,2021018154.0
+1.0,HEPG2,VER-49009,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,15.0,5.0,15-5,CellPainting,2021018154.0
+1.0,HEPG2,TAK-733,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,16.0,7.0,16-7,CellPainting,2021018154.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018155.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018155.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018155.0
+1.0,HEPG2,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018155.0
+1.0,HEPG2,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018155.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018155.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018155.0
+1.0,HEPG2,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018155.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018155.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018155.0
+1.0,HEPG2,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018155.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018155.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018155.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018155.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018155.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018155.0
+1.0,HEPG2,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018155.0
+1.0,HEPG2,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018155.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018155.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018155.0
+1.0,HEPG2,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018155.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018155.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018155.0
+1.0,HEPG2,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018155.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018155.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018155.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018155.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018155.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018155.0
+1.0,HEPG2,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018155.0
+1.0,HEPG2,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018155.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018155.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018155.0
+1.0,HEPG2,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018155.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018155.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018155.0
+1.0,HEPG2,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018155.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018155.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018155.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018155.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018155.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018155.0
+1.0,HEPG2,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018155.0
+1.0,HEPG2,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018155.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018155.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018155.0
+1.0,HEPG2,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018155.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018155.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018155.0
+1.0,HEPG2,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018155.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018155.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018155.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018155.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018155.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018155.0
+1.0,HEPG2,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018155.0
+1.0,HEPG2,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018155.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018155.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018155.0
+1.0,HEPG2,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018155.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018155.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018155.0
+1.0,HEPG2,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018155.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018155.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018155.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018155.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018155.0
+1.0,HEPG2,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018155.0
+1.0,HEPG2,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018155.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018155.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018155.0
+1.0,HEPG2,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018155.0
+1.0,HEPG2,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018155.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018155.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018155.0
+1.0,HEPG2,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018155.0
+1.0,HEPG2,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018155.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018155.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018155.0
+1.0,HEPG2,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018155.0
+1.0,HEPG2,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018155.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018155.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018155.0
+1.0,HEPG2,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018155.0
+1.0,HEPG2,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018155.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018156.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018156.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018156.0
+1.0,HEPG2,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018156.0
+1.0,HEPG2,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018156.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018156.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018156.0
+1.0,HEPG2,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018156.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018156.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018156.0
+1.0,HEPG2,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018156.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018156.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018156.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018156.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018156.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018156.0
+1.0,HEPG2,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018156.0
+1.0,HEPG2,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018156.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018156.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018156.0
+1.0,HEPG2,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018156.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018156.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018156.0
+1.0,HEPG2,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018156.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018156.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018156.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018156.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018156.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018156.0
+1.0,HEPG2,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018156.0
+1.0,HEPG2,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018156.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018156.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018156.0
+1.0,HEPG2,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018156.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018156.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018156.0
+1.0,HEPG2,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018156.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018156.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018156.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018156.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018156.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018156.0
+1.0,HEPG2,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018156.0
+1.0,HEPG2,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018156.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018156.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018156.0
+1.0,HEPG2,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018156.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018156.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018156.0
+1.0,HEPG2,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018156.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018156.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018156.0
+1.0,HEPG2,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018156.0
+1.0,HEPG2,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018156.0
+1.0,HEPG2,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018156.0
+1.0,HEPG2,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018156.0
+1.0,HEPG2,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018156.0
+1.0,HEPG2,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018156.0
+1.0,HEPG2,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018156.0
+1.0,HEPG2,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018156.0
+1.0,HEPG2,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018156.0
+1.0,HEPG2,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018156.0
+1.0,HEPG2,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018156.0
+1.0,HEPG2,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018156.0
+1.0,HEPG2,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018156.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018156.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018156.0
+1.0,HEPG2,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018156.0
+1.0,HEPG2,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018156.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018156.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018156.0
+1.0,HEPG2,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018156.0
+1.0,HEPG2,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018156.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018156.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018156.0
+1.0,HEPG2,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018156.0
+1.0,HEPG2,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018156.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018156.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018156.0
+1.0,HEPG2,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018156.0
+1.0,HEPG2,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018156.0
+1.0,HEPG2,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018156.0
+1.0,HEPG2,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018156.0
+1.0,HEPG2,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018156.0
+1.0,HEPG2,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018156.0

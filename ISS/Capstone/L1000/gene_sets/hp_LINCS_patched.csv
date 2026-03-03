@@ -1,0 +1,46 @@
+top_n,modality,hidden,act,dropout,wd
+1,CP,400,tanh,0.0,0.0
+1,Early Fusion,400,tanh,0.0,0.0001
+1,GE,400,relu,0.1,0.001
+5,CP,400,tanh,0.0,0.0
+5,Early Fusion,400,tanh,0.0,0.0
+5,GE,200,tanh,0.0,0.0
+10,CP,400,tanh,0.0,0.0
+10,Early Fusion,400,tanh,0.1,0.0
+10,GE,400,tanh,0.0,0.0
+15,CP,400,tanh,0.0,0.0
+15,Early Fusion,400,tanh,0.1,0.001
+15,GE,400,tanh,0.1,0.0001
+20,CP,400,tanh,0.0,0.0
+20,Early Fusion,400,tanh,0.0,0.0
+20,GE,400,relu,0.0,0.0
+25,CP,400,tanh,0.0,0.0
+25,Early Fusion,400,tanh,0.0,0.0001
+25,GE,400,tanh,0.1,0.0
+30,CP,400,tanh,0.0,0.0
+30,Early Fusion,400,tanh,0.0,0.0
+30,GE,400,tanh,0.1,0.0001
+50,CP,400,tanh,0.0,0.0
+50,Early Fusion,400,tanh,0.0,0.001
+50,GE,400,tanh,0.1,0.0001
+75,CP,400,tanh,0.0,0.0
+75,Early Fusion,400,tanh,0.1,0.0
+75,GE,400,tanh,0.0,0.0
+100,CP,400,tanh,0.0,0.0
+100,Early Fusion,400,tanh,0.0,0.0
+100,GE,400,tanh,0.0,0.0
+150,CP,400,tanh,0.0,0.0
+150,Early Fusion,400,tanh,0.0,0.0
+150,GE,400,tanh,0.0,0.0001
+200,CP,400,tanh,0.0,0.0
+200,Early Fusion,400,tanh,0.0,0.0001
+200,GE,400,tanh,0.0,0.0001
+300,CP,400,tanh,0.0,0.0
+300,Early Fusion,400,tanh,0.1,0.0001
+300,GE,400,tanh,0.0,0.0
+400,CP,400,tanh,0.0,0.0
+400,Early Fusion,200,tanh,0.0,0.0
+400,GE,400,tanh,0.0,0.0001
+978,CP,400,tanh,0.0,0.0
+978,Early Fusion,400,tanh,0.0,0.001
+978,GE,400,tanh,0.0,0.0001

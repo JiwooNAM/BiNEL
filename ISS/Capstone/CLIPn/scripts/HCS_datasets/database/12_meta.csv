@@ -1,0 +1,760 @@
+UsedWells,Cell_Line,Compound,Compound_Category,Dose_Category,Dose,Compound_Usage,Target,Pathway,RowID,ColID,WellID,Markers,PlateID
+1.0,ALS-WT,Panobinostat (LBH589),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,1.0,7.0,1-7,CellPainting,2021018171.0
+1.0,ALS-WT,Vorinostat (SAHA. MK0683),HDAC inhibitor,1.0,10.0,known_query_cpd,Autophagy.HDAC,Epigenetics,1.0,9.0,1-9,CellPainting,2021018171.0
+1.0,ALS-WT,Roscovitine (Seliciclib.CYC202),CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,1.0,15.0,1-15,CellPainting,2021018171.0
+1.0,ALS-WT,Dimesna,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Others,Others,1.0,21.0,1-21,CellPainting,2021018171.0
+1.0,ALS-WT,Vincristine sulfate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,2.0,7.0,2-7,CellPainting,2021018171.0
+1.0,ALS-WT,Amonafide,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,2.0,21.0,2-21,CellPainting,2021018171.0
+1.0,ALS-WT,Divalproex Sodium,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,2.0,22.0,2-22,CellPainting,2021018171.0
+1.0,ALS-WT,Pirarubicin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,3.0,6.0,3-6,CellPainting,2021018171.0
+1.0,ALS-WT,Entinostat (MS-275),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,9.0,3-9,CellPainting,2021018171.0
+1.0,ALS-WT,Belinostat (PXD101),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,11.0,3-11,CellPainting,2021018171.0
+1.0,ALS-WT,Everolimus (RAD001),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,3.0,13.0,3-13,CellPainting,2021018171.0
+1.0,ALS-WT,Plinabulin (NPI-2358),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,VDA,Angiogenesis,3.0,17.0,3-17,CellPainting,2021018171.0
+1.0,ALS-WT,AT7519,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,3.0,20.0,3-20,CellPainting,2021018171.0
+1.0,ALS-WT,Amisulpride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,4.0,11.0,4-11,CellPainting,2021018171.0
+1.0,ALS-WT,Betamethasone Valerate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,4.0,20.0,4-20,CellPainting,2021018171.0
+1.0,ALS-WT,Acitretin,retinoid receptor agonist,1.0,10.0,known_query_cpd,Retinoid Receptor,Metabolism,4.0,21.0,4-21,CellPainting,2021018171.0
+1.0,ALS-WT,Refametinib (RDEA119. Bay 86-9766),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,5.0,11.0,5-11,CellPainting,2021018171.0
+1.0,ALS-WT,Mocetinostat (MGCD0103),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,5.0,13.0,5-13,CellPainting,2021018171.0
+1.0,ALS-WT,Ganetespib (STA-9090),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,5.0,15.0,5-15,CellPainting,2021018171.0
+1.0,ALS-WT,Flavopiridol (Alvocidib),CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,6.0,5.0,6-5,CellPainting,2021018171.0
+1.0,ALS-WT,Prednisone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor.Immunology & Inflammation related,Endocrinology & Hormones,6.0,8.0,6-8,CellPainting,2021018171.0
+1.0,ALS-WT,Lansoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,6.0,19.0,6-19,CellPainting,2021018171.0
+1.0,ALS-WT,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,7.0,5.0,7-5,CellPainting,2021018171.0
+1.0,ALS-WT,PD0325901,MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,7.0,7.0,7-7,CellPainting,2021018171.0
+1.0,ALS-WT,Abexinostat (PCI-24781),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,7.0,11.0,7-11,CellPainting,2021018171.0
+1.0,ALS-WT,Topotecan HCl,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,8.0,5.0,8-5,CellPainting,2021018171.0
+1.0,ALS-WT,Dexamethasone (DHAP),glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Autophagy.IL Receptor,Others,8.0,15.0,8-15,CellPainting,2021018171.0
+1.0,ALS-WT,Selumetinib (AZD6244),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,9.0,3.0,9-3,CellPainting,2021018171.0
+1.0,ALS-WT,Gefitinib (ZD1839),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,9.0,5.0,9-5,CellPainting,2021018171.0
+1.0,ALS-WT,Rapamycin (Sirolimus),mTOR inhibitor,1.0,10.0,known_query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,9.0,7.0,9-7,CellPainting,2021018171.0
+1.0,ALS-WT,Quisinostat (JNJ-26481585) 2HCl,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,9.0,11.0,9-11,CellPainting,2021018171.0
+1.0,ALS-WT,R406 (free base),SYK inhibitor,1.0,10.0,known_query_cpd,Syk,Angiogenesis,9.0,20.0,9-20,CellPainting,2021018171.0
+1.0,ALS-WT,Lidocaine,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,10.0,19.0,10-19,CellPainting,2021018171.0
+1.0,ALS-WT,Doxorubicin (Adriamycin) HCl,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,11.0,21.0,11-21,CellPainting,2021018171.0
+1.0,ALS-WT,Hydrocortisone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,12.0,20.0,12-20,CellPainting,2021018171.0
+1.0,ALS-WT,Afatinib (BIBW2992),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,13.0,3.0,13-3,CellPainting,2021018171.0
+1.0,ALS-WT,Omeprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump.Autophagy,Transmembrane Transporters,13.0,4.0,13-4,CellPainting,2021018171.0
+1.0,ALS-WT,Lapatinib (GW-572016) Ditosylate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,13.0,5.0,13-5,CellPainting,2021018171.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018171.0
+1.0,ALS-WT,ABT-751 (E7010),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,15.0,13-15,CellPainting,2021018171.0
+1.0,ALS-WT,Tazarotene,retinoid receptor agonist,1.0,10.0,known_query_cpd,Retinoid Receptor,Metabolism,13.0,22.0,13-22,CellPainting,2021018171.0
+1.0,ALS-WT,Epirubicin HCl,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,14.0,3.0,14-3,CellPainting,2021018171.0
+1.0,ALS-WT,Budesonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,11.0,14-11,CellPainting,2021018171.0
+1.0,ALS-WT,Desonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,20.0,14-20,CellPainting,2021018171.0
+1.0,ALS-WT,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018171.0
+1.0,ALS-WT,Paclitaxel,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy.Microtubule Associated,Cytoskeletal Signaling,15.0,13.0,15-13,CellPainting,2021018171.0
+1.0,ALS-WT,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,1.0,10.0,known_query_cpd,GABA Receptor.HDAC.Autophagy,Neuronal Signaling,15.0,15.0,15-15,CellPainting,2021018171.0
+1.0,ALS-WT,Pracinostat (SB939),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,15.0,18.0,15-18,CellPainting,2021018171.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,16.0,3.0,16-3,CellPainting,2021018171.0
+1.0,ALS-WT,Adapalene,retinoid receptor agonist,1.0,10.0,known_query_cpd,Retinoid Receptor,Metabolism,16.0,9.0,16-9,CellPainting,2021018171.0
+1.0,ALS-WT,Isotretinoin,retinoid receptor agonist,1.0,10.0,known_query_cpd,Hydroxylase,Metabolism,16.0,21.0,16-21,CellPainting,2021018171.0
+1.0,ALS-WT,Prednisolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Immunology & Inflammation related.Glucocorticoid Receptor,Endocrinology & Hormones,1.0,7.0,1-7,CellPainting,2021018172.0
+1.0,ALS-WT,Lovastatin,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,1.0,10.0,1-10,CellPainting,2021018172.0
+1.0,ALS-WT,Tetrabenazine (Xenazine),dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,1.0,15.0,1-15,CellPainting,2021018172.0
+1.0,ALS-WT,Lapatinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,1.0,18.0,1-18,CellPainting,2021018172.0
+1.0,ALS-WT,Ixazomib (MLN2238),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,2.0,4.0,2-4,CellPainting,2021018172.0
+1.0,ALS-WT,Buparlisib (BKM120. NVP-BKM120),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,2.0,8.0,2-8,CellPainting,2021018172.0
+1.0,ALS-WT,Fluticasone propionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,2.0,19.0,2-19,CellPainting,2021018172.0
+1.0,ALS-WT,Atorvastatin Calcium,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,3.0,12.0,3-12,CellPainting,2021018172.0
+1.0,ALS-WT,Ixazomib Citrate (MLN9708),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,4.0,4.0,4-4,CellPainting,2021018172.0
+1.0,ALS-WT,Idelalisib (CAL-101. GS-1101),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,4.0,6.0,4-6,CellPainting,2021018172.0
+1.0,ALS-WT,Simvastatin,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,5.0,15.0,5-15,CellPainting,2021018172.0
+1.0,ALS-WT,Sapitinib (AZD8931),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,6.0,4.0,6-4,CellPainting,2021018172.0
+1.0,ALS-WT,Rosuvastatin Calcium,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,7.0,22.0,7-22,CellPainting,2021018172.0
+1.0,ALS-WT,R406,SYK inhibitor,1.0,10.0,known_query_cpd,FLT3.Syk,Angiogenesis,8.0,4.0,8-4,CellPainting,2021018172.0
+1.0,ALS-WT,Methylprednisolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor.Immunology & Inflammation related,Endocrinology & Hormones,9.0,5.0,9-5,CellPainting,2021018172.0
+1.0,ALS-WT,Enoxacin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,9.0,9.0,9-9,CellPainting,2021018172.0
+1.0,ALS-WT,Levosulpiride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,9.0,16.0,9-16,CellPainting,2021018172.0
+1.0,ALS-WT,Givinostat (ITF2357),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Cytoskeletal Signaling,9.0,22.0,9-22,CellPainting,2021018172.0
+1.0,ALS-WT,Chlorprothixene,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,11.0,11.0,11-11,CellPainting,2021018172.0
+1.0,ALS-WT,Pantoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,11.0,16.0,11-16,CellPainting,2021018172.0
+1.0,ALS-WT,Esomeprazole sodium,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,12.0,6.0,12-6,CellPainting,2021018172.0
+1.0,ALS-WT,Fluvastatin Sodium,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,12.0,9.0,12-9,CellPainting,2021018172.0
+1.0,ALS-WT,Mometasone furoate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,12.0,17.0,12-17,CellPainting,2021018172.0
+1.0,ALS-WT,Irinotecan HCl Trihydrate,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,14.0,4.0,14-4,CellPainting,2021018172.0
+1.0,ALS-WT,Deflazacort,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,5.0,14-5,CellPainting,2021018172.0
+1.0,ALS-WT,Triamcinolone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,14.0,11.0,14-11,CellPainting,2021018172.0
+1.0,ALS-WT,Teniposide,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,15.0,13.0,15-13,CellPainting,2021018172.0
+1.0,ALS-WT,Bexarotene,retinoid receptor agonist,1.0,10.0,known_query_cpd,Retinoid Receptor,Metabolism,15.0,14.0,15-14,CellPainting,2021018172.0
+1.0,ALS-WT,Mitoxantrone 2HCl,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,1.0,17.0,1-17,CellPainting,2021018173.0
+1.0,ALS-WT,Trifluoperazine 2HCl,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,2.0,20.0,2-20,CellPainting,2021018173.0
+1.0,ALS-WT,Trametinib (GSK1120212),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,2.0,21.0,2-21,CellPainting,2021018173.0
+1.0,ALS-WT,(S)-10-Hydroxycamptothecin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,3.0,9.0,3-9,CellPainting,2021018173.0
+1.0,ALS-WT,Dexamethasone Acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Autophagy.IL Receptor,Others,4.0,10.0,4-10,CellPainting,2021018173.0
+1.0,ALS-WT,Catharanthine,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,AChR,Neuronal Signaling,4.0,20.0,4-20,CellPainting,2021018173.0
+1.0,ALS-WT,Flavopiridol HCl,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018173.0
+1.0,ALS-WT,Sapanisertib (INK 128. MLN0128),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,5.0,10.0,5-10,CellPainting,2021018173.0
+1.0,ALS-WT,Pravastatin sodium,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,5.0,20.0,5-20,CellPainting,2021018173.0
+1.0,ALS-WT,Beclomethasone dipropionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,6.0,6.0,6-6,CellPainting,2021018173.0
+1.0,ALS-WT,Fostamatinib (R788),SYK inhibitor,1.0,10.0,known_query_cpd,Syk,Angiogenesis,6.0,19.0,6-19,CellPainting,2021018173.0
+1.0,ALS-WT,Dinaciclib (SCH727965),CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,7.0,6.0,7-6,CellPainting,2021018173.0
+1.0,ALS-WT,Carfilzomib (PR-171),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,7.0,12.0,7-12,CellPainting,2021018173.0
+1.0,ALS-WT,Domperidone,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,7.0,13.0,7-13,CellPainting,2021018173.0
+1.0,ALS-WT,Prednisolone Acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,11.0,8-11,CellPainting,2021018173.0
+1.0,ALS-WT,Clobetasol propionate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,13.0,8-13,CellPainting,2021018173.0
+1.0,ALS-WT,Fluocinonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,17.0,8-17,CellPainting,2021018173.0
+1.0,ALS-WT,Resminostat,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,8.0,21.0,8-21,CellPainting,2021018173.0
+1.0,ALS-WT,Alpelisib (BYL719),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,9.0,10.0,9-10,CellPainting,2021018173.0
+1.0,ALS-WT,Cortisone acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,10.0,9.0,10-9,CellPainting,2021018173.0
+1.0,ALS-WT,PF-04929113 (SNX-5422),HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,19.0,10-19,CellPainting,2021018173.0
+1.0,ALS-WT,Varlitinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,4.0,11-4,CellPainting,2021018173.0
+1.0,ALS-WT,Chlorpromazine HCl,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Potassium Channel.Dopamine Receptor,Neuronal Signaling,13.0,11.0,13-11,CellPainting,2021018173.0
+1.0,ALS-WT,Fenbendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,13.0,13.0,13-13,CellPainting,2021018173.0
+1.0,ALS-WT,Icotinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,13.0,14.0,13-14,CellPainting,2021018173.0
+1.0,ALS-WT,Flumequine,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,14.0,16.0,14-16,CellPainting,2021018173.0
+1.0,ALS-WT,Dacomitinib (PF299804. PF299),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,14.0,21.0,14-21,CellPainting,2021018173.0
+1.0,ALS-WT,CUDC-907,PI3K inhibitor,1.0,10.0,known_query_cpd,HDAC.PI3K,Cytoskeletal Signaling,15.0,4.0,15-4,CellPainting,2021018173.0
+1.0,ALS-WT,Fluocinolone Acetonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,15.0,13.0,15-13,CellPainting,2021018173.0
+1.0,ALS-WT,Pazufloxacin mesylate,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,16.0,22.0,16-22,CellPainting,2021018173.0
+1.0,ALS-WT,Histamine,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Immunology & Inflammation,1.0,4.0,1-4,CellPainting,2021018174.0
+1.0,ALS-WT,Ouabain,ATPase inhibitor,1.0,10.0,known_query_cpd,Sodium Channel,Transmembrane Transporters,1.0,12.0,1-12,CellPainting,2021018174.0
+1.0,ALS-WT,Difluprednate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,2.0,8.0,2-8,CellPainting,2021018174.0
+1.0,ALS-WT,Histamine 2HCl,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,2.0,12.0,2-12,CellPainting,2021018174.0
+1.0,ALS-WT,Droperidol,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,4.0,8.0,4-8,CellPainting,2021018174.0
+1.0,ALS-WT,Vindoline,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,4.0,5-4,CellPainting,2021018174.0
+1.0,ALS-WT,Halcinonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Immunology & Inflammation related,Immunology & Inflammation,6.0,8.0,6-8,CellPainting,2021018174.0
+1.0,ALS-WT,Guanidine HCl,HSP inhibitor,1.0,10.0,known_query_cpd,Others,Others,7.0,22.0,7-22,CellPainting,2021018174.0
+1.0,ALS-WT,Flumethasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,8.0,6.0,8-6,CellPainting,2021018174.0
+1.0,ALS-WT,Dexlansoprazole,ATPase inhibitor,1.0,10.0,known_query_cpd,Proton Pump,Transmembrane Transporters,8.0,8.0,8-8,CellPainting,2021018174.0
+1.0,ALS-WT,Griseofulvin,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,22.0,9-22,CellPainting,2021018174.0
+1.0,ALS-WT,Tetrahydropalmatine hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Others,Others,12.0,11.0,12-11,CellPainting,2021018174.0
+1.0,ALS-WT,(-)-Arctigenin,MEK inhibitor,1.0,10.0,known_query_cpd,Others,Others,12.0,15.0,12-15,CellPainting,2021018174.0
+1.0,ALS-WT,Valproic acid,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,12.0,19.0,12-19,CellPainting,2021018174.0
+1.0,ALS-WT,Sodium Phenylbutyrate,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,DNA Damage,14.0,12.0,14-12,CellPainting,2021018174.0
+1.0,ALS-WT,Hydroxy Camptothecine,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,14.0,15.0,14-15,CellPainting,2021018174.0
+1.0,ALS-WT,Flupenthixol dihydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor.Adrenergic Receptor,Neuronal Signaling,15.0,7.0,15-7,CellPainting,2021018174.0
+1.0,ALS-WT,Procaine HCl,HMGCR inhibitor,1.0,10.0,known_query_cpd,NMDAR.Sodium Channel.AChR,Transmembrane Transporters,15.0,12.0,15-12,CellPainting,2021018174.0
+1.0,ALS-WT,Amodiaquine dihydrochloride dihydrate,histamine receptor agonist,1.0,10.0,known_query_cpd,Transferase.Histone Methyltransferase,Epigenetics,1.0,14.0,1-14,CellPainting,2021018175.0
+1.0,ALS-WT,Alizapride HCl,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,1.0,15.0,1-15,CellPainting,2021018175.0
+1.0,ALS-WT,Lidocaine hydrochloride,histamine receptor agonist,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,2.0,8.0,2-8,CellPainting,2021018175.0
+1.0,ALS-WT,Digoxin,ATPase inhibitor,1.0,10.0,known_query_cpd,Sodium Channel,Transmembrane Transporters,3.0,21.0,3-21,CellPainting,2021018175.0
+1.0,ALS-WT,Procaine,HMGCR inhibitor,1.0,10.0,known_query_cpd,Sodium Channel,Transmembrane Transporters,4.0,8.0,4-8,CellPainting,2021018175.0
+1.0,ALS-WT,Cinoxacin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Others,Others,4.0,11.0,4-11,CellPainting,2021018175.0
+1.0,ALS-WT,Fluphenazine dihydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,GPCR & G Protein,5.0,10.0,5-10,CellPainting,2021018175.0
+1.0,ALS-WT,Vinorelbine Tartrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,5.0,17.0,5-17,CellPainting,2021018175.0
+1.0,ALS-WT,Tamibarotene,retinoid receptor agonist,1.0,10.0,known_query_cpd,Retinoid Receptor,Metabolism,7.0,15.0,7-15,CellPainting,2021018175.0
+1.0,ALS-WT,Itopride hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,AChR,Neuronal Signaling,7.0,18.0,7-18,CellPainting,2021018175.0
+1.0,ALS-WT,Prochlorperazine dimaleate salt,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,7.0,20.0,7-20,CellPainting,2021018175.0
+1.0,ALS-WT,Azaperone,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,9.0,7.0,9-7,CellPainting,2021018175.0
+1.0,ALS-WT,Sulpiride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,12.0,4.0,12-4,CellPainting,2021018175.0
+1.0,ALS-WT,Ciclesonide,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,13.0,22.0,13-22,CellPainting,2021018175.0
+1.0,ALS-WT,Perphenazine,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,14.0,16.0,14-16,CellPainting,2021018175.0
+1.0,ALS-WT,Mevastatin,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,15.0,7.0,15-7,CellPainting,2021018175.0
+1.0,ALS-WT,Mebendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,16.0,15-16,CellPainting,2021018175.0
+1.0,ALS-WT,Medrysone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,16.0,5.0,16-5,CellPainting,2021018175.0
+1.0,ALS-WT,Pimozide,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Others,Others,16.0,9.0,16-9,CellPainting,2021018175.0
+1.0,ALS-WT,Lapatinib ditosylate monohydrate,EGFR inhibitor,1.0,10.0,known_query_cpd,Others,Others,1.0,16.0,1-16,CellPainting,2021018176.0
+1.0,ALS-WT,Chlorprothixene hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,AmpC Beta-Lactamase,Antipsychotic,4.0,16.0,4-16,CellPainting,2021018176.0
+1.0,ALS-WT,Diflorasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid receptor,Immunology & Inflammation,6.0,10.0,6-10,CellPainting,2021018176.0
+1.0,ALS-WT,Pixantrone Maleate,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,10.0,13.0,10-13,CellPainting,2021018176.0
+1.0,ALS-WT,Osimertinib mesylate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,10.0,17.0,10-17,CellPainting,2021018176.0
+1.0,ALS-WT,Promazine hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor.5-HT Receptor,Neuronal Signaling,10.0,20.0,10-20,CellPainting,2021018176.0
+1.0,ALS-WT,Saikosaponin D,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,10.0,22.0,10-22,CellPainting,2021018176.0
+1.0,ALS-WT,Bedaquiline fumarate,ATPase inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,11.0,9.0,11-9,CellPainting,2021018176.0
+1.0,ALS-WT,Melitracen hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,12.0,9.0,12-9,CellPainting,2021018176.0
+1.0,ALS-WT,Phenazine methosulfate,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Others,Others,14.0,9.0,14-9,CellPainting,2021018176.0
+1.0,ALS-WT,Amsacrine hydrochloride,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Others,Others,2.0,5.0,2-5,CellPainting,2021018177.0
+1.0,ALS-WT,Oprozomib (ONX 0912),proteasome inhibitor,1.0,10.0,known_query_cpd,Proteasome,Proteases,2.0,16.0,2-16,CellPainting,2021018177.0
+1.0,ALS-WT,Abemaciclib,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,2.0,17.0,2-17,CellPainting,2021018177.0
+1.0,ALS-WT,Suberohydroxamic acid,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,16.0,3-16,CellPainting,2021018177.0
+1.0,ALS-WT,Beta-Lapachone,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,6.0,22.0,6-22,CellPainting,2021018177.0
+1.0,ALS-WT,Fluorometholone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Receptor,Endocrinology & Hormones,7.0,5.0,7-5,CellPainting,2021018177.0
+1.0,ALS-WT,Lanatoside C,ATPase inhibitor,1.0,10.0,known_query_cpd,ATPase,Transmembrane Transporters,7.0,15.0,7-15,CellPainting,2021018177.0
+1.0,ALS-WT,Thioridazine hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Others,Others,7.0,17.0,7-17,CellPainting,2021018177.0
+1.0,ALS-WT,Binimetinib (MEK162. ARRY-162. ARRY-438162),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,8.0,14.0,8-14,CellPainting,2021018177.0
+1.0,ALS-WT,abemaciclib (LY2835219),CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,8.0,18.0,8-18,CellPainting,2021018177.0
+1.0,ALS-WT,I-BET-762,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,8.0,20.0,8-20,CellPainting,2021018177.0
+1.0,ALS-WT,Amodiaquine hydrochloride,histamine receptor agonist,1.0,10.0,known_query_cpd,HnMT,Immunology,11.0,7.0,11-7,CellPainting,2021018177.0
+1.0,ALS-WT,Triflupromazine hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,D1/D2 receptor,Neuronal Signaling,11.0,17.0,11-17,CellPainting,2021018177.0
+1.0,ALS-WT,Bedaquiline,ATPase inhibitor,1.0,10.0,known_query_cpd,tuberculosis,Immunology,12.0,3.0,12-3,CellPainting,2021018177.0
+1.0,ALS-WT,Pravastatin,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,12.0,15.0,12-15,CellPainting,2021018177.0
+1.0,ALS-WT,Molindone hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,13.0,3.0,13-3,CellPainting,2021018177.0
+1.0,ALS-WT,Hydrocortisone acetate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid receptor,Nervous system,13.0,7.0,13-7,CellPainting,2021018177.0
+1.0,ALS-WT,Zotarolimus(ABT-578),mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,14.0,16.0,14-16,CellPainting,2021018177.0
+1.0,ALS-WT,Osimertinib (AZD9291),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,14.0,22.0,14-22,CellPainting,2021018177.0
+1.0,ALS-WT,Tetrahydropalmatine,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,15.0,15.0,15-15,CellPainting,2021018177.0
+1.0,ALS-WT,Desoximetasone,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Glucocorticoid Recep,Endocrinology & Hormones,16.0,11.0,16-11,CellPainting,2021018177.0
+1.0,ALS-WT,Duvelisib (IPI-145. INK1197),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,Angiogenesis,16.0,14.0,16-14,CellPainting,2021018177.0
+1.0,ALS-WT,atorvastatin,HMGCR inhibitor,1.0,10.0,known_query_cpd,HMG-CoA Reductase,Metabolism,16.0,15.0,16-15,CellPainting,2021018177.0
+1.0,ALS-WT,Chlorpromazine,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Others,Others,16.0,21.0,16-21,CellPainting,2021018177.0
+1.0,ALS-WT,Combretastatin A4,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,1.0,15.0,1-15,CellPainting,2021018178.0
+1.0,ALS-WT,Thiothixene,dopamine receptor antagonist,1.0,10.0,known_query_cpd,,,1.0,22.0,1-22,CellPainting,2021018178.0
+1.0,ALS-WT,GSK2636771,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,2.0,5.0,2-5,CellPainting,2021018178.0
+1.0,ALS-WT,Tucidinostat (Chidamide),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,2.0,21.0,2-21,CellPainting,2021018178.0
+1.0,ALS-WT,Poziotinib (HM781-36B),EGFR inhibitor,1.0,10.0,known_query_cpd,HER2.EGFR,Protein Tyrosine Kinase,3.0,3.0,3-3,CellPainting,2021018178.0
+1.0,ALS-WT,4SC-202,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,3.0,7.0,3-7,CellPainting,2021018178.0
+1.0,ALS-WT,AMG319,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,3.0,17.0,3-17,CellPainting,2021018178.0
+1.0,ALS-WT,Amodiaquine,histamine receptor agonist,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,4.0,22.0,4-22,CellPainting,2021018178.0
+1.0,ALS-WT,OTX015,bromodomain inhibitor,1.0,10.0,known_query_cpd,Epigenetic Reader Domain,Epigenetics,5.0,3.0,5-3,CellPainting,2021018178.0
+1.0,ALS-WT,Topotecan,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Others,Others,5.0,14.0,5-14,CellPainting,2021018178.0
+1.0,ALS-WT,Erlotinib,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,5.0,15.0,5-15,CellPainting,2021018178.0
+1.0,ALS-WT,AZD3759,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,6.0,3.0,6-3,CellPainting,2021018178.0
+1.0,ALS-WT,Tiapride Hydrochloride,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,6.0,4.0,6-4,CellPainting,2021018178.0
+1.0,ALS-WT,Docetaxel Trihydrate,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,7.0,15.0,7-15,CellPainting,2021018178.0
+1.0,ALS-WT,Nazartinib (EGF816. NVS-816),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,7.0,17.0,7-17,CellPainting,2021018178.0
+1.0,ALS-WT,Nemiralisib (GSK2269557),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,7.0,21.0,7-21,CellPainting,2021018178.0
+1.0,ALS-WT,Entospletinib (GS-9973),SYK inhibitor,1.0,10.0,known_query_cpd,Syk,Angiogenesis,9.0,5.0,9-5,CellPainting,2021018178.0
+1.0,ALS-WT,Bimiralisib (PQR309),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,9.0,6.0,9-6,CellPainting,2021018178.0
+1.0,ALS-WT,umbralisib (TGR-1202),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,10.0,11.0,10-11,CellPainting,2021018178.0
+1.0,ALS-WT,Serabelisib (INK-1117.MLN-1117.TAK-117),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,10.0,21.0,10-21,CellPainting,2021018178.0
+1.0,ALS-WT,Avitinib (AC0010),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,6.0,11-6,CellPainting,2021018178.0
+1.0,ALS-WT,Irbinitinib (ARRY-380. ONT-380),EGFR inhibitor,1.0,10.0,known_query_cpd,HER2,Protein Tyrosine Kinase,12.0,15.0,12-15,CellPainting,2021018178.0
+1.0,ALS-WT,Citarinostat (ACY-241),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,12.0,17.0,12-17,CellPainting,2021018178.0
+1.0,ALS-WT,Cariprazine HCl,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,12.0,18.0,12-18,CellPainting,2021018178.0
+1.0,ALS-WT,Seletalisib (UCB-5857),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,12.0,19.0,12-19,CellPainting,2021018178.0
+1.0,ALS-WT,Ribociclib (LEE011),CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,13.0,3.0,13-3,CellPainting,2021018178.0
+1.0,ALS-WT,Tenalisib (RP6530),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,4.0,13-4,CellPainting,2021018178.0
+1.0,ALS-WT,leniolisib(CDZ 173),PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,6.0,13-6,CellPainting,2021018178.0
+1.0,ALS-WT,AZD8186,PI3K inhibitor,1.0,10.0,known_query_cpd,PI3K,PI3K/Akt/mTOR,13.0,11.0,13-11,CellPainting,2021018178.0
+1.0,ALS-WT,AT7519 HCl,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,13.0,15.0,13-15,CellPainting,2021018178.0
+1.0,ALS-WT,CC-223,mTOR inhibitor,1.0,10.0,known_query_cpd,mTOR,PI3K/Akt/mTOR,13.0,19.0,13-19,CellPainting,2021018178.0
+1.0,ALS-WT,Monomethyl auristatin E (MMAE),tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,11.0,15-11,CellPainting,2021018178.0
+1.0,ALS-WT,Afatinib (BIBW2992) Dimaleate,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,15.0,15.0,15-15,CellPainting,2021018178.0
+1.0,ALS-WT,Ricolinostat (ACY-1215),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,16.0,3.0,16-3,CellPainting,2021018178.0
+1.0,ALS-WT,Cobimetinib (GDC-0973. RG7420),MEK inhibitor,1.0,10.0,known_query_cpd,MEK,MAPK,16.0,5.0,16-5,CellPainting,2021018178.0
+1.0,ALS-WT,Belotecan (CKD-602) hydrochloride,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,2.0,3.0,2-3,CellPainting,2021018179.0
+1.0,ALS-WT,TAS-116,HSP inhibitor,1.0,10.0,known_query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,2.0,5.0,2-5,CellPainting,2021018179.0
+1.0,ALS-WT,HS-10296,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,3.0,17.0,3-17,CellPainting,2021018179.0
+1.0,ALS-WT,Trifluoperazine,dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,5.0,19.0,5-19,CellPainting,2021018179.0
+1.0,ALS-WT,TAS6417,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Angiogenesis,10.0,5.0,10-5,CellPainting,2021018179.0
+1.0,ALS-WT,Tinostamustine(EDO-S101),HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,11.0,15.0,11-15,CellPainting,2021018179.0
+1.0,ALS-WT,Hydrocortisone butyrate,glucocorticoid receptor agonist,1.0,10.0,known_query_cpd,Others,Others,13.0,13.0,13-13,CellPainting,2021018179.0
+1.0,ALS-WT,Clebopride (malate),dopamine receptor antagonist,1.0,10.0,known_query_cpd,Dopamine Receptor,Neuronal Signaling,15.0,7.0,15-7,CellPainting,2021018179.0
+1.0,ALS-WT,Palbociclib (PD-0332991) HCl,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,3.0,3.0,3-3,CellPainting,2021018180.0
+1.0,ALS-WT,Sodium butyrate,HDAC inhibitor,1.0,10.0,known_query_cpd,HDAC,Epigenetics,7.0,11.0,7-11,CellPainting,2021018180.0
+1.0,ALS-WT,Pipemidic acid,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,10.0,21.0,10-21,CellPainting,2021018180.0
+1.0,ALS-WT,Palbociclib (PD0332991) Isethionate,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,11.0,7.0,11-7,CellPainting,2021018180.0
+1.0,ALS-WT,Estramustine phosphate sodium,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Microtubule Associated,Cytoskeletal Signaling,11.0,22.0,11-22,CellPainting,2021018180.0
+1.0,ALS-WT,Histamine Phosphate,histamine receptor agonist,1.0,10.0,known_query_cpd,Histamine Receptor,Neuronal Signaling,14.0,7.0,14-7,CellPainting,2021018180.0
+1.0,ALS-WT,Erlotinib HCl (OSI-744),EGFR inhibitor,1.0,10.0,known_query_cpd,Autophagy.EGFR,Protein Tyrosine Kinase,1.0,3.0,1-3,CellPainting,2021018181.0
+1.0,ALS-WT,Lazertinib (YH25448.GNS-1480),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,1.0,21.0,1-21,CellPainting,2021018181.0
+1.0,ALS-WT,Flubendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Autophagy,Autophagy,3.0,7.0,3-7,CellPainting,2021018181.0
+1.0,ALS-WT,Neratinib (HKI-272),EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR.HER2,Protein Tyrosine Kinase,3.0,9.0,3-9,CellPainting,2021018181.0
+1.0,ALS-WT,Oxibendazole,tubulin polymerization inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,5.0,7.0,5-7,CellPainting,2021018181.0
+1.0,ALS-WT,Voreloxin (SNS-595) hydrochloride,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,5.0,19.0,5-19,CellPainting,2021018181.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Topoisomerase,DNA Damage,7.0,3.0,7-3,CellPainting,2021018181.0
+1.0,ALS-WT,R788 (Fostamatinib) Disodium,SYK inhibitor,1.0,10.0,known_query_cpd,Syk,Angiogenesis,9.0,9.0,9-9,CellPainting,2021018181.0
+1.0,ALS-WT,Gefitinib hydrochloride,EGFR inhibitor,1.0,10.0,known_query_cpd,EGFR,Protein Tyrosine Kinase,11.0,21.0,11-21,CellPainting,2021018181.0
+1.0,ALS-WT,G1T38,CDK inhibitor,1.0,10.0,known_query_cpd,CDK,Cell Cycle,12.0,3.0,12-3,CellPainting,2021018181.0
+1.0,ALS-WT,Garenoxacin,topoisomerase inhibitor,1.0,10.0,known_query_cpd,Anti-infection,Microbiology,15.0,17.0,15-17,CellPainting,2021018181.0
+1.0,ALS-WT,PD184352 (CI-1040),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,1.0,5.0,1-5,CellPainting,2021018183.0
+1.0,ALS-WT,Panobinostat (LBH589),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,1.0,7.0,1-7,CellPainting,2021018183.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,2.0,3.0,2-3,CellPainting,2021018183.0
+1.0,ALS-WT,Amonafide,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,2.0,4.0,2-4,CellPainting,2021018183.0
+1.0,ALS-WT,Isotretinoin,retinoid receptor agonist,2.0,5.0,query_cpd,Hydroxylase,Metabolism,2.0,6.0,2-6,CellPainting,2021018183.0
+1.0,ALS-WT,Omeprazole,ATPase inhibitor,2.0,5.0,query_cpd,Autophagy.Proton Pump,Transmembrane Transporters,2.0,8.0,2-8,CellPainting,2021018183.0
+1.0,ALS-WT,Everolimus (RAD001),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,4.0,3-4,CellPainting,2021018183.0
+1.0,ALS-WT,ABT-751 (E7010),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,3.0,12.0,3-12,CellPainting,2021018183.0
+1.0,ALS-WT,WZ4002,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,14.0,3-14,CellPainting,2021018183.0
+1.0,ALS-WT,ZSTK474,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,15.0,3-15,CellPainting,2021018183.0
+1.0,ALS-WT,Belinostat (PXD101),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,17.0,3-17,CellPainting,2021018183.0
+1.0,ALS-WT,LAQ824 (Dacinostat),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,19.0,3-19,CellPainting,2021018183.0
+1.0,ALS-WT,Dimesna,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,3.0,20.0,3-20,CellPainting,2021018183.0
+1.0,ALS-WT,KU-0063794,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,4.0,3.0,4-3,CellPainting,2021018183.0
+1.0,ALS-WT,Acitretin,retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,4.0,4-4,CellPainting,2021018183.0
+1.0,ALS-WT,Adapalene,retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,11.0,4-11,CellPainting,2021018183.0
+1.0,ALS-WT,Budesonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,13.0,4-13,CellPainting,2021018183.0
+1.0,ALS-WT,Pimasertib (AS-703026),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,4.0,22.0,4-22,CellPainting,2021018183.0
+1.0,ALS-WT,Afatinib (BIBW2992),EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,5.0,3.0,5-3,CellPainting,2021018183.0
+1.0,ALS-WT,Ridaforolimus (Deforolimus. MK-8669),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,5.0,5.0,5-5,CellPainting,2021018183.0
+1.0,ALS-WT,GDC-0941,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,13.0,5-13,CellPainting,2021018183.0
+1.0,ALS-WT,CUDC-101,EGFR inhibitor,2.0,5.0,query_cpd,HDAC.HER2.EGFR,Epigenetics,5.0,18.0,5-18,CellPainting,2021018183.0
+1.0,ALS-WT,Quisinostat (JNJ-26481585),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,5.0,19.0,5-19,CellPainting,2021018183.0
+1.0,ALS-WT,Vincristine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,6.0,5.0,6-5,CellPainting,2021018183.0
+1.0,ALS-WT,Droxinostat,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,6.0,12.0,6-12,CellPainting,2021018183.0
+1.0,ALS-WT,Dexamethasone (DHAP),glucocorticoid receptor agonist,2.0,5.0,query_cpd,Autophagy.IL Receptor,Others,6.0,17.0,6-17,CellPainting,2021018183.0
+1.0,ALS-WT,Mocetinostat (MGCD0103),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,4.0,7-4,CellPainting,2021018183.0
+1.0,ALS-WT,Erlotinib HCl (OSI-744),EGFR inhibitor,2.0,5.0,query_cpd,Autophagy.EGFR,Protein Tyrosine Kinase,7.0,5.0,7-5,CellPainting,2021018183.0
+1.0,ALS-WT,CEP-18770 (Delanzomib),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,7.0,10.0,7-10,CellPainting,2021018183.0
+1.0,ALS-WT,Entinostat (MS-275),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,11.0,7-11,CellPainting,2021018183.0
+1.0,ALS-WT,SL-327,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018183.0
+1.0,ALS-WT,BIIB021,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,14.0,7-14,CellPainting,2021018183.0
+1.0,ALS-WT,Idarubicin HCl,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,8.0,3.0,8-3,CellPainting,2021018183.0
+1.0,ALS-WT,Pelitinib (EKB-569),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,8.0,8.0,8-8,CellPainting,2021018183.0
+1.0,ALS-WT,Amisulpride,dopamine receptor antagonist,2.0,5.0,query_cpd,Dopamine Receptor,Neuronal Signaling,8.0,11.0,8-11,CellPainting,2021018183.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,8.0,13.0,8-13,CellPainting,2021018183.0
+1.0,ALS-WT,TG100-115,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,8.0,21.0,8-21,CellPainting,2021018183.0
+1.0,ALS-WT,Oligomycin A,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,8.0,22.0,8-22,CellPainting,2021018183.0
+1.0,ALS-WT,Gefitinib (ZD1839),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,9.0,5.0,9-5,CellPainting,2021018183.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,9.0,8.0,9-8,CellPainting,2021018183.0
+1.0,ALS-WT,Temsirolimus (CCI-779. NSC 683864),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,9.0,9-9,CellPainting,2021018183.0
+1.0,ALS-WT,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,2.0,5.0,query_cpd,Autophagy.HDAC.GABA Receptor,Neuronal Signaling,9.0,12.0,9-12,CellPainting,2021018183.0
+1.0,ALS-WT,PD98059,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,14.0,9-14,CellPainting,2021018183.0
+1.0,ALS-WT,PCI-24781 (Abexinostat),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,9.0,17.0,9-17,CellPainting,2021018183.0
+1.0,ALS-WT,Pirarubicin,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,10.0,8.0,10-8,CellPainting,2021018183.0
+1.0,ALS-WT,WYE-354,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,10.0,9.0,10-9,CellPainting,2021018183.0
+1.0,ALS-WT,PD0325901,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018183.0
+1.0,ALS-WT,Paclitaxel,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,11.0,8.0,11-8,CellPainting,2021018183.0
+1.0,ALS-WT,Trichostatin A (TSA),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,11.0,9.0,11-9,CellPainting,2021018183.0
+1.0,ALS-WT,Ganetespib (STA-9090),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,10.0,11-10,CellPainting,2021018183.0
+1.0,ALS-WT,TGX-221,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,11.0,12.0,11-12,CellPainting,2021018183.0
+1.0,ALS-WT,Topotecan HCl,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,12.0,3.0,12-3,CellPainting,2021018183.0
+1.0,ALS-WT,Lansoprazole,ATPase inhibitor,2.0,5.0,query_cpd,Proton Pump,Transmembrane Transporters,12.0,21.0,12-21,CellPainting,2021018183.0
+1.0,ALS-WT,Lapatinib (GW-572016) Ditosylate,EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,13.0,5.0,13-5,CellPainting,2021018183.0
+1.0,ALS-WT,17-AAG (Tanespimycin),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,6.0,13-6,CellPainting,2021018183.0
+1.0,ALS-WT,WZ3146,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,12.0,13-12,CellPainting,2021018183.0
+1.0,ALS-WT,AUY922 (NVP-AUY922),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,13.0,13.0,13-13,CellPainting,2021018183.0
+1.0,ALS-WT,WZ8040,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,14.0,13-14,CellPainting,2021018183.0
+1.0,ALS-WT,Irinotecan,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,13.0,18.0,13-18,CellPainting,2021018183.0
+1.0,ALS-WT,Canertinib (CI-1033),EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,15.0,3.0,15-3,CellPainting,2021018183.0
+1.0,ALS-WT,17-DMAG (Alvespimycin) HCl,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018183.0
+1.0,ALS-WT,Rapamycin (Sirolimus),mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,15.0,7.0,15-7,CellPainting,2021018183.0
+1.0,ALS-WT,Roscovitine (Seliciclib.CYC202),CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,15.0,8.0,15-8,CellPainting,2021018183.0
+1.0,ALS-WT,Vorinostat (SAHA. MK0683),HDAC inhibitor,2.0,5.0,query_cpd,Autophagy.HDAC,Epigenetics,15.0,9.0,15-9,CellPainting,2021018183.0
+1.0,ALS-WT,U0126-EtOH,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,19.0,15-19,CellPainting,2021018183.0
+1.0,ALS-WT,Doxorubicin (Adriamycin),topoisomerase inhibitor,2.0,5.0,query_cpd,Autophagy.Topoisomerase,DNA Damage,15.0,20.0,15-20,CellPainting,2021018183.0
+1.0,ALS-WT,PFI-1 (PF-6405761),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,15.0,22.0,15-22,CellPainting,2021018183.0
+1.0,ALS-WT,JNJ-7706621,CDK inhibitor,2.0,5.0,query_cpd,CDK.Aurora Kinase,Cell Cycle,16.0,5.0,16-5,CellPainting,2021018183.0
+1.0,ALS-WT,AZD6482,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,16.0,18.0,16-18,CellPainting,2021018183.0
+1.0,ALS-WT,Lidocaine,histamine receptor agonist,2.0,5.0,query_cpd,Histamine Receptor,Neuronal Signaling,16.0,21.0,16-21,CellPainting,2021018183.0
+1.0,ALS-WT,Enoxacin,topoisomerase inhibitor,2.0,5.0,query_cpd,Others,Others,1.0,22.0,1-22,CellPainting,2021018184.0
+1.0,ALS-WT,Mometasone furoate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,2.0,8.0,2-8,CellPainting,2021018184.0
+1.0,ALS-WT,Prednisone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,3.0,21.0,3-21,CellPainting,2021018184.0
+1.0,ALS-WT,Teniposide,topoisomerase inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,3.0,4-3,CellPainting,2021018184.0
+1.0,ALS-WT,Flubendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,9.0,4-9,CellPainting,2021018184.0
+1.0,ALS-WT,PCI-34051,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,4.0,10.0,4-10,CellPainting,2021018184.0
+1.0,ALS-WT,Oxibendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,11.0,4-11,CellPainting,2021018184.0
+1.0,ALS-WT,Deflazacort,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,15.0,4-15,CellPainting,2021018184.0
+1.0,ALS-WT,Fluvastatin Sodium,HMGCR inhibitor,2.0,5.0,query_cpd,HMG-CoA Reductase,Metabolism,4.0,19.0,4-19,CellPainting,2021018184.0
+1.0,ALS-WT,Pracinostat (SB939),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,5.0,5.0,5-5,CellPainting,2021018184.0
+1.0,ALS-WT,Hydrocortisone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,5.0,12.0,5-12,CellPainting,2021018184.0
+1.0,ALS-WT,Methylprednisolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,5.0,18.0,5-18,CellPainting,2021018184.0
+1.0,ALS-WT,Fluticasone propionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,6.0,8.0,6-8,CellPainting,2021018184.0
+1.0,ALS-WT,PD318088,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,13.0,7-13,CellPainting,2021018184.0
+1.0,ALS-WT,Simvastatin,HMGCR inhibitor,2.0,5.0,query_cpd,Others,Others,8.0,3.0,8-3,CellPainting,2021018184.0
+1.0,ALS-WT,BMS-265246,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,8.0,10.0,8-10,CellPainting,2021018184.0
+1.0,ALS-WT,BIX 02188,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,9.0,7.0,9-7,CellPainting,2021018184.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,9.0,11.0,9-11,CellPainting,2021018184.0
+1.0,ALS-WT,Desonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,9.0,12.0,9-12,CellPainting,2021018184.0
+1.0,ALS-WT,Tazarotene,retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,9.0,13.0,9-13,CellPainting,2021018184.0
+1.0,ALS-WT,Triamcinolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,10.0,21.0,10-21,CellPainting,2021018184.0
+1.0,ALS-WT,BIX 02189,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,11.0,7.0,11-7,CellPainting,2021018184.0
+1.0,ALS-WT,Lovastatin,HMGCR inhibitor,2.0,5.0,query_cpd,HMG-CoA Reductase,Metabolism,12.0,18.0,12-18,CellPainting,2021018184.0
+1.0,ALS-WT,Atorvastatin Calcium,HMGCR inhibitor,2.0,5.0,query_cpd,HMG-CoA Reductase,Metabolism,12.0,20.0,12-20,CellPainting,2021018184.0
+1.0,ALS-WT,SAR245409 (XL765),PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,13.0,5.0,13-5,CellPainting,2021018184.0
+1.0,ALS-WT,Divalproex Sodium,HDAC inhibitor,2.0,5.0,query_cpd,Autophagy,Ubiquitin,13.0,12.0,13-12,CellPainting,2021018184.0
+1.0,ALS-WT,BS-181 HCl,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,13.0,13.0,13-13,CellPainting,2021018184.0
+1.0,ALS-WT,Prednisolone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,13.0,18.0,13-18,CellPainting,2021018184.0
+1.0,ALS-WT,AT7519,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,15.0,5.0,15-5,CellPainting,2021018184.0
+1.0,ALS-WT,R406 (free base),SYK inhibitor,2.0,5.0,query_cpd,Syk,Angiogenesis,15.0,7.0,15-7,CellPainting,2021018184.0
+1.0,ALS-WT,Levosulpiride,dopamine receptor antagonist,2.0,5.0,query_cpd,Dopamine Receptor,Neuronal Signaling,1.0,3.0,1-3,CellPainting,2021018185.0
+1.0,ALS-WT,Rosuvastatin Calcium,HMGCR inhibitor,2.0,5.0,query_cpd,RAAS,Endocrinology & Hormones,1.0,11.0,1-11,CellPainting,2021018185.0
+1.0,ALS-WT,Esomeprazole Sodium,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,1.0,21.0,1-21,CellPainting,2021018185.0
+1.0,ALS-WT,Clobetasol propionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,2.0,20.0,2-20,CellPainting,2021018185.0
+1.0,ALS-WT,Givinostat (ITF2357),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,3.0,11.0,3-11,CellPainting,2021018185.0
+1.0,ALS-WT,AST-1306,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,13.0,3-13,CellPainting,2021018185.0
+1.0,ALS-WT,CAL-101 (Idelalisib. GS-1101),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,19.0,3-19,CellPainting,2021018185.0
+1.0,ALS-WT,Chlorpromazine HCl,dopamine receptor antagonist,2.0,5.0,query_cpd,Potassium Channel.Dopamine Receptor,Neuronal Signaling,4.0,17.0,4-17,CellPainting,2021018185.0
+1.0,ALS-WT,Fenbendazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,4.0,19.0,4-19,CellPainting,2021018185.0
+1.0,ALS-WT,AZD8330,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,5.0,7.0,5-7,CellPainting,2021018185.0
+1.0,ALS-WT,Irinotecan HCl Trihydrate,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,5.0,17.0,5-17,CellPainting,2021018185.0
+1.0,ALS-WT,PIK-294,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,19.0,5-19,CellPainting,2021018185.0
+1.0,ALS-WT,Fluocinolone Acetonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,6.0,19.0,6-19,CellPainting,2021018185.0
+1.0,ALS-WT,OSI-420,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,7.0,15.0,7-15,CellPainting,2021018185.0
+1.0,ALS-WT,PP242,mTOR inhibitor,2.0,5.0,query_cpd,mTOR.Autophagy,PI3K/Akt/mTOR,7.0,17.0,7-17,CellPainting,2021018185.0
+1.0,ALS-WT,Neratinib (HKI-272),EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,9.0,7.0,9-7,CellPainting,2021018185.0
+1.0,ALS-WT,AZD8931 (Sapitinib),EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,9.0,13.0,9-13,CellPainting,2021018185.0
+1.0,ALS-WT,PIK-293,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,9.0,15.0,9-15,CellPainting,2021018185.0
+1.0,ALS-WT,Mitoxantrone HCl,topoisomerase inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,21.0,10-21,CellPainting,2021018185.0
+1.0,ALS-WT,MLN2238,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,11.0,11.0,11-11,CellPainting,2021018185.0
+1.0,ALS-WT,MLN9708,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,13.0,11.0,13-11,CellPainting,2021018185.0
+1.0,ALS-WT,R406,SYK inhibitor,2.0,5.0,query_cpd,Syk.FLT3,Angiogenesis,13.0,13.0,13-13,CellPainting,2021018185.0
+1.0,ALS-WT,Nobiletin,MEK inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,16.0,13-16,CellPainting,2021018185.0
+1.0,ALS-WT,AR-42,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,13.0,21.0,13-21,CellPainting,2021018185.0
+1.0,ALS-WT,Domperidone,dopamine receptor antagonist,2.0,5.0,query_cpd,Dopamine Receptor,Neuronal Signaling,14.0,17.0,14-17,CellPainting,2021018185.0
+1.0,ALS-WT,Chrysophanic Acid,EGFR inhibitor,2.0,5.0,query_cpd,mTOR.EGFR,Protein Tyrosine Kinase,16.0,9.0,16-9,CellPainting,2021018185.0
+1.0,ALS-WT,Cortisone acetate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,16.0,14.0,16-14,CellPainting,2021018185.0
+1.0,ALS-WT,MG-132,proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,1.0,3.0,1-3,CellPainting,2021018186.0
+1.0,ALS-WT,HER2-Inhibitor-1,EGFR inhibitor,2.0,5.0,query_cpd,HER2.EGFR,Protein Tyrosine Kinase,1.0,4.0,1-4,CellPainting,2021018186.0
+1.0,ALS-WT,Tubastatin A HCl,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,1.0,5.0,1-5,CellPainting,2021018186.0
+1.0,ALS-WT,3-Methyladenine,PI3K inhibitor,2.0,5.0,query_cpd,Autophagy.PI3K,PI3K/Akt/mTOR,1.0,6.0,1-6,CellPainting,2021018186.0
+1.0,ALS-WT,TAK-285,EGFR inhibitor,2.0,5.0,query_cpd,EGFR.HER2,Protein Tyrosine Kinase,1.0,10.0,1-10,CellPainting,2021018186.0
+1.0,ALS-WT,AS-604850,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,13.0,1-13,CellPainting,2021018186.0
+1.0,ALS-WT,Torin 2,mTOR inhibitor,2.0,5.0,query_cpd,ATM/ATR.mTOR,PI3K/Akt/mTOR,1.0,16.0,1-16,CellPainting,2021018186.0
+1.0,ALS-WT,Varlitinib,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,3.0,4.0,3-4,CellPainting,2021018186.0
+1.0,ALS-WT,Dinaciclib (SCH727965),CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,3.0,6.0,3-6,CellPainting,2021018186.0
+1.0,ALS-WT,A66,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,7.0,3-7,CellPainting,2021018186.0
+1.0,ALS-WT,WYE-125132 (WYE-132),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,3.0,9.0,3-9,CellPainting,2021018186.0
+1.0,ALS-WT,AS-252424,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,11.0,3-11,CellPainting,2021018186.0
+1.0,ALS-WT,CAY10505,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,3.0,13.0,3-13,CellPainting,2021018186.0
+1.0,ALS-WT,CI994 (Tacedinaline),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,16.0,3-16,CellPainting,2021018186.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,2.0,5.0,query_cpd,Autophagy.mTOR,PI3K/Akt/mTOR,3.0,18.0,3-18,CellPainting,2021018186.0
+1.0,ALS-WT,AZD5438,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,5.0,3.0,5-3,CellPainting,2021018186.0
+1.0,ALS-WT,Wortmannin,PI3K inhibitor,2.0,5.0,query_cpd,Autophagy.ATM/ATR.PI3K,PI3K/Akt/mTOR,5.0,4.0,5-4,CellPainting,2021018186.0
+1.0,ALS-WT,Resminostat,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,5.0,15.0,5-15,CellPainting,2021018186.0
+1.0,ALS-WT,Pravastatin sodium,HMGCR inhibitor,2.0,5.0,query_cpd,HMG-CoA Reductase,Metabolism,6.0,19.0,6-19,CellPainting,2021018186.0
+1.0,ALS-WT,CUDC-907,PI3K inhibitor,2.0,5.0,query_cpd,PI3K.HDAC,Cytoskeletal Signaling,7.0,4.0,7-4,CellPainting,2021018186.0
+1.0,ALS-WT,M344,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,7.0,8.0,7-8,CellPainting,2021018186.0
+1.0,ALS-WT,Trametinib (GSK1120212),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,7.0,11.0,7-11,CellPainting,2021018186.0
+1.0,ALS-WT,KW-2478,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,7.0,13.0,7-13,CellPainting,2021018186.0
+1.0,ALS-WT,INK 128 (MLN0128),mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,7.0,14.0,7-14,CellPainting,2021018186.0
+1.0,ALS-WT,Trifluoperazine 2HCl,dopamine receptor antagonist,2.0,5.0,query_cpd,Autophagy,Ubiquitin,8.0,18.0,8-18,CellPainting,2021018186.0
+1.0,ALS-WT,SNX-2112 (PF-04928473),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,9.0,7.0,9-7,CellPainting,2021018186.0
+1.0,ALS-WT,I-BET151 (GSK1210151A),bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,9.0,8.0,9-8,CellPainting,2021018186.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90).Autophagy,Cytoskeletal Signaling,9.0,17.0,9-17,CellPainting,2021018186.0
+1.0,ALS-WT,Beclomethasone dipropionate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,10.0,4.0,10-4,CellPainting,2021018186.0
+1.0,ALS-WT,Icotinib,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,10.0,11.0,10-11,CellPainting,2021018186.0
+1.0,ALS-WT,Piceatannol,SYK inhibitor,2.0,5.0,query_cpd,Syk,Angiogenesis,10.0,17.0,10-17,CellPainting,2021018186.0
+1.0,ALS-WT,Catharanthine,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Others,Others,10.0,18.0,10-18,CellPainting,2021018186.0
+1.0,ALS-WT,OSI-027,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,11.0,3.0,11-3,CellPainting,2021018186.0
+1.0,ALS-WT,PF-04929113 (SNX-5422),HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,11.0,7.0,11-7,CellPainting,2021018186.0
+1.0,ALS-WT,R547,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,11.0,13.0,11-13,CellPainting,2021018186.0
+1.0,ALS-WT,Dacomitinib (PF299804. PF299),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,11.0,19.0,11-19,CellPainting,2021018186.0
+1.0,ALS-WT,Carfilzomib (PR-171),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,11.0,20.0,11-20,CellPainting,2021018186.0
+1.0,ALS-WT,Fostamatinib (R788),SYK inhibitor,2.0,5.0,query_cpd,Syk,Angiogenesis,13.0,3.0,13-3,CellPainting,2021018186.0
+1.0,ALS-WT,Flavopiridol HCl,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,13.0,11.0,13-11,CellPainting,2021018186.0
+1.0,ALS-WT,WAY-600,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,13.0,13.0,13-13,CellPainting,2021018186.0
+1.0,ALS-WT,BYL719,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,13.0,14.0,13-14,CellPainting,2021018186.0
+1.0,ALS-WT,AG-1478 (Tyrphostin AG-1478),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,13.0,19.0,13-19,CellPainting,2021018186.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated.Autophagy,Cytoskeletal Signaling,15.0,6.0,15-6,CellPainting,2021018186.0
+1.0,ALS-WT,AZD2014,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,15.0,8.0,15-8,CellPainting,2021018186.0
+1.0,ALS-WT,CH5132799,PI3K inhibitor,2.0,5.0,query_cpd,mTOR.PI3K,PI3K/Akt/mTOR,15.0,15.0,15-15,CellPainting,2021018186.0
+1.0,ALS-WT,Flumequine,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,16.0,14.0,16-14,CellPainting,2021018186.0
+1.0,ALS-WT,Dexlansoprazole,ATPase inhibitor,2.0,5.0,query_cpd,Others,Others,1.0,17.0,1-17,CellPainting,2021018187.0
+1.0,ALS-WT,Alizapride HCl,dopamine receptor antagonist,2.0,5.0,query_cpd,Others,Others,2.0,3.0,2-3,CellPainting,2021018187.0
+1.0,ALS-WT,CZC24832,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,2.0,11.0,2-11,CellPainting,2021018187.0
+1.0,ALS-WT,CO-1686 (AVL-301),EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,2.0,18.0,2-18,CellPainting,2021018187.0
+1.0,ALS-WT,Azaperone,dopamine receptor antagonist,2.0,5.0,query_cpd,Others,Others,3.0,18.0,3-18,CellPainting,2021018187.0
+1.0,ALS-WT,SN-38,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,4.0,7.0,4-7,CellPainting,2021018187.0
+1.0,ALS-WT,RGFP966,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,4.0,12.0,4-12,CellPainting,2021018187.0
+1.0,ALS-WT,NMS-873,ATPase inhibitor,2.0,5.0,query_cpd,p97,Ubiquitin,4.0,18.0,4-18,CellPainting,2021018187.0
+1.0,ALS-WT,(-)-Blebbistatin,ATPase inhibitor,2.0,5.0,query_cpd,ATPase,Transmembrane Transporters,4.0,19.0,4-19,CellPainting,2021018187.0
+1.0,ALS-WT,NU6027,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,4.0,21.0,4-21,CellPainting,2021018187.0
+1.0,ALS-WT,ONX-0914 (PR-957),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,6.0,8.0,6-8,CellPainting,2021018187.0
+1.0,ALS-WT,Bromosporine,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,12.0,6-12,CellPainting,2021018187.0
+1.0,ALS-WT,PD168393,EGFR inhibitor,2.0,5.0,query_cpd,EGFR,Protein Tyrosine Kinase,6.0,13.0,6-13,CellPainting,2021018187.0
+1.0,ALS-WT,SGC-CBP30,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,6.0,14.0,6-14,CellPainting,2021018187.0
+1.0,ALS-WT,Tamibarotene,retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,8.0,3.0,8-3,CellPainting,2021018187.0
+1.0,ALS-WT,DBeQ,ATPase inhibitor,2.0,5.0,query_cpd,p97,Ubiquitin,8.0,10.0,8-10,CellPainting,2021018187.0
+1.0,ALS-WT,IPI-145 (INK1197),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,Angiogenesis,8.0,11.0,8-11,CellPainting,2021018187.0
+1.0,ALS-WT,RG2833 (RGFP109),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,8.0,18.0,8-18,CellPainting,2021018187.0
+1.0,ALS-WT,Difluprednate,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,9.0,15.0,9-15,CellPainting,2021018187.0
+1.0,ALS-WT,Mevastatin,HMGCR inhibitor,2.0,5.0,query_cpd,Others,Others,9.0,18.0,9-18,CellPainting,2021018187.0
+1.0,ALS-WT,Sodium Phenylbutyrate,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,DNA Damage,9.0,21.0,9-21,CellPainting,2021018187.0
+1.0,ALS-WT,TTNPB (Arotinoid Acid),retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,10.0,5.0,10-5,CellPainting,2021018187.0
+1.0,ALS-WT,MEK162 (ARRY-162. ARRY-438162),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,10.0,9.0,10-9,CellPainting,2021018187.0
+1.0,ALS-WT,XL888,HSP inhibitor,2.0,5.0,query_cpd,HSP (e.g. HSP90),Cytoskeletal Signaling,10.0,21.0,10-21,CellPainting,2021018187.0
+1.0,ALS-WT,Droperidol,dopamine receptor antagonist,2.0,5.0,query_cpd,Others,Others,11.0,15.0,11-15,CellPainting,2021018187.0
+1.0,ALS-WT,Beta-Lapachone,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,12.0,14.0,12-14,CellPainting,2021018187.0
+1.0,ALS-WT,Guanidine HCl,HSP inhibitor,2.0,5.0,query_cpd,Others,Others,13.0,9.0,13-9,CellPainting,2021018187.0
+1.0,ALS-WT,Histamine 2HCl,histamine receptor agonist,2.0,5.0,query_cpd,Histamine Receptor,Neuronal Signaling,13.0,19.0,13-19,CellPainting,2021018187.0
+1.0,ALS-WT,LY2835219,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,14.0,6.0,14-6,CellPainting,2021018187.0
+1.0,ALS-WT,I-BET-762,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,8.0,14-8,CellPainting,2021018187.0
+1.0,ALS-WT,Oprozomib (ONX 0912),proteasome inhibitor,2.0,5.0,query_cpd,Proteasome,Proteases,14.0,13.0,14-13,CellPainting,2021018187.0
+1.0,ALS-WT,(+)-JQ1,bromodomain inhibitor,2.0,5.0,query_cpd,Epigenetic Reader Domain,Epigenetics,14.0,19.0,14-19,CellPainting,2021018187.0
+1.0,ALS-WT,Griseofulvin,tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,15.0,9.0,15-9,CellPainting,2021018187.0
+1.0,ALS-WT,Flumethasone,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,15.0,13.0,15-13,CellPainting,2021018187.0
+1.0,ALS-WT,Halcinonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,15.0,15.0,15-15,CellPainting,2021018187.0
+1.0,ALS-WT,XL388,mTOR inhibitor,2.0,5.0,query_cpd,mTOR,PI3K/Akt/mTOR,16.0,11.0,16-11,CellPainting,2021018187.0
+1.0,ALS-WT,NMS-E973,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,16.0,16.0,16-16,CellPainting,2021018187.0
+1.0,ALS-WT,BTB06584,ATPase inhibitor,2.0,5.0,query_cpd,Fo-ATPase,Transmembrane Transporters,1.0,7.0,1-7,CellPainting,2021018188.0
+1.0,ALS-WT,GSK2636771,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,11.0,1-11,CellPainting,2021018188.0
+1.0,ALS-WT,MC1568,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Cytoskeletal Signaling,1.0,12.0,1-12,CellPainting,2021018188.0
+1.0,ALS-WT,BKM120 (NVP-BKM120. Buparlisib),PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,1.0,22.0,1-22,CellPainting,2021018188.0
+1.0,ALS-WT,OTX015,bromodomain inhibitor,2.0,5.0,query_cpd,BET,Epigenetics,2.0,4.0,2-4,CellPainting,2021018188.0
+1.0,ALS-WT,Ouabain,ATPase inhibitor,2.0,5.0,query_cpd,Sodium Channel,Transmembrane Transporters,2.0,15.0,2-15,CellPainting,2021018188.0
+1.0,ALS-WT,Tubastatin A,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,3.0,19.0,3-19,CellPainting,2021018188.0
+1.0,ALS-WT,Fluocinonide,glucocorticoid receptor agonist,2.0,5.0,query_cpd,Others,Others,4.0,7.0,4-7,CellPainting,2021018188.0
+1.0,ALS-WT,LEE011,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,5.0,5.0,5-5,CellPainting,2021018188.0
+1.0,ALS-WT,YM201636,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,5.0,8.0,5-8,CellPainting,2021018188.0
+1.0,ALS-WT,GSK1059615,PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,5.0,10.0,5-10,CellPainting,2021018188.0
+1.0,ALS-WT,Chlorprothixene,dopamine receptor antagonist,2.0,5.0,query_cpd,Dopamine Receptor,Neuronal Signaling,5.0,16.0,5-16,CellPainting,2021018188.0
+1.0,ALS-WT,Nexturastat A,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,7.0,7.0,7-7,CellPainting,2021018188.0
+1.0,ALS-WT,PHA-793887,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,7.0,12.0,7-12,CellPainting,2021018188.0
+1.0,ALS-WT,Bexarotene,retinoid receptor agonist,2.0,5.0,query_cpd,Others,Others,7.0,20.0,7-20,CellPainting,2021018188.0
+1.0,ALS-WT,Phenothiazine,dopamine receptor antagonist,2.0,5.0,query_cpd,Others,Others,8.0,19.0,8-19,CellPainting,2021018188.0
+1.0,ALS-WT,Palbociclib (PD-0332991) HCl,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,11.0,6.0,11-6,CellPainting,2021018188.0
+1.0,ALS-WT,GS-9973,SYK inhibitor,2.0,5.0,query_cpd,Syk,Angiogenesis,11.0,9.0,11-9,CellPainting,2021018188.0
+1.0,ALS-WT,PIK-93,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,11.0,12.0,11-12,CellPainting,2021018188.0
+1.0,ALS-WT,PRT062607 (P505-15. BIIB057) HCl,SYK inhibitor,2.0,5.0,query_cpd,Syk,Angiogenesis,11.0,15.0,11-15,CellPainting,2021018188.0
+1.0,ALS-WT,Scriptaid,HDAC inhibitor,2.0,5.0,query_cpd,HDAC,DNA Damage,11.0,17.0,11-17,CellPainting,2021018188.0
+1.0,ALS-WT,BGT226 (NVP-BGT226),PI3K inhibitor,2.0,5.0,query_cpd,PI3K.mTOR,PI3K/Akt/mTOR,12.0,9.0,12-9,CellPainting,2021018188.0
+1.0,ALS-WT,TG100713,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,12.0,11.0,12-11,CellPainting,2021018188.0
+1.0,ALS-WT,Epirubicin HCl,topoisomerase inhibitor,2.0,5.0,query_cpd,Topoisomerase,DNA Damage,13.0,8.0,13-8,CellPainting,2021018188.0
+1.0,ALS-WT,Epothilone B (EPO906. Patupilone),tubulin polymerization inhibitor,2.0,5.0,query_cpd,Microtubule Associated,Cytoskeletal Signaling,13.0,10.0,13-10,CellPainting,2021018188.0
+1.0,ALS-WT,P276-00,CDK inhibitor,2.0,5.0,query_cpd,CDK,Cell Cycle,13.0,19.0,13-19,CellPainting,2021018188.0
+1.0,ALS-WT,Procaine HCl,HMGCR inhibitor,2.0,5.0,query_cpd,Sodium Channel,Transmembrane Transporters,14.0,15.0,14-15,CellPainting,2021018188.0
+1.0,ALS-WT,Selumetinib (AZD6244),MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,15.0,4.0,15-4,CellPainting,2021018188.0
+1.0,ALS-WT,VER-49009,HSP inhibitor,2.0,5.0,query_cpd,HSP90,Cytoskeletal Signaling,15.0,5.0,15-5,CellPainting,2021018188.0
+1.0,ALS-WT,XL147,PI3K inhibitor,2.0,5.0,query_cpd,PI3K,PI3K/Akt/mTOR,15.0,6.0,15-6,CellPainting,2021018188.0
+1.0,ALS-WT,Rocilinostat (ACY-1215),HDAC inhibitor,2.0,5.0,query_cpd,HDAC,Epigenetics,15.0,9.0,15-9,CellPainting,2021018188.0
+1.0,ALS-WT,TAK-733,MEK inhibitor,2.0,5.0,query_cpd,MEK,MAPK,16.0,7.0,16-7,CellPainting,2021018188.0
+1.0,ALS-WT,Belinostat (PXD101),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,1.0,5.0,1-5,CellPainting,2021018189.0
+1.0,ALS-WT,JNJ-7706621,CDK inhibitor,1.0,10.0,query_cpd,CDK.Aurora Kinase,Cell Cycle,1.0,11.0,1-11,CellPainting,2021018189.0
+1.0,ALS-WT,Tubastatin A HCl,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,1.0,17.0,1-17,CellPainting,2021018189.0
+1.0,ALS-WT,Sodium Phenylbutyrate,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,4.0,3-4,CellPainting,2021018189.0
+1.0,ALS-WT,Mocetinostat (MGCD0103),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,7.0,3-7,CellPainting,2021018189.0
+1.0,ALS-WT,Valproic acid sodium salt (Sodium valproate),HDAC inhibitor,1.0,10.0,query_cpd,Autophagy.HDAC.GABA Receptor,HDAC,3.0,9.0,3-9,CellPainting,2021018189.0
+1.0,ALS-WT,Tubastatin A,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,10.0,3-10,CellPainting,2021018189.0
+1.0,ALS-WT,Nexturastat A,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,12.0,3-12,CellPainting,2021018189.0
+1.0,ALS-WT,CUDC-907,PI3K inhibitor,1.0,10.0,query_cpd,PI3K.HDAC,mTOR,3.0,19.0,3-19,CellPainting,2021018189.0
+1.0,ALS-WT,CI994 (Tacedinaline),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,3.0,21.0,3-21,CellPainting,2021018189.0
+1.0,ALS-WT,Panobinostat (LBH589),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,3.0,5-3,CellPainting,2021018189.0
+1.0,ALS-WT,PCI-24781 (Abexinostat),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,5.0,5-5,CellPainting,2021018189.0
+1.0,ALS-WT,I-BET-762,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,5.0,8.0,5-8,CellPainting,2021018189.0
+1.0,ALS-WT,RG2833 (RGFP109),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,10.0,5-10,CellPainting,2021018189.0
+1.0,ALS-WT,Rocilinostat (ACY-1215),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,5.0,12.0,5-12,CellPainting,2021018189.0
+1.0,ALS-WT,Trichostatin A (TSA),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,3.0,7-3,CellPainting,2021018189.0
+1.0,ALS-WT,LAQ824 (Dacinostat),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,5.0,7-5,CellPainting,2021018189.0
+1.0,ALS-WT,RGFP966,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,8.0,7-8,CellPainting,2021018189.0
+1.0,ALS-WT,Droxinostat,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,11.0,7-11,CellPainting,2021018189.0
+1.0,ALS-WT,Resminostat,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,17.0,7-17,CellPainting,2021018189.0
+1.0,ALS-WT,M344,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,7.0,19.0,7-19,CellPainting,2021018189.0
+1.0,ALS-WT,Vorinostat (SAHA. MK0683),HDAC inhibitor,1.0,10.0,query_cpd,Autophagy.HDAC,HDAC,9.0,3.0,9-3,CellPainting,2021018189.0
+1.0,ALS-WT,Quisinostat (JNJ-26481585),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,5.0,9-5,CellPainting,2021018189.0
+1.0,ALS-WT,Bromosporine,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,8.0,9-8,CellPainting,2021018189.0
+1.0,ALS-WT,CUDC-101,EGFR inhibitor,1.0,10.0,query_cpd,HDAC.HER2.EGFR,HDAC,9.0,9.0,9-9,CellPainting,2021018189.0
+1.0,ALS-WT,Scriptaid,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,10.0,9-10,CellPainting,2021018189.0
+1.0,ALS-WT,PCI-34051,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,9.0,13.0,9-13,CellPainting,2021018189.0
+1.0,ALS-WT,I-BET151 (GSK1210151A),bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,9.0,19.0,9-19,CellPainting,2021018189.0
+1.0,ALS-WT,(+)-JQ1,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,11.0,6.0,11-6,CellPainting,2021018189.0
+1.0,ALS-WT,Entinostat (MS-275),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,3.0,13-3,CellPainting,2021018189.0
+1.0,ALS-WT,SGC-CBP30,bromodomain inhibitor,1.0,10.0,query_cpd,Epigenetic Reader Domain,Epigenetic Reader Domain,13.0,8.0,13-8,CellPainting,2021018189.0
+1.0,ALS-WT,PFI-1 (PF-6405761),bromodomain inhibitor,1.0,10.0,query_cpd,DNA Methyltransferase,DNA Methyltransferase,13.0,9.0,13-9,CellPainting,2021018189.0
+1.0,ALS-WT,OTX015,bromodomain inhibitor,1.0,10.0,query_cpd,BET,BET,13.0,10.0,13-10,CellPainting,2021018189.0
+1.0,ALS-WT,MC1568,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,11.0,13-11,CellPainting,2021018189.0
+1.0,ALS-WT,AR-42,HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,13.0,15.0,13-15,CellPainting,2021018189.0
+1.0,ALS-WT,Pracinostat (SB939),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,15.0,11.0,15-11,CellPainting,2021018189.0
+1.0,ALS-WT,Givinostat (ITF2357),HDAC inhibitor,1.0,10.0,query_cpd,HDAC,HDAC,15.0,13.0,15-13,CellPainting,2021018189.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018190.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018190.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018190.0
+1.0,ALS-WT,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018190.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018190.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018190.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018190.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018190.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018190.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018190.0
+1.0,ALS-WT,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018190.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018190.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018190.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018190.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018190.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018190.0
+1.0,ALS-WT,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018190.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018190.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018190.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018190.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018190.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018190.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018190.0
+1.0,ALS-WT,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018190.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018190.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018190.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018190.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018190.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018190.0
+1.0,ALS-WT,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018190.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018190.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018190.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018190.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018190.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018190.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018190.0
+1.0,ALS-WT,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018190.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018190.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018190.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018190.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018190.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018190.0
+1.0,ALS-WT,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018190.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018190.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018190.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018190.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018190.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018190.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018190.0
+1.0,ALS-WT,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018190.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018190.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018190.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018190.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018190.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018190.0
+1.0,ALS-WT,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018190.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018190.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018190.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018190.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018190.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018190.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018190.0
+1.0,ALS-WT,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018190.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018190.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018190.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,1.0,5.0,reference_cpd,Topo I,Topoisomerases,9.0,3.0,9-3,CellPainting,2021018190.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,1.0,5.0,reference_cpd,Topo II,Topoisomerases,9.0,5.0,9-5,CellPainting,2021018190.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018190.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018190.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018190.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018190.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018190.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018190.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018190.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018190.0
+1.0,ALS-WT,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018190.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,2.0,1.0,reference_cpd,Topo I,Topoisomerases,10.0,3.0,10-3,CellPainting,2021018190.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,2.0,1.0,reference_cpd,Topo II,Topoisomerases,10.0,5.0,10-5,CellPainting,2021018190.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018190.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018190.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018190.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018190.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018190.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018190.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018190.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018190.0
+1.0,ALS-WT,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018190.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,3.0,0.2,reference_cpd,Topo I,Topoisomerases,11.0,3.0,11-3,CellPainting,2021018190.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,3.0,0.2,reference_cpd,Topo II,Topoisomerases,11.0,5.0,11-5,CellPainting,2021018190.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018190.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018190.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018190.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018190.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018190.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018190.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018190.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018190.0
+1.0,ALS-WT,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018190.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,4.0,0.04,reference_cpd,Topo I,Topoisomerases,12.0,3.0,12-3,CellPainting,2021018190.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,4.0,0.04,reference_cpd,Topo II,Topoisomerases,12.0,5.0,12-5,CellPainting,2021018190.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018190.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018190.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018190.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018190.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018190.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018190.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018190.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018190.0
+1.0,ALS-WT,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018190.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,5.0,0.008,reference_cpd,Topo I,Topoisomerases,13.0,3.0,13-3,CellPainting,2021018190.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,5.0,0.008,reference_cpd,Topo II,Topoisomerases,13.0,5.0,13-5,CellPainting,2021018190.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018190.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018190.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018190.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018190.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018190.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018190.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018190.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018190.0
+1.0,ALS-WT,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018190.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,Microtubules,MT depolymerization,3.0,4.0,3-4,CellPainting,2021018191.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,1.0,0.008,reference_cpd,Microtubules,MT depolymerization,3.0,5.0,3-5,CellPainting,2021018191.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,1.0,5.0,reference_cpd,β-tubulin,MT polymerization,3.0,6.0,3-6,CellPainting,2021018191.0
+1.0,ALS-WT,AUY922,HSP inhibitor,1.0,5.0,reference_cpd,HSP90α/β,HSP,3.0,8.0,3-8,CellPainting,2021018191.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,9.0,3-9,CellPainting,2021018191.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,1.0,5.0,reference_cpd,Pan-HSP,HSP,3.0,10.0,3-10,CellPainting,2021018191.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,11.0,3-11,CellPainting,2021018191.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,1.0,5.0,reference_cpd,HSP90,HSP,3.0,12.0,3-12,CellPainting,2021018191.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,13.0,3-13,CellPainting,2021018191.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,14.0,3-14,CellPainting,2021018191.0
+1.0,ALS-WT,INK128,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,15.0,3-15,CellPainting,2021018191.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,1.0,5.0,reference_cpd,mTOR,mTOR,3.0,16.0,3-16,CellPainting,2021018191.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,1.0,1.0,reference_cpd,mTORC1. mTORC2,mTOR,3.0,17.0,3-17,CellPainting,2021018191.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,Microtubules,MT depolymerization,4.0,4.0,4-4,CellPainting,2021018191.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,2.0,5.0,reference_cpd,Microtubules,MT depolymerization,4.0,5.0,4-5,CellPainting,2021018191.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,2.0,1.0,reference_cpd,β-tubulin,MT polymerization,4.0,6.0,4-6,CellPainting,2021018191.0
+1.0,ALS-WT,AUY922,HSP inhibitor,2.0,1.0,reference_cpd,HSP90α/β,HSP,4.0,8.0,4-8,CellPainting,2021018191.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,9.0,4-9,CellPainting,2021018191.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,2.0,1.0,reference_cpd,Pan-HSP,HSP,4.0,10.0,4-10,CellPainting,2021018191.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,11.0,4-11,CellPainting,2021018191.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,2.0,1.0,reference_cpd,HSP90,HSP,4.0,12.0,4-12,CellPainting,2021018191.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,13.0,4-13,CellPainting,2021018191.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,14.0,4-14,CellPainting,2021018191.0
+1.0,ALS-WT,INK128,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,15.0,4-15,CellPainting,2021018191.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,2.0,1.0,reference_cpd,mTOR,mTOR,4.0,16.0,4-16,CellPainting,2021018191.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,2.0,0.2,reference_cpd,mTORC1. mTORC2,mTOR,4.0,17.0,4-17,CellPainting,2021018191.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,Microtubules,MT depolymerization,5.0,4.0,5-4,CellPainting,2021018191.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,3.0,1.0,reference_cpd,Microtubules,MT depolymerization,5.0,5.0,5-5,CellPainting,2021018191.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,3.0,0.2,reference_cpd,β-tubulin,MT polymerization,5.0,6.0,5-6,CellPainting,2021018191.0
+1.0,ALS-WT,AUY922,HSP inhibitor,3.0,0.2,reference_cpd,HSP90α/β,HSP,5.0,8.0,5-8,CellPainting,2021018191.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,9.0,5-9,CellPainting,2021018191.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,3.0,0.2,reference_cpd,Pan-HSP,HSP,5.0,10.0,5-10,CellPainting,2021018191.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,11.0,5-11,CellPainting,2021018191.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,3.0,0.2,reference_cpd,HSP90,HSP,5.0,12.0,5-12,CellPainting,2021018191.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,13.0,5-13,CellPainting,2021018191.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,14.0,5-14,CellPainting,2021018191.0
+1.0,ALS-WT,INK128,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,15.0,5-15,CellPainting,2021018191.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,3.0,0.2,reference_cpd,mTOR,mTOR,5.0,16.0,5-16,CellPainting,2021018191.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,3.0,0.04,reference_cpd,mTORC1. mTORC2,mTOR,5.0,17.0,5-17,CellPainting,2021018191.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,Microtubules,MT depolymerization,6.0,4.0,6-4,CellPainting,2021018191.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,4.0,0.2,reference_cpd,Microtubules,MT depolymerization,6.0,5.0,6-5,CellPainting,2021018191.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,4.0,0.04,reference_cpd,β-tubulin,MT polymerization,6.0,6.0,6-6,CellPainting,2021018191.0
+1.0,ALS-WT,AUY922,HSP inhibitor,4.0,0.04,reference_cpd,HSP90α/β,HSP,6.0,8.0,6-8,CellPainting,2021018191.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,9.0,6-9,CellPainting,2021018191.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,4.0,0.04,reference_cpd,Pan-HSP,HSP,6.0,10.0,6-10,CellPainting,2021018191.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,11.0,6-11,CellPainting,2021018191.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,4.0,0.04,reference_cpd,HSP90,HSP,6.0,12.0,6-12,CellPainting,2021018191.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,13.0,6-13,CellPainting,2021018191.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,14.0,6-14,CellPainting,2021018191.0
+1.0,ALS-WT,INK128,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,15.0,6-15,CellPainting,2021018191.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,4.0,0.04,reference_cpd,mTOR,mTOR,6.0,16.0,6-16,CellPainting,2021018191.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,4.0,0.008,reference_cpd,mTORC1. mTORC2,mTOR,6.0,17.0,6-17,CellPainting,2021018191.0
+1.0,ALS-WT,Docetaxel,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,Microtubules,MT depolymerization,7.0,4.0,7-4,CellPainting,2021018191.0
+1.0,ALS-WT,Epothilone B,tubulin polymerization inhibitor,5.0,0.04,reference_cpd,Microtubules,MT depolymerization,7.0,5.0,7-5,CellPainting,2021018191.0
+1.0,ALS-WT,Nocodazole,tubulin polymerization inhibitor,5.0,0.008,reference_cpd,β-tubulin,MT polymerization,7.0,6.0,7-6,CellPainting,2021018191.0
+1.0,ALS-WT,AUY922,HSP inhibitor,5.0,0.008,reference_cpd,HSP90α/β,HSP,7.0,8.0,7-8,CellPainting,2021018191.0
+1.0,ALS-WT,17-AAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,9.0,7-9,CellPainting,2021018191.0
+1.0,ALS-WT,17-DMAG,HSP inhibitor,5.0,0.008,reference_cpd,Pan-HSP,HSP,7.0,10.0,7-10,CellPainting,2021018191.0
+1.0,ALS-WT,Geldanamycin,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,11.0,7-11,CellPainting,2021018191.0
+1.0,ALS-WT,SNX2112,HSP inhibitor,5.0,0.008,reference_cpd,HSP90,HSP,7.0,12.0,7-12,CellPainting,2021018191.0
+1.0,ALS-WT,AZD8055,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,13.0,7-13,CellPainting,2021018191.0
+1.0,ALS-WT,Deforolimus,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,14.0,7-14,CellPainting,2021018191.0
+1.0,ALS-WT,INK128,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,15.0,7-15,CellPainting,2021018191.0
+1.0,ALS-WT,Rapamycin,mTOR inhibitor,5.0,0.008,reference_cpd,mTOR,mTOR,7.0,16.0,7-16,CellPainting,2021018191.0
+1.0,ALS-WT,Torin 1,mTOR inhibitor,5.0,0.0016,reference_cpd,mTORC1. mTORC2,mTOR,7.0,17.0,7-17,CellPainting,2021018191.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,1.0,5.0,reference_cpd,Topo I,Topoisomerases,9.0,3.0,9-3,CellPainting,2021018191.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,1.0,5.0,reference_cpd,Topo II,Topoisomerases,9.0,5.0,9-5,CellPainting,2021018191.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC3,Epigenetic,9.0,8.0,9-8,CellPainting,2021018191.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,9.0,9-9,CellPainting,2021018191.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,10.0,9-10,CellPainting,2021018191.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,11.0,9-11,CellPainting,2021018191.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,1.0,5.0,reference_cpd,HDAC,Epigenetic,9.0,12.0,9-12,CellPainting,2021018191.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,1.0,5.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,9.0,13.0,9-13,CellPainting,2021018191.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,1.0,0.008,reference_cpd,20S proteasome,Protein degradation,9.0,15.0,9-15,CellPainting,2021018191.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,1.0,5.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,9.0,16.0,9-16,CellPainting,2021018191.0
+1.0,ALS-WT,MG132,proteasome inhibitor,1.0,5.0,reference_cpd,proteasome. calpain,Protein degradation,9.0,17.0,9-17,CellPainting,2021018191.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,2.0,1.0,reference_cpd,Topo I,Topoisomerases,10.0,3.0,10-3,CellPainting,2021018191.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,2.0,1.0,reference_cpd,Topo II,Topoisomerases,10.0,5.0,10-5,CellPainting,2021018191.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC3,Epigenetic,10.0,8.0,10-8,CellPainting,2021018191.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,9.0,10-9,CellPainting,2021018191.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,10.0,10-10,CellPainting,2021018191.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,11.0,10-11,CellPainting,2021018191.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,2.0,1.0,reference_cpd,HDAC,Epigenetic,10.0,12.0,10-12,CellPainting,2021018191.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,2.0,1.0,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,10.0,13.0,10-13,CellPainting,2021018191.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,2.0,5.0,reference_cpd,20S proteasome,Protein degradation,10.0,15.0,10-15,CellPainting,2021018191.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,2.0,1.0,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,10.0,16.0,10-16,CellPainting,2021018191.0
+1.0,ALS-WT,MG132,proteasome inhibitor,2.0,1.0,reference_cpd,proteasome. calpain,Protein degradation,10.0,17.0,10-17,CellPainting,2021018191.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,3.0,0.2,reference_cpd,Topo I,Topoisomerases,11.0,3.0,11-3,CellPainting,2021018191.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,3.0,0.2,reference_cpd,Topo II,Topoisomerases,11.0,5.0,11-5,CellPainting,2021018191.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC3,Epigenetic,11.0,8.0,11-8,CellPainting,2021018191.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,9.0,11-9,CellPainting,2021018191.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,10.0,11-10,CellPainting,2021018191.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,11.0,11-11,CellPainting,2021018191.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,3.0,0.2,reference_cpd,HDAC,Epigenetic,11.0,12.0,11-12,CellPainting,2021018191.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,3.0,0.2,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,11.0,13.0,11-13,CellPainting,2021018191.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,3.0,1.0,reference_cpd,20S proteasome,Protein degradation,11.0,15.0,11-15,CellPainting,2021018191.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,3.0,0.2,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,11.0,16.0,11-16,CellPainting,2021018191.0
+1.0,ALS-WT,MG132,proteasome inhibitor,3.0,0.2,reference_cpd,proteasome. calpain,Protein degradation,11.0,17.0,11-17,CellPainting,2021018191.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,4.0,0.04,reference_cpd,Topo I,Topoisomerases,12.0,3.0,12-3,CellPainting,2021018191.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,4.0,0.04,reference_cpd,Topo II,Topoisomerases,12.0,5.0,12-5,CellPainting,2021018191.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC3,Epigenetic,12.0,8.0,12-8,CellPainting,2021018191.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,9.0,12-9,CellPainting,2021018191.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,10.0,12-10,CellPainting,2021018191.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,11.0,12-11,CellPainting,2021018191.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,4.0,0.04,reference_cpd,HDAC,Epigenetic,12.0,12.0,12-12,CellPainting,2021018191.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,4.0,0.04,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,12.0,13.0,12-13,CellPainting,2021018191.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,4.0,0.2,reference_cpd,20S proteasome,Protein degradation,12.0,15.0,12-15,CellPainting,2021018191.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,4.0,0.04,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,12.0,16.0,12-16,CellPainting,2021018191.0
+1.0,ALS-WT,MG132,proteasome inhibitor,4.0,0.04,reference_cpd,proteasome. calpain,Protein degradation,12.0,17.0,12-17,CellPainting,2021018191.0
+1.0,ALS-WT,Camptothecin,topoisomerase inhibitor,5.0,0.008,reference_cpd,Topo I,Topoisomerases,13.0,3.0,13-3,CellPainting,2021018191.0
+1.0,ALS-WT,Etoposide,topoisomerase inhibitor,5.0,0.008,reference_cpd,Topo II,Topoisomerases,13.0,5.0,13-5,CellPainting,2021018191.0
+1.0,ALS-WT,Apicidin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC3,Epigenetic,13.0,8.0,13-8,CellPainting,2021018191.0
+1.0,ALS-WT,Oxamflatin,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,9.0,13-9,CellPainting,2021018191.0
+1.0,ALS-WT,Panobinostat,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,10.0,13-10,CellPainting,2021018191.0
+1.0,ALS-WT,SAHA,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,11.0,13-11,CellPainting,2021018191.0
+1.0,ALS-WT,Trichostatin A,HDAC inhibitor,5.0,0.008,reference_cpd,HDAC,Epigenetic,13.0,12.0,13-12,CellPainting,2021018191.0
+1.0,ALS-WT,Aclacinomycin,proteasome inhibitor,5.0,0.008,reference_cpd,Topo I. Topo II. 20S proteaome,Topoisomerases. Protein degradation,13.0,13.0,13-13,CellPainting,2021018191.0
+1.0,ALS-WT,Epoxomycin,proteasome inhibitor,5.0,0.04,reference_cpd,20S proteasome,Protein degradation,13.0,15.0,13-15,CellPainting,2021018191.0
+1.0,ALS-WT,MG-115,proteasome inhibitor,5.0,0.008,reference_cpd,20S Proteasome. 26S Proteasome,Protein degradation,13.0,16.0,13-16,CellPainting,2021018191.0
+1.0,ALS-WT,MG132,proteasome inhibitor,5.0,0.008,reference_cpd,proteasome. calpain,Protein degradation,13.0,17.0,13-17,CellPainting,2021018191.0

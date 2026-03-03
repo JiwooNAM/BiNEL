@@ -1,0 +1,201 @@
+Time,Dose,Compound,Compound_Category
+3h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+3h,H,aldosterone,Nuclear receptor
+3h,H,aphidicolin,DNA replication
+3h,H,apicidin,Histone deacetylase
+3h,H,arctigenin,Topoisomerase
+3h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+3h,H,aldosterone,Nuclear receptor
+3h,H,aphidicolin,DNA replication
+3h,H,apicidin,Histone deacetylase
+3h,H,arctigenin,Topoisomerase
+3h,H,camptothecin,Topoisomerase
+3h,H,colchicine,Microtubule
+3h,H,cortisol,Nuclear receptor
+3h,H,camptothecin,Topoisomerase
+3h,H,colchicine,Microtubule
+3h,H,cortisol,Nuclear receptor
+3h,H,dexamethasone,Nuclear receptor
+3h,H,docetaxel,Microtubule
+3h,H,doxorubicin,Topoisomerase
+3h,H,etoposide,Topoisomerase
+3h,H,dexamethasone,Nuclear receptor
+3h,H,docetaxel,Microtubule
+3h,H,doxorubicin,Topoisomerase
+3h,H,etoposide,Topoisomerase
+3h,H,ganciclovir,DNA replication
+3h,H,M344,Histone deacetylase
+3h,H,ganciclovir,DNA replication
+3h,H,M344,Histone deacetylase
+3h,H,methotrexate,DNA replication
+3h,H,mitomycin C,DNA replication
+3h,H,MS-275,Histone deacetylase
+3h,H,methotrexate,DNA replication
+3h,H,mitomycin C,DNA replication
+3h,H,MS-275,Histone deacetylase
+3h,H,nocodazole,Microtubule
+3h,H,prednisolone,Nuclear receptor
+3h,H,RU486,Nuclear receptor
+3h,H,scriptaid,Histone deacetylase
+3h,H,nocodazole,Microtubule
+3h,H,prednisolone,Nuclear receptor
+3h,H,RU486,Nuclear receptor
+3h,H,scriptaid,Histone deacetylase
+3h,H,paclitaxel,Microtubule
+3h,H,trichostatin A,Histone deacetylase
+3h,H,trifluoperazine,DNA replication
+3h,H,vinorelbine,Microtubule
+3h,H,paclitaxel,Microtubule
+3h,H,trichostatin A,Histone deacetylase
+3h,H,trifluoperazine,DNA replication
+3h,H,vinorelbine,Microtubule
+6h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+6h,H,aldosterone,Nuclear receptor
+6h,H,aphidicolin,DNA replication
+6h,H,apicidin,Histone deacetylase
+6h,H,arctigenin,Topoisomerase
+6h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+6h,H,aldosterone,Nuclear receptor
+6h,H,aphidicolin,DNA replication
+6h,H,apicidin,Histone deacetylase
+6h,H,arctigenin,Topoisomerase
+6h,H,camptothecin,Topoisomerase
+6h,H,colchicine,Microtubule
+6h,H,cortisol,Nuclear receptor
+6h,H,camptothecin,Topoisomerase
+6h,H,colchicine,Microtubule
+6h,H,cortisol,Nuclear receptor
+6h,H,dexamethasone,Nuclear receptor
+6h,H,docetaxel,Microtubule
+6h,H,doxorubicin,Topoisomerase
+6h,H,etoposide,Topoisomerase
+6h,H,dexamethasone,Nuclear receptor
+6h,H,docetaxel,Microtubule
+6h,H,doxorubicin,Topoisomerase
+6h,H,etoposide,Topoisomerase
+6h,H,ganciclovir,DNA replication
+6h,H,M344,Histone deacetylase
+6h,H,ganciclovir,DNA replication
+6h,H,M344,Histone deacetylase
+6h,H,methotrexate,DNA replication
+6h,H,mitomycin C,DNA replication
+6h,H,MS-275,Histone deacetylase
+6h,H,methotrexate,DNA replication
+6h,H,mitomycin C,DNA replication
+6h,H,MS-275,Histone deacetylase
+6h,H,nocodazole,Microtubule
+6h,H,prednisolone,Nuclear receptor
+6h,H,RU486,Nuclear receptor
+6h,H,scriptaid,Histone deacetylase
+6h,H,nocodazole,Microtubule
+6h,H,prednisolone,Nuclear receptor
+6h,H,RU486,Nuclear receptor
+6h,H,scriptaid,Histone deacetylase
+6h,H,paclitaxel,Microtubule
+6h,H,trichostatin A,Histone deacetylase
+6h,H,trifluoperazine,DNA replication
+6h,H,vinorelbine,Microtubule
+6h,H,paclitaxel,Microtubule
+6h,H,trichostatin A,Histone deacetylase
+6h,H,trifluoperazine,DNA replication
+6h,H,vinorelbine,Microtubule
+12h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+12h,H,aldosterone,Nuclear receptor
+12h,H,aphidicolin,DNA replication
+12h,H,apicidin,Histone deacetylase
+12h,H,arctigenin,Topoisomerase
+12h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+12h,H,aldosterone,Nuclear receptor
+12h,H,aphidicolin,DNA replication
+12h,H,apicidin,Histone deacetylase
+12h,H,arctigenin,Topoisomerase
+12h,H,camptothecin,Topoisomerase
+12h,H,colchicine,Microtubule
+12h,H,cortisol,Nuclear receptor
+12h,H,camptothecin,Topoisomerase
+12h,H,colchicine,Microtubule
+12h,H,cortisol,Nuclear receptor
+12h,H,dexamethasone,Nuclear receptor
+12h,H,docetaxel,Microtubule
+12h,H,doxorubicin,Topoisomerase
+12h,H,etoposide,Topoisomerase
+12h,H,dexamethasone,Nuclear receptor
+12h,H,docetaxel,Microtubule
+12h,H,doxorubicin,Topoisomerase
+12h,H,etoposide,Topoisomerase
+12h,H,ganciclovir,DNA replication
+12h,H,M344,Histone deacetylase
+12h,H,ganciclovir,DNA replication
+12h,H,M344,Histone deacetylase
+12h,H,methotrexate,DNA replication
+12h,H,mitomycin C,DNA replication
+12h,H,MS-275,Histone deacetylase
+12h,H,methotrexate,DNA replication
+12h,H,mitomycin C,DNA replication
+12h,H,MS-275,Histone deacetylase
+12h,H,nocodazole,Microtubule
+12h,H,prednisolone,Nuclear receptor
+12h,H,RU486,Nuclear receptor
+12h,H,scriptaid,Histone deacetylase
+12h,H,nocodazole,Microtubule
+12h,H,prednisolone,Nuclear receptor
+12h,H,RU486,Nuclear receptor
+12h,H,scriptaid,Histone deacetylase
+12h,H,paclitaxel,Microtubule
+12h,H,trichostatin A,Histone deacetylase
+12h,H,trifluoperazine,DNA replication
+12h,H,vinorelbine,Microtubule
+12h,H,paclitaxel,Microtubule
+12h,H,trichostatin A,Histone deacetylase
+12h,H,trifluoperazine,DNA replication
+12h,H,vinorelbine,Microtubule
+24h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+24h,H,aldosterone,Nuclear receptor
+24h,H,aphidicolin,DNA replication
+24h,H,apicidin,Histone deacetylase
+24h,H,arctigenin,Topoisomerase
+24h,H,3-O-acetyl-B-boswellic acid,Topoisomerase
+24h,H,aldosterone,Nuclear receptor
+24h,H,aphidicolin,DNA replication
+24h,H,apicidin,Histone deacetylase
+24h,H,arctigenin,Topoisomerase
+24h,H,camptothecin,Topoisomerase
+24h,H,colchicine,Microtubule
+24h,H,cortisol,Nuclear receptor
+24h,H,camptothecin,Topoisomerase
+24h,H,colchicine,Microtubule
+24h,H,cortisol,Nuclear receptor
+24h,H,dexamethasone,Nuclear receptor
+24h,H,docetaxel,Microtubule
+24h,H,doxorubicin,Topoisomerase
+24h,H,etoposide,Topoisomerase
+24h,H,dexamethasone,Nuclear receptor
+24h,H,docetaxel,Microtubule
+24h,H,doxorubicin,Topoisomerase
+24h,H,etoposide,Topoisomerase
+24h,H,ganciclovir,DNA replication
+24h,H,M344,Histone deacetylase
+24h,H,ganciclovir,DNA replication
+24h,H,M344,Histone deacetylase
+24h,H,methotrexate,DNA replication
+24h,H,mitomycin C,DNA replication
+24h,H,MS-275,Histone deacetylase
+24h,H,methotrexate,DNA replication
+24h,H,mitomycin C,DNA replication
+24h,H,MS-275,Histone deacetylase
+24h,H,nocodazole,Microtubule
+24h,H,prednisolone,Nuclear receptor
+24h,H,RU486,Nuclear receptor
+24h,H,scriptaid,Histone deacetylase
+24h,H,nocodazole,Microtubule
+24h,H,prednisolone,Nuclear receptor
+24h,H,RU486,Nuclear receptor
+24h,H,scriptaid,Histone deacetylase
+24h,H,paclitaxel,Microtubule
+24h,H,trichostatin A,Histone deacetylase
+24h,H,trifluoperazine,DNA replication
+24h,H,vinorelbine,Microtubule
+24h,H,paclitaxel,Microtubule
+24h,H,trichostatin A,Histone deacetylase
+24h,H,trifluoperazine,DNA replication
+24h,H,vinorelbine,Microtubule
